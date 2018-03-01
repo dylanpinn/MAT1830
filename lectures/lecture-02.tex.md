@@ -90,3 +90,17 @@ $$ 30 = 2 \times  15 +  0$$
 
 So $gcd(165,120) = 15$.
 
+**Fact:** $gcd(a - kb, b) = gcd(a, b)$ for any positive integers $a, b, k$.
+
+**Proof:** If _d_ is a common divisor of _a_ and _b_ then _d_ is a common
+divisor of _a_ - _kb_ and _b_.
+
+If _e_ is a common divisor of $a - kb$ and $b$ then $e$ is a common divisor of
+$a$ and $b$ (note $a = (a - kb) + kb)$.
+
+So the list of common divisors of is exactly the same as the list of common
+divisors of $a$ and $b$.
+
+So the greatest common divisor of $a - kb$ and $b$ is equal to the greatest
+common divisor of $a$ and $b$.
+
