@@ -18,3 +18,10 @@ product of primes._
 $$210 = 2 \times 3 \times 5 \times 7$$
 
 and this is the only product of primes which equals $210$.
+
+## Recognising primes
+
+If an integer $n > 1$ has a divisor, it has a divisor $<= \sqrt{n}$, because for
+any divisor $a > \sqrt{n}$ we also have the divisor $n / a$, which is $<
+\sqrt{n}$.
+
