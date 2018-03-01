@@ -117,4 +117,21 @@ If we have used the Euclidean algorithm to find that $gcd(m, n) = d$, we can
 "work backwards" through its steps to find integers $a$ and $b$ such that $am +
 bn = d$.
 
-**Example:**
+**Question:** Find integers $a$ and $b$ such that $353a + 78b = 1$.
+
+We first use the Euclidean algorithm to find $gcd(353, 78)$:
+
+$$353 = 4 \times 78 + 41$$
+$$ 78 = 1 \times 41 + 37$$
+$$ 41 = 1 \times 37 +  4$$
+$$ 37 = 9 \times  4 +  1$$
+$$  4 = 4 \times  1 +  0$$
+
+Then we use the Extended Euclidean algorithm:
+
+$$1 = 37 - 9 \times 4$$
+$$1 = 37 - 9(41 - 37) = -9 \times 41 + 10 \times 37$$
+$$1 = -9 \times 41 + 10(78 - 41) = 10 \times 78 - 19 \times 41$$
+$$1 = 10 \times 78 - 19(353 - 4 \times 78) = -19 \times 353 + 86 \times 78$$
+
+So $-19 \times 353 + 86 \times 78 = 1$. One solution is $a = -19$, $b = 86$
