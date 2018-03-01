@@ -3,7 +3,7 @@
 ## Lectures
 
 - [Lecture 1](/lectures/lecture-01.md)
-- Lecture 2
+- [Lecture 2](/lectures/lecture-02.md)
 
 ## Support Class
 

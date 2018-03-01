@@ -11,5 +11,5 @@ A positive integer $p > 1$ is a prime if its only positive integer divisors are
 **Fundamental Theorem of Arithmetic:**
 
 _Each integer $> 1$ can be expressed in exactly one way, up to order, as a
-product of primes.
+product of primes._
 
