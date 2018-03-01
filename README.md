@@ -1,2 +1,10 @@
-# MAT1830
-MAT1830 - Discrete Mathematics for Computer Science
+# MAT1830 - Discrete Mathematics for Computer Science
+
+## Lectures
+
+- Lecture 1
+- Lecture 2
+
+## Support Class
+
+
