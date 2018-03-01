@@ -1,7 +1,7 @@
 # Lecture 2 - Divisors and Primes
 
-**Definitiion:**
-An _integer_ is a "whole number". It may be positive or negative or zero.
+**Definitiion:** An _integer_ is a "whole number". It may be positive or
+negative or zero.
 
 ## 2.1 Primes
 
@@ -19,8 +19,8 @@ product of primes._
 
 and this is the only product of primes which equals <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/505b66e1b09c0768b24d75a07ca0b389.svg?invert_in_darkmode" align=middle width=24.657765pt height=21.18732pt/>.
 
-## Recognising primes
+## 2.2 Recognising primes
 
-If an integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/64a72b8c9c5b8f75fec2f7108bae6bc2.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/> has a divisor, it has a divisor <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2f21c87e7a5800e85b4e7c69ad2044b4.svg?invert_in_darkmode" align=middle width=53.70255pt height=24.99551999999999pt/>, because for
-any divisor <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ba08ddb1d5bf689d2aee11f0a495022e.svg?invert_in_darkmode" align=middle width=54.17247pt height=24.99551999999999pt/> we also have the divisor <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1af293634edec3587edb297c499394d2.svg?invert_in_darkmode" align=middle width=26.775375000000004pt height=24.65759999999998pt/>, which is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/28dc3cc94458a926eac7587d57d0ea4b.svg?invert_in_darkmode" align=middle width=40.917195pt height=24.99551999999999pt/>.
+If an integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/64a72b8c9c5b8f75fec2f7108bae6bc2.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/> has a divisor, it has a divisor <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8997bc199c09dda0023c357ca8445b7f.svg?invert_in_darkmode" align=middle width=40.917195pt height=24.99551999999999pt/>, because
+for any divisor <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ba08ddb1d5bf689d2aee11f0a495022e.svg?invert_in_darkmode" align=middle width=54.17247pt height=24.99551999999999pt/> we also have the divisor <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1af293634edec3587edb297c499394d2.svg?invert_in_darkmode" align=middle width=26.775375000000004pt height=24.65759999999998pt/>, which is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/28dc3cc94458a926eac7587d57d0ea4b.svg?invert_in_darkmode" align=middle width=40.917195pt height=24.99551999999999pt/>.
 
