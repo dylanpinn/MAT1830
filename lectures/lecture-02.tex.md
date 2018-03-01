@@ -13,3 +13,8 @@ A positive integer $p > 1$ is a prime if its only positive integer divisors are
 _Each integer $> 1$ can be expressed in exactly one way, up to order, as a
 product of primes._
 
+**Example.**
+
+$$210 = 2 \times 3 \times 5 \times 7$$
+
+and this is the only product of primes which equals $210$.
