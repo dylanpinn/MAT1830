@@ -63,17 +63,6 @@ end
 return b
 ```
 
-**Example:**
-
-Find $gcd(165,120)$.
-
-$$165 = 1 \times 120 + 45$$
-$$120 = 2 \times  45 + 30$$
-$$ 45 = 1 \times  30 + 15$$
-$$ 30 = 2 \times  15 +  0$$
-
-So $gcd(165,120) = 15$.
-
 **Definition:** Suppose _m_ and _n_ are positive integers. Then a _common
 divisor_ of _m_ and _n_ is an integer which divides both _m_ and _n_.
 
@@ -89,6 +78,17 @@ common divisor of _m_ and _n_.
 $$gcd(30,45) = 15$$
 $$gcd(13,21) = 1$$
 $$gcd(15,21) = 3$$
+
+**Example:**
+
+Find $gcd(165,120)$.
+
+$$165 = 1 \times 120 + 45$$
+$$120 = 2 \times  45 + 30$$
+$$ 45 = 1 \times  30 + 15$$
+$$ 30 = 2 \times  15 +  0$$
+
+So $gcd(165,120) = 15$.
 
 **Fact:** $gcd(a - kb, b) = gcd(a, b)$ for any positive integers $a, b, k$.
 
