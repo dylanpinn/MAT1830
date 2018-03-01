@@ -87,3 +87,23 @@ Find <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/444ed9c
 
 So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/10c90c4f4474999131b6bb4bc63b7779.svg?invert_in_darkmode" align=middle width=131.86288499999998pt height=24.65759999999998pt/>.
 
+**Fact:** <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/063bad8b6b3a7be4823146865c74f077.svg?invert_in_darkmode" align=middle width=178.009755pt height=24.65759999999998pt/> for any positive integers <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/88436bff22acdecd04360a591e1773dc.svg?invert_in_darkmode" align=middle width=39.431205000000006pt height=22.831379999999992pt/>.
+
+**Proof:** If _d_ is a common divisor of _a_ and _b_ then _d_ is a common
+divisor of _a_ - _kb_ and _b_.
+
+If _e_ is a common divisor of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ed0cc78203bce1b0bf4e800991d5be8e.svg?invert_in_darkmode" align=middle width=44.91052500000001pt height=22.831379999999992pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.054855500000005pt height=22.831379999999992pt/> then <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8cd34385ed61aca950a6b06d09fb50ac.svg?invert_in_darkmode" align=middle width=7.6542015000000045pt height=14.155350000000013pt/> is a common divisor of
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode" align=middle width=8.689230000000004pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.054855500000005pt height=22.831379999999992pt/> (note <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3d569890f736388f0579e2cbcc49841c.svg?invert_in_darkmode" align=middle width=130.916775pt height=24.65759999999998pt/>.
+
+So the list of common divisors of is exactly the same as the list of common
+divisors of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode" align=middle width=8.689230000000004pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.054855500000005pt height=22.831379999999992pt/>.
+
+So the greatest common divisor of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ed0cc78203bce1b0bf4e800991d5be8e.svg?invert_in_darkmode" align=middle width=44.91052500000001pt height=22.831379999999992pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.054855500000005pt height=22.831379999999992pt/> is equal to the greatest
+common divisor of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode" align=middle width=8.689230000000004pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.054855500000005pt height=22.831379999999992pt/>.
+
+## 2.5 The Euclidean algorithm works!
+
+We start with the precondition <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7d9c97a3a0144e296e4b658bf23497e7.svg?invert_in_darkmode" align=middle width=76.354575pt height=21.18732pt/>. Then the division theorem tells
+us there is a remainder <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c7eddd374c961b8b9d243b17714ca99a.svg?invert_in_darkmode" align=middle width=36.845490000000005pt height=22.831379999999992pt/> when <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/93594010be750c2d9eaa53cbccbcd512.svg?invert_in_darkmode" align=middle width=45.039885pt height=14.155350000000013pt/> is divided by <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/b0e0695f1ff82c71419f123f0599bd6b.svg?invert_in_darkmode" align=middle width=38.83935pt height=22.831379999999992pt/>. Repeating
+the process gives successively smaller remainders, and hence the algorithm
+eventually returns a value.
