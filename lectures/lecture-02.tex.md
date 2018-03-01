@@ -59,3 +59,23 @@ $$gcd(15,21) = 3$$
 
 ## 2.4 The greatest common divisor of two numbers
 
+We can find the greatest common divisor of positive integers _m_ and _n_,
+$gcd(m,n)$, without finding their prime divisors.
+
+**Euclidean Algorithm**
+
+
+```
+Input: positive integers m and n with m >= n
+Output: gcd(m,n)
+
+a := m, b := n
+r := remainder when a is divided by b
+while r != 0 do
+  a := b
+  b := r
+  r := remainder when a is divided by b
+end
+return b
+```
+
