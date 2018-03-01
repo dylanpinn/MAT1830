@@ -31,3 +31,19 @@ This algorithm also finds a prime divisor of $n$. Either the least $a \leq
 \sqrt{n}$ which divides $n$, or, if we do not find a divisor among the $a \leq
 \sqrt{n}$, $n$ itself is prime.
 
+**Definition:** Suppose _m_ and _n_ are positive integers. Then a _common
+divisor_ of _m_ and _n_ is an integer which divides both _m_ and _n_.
+
+**Example:** The common divisors of $30$ and $45$ are $1, 3, 5, 15$ (and their
+negatives).
+
+**Definition:** Suppose _m_ and _n_ are positive integer. Then the _greatest
+common divisor_ (or gcd) of _m_ and _n_ is the greatest integer which is a
+common divisor of _m_ and _n_.
+
+**Examples:**
+
+$$gcd(30,45) = 15$$
+$$gcd(13,21) = 1$$
+$$gcd(15,21) = 3$$
+
