@@ -38,22 +38,6 @@ while a <= sqrt{n} and prime = T
 
 This algorithm also finds a prime divisor of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>. Either the least <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/acd2c745e074d1e7b747918849ab19d7.svg?invert_in_darkmode" align=middle width=54.17247pt height=24.99551999999999pt/> which divides <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>, or, if we do not find a divisor among the <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/acd2c745e074d1e7b747918849ab19d7.svg?invert_in_darkmode" align=middle width=54.17247pt height=24.99551999999999pt/>, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/> itself is prime.
 
-**Definition:** Suppose _m_ and _n_ are positive integers. Then a _common
-divisor_ of _m_ and _n_ is an integer which divides both _m_ and _n_.
-
-**Example:** The common divisors of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/08f4ed92f27cec32cdd7a6ecd580f9e7.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=21.18732pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f2ebeadd36ad2620cbe7f02c861c9da3.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=21.18732pt/> are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/71d29c6eff9b1337eaff85f73d5d2b5f.svg?invert_in_darkmode" align=middle width=63.013830000000006pt height=21.18732pt/> (and their
-negatives).
-
-**Definition:** Suppose _m_ and _n_ are positive integer. Then the _greatest
-common divisor_ (or gcd) of _m_ and _n_ is the greatest integer which is a
-common divisor of _m_ and _n_.
-
-**Examples:**
-
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a3fef690b507c336d998adac3cc2efd.svg?invert_in_darkmode" align=middle width=115.42426499999999pt height=16.438356pt/></p>
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7a3ee183028f2f6a95729d66a77d0bc7.svg?invert_in_darkmode" align=middle width=107.20512000000001pt height=16.438356pt/></p>
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aa087f0e6d21a73fbfd9b70cbf76caa3.svg?invert_in_darkmode" align=middle width=107.20512000000001pt height=16.438356pt/></p>
-
 ## 2.4 The greatest common divisor of two numbers
 
 We can find the greatest common divisor of positive integers _m_ and _n_,
@@ -87,6 +71,22 @@ Find <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/444ed9c
 
 So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/10c90c4f4474999131b6bb4bc63b7779.svg?invert_in_darkmode" align=middle width=131.86288499999998pt height=24.65759999999998pt/>.
 
+**Definition:** Suppose _m_ and _n_ are positive integers. Then a _common
+divisor_ of _m_ and _n_ is an integer which divides both _m_ and _n_.
+
+**Example:** The common divisors of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/08f4ed92f27cec32cdd7a6ecd580f9e7.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=21.18732pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f2ebeadd36ad2620cbe7f02c861c9da3.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=21.18732pt/> are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/71d29c6eff9b1337eaff85f73d5d2b5f.svg?invert_in_darkmode" align=middle width=63.013830000000006pt height=21.18732pt/> (and their
+negatives).
+
+**Definition:** Suppose _m_ and _n_ are positive integer. Then the _greatest
+common divisor_ (or gcd) of _m_ and _n_ is the greatest integer which is a
+common divisor of _m_ and _n_.
+
+**Examples:**
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a3fef690b507c336d998adac3cc2efd.svg?invert_in_darkmode" align=middle width=115.42426499999999pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7a3ee183028f2f6a95729d66a77d0bc7.svg?invert_in_darkmode" align=middle width=107.20512000000001pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aa087f0e6d21a73fbfd9b70cbf76caa3.svg?invert_in_darkmode" align=middle width=107.20512000000001pt height=16.438356pt/></p>
+
 **Fact:** <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/063bad8b6b3a7be4823146865c74f077.svg?invert_in_darkmode" align=middle width=178.009755pt height=24.65759999999998pt/> for any positive integers <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/88436bff22acdecd04360a591e1773dc.svg?invert_in_darkmode" align=middle width=39.431205000000006pt height=22.831379999999992pt/>.
 
 **Proof:** If _d_ is a common divisor of _a_ and _b_ then _d_ is a common
@@ -107,3 +107,10 @@ We start with the precondition <img src="https://rawgit.com/dylanpinn/MAT1830/ma
 us there is a remainder <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c7eddd374c961b8b9d243b17714ca99a.svg?invert_in_darkmode" align=middle width=36.845490000000005pt height=22.831379999999992pt/> when <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/93594010be750c2d9eaa53cbccbcd512.svg?invert_in_darkmode" align=middle width=45.039885pt height=14.155350000000013pt/> is divided by <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/b0e0695f1ff82c71419f123f0599bd6b.svg?invert_in_darkmode" align=middle width=38.83935pt height=22.831379999999992pt/>. Repeating
 the process gives successively smaller remainders, and hence the algorithm
 eventually returns a value.
+
+## 2.6 Extended Euclidean algorithm
+
+If we have used the Euclidean algorithm to find that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e5c488b4a50b7df7d20a4f1abc117472.svg?invert_in_darkmode" align=middle width=98.96502pt height=24.65759999999998pt/>, we can
+"work backwards" through its steps to find integers <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode" align=middle width=8.689230000000004pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.054855500000005pt height=22.831379999999992pt/> such that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/b3d59374676b6751de3ac28fa881cf3e.svg?invert_in_darkmode" align=middle width=90.60875999999999pt height=22.831379999999992pt/>.
+
+**Example:**
