@@ -41,22 +41,6 @@ This algorithm also finds a prime divisor of $n$. Either the least $a \leq
 \sqrt{n}$ which divides $n$, or, if we do not find a divisor among the $a \leq
 \sqrt{n}$, $n$ itself is prime.
 
-**Definition:** Suppose _m_ and _n_ are positive integers. Then a _common
-divisor_ of _m_ and _n_ is an integer which divides both _m_ and _n_.
-
-**Example:** The common divisors of $30$ and $45$ are $1, 3, 5, 15$ (and their
-negatives).
-
-**Definition:** Suppose _m_ and _n_ are positive integer. Then the _greatest
-common divisor_ (or gcd) of _m_ and _n_ is the greatest integer which is a
-common divisor of _m_ and _n_.
-
-**Examples:**
-
-$$gcd(30,45) = 15$$
-$$gcd(13,21) = 1$$
-$$gcd(15,21) = 3$$
-
 ## 2.4 The greatest common divisor of two numbers
 
 We can find the greatest common divisor of positive integers _m_ and _n_,
@@ -90,6 +74,22 @@ $$ 30 = 2 \times  15 +  0$$
 
 So $gcd(165,120) = 15$.
 
+**Definition:** Suppose _m_ and _n_ are positive integers. Then a _common
+divisor_ of _m_ and _n_ is an integer which divides both _m_ and _n_.
+
+**Example:** The common divisors of $30$ and $45$ are $1, 3, 5, 15$ (and their
+negatives).
+
+**Definition:** Suppose _m_ and _n_ are positive integer. Then the _greatest
+common divisor_ (or gcd) of _m_ and _n_ is the greatest integer which is a
+common divisor of _m_ and _n_.
+
+**Examples:**
+
+$$gcd(30,45) = 15$$
+$$gcd(13,21) = 1$$
+$$gcd(15,21) = 3$$
+
 **Fact:** $gcd(a - kb, b) = gcd(a, b)$ for any positive integers $a, b, k$.
 
 **Proof:** If _d_ is a common divisor of _a_ and _b_ then _d_ is a common
@@ -110,3 +110,11 @@ We start with the precondition $m \geq n > 0$. Then the division theorem tells
 us there is a remainder $r < b$ when $a = m$ is divided by $b = n$. Repeating
 the process gives successively smaller remainders, and hence the algorithm
 eventually returns a value.
+
+## 2.6 Extended Euclidean algorithm
+
+If we have used the Euclidean algorithm to find that $gcd(m, n) = d$, we can
+"work backwards" through its steps to find integers $a$ and $b$ such that $am +
+bn = d$.
+
+**Example:**
