@@ -25,6 +25,16 @@ If an integer $n > 1$ has a divisor, it has a divisor $\leq \sqrt{n}$, because
 for any divisor $a > \sqrt{n}$ we also have the divisor $n / a$, which is $<
 \sqrt{n}$.
 
+```
+assign a the value 2.
+assign prime the value T.
+while a <= sqrt{n} and prime = T
+  if a divides n
+    give prime the value F
+  else
+    increase the value of a by 1.
+```
+
 ## 2.3 Finding divisors
 
 This algorithm also finds a prime divisor of $n$. Either the least $a \leq
@@ -46,4 +56,6 @@ common divisor of _m_ and _n_.
 $$gcd(30,45) = 15$$
 $$gcd(13,21) = 1$$
 $$gcd(15,21) = 3$$
+
+## 2.4 The greatest common divisor of two numbers
 
