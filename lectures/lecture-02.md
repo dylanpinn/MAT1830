@@ -9,6 +9,7 @@ A positive integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectur
 1 and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/>.
 
 **Fundamental Theorem of Arithmetic:**
+
 _Each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2e0be7ab9f7f002587464f2558250bdb.svg?invert_in_darkmode" align=middle width=25.570875pt height=21.18732pt/> can be expressed in exactly one way, up to order, as a
 product of primes.
 
