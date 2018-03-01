@@ -28,3 +28,19 @@ for any divisor <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/
 
 This algorithm also finds a prime divisor of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>. Either the least <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/acd2c745e074d1e7b747918849ab19d7.svg?invert_in_darkmode" align=middle width=54.17247pt height=24.99551999999999pt/> which divides <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>, or, if we do not find a divisor among the <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/acd2c745e074d1e7b747918849ab19d7.svg?invert_in_darkmode" align=middle width=54.17247pt height=24.99551999999999pt/>, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/> itself is prime.
 
+**Definition:** Suppose _m_ and _n_ are positive integers. Then a _common
+divisor_ of _m_ and _n_ is an integer which divides both _m_ and _n_.
+
+**Example:** The common divisors of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/08f4ed92f27cec32cdd7a6ecd580f9e7.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=21.18732pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f2ebeadd36ad2620cbe7f02c861c9da3.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=21.18732pt/> are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/71d29c6eff9b1337eaff85f73d5d2b5f.svg?invert_in_darkmode" align=middle width=63.013830000000006pt height=21.18732pt/> (and their
+negatives).
+
+**Definition:** Suppose _m_ and _n_ are positive integer. Then the _greatest
+common divisor_ (or gcd) of _m_ and _n_ is the greatest integer which is a
+common divisor of _m_ and _n_.
+
+**Examples:**
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a3fef690b507c336d998adac3cc2efd.svg?invert_in_darkmode" align=middle width=115.42426499999999pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7a3ee183028f2f6a95729d66a77d0bc7.svg?invert_in_darkmode" align=middle width=107.20512000000001pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aa087f0e6d21a73fbfd9b70cbf76caa3.svg?invert_in_darkmode" align=middle width=107.20512000000001pt height=16.438356pt/></p>
+
