@@ -104,3 +104,9 @@ divisors of $a$ and $b$.
 So the greatest common divisor of $a - kb$ and $b$ is equal to the greatest
 common divisor of $a$ and $b$.
 
+## 2.5 The Euclidean algorithm works!
+
+We start with the precondition $m \geq n > 0$. Then the division theorem tells
+us there is a remainder $r < b$ when $a = m$ is divided by $b = n$. Repeating
+the process gives successively smaller remainders, and hence the algorithm
+eventually returns a value.
