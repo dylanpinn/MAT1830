@@ -131,8 +131,25 @@ But you can't substitute into exponents, logarithm bases, etc:
 
 We know <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2877c8f5f14a7a21e883f15d4bd29647.svg?invert_in_darkmode" align=middle width=38.356065pt height=21.18732pt/> (mod 5), but <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/883b34dcf6a2f713bcfd9cb094cdb899.svg?invert_in_darkmode" align=middle width=52.283055pt height=26.76201000000001pt/> (mod 5).
 
-In some situations we can also "divide through" a congurence by an integer.
+In some situations we can also "divide through" a congruence by an integer.
 
 If a ≡ b (mod n) and d divides a, b and n, then
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/913355c4ae33404ed1d7bdc8a0811e68.svg?invert_in_darkmode" align=middle width=103.18489499999998pt height=33.812129999999996pt/></p>
+
+**Question:**
+
+If we know that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/92bb7a0048ef50f55a46a599be0258c2.svg?invert_in_darkmode" align=middle width=84.71067000000001pt height=21.18732pt/> (mod 8) and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/593f045c752d9f9532f5c59c24c95e7f.svg?invert_in_darkmode" align=middle width=38.786055000000005pt height=21.18732pt/> (mod 4) what can we
+say about <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/>?
+
+**Answer:**
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4096883290299b3b9378e205ba473787.svg?invert_in_darkmode" align=middle width=76.491525pt height=21.18732pt/> (mod 4) (dividing the first congruence by 2)
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8e487195d5e22a4ea7ac0a1eec360ecb.svg?invert_in_darkmode" align=middle width=67.842225pt height=21.18732pt/> (mod 4) (substituting <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/593f045c752d9f9532f5c59c24c95e7f.svg?invert_in_darkmode" align=middle width=38.786055000000005pt height=21.18732pt/> (mod 4))
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/845785a9216b54e5ef1af326fef93f8b.svg?invert_in_darkmode" align=middle width=52.317375000000006pt height=21.18732pt/> (mod 4) (subtract 6 from both sides)
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3a077eb46b8d44cf61127fcee5c1fd81.svg?invert_in_darkmode" align=middle width=39.53185500000001pt height=21.18732pt/> (mod 4) (because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/051cbea3560f92951adfd252dbd28a18.svg?invert_in_darkmode" align=middle width=51.141585pt height=21.18732pt/> (mod 4))
+
+## 3.3 Solving linear congruences
