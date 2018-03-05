@@ -45,7 +45,7 @@ Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1e34abd80
 
 Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9cc8590fb356ea9c45445b22de8a6dfe.svg?invert_in_darkmode" align=middle width=85.45647pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>)? Yes (because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/> does divide <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8f2aa1ca93f54b25a4fb531c3169d9c8.svg?invert_in_darkmode" align=middle width=151.47231pt height=21.18732pt/>)
 
-## 3.w Working with congruences
+## 3.2 Working with congruences
 
 When working with congruences modulo some fixed integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>, we can "substitute
 in" just like we can with equalities.
@@ -62,3 +62,16 @@ If a1 ≡ b1 (mod n) and a2 ≡ b2 (mod n), then
 * a1 - a2 ≡ b1 - b2 (mod n)
 * a1a2 ≡ b1b2 (mod n)
 ```
+
+### Examples
+
+Suppose we know that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/da81de6df84636e6e01fb8d000dcfd47.svg?invert_in_darkmode" align=middle width=39.53185500000001pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ecf4fe2774fd9244b4fd56f7e76dc882.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>) and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/b01b41af6f5831f6288bf2e8d02b4c90.svg?invert_in_darkmode" align=middle width=38.786055000000005pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ecf4fe2774fd9244b4fd56f7e76dc882.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>).
+
+Adding these, we see <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/b5e2bc7ca0091cb912d78008f9760fff.svg?invert_in_darkmode" align=middle width=68.272215pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ecf4fe2774fd9244b4fd56f7e76dc882.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>).
+
+So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a9fdf874cea88f992d3e75b3459a8f42.svg?invert_in_darkmode" align=middle width=68.272215pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ecf4fe2774fd9244b4fd56f7e76dc882.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>) (because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9e662f0811221d30d3f9a16e8750ea36.svg?invert_in_darkmode" align=middle width=38.356065pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ecf4fe2774fd9244b4fd56f7e76dc882.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>)).
+
+Suppose we know that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/28511b3bbfcb44d12b384283b07287aa.svg?invert_in_darkmode" align=middle width=47.751165pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9612eecfec9dadf1a81d296bd2473777.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>) and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8646b8ea90ee667fc0a87ed126ca55df.svg?invert_in_darkmode" align=middle width=47.751165pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9612eecfec9dadf1a81d296bd2473777.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>).
+
+Subtracting the second from the first, we see <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/849b0dae342c34aad071ce51d42e8ca4.svg?invert_in_darkmode" align=middle width=104.27901pt height=24.65759999999998pt/>
+
