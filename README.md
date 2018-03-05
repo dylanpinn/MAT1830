@@ -1,5 +1,7 @@
 # MAT1830 - Discrete Mathematics for Computer Science
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dylanpinn/MAT1830.svg)](https://greenkeeper.io/)
+
 ## Lectures
 
 - [Lecture 1](/lectures/lecture-01.md)
