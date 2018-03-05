@@ -10,7 +10,7 @@ A positive integer $p > 1$ is a prime if its only positive integer divisors are
 
 **Fundamental Theorem of Arithmetic:**
 
-_Each integer $> 1$ can be expressed in exactly one way, up to order, as a
+_Each integer $> 1$ can be expressed in exactly one-way, up to order, as a
 product of primes._
 
 **Example:**
@@ -38,13 +38,13 @@ while a <= sqrt{n} and prime = T
 ## 2.3 Finding divisors
 
 This algorithm also finds a prime divisor of $n$. Either the least $a \leq
-\sqrt{n}$ which divides $n$, or, if we do not find a divisor among the $a \leq
-\sqrt{n}$, $n$ itself is prime.
+\sqrt {n}$ which divides $n$, or, if we do not find a divisor among the $a \leq
+\sqrt {n}$, $n$ itself is prime.
 
 ## 2.4 The greatest common divisor of two numbers
 
 We can find the greatest common divisor of positive integers _m_ and _n_,
-$gcd(m,n)$, without finding their prime divisors.
+$\gcd (m,n)$, without finding their prime divisors.
 
 **Euclidean Algorithm**
 
@@ -75,13 +75,13 @@ common divisor of _m_ and _n_.
 
 **Examples:**
 
-$$gcd(30,45) = 15$$
-$$gcd(13,21) = 1$$
-$$gcd(15,21) = 3$$
+$$\gcd(30, 45) = 15$$
+$$\gcd(13, 21) = 1$$
+$$\gcd(15, 21) = 3$$
 
 **Example:**
 
-Find $gcd(165,120)$.
+Find $\gcd(165, 120)$.
 
 $$165 = 1 \times 120 + 45$$
 $$120 = 2 \times  45 + 30$$
@@ -113,13 +113,13 @@ eventually returns a value.
 
 ## 2.6 Extended Euclidean algorithm
 
-If we have used the Euclidean algorithm to find that $gcd(m, n) = d$, we can
+If we have used the Euclidean algorithm to find that $\gcd(m, n) = d$, we can
 "work backwards" through its steps to find integers $a$ and $b$ such that $am +
 bn = d$.
 
 **Question:** Find integers $a$ and $b$ such that $353a + 78b = 1$.
 
-We first use the Euclidean algorithm to find $gcd(353, 78)$:
+We first use the Euclidean algorithm to find $\gcd(353, 78)$:
 
 $$353 = 4 \times 78 + 41$$
 $$ 78 = 1 \times 41 + 37$$
@@ -130,7 +130,7 @@ $$  4 = 4 \times  1 +  0$$
 Then we use the Extended Euclidean algorithm:
 
 $$1 = 37 - 9 \times 4$$
-$$1 = 37 - 9(41 - 37) = -9 \times 41 + 10 \times 37$$
+$$1 = 37 - 9 (41 - 37) = -9 \times 41 + 10 \times 37$$
 $$1 = -9 \times 41 + 10(78 - 41) = 10 \times 78 - 19 \times 41$$
 $$1 = 10 \times 78 - 19(353 - 4 \times 78) = -19 \times 353 + 86 \times 78$$
 

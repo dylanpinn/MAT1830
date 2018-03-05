@@ -1,9 +1,9 @@
 # Lecture 1
 
-Discrete vs Continuos Mathematics
+Discrete vs Continuous Mathematics
 
 - Continuous
-  - Trigonmetry
+  - Trigonometry
 - Discrete
   - Discrete Random Variables
   - Networks (Graphs)
