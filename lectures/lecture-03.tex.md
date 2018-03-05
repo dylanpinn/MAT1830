@@ -131,3 +131,7 @@ bd$ (mod $n$).
 So because $a \equiv bc$ (mod $n$), we have $a \equiv bd$ (mod $n$).
 
 But you can't substitute into exponents, logarithm bases, etc:
+
+**Example:**
+
+We know $6 \equiv 1$ (mod 5), but $2^6 \not\equiv 2^1$ (mod 5).
