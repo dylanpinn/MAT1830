@@ -181,4 +181,9 @@ First calculate gcd(9, 60) = 3.
 
 Divide through by 3 to get <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7481ecef2121ae6137d6bf26000f8ab9.svg?invert_in_darkmode" align=middle width=55.970310000000005pt height=21.18732pt/> (mod 20).
 
+We now want to find <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aca94dc4280088e4b15ee4be41751fd0.svg?invert_in_darkmode" align=middle width=13.184985000000005pt height=24.716340000000006pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/15f93b25ba881e5829e8fc647b680fb2.svg?invert_in_darkmode" align=middle width=12.439185000000005pt height=24.716340000000006pt/> such that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7872bc509e8718dcd674b52332888055.svg?invert_in_darkmode" align=middle width=110.37295499999998pt height=24.716340000000006pt/>.
 
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/40c3f89c78956e8af49bb1f52c2f5d42.svg?invert_in_darkmode" align=middle width=44.14377pt height=24.716340000000006pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ea2f39e11d63f8b57597cef23aadbafe.svg?invert_in_darkmode" align=middle width=43.39797pt height=24.716340000000006pt/> work.
+
+So the integers <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> that satisfy <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8513845c3e801feaa5ea8dcba0997f50.svg?invert_in_darkmode" align=middle width=55.970310000000005pt height=21.18732pt/> (mod 60) are exactly those for
+which <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/75cef20cec5045deba1f9117884a832d.svg?invert_in_darkmode" align=middle width=39.53185500000001pt height=21.18732pt/> (mod 20).
