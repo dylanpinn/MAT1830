@@ -29,3 +29,20 @@ integer $k$.
 Note we are talking about "congruence modulo _n_" as a relation here, which is
 not quite the same as using a mod operation.
 
+### Questions
+
+Is $25 \equiv 9$ (mod $4$)? Yes (because $4$ divides $25 - 9$)
+
+Is $9 \equiv 16$ (mod $3$)? No (because $3$ doesn't divide $16 - 9$)
+
+What integers are congruent to 3 modulo 4?
+
+$$\ellip, -9, -5, -1, 3, 7, 11, \ellip$$
+
+Is $6 \equiv 3$ (mod $3$)? Yes
+
+Is $9 \equiv 18$ (mod $8$)? No (because $8$ doesn't divide $18 - 9$)
+
+Is $5x + 6 \equiv 2x$ (mod $3$)? Yes (because $3$ does divide $5x + 6 - 2x = 3x
++ 6$)
+
