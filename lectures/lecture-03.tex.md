@@ -82,3 +82,21 @@ So $x \equiv 2$ (mod 5) (because $-3 \equiv 2$ (mod 5))
 
 **Fact.** If $a_{1} \equiv b_{1}$ (mod $n$) and $a_{2} \equiv b_{2}$ (mod $n$),
 then $a_1 + a_2 \equiv b_1 + b_2$ (mod $n$).
+
+**Proof.**
+
+Because $a_1 \equiv b_1$ (mod $n$), $n$ divides $a_1 - b_1$
+
+This means that $a_1 - b_1 = k_{1}n$ for some integer $k_1$.
+
+Because $a_2 \equiv b_2$ (mod $n$), $n$ divides $a_2 - b_2$
+
+This means that $a_2 - b_2 = k_{2}n$ for some integer $k_2$.
+
+So, $(a_1 - b_1) + (a_2 - b_2) = k_{1}n + k_{2}n$.
+So, $(a_1 + a_2) - (b_1 + b_2) = (k_1 + k_2)n$.
+
+Because $k_1 + k_2$ is an integer, this means $n$ divides $(a_1 + a_2) - (b_1 +
+b_2)$.
+
+So $a_1 + a_2 \equiv b_1 + b_2$ (mod $n$).
