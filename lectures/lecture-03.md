@@ -45,3 +45,11 @@ Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1e34abd80
 
 Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9cc8590fb356ea9c45445b22de8a6dfe.svg?invert_in_darkmode" align=middle width=85.45647pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>)? Yes (because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/> does divide <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8f2aa1ca93f54b25a4fb531c3169d9c8.svg?invert_in_darkmode" align=middle width=151.47231pt height=21.18732pt/>)
 
+## 3.w Working with congruences
+
+When working with congruences modulo some fixed integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>, we can "substitute
+in" just like we can with equalities.
+
+```
+If a ≡ b (mod n) and b ≡ c (mod n), then a ≡ c (mod n).
+```
