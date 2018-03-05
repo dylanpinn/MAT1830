@@ -168,7 +168,9 @@ like <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e76d97f
 3. If <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2103f85b8b1477f430fc407cad462224.svg?invert_in_darkmode" align=middle width=8.556075000000003pt height=22.831379999999992pt/> divides <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.054855500000005pt height=22.831379999999992pt/>, then divide through the congruence by <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2103f85b8b1477f430fc407cad462224.svg?invert_in_darkmode" align=middle width=8.556075000000003pt height=22.831379999999992pt/> to get an
    equivalent congruence
    $\frac{a}{d}x \equiv \frac{b}{d}(\text{mod}\frac{n}{d})$.
-4. Find integers <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aca94dc4280088e4b15ee4be41751fd0.svg?invert_in_darkmode" align=middle width=13.184985000000005pt height=24.716340000000006pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/15f93b25ba881e5829e8fc647b680fb2.svg?invert_in_darkmode" align=middle width=12.439185000000005pt height=24.716340000000006pt/> such that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e16d070505d3f816c5bdab0aaa974f2c.svg?invert_in_darkmode" align=middle width=99.26663999999998pt height=28.926479999999973pt/>. The integers $x$ that satisfy the original congruence are
+4. Find integers <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aca94dc4280088e4b15ee4be41751fd0.svg?invert_in_darkmode" align=middle width=13.184985000000005pt height=24.716340000000006pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/15f93b25ba881e5829e8fc647b680fb2.svg?invert_in_darkmode" align=middle width=12.439185000000005pt height=24.716340000000006pt/> such that
+   $\frac{a}{d}x' - \frac{n}{d}y' = \frac{b}{d}$.
+   The integers $x$ that satisfy the original congruence are
    exactly those for which $x \equiv x^\prime$ (mod $\frac{n}{d}$).
 
 ### Question 3.3
