@@ -174,8 +174,8 @@ like $ax \equiv b$ (mod n) in the following way:
 1. Find $d = gcd(a, n)$
 2. If $d$ doesn't divide $b$, then there are no solutions.
 3. If $d$ divides $b$, then divide through the congruence by $d$ to get an
-   equivalent congruence $\frac{a}{d}x \equiv
-   \frac{b}{d}(\text{mod}\frac{n}{d})$.
+   equivalent congruence $ \frac{a}{d}x \equiv
+   \frac{b}{d} (\text{mod} \frac{n}{d})$.
 4. Find integers $x'$ and $y'$ such that $\frac{a}{d}x' - \frac{n}{d}y' =
    \frac{b}{d}$.  The integers $x$ that satisfy the original congruence are
    exactly those for which $x \equiv x^\prime$ (mod $\frac{n}{d}$).
