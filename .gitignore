@@ -102,3 +102,6 @@ ENV/
 
 # NodeJS
 node_modules/
+
+# Generated PDFs
+*.pdf
