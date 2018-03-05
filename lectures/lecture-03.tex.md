@@ -158,3 +158,24 @@ $x \equiv -4$ (mod 4) (subtract 6 from both sides)
 $x \equiv 0$ (mod 4) (because $-4 \equiv 0$ (mod 4))
 
 ## 3.3 Solving linear congruences
+
+Think of a congruence like $7x \equiv 5$ (mod 9). This will hold if 9 divides
+$7x - 5$ or in other words if there is an integer $y$ such that $7x - 5 = 9y$.
+So to solve our original congruence we can find an integer solution to $7x - 9y
+= 5$.
+
+Some congruences don't have solutions. For example, there is no soltuion to $10x
+\equiv 6$ (mod 20) because there are no integers $x$ and $y$ such that $10x -
+20y = 6$.
+
+We can find an expression for all the integers $x$ that satisfy a congruence
+like $ax \equiv b$ (mod n) in the following way:
+
+1. Find $d = gcd(a, n)$
+2. If $d$ doesn't divide $b$, then there are no solutions.
+3. If $d$ divides $b$, then divide through the congruence by $d$ to get an
+   equivalent congruence $\frac{a}{d}x \equiv
+   \frac{b}{d}(\text{mod}\frac{n}{d})$.
+4. Find integers $x'$ and $y'$ such that $\frac{a}{d}x' - \frac{n}{d}y' =
+   \frac{b}{d}$. The integers $x$ that satisfy the original congruence are
+   exactly those for which $x \equiv x'$ (mod $\frac{n}{d}$).
