@@ -29,4 +29,3 @@ integer $k$.
 Note we are talking about "congruence modulo _n_" as a relation here, which is
 not quite the same as using a mod operation.
 
-Really "$a \stackrel{\equiv}{n}b$" would be netter notation thatn "$a \equiv b$ (mod $n$)".
