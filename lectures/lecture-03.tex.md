@@ -76,3 +76,4 @@ Suppose we know that $3x \equiv 1$ (mod $5$) and $2x \equiv 4$ (mod 5).
 
 Subtracting the second from the first, we see $x \equiv -3$ (mod 5)
 
+So $x \equiv 2$ (mod 5) (because $-3 \equiv 2$ (mod 5))
