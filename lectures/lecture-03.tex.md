@@ -178,4 +178,16 @@ like $ax \equiv b$ (mod n) in the following way:
    $\frac{a}{d}x \equiv \frac{b}{d}(\text{mod}\frac{n}{d})$.
 4. Find integers $x'$ and $y'$ such that $\frac{a}{d}x' - \frac{n}{d}y' =
    \frac{b}{d}$. The integers $x$ that satisfy the original congruence are
-   exactly those for which $x \equiv x'$ (mod $\frac{n}{d}$).
+   exactly those for which $x \equiv x^\prime$ (mod $\frac{n}{d}$).
+
+### Question 3.3
+
+Find an expression for all the integers x that satisfy $9x \equiv 36$ (mod 60).
+
+First calculate gcd(9, 60) = 3.
+
+3 does divide 36 so there are solutions.
+
+Divide through by 3 to get $3x \equiv 12$ (mod 20).
+
+
