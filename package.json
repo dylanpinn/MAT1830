@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "lint-md": "remark ."
+  },
+  "devDependencies": {
+    "remark-cli": "^5.0.0",
+    "remark-preset-lint-recommended": "^3.0.1"
+  },
+  "remarkConfig": {
+    "plugins": ["remark-present-lint-recommended"]
+  }
+}
