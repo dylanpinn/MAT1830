@@ -10,7 +10,7 @@ A positive integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectur
 
 **Fundamental Theorem of Arithmetic:**
 
-_Each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2e0be7ab9f7f002587464f2558250bdb.svg?invert_in_darkmode" align=middle width=25.570875pt height=21.18732pt/> can be expressed in exactly one way, up to order, as a
+_Each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2e0be7ab9f7f002587464f2558250bdb.svg?invert_in_darkmode" align=middle width=25.570875pt height=21.18732pt/> can be expressed in exactly one-way, up to order, as a
 product of primes._
 
 **Example:**
@@ -36,12 +36,12 @@ while a <= sqrt{n} and prime = T
 
 ## 2.3 Finding divisors
 
-This algorithm also finds a prime divisor of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>. Either the least <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/acd2c745e074d1e7b747918849ab19d7.svg?invert_in_darkmode" align=middle width=54.17247pt height=24.99551999999999pt/> which divides <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>, or, if we do not find a divisor among the <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/acd2c745e074d1e7b747918849ab19d7.svg?invert_in_darkmode" align=middle width=54.17247pt height=24.99551999999999pt/>, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/> itself is prime.
+This algorithm also finds a prime divisor of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>. Either the least <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/21273ee69ce7aaaabe5f0a14164bb8c3.svg?invert_in_darkmode" align=middle width=54.17247pt height=24.99551999999999pt/> which divides <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>, or, if we do not find a divisor among the <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/21273ee69ce7aaaabe5f0a14164bb8c3.svg?invert_in_darkmode" align=middle width=54.17247pt height=24.99551999999999pt/>, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/> itself is prime.
 
 ## 2.4 The greatest common divisor of two numbers
 
 We can find the greatest common divisor of positive integers _m_ and _n_,
-<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9c21a952d94f32aafa47e371e5a8b444.svg?invert_in_darkmode" align=middle width=68.4915pt height=24.65759999999998pt/>, without finding their prime divisors.
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/dd89cf45792ccc4ac610e2d3d65c4966.svg?invert_in_darkmode" align=middle width=69.04887pt height=24.65759999999998pt/>, without finding their prime divisors.
 
 **Euclidean Algorithm**
 
@@ -72,13 +72,13 @@ common divisor of _m_ and _n_.
 
 **Examples:**
 
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a3fef690b507c336d998adac3cc2efd.svg?invert_in_darkmode" align=middle width=115.42426499999999pt height=16.438356pt/></p>
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7a3ee183028f2f6a95729d66a77d0bc7.svg?invert_in_darkmode" align=middle width=107.20512000000001pt height=16.438356pt/></p>
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aa087f0e6d21a73fbfd9b70cbf76caa3.svg?invert_in_darkmode" align=middle width=107.20512000000001pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2730ee0cc9a266f1f399882cf7fc23ae.svg?invert_in_darkmode" align=middle width=115.98179999999999pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ef958b4778dddad32206511f813671b2.svg?invert_in_darkmode" align=middle width=107.762655pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9a2a9f64c586de7578bb948d738b9b81.svg?invert_in_darkmode" align=middle width=107.762655pt height=16.438356pt/></p>
 
 **Example:**
 
-Find <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/444ed9cc50b4342a394a737c70a75c20.svg?invert_in_darkmode" align=middle width=93.50681999999999pt height=24.65759999999998pt/>.
+Find <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ea8d1d5fa76b935eec9f3813bf9fe222.svg?invert_in_darkmode" align=middle width=94.06419pt height=24.65759999999998pt/>.
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/44c27e96b18678f5e2b9792492fa6881.svg?invert_in_darkmode" align=middle width=136.07286pt height=11.9634735pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ce74d2c5c9ee868fdebc6835cbdf2e22.svg?invert_in_darkmode" align=middle width=127.853715pt height=11.9634735pt/></p>
@@ -110,12 +110,12 @@ eventually returns a value.
 
 ## 2.6 Extended Euclidean algorithm
 
-If we have used the Euclidean algorithm to find that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e5c488b4a50b7df7d20a4f1abc117472.svg?invert_in_darkmode" align=middle width=98.96502pt height=24.65759999999998pt/>, we can
+If we have used the Euclidean algorithm to find that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7fedbc9f26a141f88760620c2340a8b5.svg?invert_in_darkmode" align=middle width=99.522555pt height=24.65759999999998pt/>, we can
 "work backwards" through its steps to find integers <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode" align=middle width=8.689230000000004pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.054855500000005pt height=22.831379999999992pt/> such that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/b3d59374676b6751de3ac28fa881cf3e.svg?invert_in_darkmode" align=middle width=90.60875999999999pt height=22.831379999999992pt/>.
 
 **Question:** Find integers <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode" align=middle width=8.689230000000004pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.054855500000005pt height=22.831379999999992pt/> such that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/74f5a237133a26822afe6f4ff0c82486.svg?invert_in_darkmode" align=middle width=107.06817000000001pt height=22.831379999999992pt/>.
 
-We first use the Euclidean algorithm to find <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3ae047f124af1020ebfe9109b5783453.svg?invert_in_darkmode" align=middle width=85.28751pt height=24.65759999999998pt/>:
+We first use the Euclidean algorithm to find <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c3e4a8682dc2bbec737cdde4bd2ed38e.svg?invert_in_darkmode" align=middle width=85.845045pt height=24.65759999999998pt/>:
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e3797db9684a6a49da5f460177d1f24b.svg?invert_in_darkmode" align=middle width=127.853715pt height=11.9634735pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7b7cf9e750b058d4b3a153def20f31ce.svg?invert_in_darkmode" align=middle width=119.634405pt height=11.9634735pt/></p>
@@ -126,7 +126,7 @@ We first use the Euclidean algorithm to find <img src="https://rawgit.com/dylanp
 Then we use the Extended Euclidean algorithm:
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d546208700c35b69755e4057d9073be2.svg?invert_in_darkmode" align=middle width=103.19611499999999pt height=11.9634735pt/></p>
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ecae2bf6f106bc232074757cf747d310.svg?invert_in_darkmode" align=middle width=293.15055pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9194bf689e354a4f17b751b80b92a66b.svg?invert_in_darkmode" align=middle width=293.15055pt height=16.438356pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f95e227ada13b5b6f2fd2924109b676b.svg?invert_in_darkmode" align=middle width=337.89855pt height=16.438356pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3b5cf75e3465a4f6b7905ffe29883b5d.svg?invert_in_darkmode" align=middle width=390.86685pt height=16.438356pt/></p>
 
