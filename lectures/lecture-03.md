@@ -29,3 +29,19 @@ integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/63bb
 Note we are talking about "congruence modulo _n_" as a relation here, which is
 not quite the same as using a mod operation.
 
+### Questions
+
+Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/28ee715d5d1a7e3258d779bc39c1ac4e.svg?invert_in_darkmode" align=middle width=46.575374999999994pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ecf4fe2774fd9244b4fd56f7e76dc882.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>)? Yes (because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ecf4fe2774fd9244b4fd56f7e76dc882.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/> divides <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/41915154d7ae04faaf1d0554254afb09.svg?invert_in_darkmode" align=middle width=44.748825pt height=21.18732pt/>)
+
+Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/46ad6646f0f2bc4c5cb7107e5ec6f831.svg?invert_in_darkmode" align=middle width=46.575374999999994pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>)? No (because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/> doesn't divide <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f6cd67074967c6d3a14bff23a79b9308.svg?invert_in_darkmode" align=middle width=44.748825pt height=21.18732pt/>)
+
+What integers are congruent to 3 modulo 4?
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7d2cd594f47207c1286b9b1fb429f5c6.svg?invert_in_darkmode" align=middle width=144.29233499999998pt height=13.789957499999998pt/></p>
+
+Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/32ca4fc1bca482eb9ef4f9e7bd618227.svg?invert_in_darkmode" align=middle width=38.356065pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>)? Yes
+
+Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1e34abd80752d8cc4d2a2087772734c8.svg?invert_in_darkmode" align=middle width=46.575374999999994pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/005c128d6e551735fa5d938e44e7a613.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>)? No (because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/005c128d6e551735fa5d938e44e7a613.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/> doesn't divide <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f42092c7722c08040b568b4c8c4633c4.svg?invert_in_darkmode" align=middle width=44.748825pt height=21.18732pt/>)
+
+Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9cc8590fb356ea9c45445b22de8a6dfe.svg?invert_in_darkmode" align=middle width=85.45647pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>)? Yes (because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/> does divide <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8f2aa1ca93f54b25a4fb531c3169d9c8.svg?invert_in_darkmode" align=middle width=151.47231pt height=21.18732pt/>)
+
