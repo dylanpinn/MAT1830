@@ -37,7 +37,7 @@ Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/46ad6646f
 
 What integers are congruent to 3 modulo 4?
 
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7d2cd594f47207c1286b9b1fb429f5c6.svg?invert_in_darkmode" align=middle width=144.29233499999998pt height=13.789957499999998pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/42ae412532c2efe6d2b426935ae4a87b.svg?invert_in_darkmode" align=middle width=188.12804999999997pt height=13.789957499999998pt/></p>
 
 Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/32ca4fc1bca482eb9ef4f9e7bd618227.svg?invert_in_darkmode" align=middle width=38.356065pt height=21.18732pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/>)? Yes
 
