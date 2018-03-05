@@ -94,6 +94,7 @@ Because $a_2 \equiv b_2$ (mod $n$), $n$ divides $a_2 - b_2$
 This means that $a_2 - b_2 = k_{2}n$ for some integer $k_2$.
 
 So, $(a_1 - b_1) + (a_2 - b_2) = k_{1}n + k_{2}n$.
+
 So, $(a_1 + a_2) - (b_1 + b_2) = (k_1 + k_2)n$.
 
 Because $k_1 + k_2$ is an integer, this means $n$ divides $(a_1 + a_2) - (b_1 +
@@ -104,3 +105,29 @@ So $a_1 + a_2 \equiv b_1 + b_2$ (mod $n$).
 ### Substituting in
 
 In the two most common situations, "substituting in" using congruences is legal:
+
+**Fact:**
+
+If $a \equiv b + c$ (mod $n$) and $c \equiv d$ (mod $n$), then $a
+\equiv b + d$ (mod $n$).
+
+**Proof:**
+
+Because $c \equiv d$ (mod $n$) and $b \equiv b$ (mod $n$), we have $b + c \quiv
+b + d$ (mod $n$).
+
+So because $a \equiv b + c$ (mod $n$), we have $a \equiv b + d$ (mod $n$).
+
+**Fact:**
+
+If $a \equiv bc$ (mod $n$) and $c \equiv d$ (mod $n$), then $a \equiv bd$
+(mod $n$).
+
+**Proof:**
+
+Because $c \equiv d$ (mod $n$) and $b \equiv b$ (mod $n$), we have $bc \equiv
+bd$ (mod $n$).
+
+So because $a \equiv bc$ (mod $n$), we have $a \equiv bd$ (mod $n$).
+
+But you can't substitute into exponents, logarithm bases, etc:
