@@ -37,7 +37,7 @@ Is $9 \equiv 16$ (mod $3$)? No (because $3$ doesn't divide $16 - 9$)
 
 What integers are congruent to 3 modulo 4?
 
-$$\ellip, -9, -5, -1, 3, 7, 11, \ellip$$
+$$\dots, -9, -5, -1, 3, 7, 11, \dots$$
 
 Is $6 \equiv 3$ (mod $3$)? Yes
 
