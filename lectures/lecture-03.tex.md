@@ -164,7 +164,7 @@ $7x - 5$ or in other words if there is an integer $y$ such that $7x - 5 = 9y$.
 So to solve our original congruence we can find an integer solution to $7x - 9y
 = 5$.
 
-Some congruences don't have solutions. For example, there is no soltuion to $10x
+Some congruences don't have solutions. For example, there is no solution to $10x
 \equiv 6$ (mod 20) because there are no integers $x$ and $y$ such that $10x -
 20y = 6$.
 
@@ -196,3 +196,10 @@ $x' = 4$ and $y' = 0$ work.
 
 So the integers $x$ that satisfy $9x \equiv 36$ (mod 60) are exactly those for
 which $x \equiv 4$ (mod 20).
+
+## Modular inverses
+
+A modular multiplicative inverse of an integer $a$ modulo $n$ is an integer $x$
+such that
+
+$$ax \equiv 1 (\text{mod} n)$$
