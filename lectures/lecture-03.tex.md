@@ -146,3 +146,15 @@ $$\frac{a}{d} \equiv \frac{b}{d} (\text{mod} \frac{n}{d})$$
 
 If we know that $2x + 4y \equiv 4$ (mod 8) and $y \equiv 3$ (mod 4) what can we
 say about $x$?
+
+**Answer:**
+
+$x + 2y \equiv 2$ (mod 4) (dividing the first congruence by 2)
+
+$x + 6 \equiv 2$ (mod 4) (substituting $y \equiv 3$ (mod 4))
+
+$x \equiv -4$ (mod 4) (subtract 6 from both sides)
+
+$x \equiv 0$ (mod 4) (because $-4 \equiv 0$ (mod 4))
+
+## 3.3 Solving linear congruences
