@@ -100,3 +100,7 @@ Because $k_1 + k_2$ is an integer, this means $n$ divides $(a_1 + a_2) - (b_1 +
 b_2)$.
 
 So $a_1 + a_2 \equiv b_1 + b_2$ (mod $n$).
+
+### Substituting in
+
+In the two most common situations, "substituting in" using congruences is legal:
