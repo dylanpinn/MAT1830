@@ -53,3 +53,12 @@ in" just like we can with equalities.
 ```
 If a ≡ b (mod n) and b ≡ c (mod n), then a ≡ c (mod n).
 ```
+
+We can add, subtract and multiply congruences just like we can with equations.
+
+```
+If a1 ≡ b1 (mod n) and a2 ≡ b2 (mod n), then
+* a1 + a2 ≡ b1 + b2 (mod n)
+* a1 - a2 ≡ b1 - b2 (mod n)
+* a1a2 ≡ b1b2 (mod n)
+```
