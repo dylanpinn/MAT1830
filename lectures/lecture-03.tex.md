@@ -190,4 +190,9 @@ First calculate gcd(9, 60) = 3.
 
 Divide through by 3 to get $3x \equiv 12$ (mod 20).
 
+We now want to find $x'$ and $y'$ such that $3x' - 20y' = 12$.
 
+$x' = 4$ and $y' = 0$ work.
+
+So the integers $x$ that satisfy $9x \equiv 36$ (mod 60) are exactly those for
+which $x \equiv 4$ (mod 20).
