@@ -46,3 +46,11 @@ Is $9 \equiv 18$ (mod $8$)? No (because $8$ doesn't divide $18 - 9$)
 Is $5x + 6 \equiv 2x$ (mod $3$)? Yes (because $3$ does divide $5x + 6 - 2x = 3x
 + 6$)
 
+## 3.w Working with congruences
+
+When working with congruences modulo some fixed integer $n$, we can "substitute
+in" just like we can with equalities.
+
+```
+If a ≡ b (mod n) and b ≡ c (mod n), then a ≡ c (mod n).
+```
