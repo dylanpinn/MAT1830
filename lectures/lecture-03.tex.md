@@ -72,7 +72,7 @@ Adding these, we see $x + y \equiv 5$ (mod $4$).
 
 So $x + y \equiv 1$ (mod $4$) (because $5 \equiv 1$ (mod $4$)).
 
-Suppose we know that $3x \equiv 1$ (mod $5$) and $2x \equiv 4$ (mod $5$).
+Suppose we know that $3x \equiv 1$ (mod $5$) and $2x \equiv 4$ (mod 5).
 
-Subtracting the second from the first, we see $x \equiv -3 (mod 5)$
+Subtracting the second from the first, we see $x \equiv -3$ (mod 5)
 
