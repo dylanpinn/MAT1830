@@ -130,3 +130,9 @@ But you can't substitute into exponents, logarithm bases, etc:
 **Example:**
 
 We know <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2877c8f5f14a7a21e883f15d4bd29647.svg?invert_in_darkmode" align=middle width=38.356065pt height=21.18732pt/> (mod 5), but <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/883b34dcf6a2f713bcfd9cb094cdb899.svg?invert_in_darkmode" align=middle width=52.283055pt height=26.76201000000001pt/> (mod 5).
+
+In some situations we can also "divide through" a congurence by an integer.
+
+If a ≡ b (mod n) and d divides a, b and n, then
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/913355c4ae33404ed1d7bdc8a0811e68.svg?invert_in_darkmode" align=middle width=103.18489499999998pt height=33.812129999999996pt/></p>
