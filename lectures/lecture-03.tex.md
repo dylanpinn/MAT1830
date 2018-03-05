@@ -135,3 +135,9 @@ But you can't substitute into exponents, logarithm bases, etc:
 **Example:**
 
 We know $6 \equiv 1$ (mod 5), but $2^6 \not\equiv 2^1$ (mod 5).
+
+In some situations we can also "divide through" a congurence by an integer.
+
+If a ≡ b (mod n) and d divides a, b and n, then
+
+$$\frac{a}{d} \equiv \frac{b}{d} (\text{mod} \frac{n}{d})$$
