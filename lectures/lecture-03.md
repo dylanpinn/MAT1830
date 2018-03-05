@@ -126,3 +126,7 @@ Because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a06d
 So because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/88ac20d87287039893b3242416a13bfe.svg?invert_in_darkmode" align=middle width=44.77539pt height=22.831379999999992pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>), we have <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/0123386305a1cc9dda9540a40431f913.svg?invert_in_darkmode" align=middle width=46.217655pt height=22.831379999999992pt/> (mod <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/>).
 
 But you can't substitute into exponents, logarithm bases, etc:
+
+**Example:**
+
+We know <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2877c8f5f14a7a21e883f15d4bd29647.svg?invert_in_darkmode" align=middle width=38.356065pt height=21.18732pt/> (mod 5), but <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/883b34dcf6a2f713bcfd9cb094cdb899.svg?invert_in_darkmode" align=middle width=52.283055pt height=26.76201000000001pt/> (mod 5).
