@@ -20,3 +20,13 @@ Let $n$ be a positive integer and let $a$ and $b$ be integers.
 
 Basically $a \equiv b$ (mod $n$) means that $a$ and $b$ have the same remainder
 when you divide them by $n$.
+
+**Definition** We say $a \equiv b$ (mod $n$) if $n$ divides $a - b$.
+
+**Equivalent definition** We say $a \equiv b$ (mod $n$) if $a = kn + b$ for some
+integer $k$.
+
+Note we are talking about "congruence modulo _n_" as a relation here, which is
+not quite the same as using a mod operation.
+
+Really "$a \stackrel{\equiv}{=}b$" would be netter notation thatn "$a \equiv b$ (mod $n$)".
