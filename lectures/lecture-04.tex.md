@@ -124,4 +124,24 @@ b: "bar"
 ## 4.3 Other connectives
 
 $$\iff \text { "if and only if" }$$
+
+We define $\iff$ by the _truth table_:
+
+| $p$ | $q$ | $p \iff q$ |
+|-----|-----|------------|
+|  T  |  T  |     T      |
+|  T  |  F  |     F      |
+|  F  |  T  |     F      |
+|  F  |  F  |     T      |
+
 $$\veebar \text { "exclusive or" }$$
+
+We define $\veebar$ by the _truth table_:
+
+| $p$ | $q$ | $p \veebar q$ |
+|-----|-----|------------|
+|  T  |  T  |     F      |
+|  T  |  F  |     T      |
+|  F  |  T  |     T      |
+|  F  |  F  |     F      |
+
