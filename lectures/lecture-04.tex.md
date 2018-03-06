@@ -20,10 +20,17 @@ $\lor$ (or) and $\neg$ (not).
 
 Which of the following are propositions?
 
-$$1 = 1 = 3 \text { Yes } \text{ (false) }$$
+$$1 + 1 = 3 \text { Yes } \text{ (false) }$$
 $$1 + 1 \text { No}$$
 $$3 \text { divides } 9 \text{ Yes } \text{ (true)}$$
 $$3 \div 7 \text { No}$$
 
 ## 4.1 Connectives ∧, ∨ and ¬
+
+| $p$ | $q$ | $p \land q$ |
+|-----|-----|-------------|
+|  T  |  T  |     T       |
+|  T  |  F  |     F       |
+|  F  |  T  |     F       |
+|  F  |  F  |     F       |
 
