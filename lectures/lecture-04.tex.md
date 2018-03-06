@@ -56,11 +56,11 @@ r)$
 | $p$ | $q$ | $r$ | $q \lor r$ | $p \land (q \lor r)$ | $p \land q$ |
 |-----|-----|-----|------------|----------------------|------------|
 |  T  |  T  |  T  |     T      |     T                |     T      |
-|  T  |  T  |  T  |     T      |     T                |     T      |
+|  T  |  T  |  F  |     T      |     T                |     T      |
 |  T  |  F  |  T  |     T      |     T                |     F      |
 |  T  |  F  |  F  |     F      |     F                |     F      |
 |  F  |  T  |  T  |     T      |     F                |     F      |
-|  F  |  T  |  T  |     T      |     F                |     F      |
+|  F  |  T  |  F  |     T      |     F                |     F      |
 |  F  |  F  |  T  |     T      |     F                |     F      |
 |  F  |  F  |  F  |     F      |     F                |     F      |
 
@@ -74,3 +74,32 @@ r)$
 |     F       |     F                         |
 |     F       |     F                         |
 |     F       |     F                         |
+
+### Question
+
+What must the truth values of $p$ and $q$ be to make $p \land (\neg p \lor \neg
+q)$ true?
+
+#### Answer
+
+$p$ mus be T because otherwise the expression would evaluate to F.
+
+The expression is then $T \land (F \lor \neq q)$.
+
+To make the bracketed part evaluate to T we need $neg q$ to be T.
+
+Or in other words we need $q$ to be F.
+
+## 4.2 Implication
+
+$$\Rightarrow \text { "if then" }$$
+
+We define $\Rightarrow$ by the _truth table_:
+
+| $p$ | $q$ | $p \Rightarrow q$ |
+|-----|-----|------------|
+|  T  |  T  |     T      |
+|  T  |  F  |     F      |
+|  F  |  T  |     T      |
+|  F  |  F  |     T      |
+
