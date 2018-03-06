@@ -121,3 +121,7 @@ b: "bar"
 
 "foo is necessary for bar" $b \Rightarrow f$
 
+## 4.3 Other connectives
+
+$$\iff \text { "if and only if" }$$
+$$\veebar \text { "exclusive or" }$$
