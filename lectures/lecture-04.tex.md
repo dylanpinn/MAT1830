@@ -92,7 +92,7 @@ Or in other words we need $q$ to be F.
 
 ## 4.2 Implication
 
-$$\Rightarrow \text { "if then" }$$
+$$\Rightarrow \text { "implies" }$$
 
 We define $\Rightarrow$ by the _truth table_:
 
@@ -102,4 +102,22 @@ We define $\Rightarrow$ by the _truth table_:
 |  T  |  F  |     F      |
 |  F  |  T  |     T      |
 |  F  |  F  |     T      |
+
+### Question 4.2
+
+f: "foo"
+
+b: "bar"
+
+"if foo, then bar" $f \Rightarrow b$
+
+"bar if foo" $f \Rightarrow b$
+
+"bar only if foo" $b \Rightarrow f$
+
+"foo implies not bar" $f \Rightarrow \neg b$
+
+"foo is sufficient for bar" $f \Rightarrow b$
+
+"foo is necessary for bar" $b \Rightarrow f$
 
