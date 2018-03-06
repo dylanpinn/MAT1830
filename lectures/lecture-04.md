@@ -27,10 +27,28 @@ Which of the following are propositions?
 
 ## 4.1 Connectives ∧, ∨ and ¬
 
+Define <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/0b6832fb78c570edf56af766820951ee.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=18.265169999999976pt/> by the following _truth table_:
+
 | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cb78b0cacb6c794f10bfd9e6761398ac.svg?invert_in_darkmode" align=middle width=34.463385pt height=18.265169999999976pt/> |
 |-----|-----|-------------|
 |  T  |  T  |     T       |
 |  T  |  F  |     F       |
 |  F  |  T  |     F       |
 |  F  |  F  |     F       |
+
+Define <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6007a29527e0ec27309d7829f5754d08.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=18.265169999999976pt/> by the _truth table_:
+
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/82385103bdbbacdc2e6ac03827c9e3e1.svg?invert_in_darkmode" align=middle width=34.463385pt height=18.265169999999976pt/> |
+|-----|-----|------------|
+|  T  |  T  |     T      |
+|  T  |  F  |     T      |
+|  F  |  T  |     T      |
+|  F  |  F  |     F      |
+
+Define <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/23bf728170c10d0449b90561f827623a.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=14.155350000000013pt/> by the _truth table_:
+
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/eea93f3519d9141e9e02f11439b4588d.svg?invert_in_darkmode" align=middle width=19.229595000000003pt height=14.155350000000013pt/> |
+|-----|----------|
+|  T  |  F       |
+|  F  |  T       |
 
