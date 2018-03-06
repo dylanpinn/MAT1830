@@ -20,10 +20,17 @@ combined into compound propositions by _connectives_ such as <img src="https://r
 
 Which of the following are propositions?
 
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/10230d63b914806be4d5ff62efeb3e80.svg?invert_in_darkmode" align=middle width=154.0638pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/fe38cd50ce053e4d42c61e3274903966.svg?invert_in_darkmode" align=middle width=152.237415pt height=16.438356pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6b5b444e8c773bb701dfcc280d02839f.svg?invert_in_darkmode" align=middle width=62.55711pt height=12.602732999999999pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e547b88bb92debf1a2f66447e5b41395.svg?invert_in_darkmode" align=middle width=160.50259499999999pt height=16.438356pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/deb28fedbdb5470d49cb87f7e79a1b6d.svg?invert_in_darkmode" align=middle width=62.55711pt height=12.602732999999999pt/></p>
 
 ## 4.1 Connectives ∧, ∨ and ¬
+
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cb78b0cacb6c794f10bfd9e6761398ac.svg?invert_in_darkmode" align=middle width=34.463385pt height=18.265169999999976pt/> |
+|-----|-----|-------------|
+|  T  |  T  |     T       |
+|  T  |  F  |     F       |
+|  F  |  T  |     F       |
+|  F  |  F  |     F       |
 
