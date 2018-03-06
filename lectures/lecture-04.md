@@ -1,21 +1,5 @@
 # Lecture 4 - Logic
 
-The simplest and most commonly used part of logic is the logic of "and", "or"
-and "not", which is known as _propositional logic_.
-A proposition is any sentence which has a definite truth value (true = **T** or
-false = **F**), such as
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aa26cc89efe9b397f56f7fd3f200fd5d.svg?invert_in_darkmode" align=middle width=88.629915pt height=13.789957499999998pt/></p>
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/60b943745b4cb2d1ad86e335a6f6a920.svg?invert_in_darkmode" align=middle width=157.71723pt height=14.611871999999998pt/></p>
-but not
-
-What is your name? Or
-
-This sentence is false
-
-Propositions are denoted by letters such as <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1620c22b341e74cf7714a55bc5a0989d.svg?invert_in_darkmode" align=middle width=71.560005pt height=14.155350000000013pt/> and they are
-combined into compound propositions by _connectives_ such as <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/0b6832fb78c570edf56af766820951ee.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=18.265169999999976pt/> (and),
-<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6007a29527e0ec27309d7829f5754d08.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=18.265169999999976pt/> (or) and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/23bf728170c10d0449b90561f827623a.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=14.155350000000013pt/> (not).
-
 ## Question 4.1
 
 Which of the following are propositions?
@@ -51,4 +35,16 @@ Define <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/23bf7
 |-----|----------|
 |  T  |  F       |
 |  F  |  T       |
+
+### Notation
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/47b61b8ae5cc2531c99faa80efb9d429.svg?invert_in_darkmode" align=middle width=59.360895pt height=11.415524999999999pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4f65d921512dd7f5ca052dd36d71b665.svg?invert_in_darkmode" align=middle width=127.07804999999999pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/057ed779a82f90fbcefdc229d6a994b4.svg?invert_in_darkmode" align=middle width=56.621235pt height=11.415524999999999pt/></p>
+
+### Order of precedence
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/23bf728170c10d0449b90561f827623a.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=14.155350000000013pt/> has precedence over the other connectives.
+
+For example, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8aedfee9c431ef7507b4706570dfad7f.svg?invert_in_darkmode" align=middle width=45.422354999999996pt height=18.265169999999976pt/> means <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/51e44209e800e5c2fe7deec52d7ee52f.svg?invert_in_darkmode" align=middle width=58.207875pt height=24.65759999999998pt/>.
 
