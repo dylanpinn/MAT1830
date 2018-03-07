@@ -167,3 +167,22 @@ $q$ must be T and $p \veebar T$ must be F.
 
 This means that $p$ must be T (checking both cases for $p$).
 
+## 4.4 Remarks
+
+1. The symbols $\land$ and $\lor$ are intentionally similar to the symbols $\cap$
+   and $\cup$ for set intersection and union because
+   $$x \in A \cap B  \Leftrightarrow (x \in A) \land (x \in B)$$
+   $$x \in A \cup B  \Leftrightarrow (x \in A) \lor (x \in B)$$
+2. The "exclusive or" function $\veebar$ is written XOR in some programming
+   languages.
+3. If we write 0 for F and 1 for T then $\veebar$ becomes the function:
+
+| $p$ | $q$ | $p \veebar q$ |
+|-----|-----|------------|
+|  1  |  1  |     0      |
+|  1  |  0  |     1      |
+|  0  |  1  |     1      |
+|  0  |  0  |     0      |
+
+  This is known as the "mod 2 sum", because $1 + 1 = 2 \equiv 0$ (mod 2)
+
