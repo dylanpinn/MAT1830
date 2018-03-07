@@ -53,24 +53,25 @@ For example, $\neg p \lor q$ means $ (\neg p) \lor q$.
 Find the truth tables for $p \land (q \lor r)$ and $(p \land q) \lor (p \land
 r)$
 
-| $p$ | $q$ | $r$ | $q \lor r$ | $p \land (q \lor r)$ | $p \land q$ |
-|-----|-----|-----|------------|----------------------|-------------|
-|  T  |  T  |  T  |     T      |     T                |     T       |
-|  T  |  T  |  F  |     T      |     T                |     T       |
-|  T  |  F  |  T  |     T      |     T                |     F       |
-|  T  |  F  |  F  |     F      |     F                |     F       |
-|  F  |  T  |  T  |     T      |     F                |     F       |
-|  F  |  T  |  F  |     T      |     F                |     F       |
-|  F  |  F  |  T  |     T      |     F                |     F       |
-|  F  |  F  |  F  |     F      |     F                |     F       |
+| $p$ | $q$ | $r$ | $q \lor r$ | $p \land (q \lor r)$ |
+|-----|-----|-----|------------|----------------------|
+|  T  |  T  |  T  |     T      |     T                |
+|  T  |  T  |  F  |     T      |     T                |
+|  T  |  F  |  T  |     T      |     T                |
+|  T  |  F  |  F  |     F      |     F                |
+|  F  |  T  |  T  |     T      |     F                |
+|  F  |  T  |  F  |     T      |     F                |
+|  F  |  F  |  T  |     T      |     F                |
+|  F  |  F  |  F  |     F      |     F                |
 
-| $p \land r$ | $(p \land q) \lor (q \and r)$ |
-|-------------|-------------------------------|
-|     T       |     T                         |
-|     F       |     T                         |
-|     T       |     T                         |
-|     F       |     F                         |
-|     F       |     F                         |
-|     F       |     F                         |
-|     F       |     F                         |
-|     F       |     F                         |
+| $p \land q$ |
+|-------------|
+|     T       |
+|     T       |
+|     F       |
+|     F       |
+|     F       |
+|     F       |
+|     F       |
+|     F       |
+
