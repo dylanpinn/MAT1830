@@ -43,3 +43,12 @@ $$\lor \text { "or" (inclusive) }$$
 $$\neg \text { "not" }$$
 
 ### Order of precedence
+
+$\neg$ has precedence over the other connectives.
+
+For example, $\neg p \lor q$ means $ (\neg p) \lor q$.
+
+### Example
+
+Find the truth tables for $p \land (q \lor r)$ and $(p \land q) \lor (p \land
+r)$
