@@ -145,3 +145,19 @@ We define $\veebar$ by the _truth table_:
 |  F  |  T  |     T      |
 |  F  |  F  |     F      |
 
+### Question 4.3
+
+"Would you like coffee or tea?" - exclusive
+
+"Oranges or lemons are a good source of vitamin C." - inclusive
+
+"He will arrive in a minute or two." - exclusive
+
+### Question
+
+What must the truth values of _p_ and _q_ be to make $q \Rightarrow (p \veebar
+q)$ false?
+
+#### Answer
+
+
