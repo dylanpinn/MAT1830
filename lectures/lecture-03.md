@@ -193,4 +193,4 @@ which <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/75cef2
 A modular multiplicative inverse of an integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode" align=middle width=8.689230000000004pt height=14.155350000000013pt/> modulo <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/> is an integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/>
 such that
 
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/18feaee23b22b53b11f5a062f7c7ba84.svg?invert_in_darkmode" align=middle width=102.38019pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c46d9163d7ea75d27c4d304376e140a2.svg?invert_in_darkmode" align=middle width=107.12526pt height=16.438356pt/></p>
