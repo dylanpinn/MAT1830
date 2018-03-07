@@ -64,7 +64,7 @@ r)$
 |  F  |  F  |  T  |     T      |     F                |
 |  F  |  F  |  F  |     F      |     F                |
 
-| $p \land q$ | $p \land r$ | $(p \land q) \lor (q \and r)$ |
+| $p \land q$ | $p \land r$ | B |
 |-------------|-------------|-------------------------------|
 |     T       |     T       |     T                         |
 |     T       |     F       |     T                         |
