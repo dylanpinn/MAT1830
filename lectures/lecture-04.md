@@ -63,7 +63,7 @@ Find the truth tables for <img src="https://rawgit.com/dylanpinn/MAT1830/master/
 |  F  |  F  |  T  |     T      |     F                |
 |  F  |  F  |  F  |     F      |     F                |
 
-| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cb78b0cacb6c794f10bfd9e6761398ac.svg?invert_in_darkmode" align=middle width=34.463385pt height=18.265169999999976pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/fe2c89613a52d32d41c1e538565c74d6.svg?invert_in_darkmode" align=middle width=34.408275pt height=18.265169999999976pt/> | B |
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cb78b0cacb6c794f10bfd9e6761398ac.svg?invert_in_darkmode" align=middle width=34.463385pt height=18.265169999999976pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/fe2c89613a52d32d41c1e538565c74d6.svg?invert_in_darkmode" align=middle width=34.408275pt height=18.265169999999976pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/24570c7a42768174303e51e1fde6a419.svg?invert_in_darkmode" align=middle width=47.248905pt height=24.65759999999998pt/> |
 |-------------|-------------|-------------------------------|
 |     T       |     T       |     T                         |
 |     T       |     F       |     T                         |
