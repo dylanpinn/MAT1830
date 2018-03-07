@@ -160,4 +160,10 @@ q)$ false?
 
 #### Answer
 
+For $q \Rightarrow (p \veebar q)$ to be F we need $q$ to be T and $p \veebar q$
+to be F.
+
+$q$ must be T and $p \veebar T$ must be F.
+
+This means that $p$ must be T (checking both cases for $p$).
 
