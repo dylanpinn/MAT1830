@@ -202,4 +202,4 @@ which $x \equiv 4$ (mod 20).
 A modular multiplicative inverse of an integer $a$ modulo $n$ is an integer $x$
 such that
 
-$$ax \equiv 1 (\text{mod} n)$$
+$$ax \equiv 1 (\text{mod n})$$
