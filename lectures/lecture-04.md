@@ -43,8 +43,3 @@ Define <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/23bf7
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/057ed779a82f90fbcefdc229d6a994b4.svg?invert_in_darkmode" align=middle width=56.621235pt height=11.415524999999999pt/></p>
 
 ### Order of precedence
-
-<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/23bf728170c10d0449b90561f827623a.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=14.155350000000013pt/> has precedence over the other connectives.
-
-For example, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8aedfee9c431ef7507b4706570dfad7f.svg?invert_in_darkmode" align=middle width=45.422354999999996pt height=18.265169999999976pt/> means <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/51e44209e800e5c2fe7deec52d7ee52f.svg?invert_in_darkmode" align=middle width=58.207875pt height=24.65759999999998pt/>.
-
