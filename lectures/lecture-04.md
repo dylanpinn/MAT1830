@@ -52,3 +52,13 @@ For example, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex
 
 Find the truth tables for <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e0f736f33ed56c4985d37ee5f4270bb9.svg?invert_in_darkmode" align=middle width=73.386555pt height=24.65759999999998pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9c613ce6e53ed8a3e3fef0fee2f7a473.svg?invert_in_darkmode" align=middle width=112.70720999999999pt height=24.65759999999998pt/>
 
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/89f2e0d2d24bcf44db73aab8fc03252c.svg?invert_in_darkmode" align=middle width=7.873024500000003pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/81c2563ebeefaddb896d1a3bb032ed9c.svg?invert_in_darkmode" align=middle width=34.065735pt height=18.265169999999976pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e0f736f33ed56c4985d37ee5f4270bb9.svg?invert_in_darkmode" align=middle width=73.386555pt height=24.65759999999998pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cb78b0cacb6c794f10bfd9e6761398ac.svg?invert_in_darkmode" align=middle width=34.463385pt height=18.265169999999976pt/> |
+|-----|-----|-----|------------|----------------------|-------------|
+|  T  |  T  |  T  |     T      |     T                |     T       |
+|  T  |  T  |  F  |     T      |     T                |     T       |
+|  T  |  F  |  T  |     T      |     T                |     F       |
+|  T  |  F  |  F  |     F      |     F                |     F       |
+|  F  |  T  |  T  |     T      |     F                |     F       |
+|  F  |  T  |  F  |     T      |     F                |     F       |
+|  F  |  F  |  T  |     T      |     F                |     F       |
+|  F  |  F  |  F  |     F      |     F                |     F       |
