@@ -73,3 +73,112 @@ Find the truth tables for <img src="https://rawgit.com/dylanpinn/MAT1830/master/
 |     F       |     F       |     F                           |
 |     F       |     F       |     F                           |
 |     F       |     F       |     F                           |
+
+### Question
+
+What must the truth values of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> be to make <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8aea9d21cb9999c106a25c324ea10ef6.svg?invert_in_darkmode" align=middle width=95.70198pt height=24.65759999999998pt/> true?
+
+#### Answer
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> mus be T because otherwise the expression would evaluate to F.
+
+The expression is then <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e94a1c158ac42fbbb39b3d99d1809c27.svg?invert_in_darkmode" align=middle width=96.598095pt height=24.65759999999998pt/>.
+
+To make the bracketed part evaluate to T we need <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7c601dca1d618f40701705fccce94d94.svg?invert_in_darkmode" align=middle width=33.879615pt height=14.155350000000013pt/> to be T.
+
+Or in other words we need <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> to be F.
+
+## 4.2 Implication
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/326cc2e6a08a4500d254abe8364ed5fd.svg?invert_in_darkmode" align=middle width=93.24215999999998pt height=14.611871999999998pt/></p>
+
+We define <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/777d001ea1ec5971b67bb546ed760f97.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/> by the _truth table_:
+
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1bb32e35386650ec2cb2c08b31689d4a.svg?invert_in_darkmode" align=middle width=41.769420000000004pt height=14.155350000000013pt/> |
+|-----|-----|------------|
+|  T  |  T  |     T      |
+|  T  |  F  |     F      |
+|  F  |  T  |     T      |
+|  F  |  F  |     T      |
+
+### Question 4.2
+
+f: "foo"
+
+b: "bar"
+
+"if foo, then bar" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5a6381a07ead798b73e5313a8f8c1c33.svg?invert_in_darkmode" align=middle width=42.44295pt height=22.831379999999992pt/>
+
+"bar if foo" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5a6381a07ead798b73e5313a8f8c1c33.svg?invert_in_darkmode" align=middle width=42.44295pt height=22.831379999999992pt/>
+
+"bar only if foo" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/435ef8bab55f81e4a243dcd9e97e861b.svg?invert_in_darkmode" align=middle width=42.44295pt height=22.831379999999992pt/>
+
+"foo implies not bar" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/42a8b64dba15fc20d7f20ad8d8e1d039.svg?invert_in_darkmode" align=middle width=53.401754999999994pt height=22.831379999999992pt/>
+
+"foo is sufficient for bar" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5a6381a07ead798b73e5313a8f8c1c33.svg?invert_in_darkmode" align=middle width=42.44295pt height=22.831379999999992pt/>
+
+"foo is necessary for bar" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/435ef8bab55f81e4a243dcd9e97e861b.svg?invert_in_darkmode" align=middle width=42.44295pt height=22.831379999999992pt/>
+
+## 4.3 Other connectives
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/dc206a20a3b0a9f67233d896ee4464fc.svg?invert_in_darkmode" align=middle width=153.881475pt height=14.611871999999998pt/></p>
+
+We define <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/b58782f9626978f96019fe94cf45b6d6.svg?invert_in_darkmode" align=middle width=30.137250000000005pt height=14.155350000000013pt/> by the _truth table_:
+
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/15be2f2cfc73b7b58e1f1da086ae9188.svg?invert_in_darkmode" align=middle width=64.600305pt height=14.155350000000013pt/> |
+|-----|-----|------------|
+|  T  |  T  |     T      |
+|  T  |  F  |     F      |
+|  F  |  T  |     F      |
+|  F  |  F  |     T      |
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/306c79e8ba7717d65ca87df0824dcf48.svg?invert_in_darkmode" align=middle width=115.66235999999999pt height=14.611855499999999pt/></p>
+
+We define <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/779c14dfccad801470c7c47650e3816d.svg?invert_in_darkmode" align=middle width=10.045695000000002pt height=22.758779999999973pt/> by the _truth table_:
+
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a307d6949671b53a202e506ce2a35ef1.svg?invert_in_darkmode" align=middle width=33.55011pt height=22.758779999999973pt/> |
+|-----|-----|------------|
+|  T  |  T  |     F      |
+|  T  |  F  |     T      |
+|  F  |  T  |     T      |
+|  F  |  F  |     F      |
+
+### Question 4.3
+
+"Would you like coffee or tea?" - exclusive
+
+"Oranges or lemons are a good source of vitamin C." - inclusive
+
+"He will arrive in a minute or two." - exclusive
+
+### Question
+
+What must the truth values of _p_ and _q_ be to make <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cf5f802d9c39d1ab63ce172f2bbbe7d8.svg?invert_in_darkmode" align=middle width=79.83426pt height=24.65759999999998pt/> false?
+
+#### Answer
+
+For <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a85cfb9815e34e839e29c28d1e967ffa.svg?invert_in_darkmode" align=middle width=79.83426pt height=24.65759999999998pt/> to be F we need <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> to be T and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a307d6949671b53a202e506ce2a35ef1.svg?invert_in_darkmode" align=middle width=33.55011pt height=22.758779999999973pt/>
+to be F.
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> must be T and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/91182d725456845783e9a1b90f9ddfd0.svg?invert_in_darkmode" align=middle width=37.51143pt height=22.758779999999973pt/> must be F.
+
+This means that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> must be T (checking both cases for <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/>).
+
+## 4.4 Remarks
+
+1. The symbols <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/0b6832fb78c570edf56af766820951ee.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=18.265169999999976pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6007a29527e0ec27309d7829f5754d08.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=18.265169999999976pt/> are intentionally similar to the symbols <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7ab28e3f02aa13bfc8dd97fe3b995ecb.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=18.265169999999976pt/>
+   and $\cup$ for set intersection and union because
+   $$x \in A \cap B  \Leftrightarrow (x \in A) \land (x \in B)$$
+   $$x \in A \cup B  \Leftrightarrow (x \in A) \lor (x \in B)$$
+2. The "exclusive or" function <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/779c14dfccad801470c7c47650e3816d.svg?invert_in_darkmode" align=middle width=10.045695000000002pt height=22.758779999999973pt/> is written XOR in some programming
+   languages.
+3. If we write 0 for F and 1 for T then <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/779c14dfccad801470c7c47650e3816d.svg?invert_in_darkmode" align=middle width=10.045695000000002pt height=22.758779999999973pt/> becomes the function:
+
+  | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a307d6949671b53a202e506ce2a35ef1.svg?invert_in_darkmode" align=middle width=33.55011pt height=22.758779999999973pt/> |
+  |-----|-----|------------|
+  |  1  |  1  |     0      |
+  |  1  |  0  |     1      |
+  |  0  |  1  |     1      |
+  |  0  |  0  |     0      |
+
+  This is known as the "mod 2 sum", because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4df4b8eb78fe163016659638ef3e0990.svg?invert_in_darkmode" align=middle width=96.803355pt height=21.18732pt/> (mod 2)
