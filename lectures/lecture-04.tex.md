@@ -177,11 +177,11 @@ This means that $p$ must be T (checking both cases for $p$).
    languages.
 3. If we write 0 for F and 1 for T then $\veebar$ becomes the function:
 
-| $p$ | $q$ | $p \veebar q$ |
-|-----|-----|------------|
-|  1  |  1  |     0      |
-|  1  |  0  |     1      |
-|  0  |  1  |     1      |
-|  0  |  0  |     0      |
+  | $p$ | $q$ | $p \veebar q$ |
+  |-----|-----|------------|
+  |  1  |  1  |     0      |
+  |  1  |  0  |     1      |
+  |  0  |  1  |     1      |
+  |  0  |  0  |     0      |
 
   This is known as the "mod 2 sum", because $1 + 1 = 2 \equiv 0$ (mod 2)
