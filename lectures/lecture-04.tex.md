@@ -52,3 +52,4 @@ For example, $\neg p \lor q$ means $ (\neg p) \lor q$.
 
 Find the truth tables for $p \land (q \lor r)$ and $(p \land q) \lor (p \land
 r)$
+
