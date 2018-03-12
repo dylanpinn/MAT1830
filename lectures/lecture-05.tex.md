@@ -27,3 +27,10 @@ So there are $2 \times 2 \times 2 = 8$ ways to assign truth values to this
 statement.
 
 That's why there would be eight rows in the truth table.
+
+### Question
+
+How many ways are there to assign truth values to the following statement?
+
+$$\not((\not p_1 \land p_2) \lor ((p_3 \lor \not p_4) \land p_1)) \to (p_2 \land
+p_5)$$
