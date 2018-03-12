@@ -125,3 +125,17 @@ $$p \lor  (\neg p) \equiv T$$
 
 $$p \land (p \lor q) \eqiuv p$$
 $$p \lor (p \land q) \eqiuv p$$
+
+### Question
+
+What simpler sentence is $((p \land \neg \neg p) \lor \neg p) \lor (q \land r)$
+logically equivalent to?
+
+#### Answer
+
+$$((p \land \neg \neg p) \lor \neg p) \lor (q \land r)$$
+$$\equiv ((p \land p) \lor \neg p) \lor (q \land r)$$ (double negation law)
+$$\equiv (p \lor \neg p) \lor (q \land r)$$ (idempotent law)
+$$\equiv T \lor (q \land r)$$ (inverse law)
+$$\equiv T$$ (annihilation law)
+
