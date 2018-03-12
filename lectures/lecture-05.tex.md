@@ -105,3 +105,23 @@ $$p \lor (q \land r) \equiv (p \lor q) \land (p \lor r)$$
 
 $$\neg(p \land q) \equiv (\neg p) \lor (\neg q)$$
 $$\neg(p \lor q) \equiv (\neg p) \land (\neg q)$$
+
+### Identity laws
+
+$$p \land T \equiv p$$
+$$p \lor F \equiv p$$
+
+### Annihilation laws
+
+$$p \land F \equiv F$$
+$$p \lor T \equiv T$$
+
+### Inverse laws
+
+$$p \land (\neg p) \equiv F$$
+$$p \lor  (\neg p) \equiv T$$
+
+### Absorption laws
+
+$$p \land (p \lor q) \eqiuv p$$
+$$p \lor (p \land q) \eqiuv p$$
