@@ -32,10 +32,10 @@ That's why there would be eight rows in the truth table.
 
 How many ways are there to assign truth values to the following statement?
 
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3ad47fbf647fc42061d6a7277d2989b5.svg?invert_in_darkmode" align=middle width=301.29495pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/71a519ce7e771f681cfa583137b773a7.svg?invert_in_darkmode" align=middle width=323.21355pt height=16.438356pt/></p>
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/38fb1a02f4196214db6430a00e492f5d.svg?invert_in_darkmode" align=middle width=159.81685499999998pt height=11.9634735pt/></p>
 
 ### Question 5.1
 
-There are two posibilites for each of the variables and this gives a total of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/dad699c3115a5a0d58164c0f910a56e9.svg?invert_in_darkmode" align=middle width=142.372065pt height=21.839399999999983pt/> possibilities.
+There are two possibilities for each of the variables and this gives a total of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/dad699c3115a5a0d58164c0f910a56e9.svg?invert_in_darkmode" align=middle width=142.372065pt height=21.839399999999983pt/> possibilities.
