@@ -93,3 +93,13 @@ logic".
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c5870688cb178c7552f0739380964b76.svg?invert_in_darkmode" align=middle width=168.69105pt height=16.438356pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e76068caf6d67b264c70b0cea3bea6eb.svg?invert_in_darkmode" align=middle width=168.69105pt height=16.438356pt/></p>
+
+### Distributive laws
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/730f71b85090502d898026ba393cb0ad.svg?invert_in_darkmode" align=middle width=208.01054999999997pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4af3447d8ef158142b0a3f15dca2b7a8.svg?invert_in_darkmode" align=middle width=208.01054999999997pt height=16.438356pt/></p>
+
+### De Morgans's laws
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/763744e054b67e0fd90e25a8cfa97c76.svg?invert_in_darkmode" align=middle width=162.07752pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3319787d90b2e4ae4fe9a47769157225.svg?invert_in_darkmode" align=middle width=162.07752pt height=16.438356pt/></p>
