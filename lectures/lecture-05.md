@@ -103,3 +103,23 @@ logic".
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/763744e054b67e0fd90e25a8cfa97c76.svg?invert_in_darkmode" align=middle width=162.07752pt height=16.438356pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3319787d90b2e4ae4fe9a47769157225.svg?invert_in_darkmode" align=middle width=162.07752pt height=16.438356pt/></p>
+
+### Identity laws
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e679b1dd1caa4250242d6bc426b19305.svg?invert_in_darkmode" align=middle width=68.612775pt height=14.429217pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8bf1e29289492e541a9ff46d5b5ebc98.svg?invert_in_darkmode" align=middle width=69.577365pt height=14.429217pt/></p>
+
+### Annihilation laws
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8b281df2ff37c059451dc4951b7869fb.svg?invert_in_darkmode" align=middle width=74.160735pt height=14.429217pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/51d6c3275c0b26df727a82a534b4a095.svg?invert_in_darkmode" align=middle width=72.231555pt height=14.429217pt/></p>
+
+### Inverse laws
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f1b956ea1bb30f0f84edd0ae1885e364.svg?invert_in_darkmode" align=middle width=93.32168999999999pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1e9478c12ee8d150e7677413bac9acce.svg?invert_in_darkmode" align=middle width=92.35709999999999pt height=16.438356pt/></p>
+
+### Absorption laws
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2f5d6887caa69c6ea1a87e2a5faa3e47.svg?invert_in_darkmode" align=middle width=82.054665pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a086c78223b65e9771b70e7ffebdc50c.svg?invert_in_darkmode" align=middle width=82.054665pt height=16.438356pt/></p>
