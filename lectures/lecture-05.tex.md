@@ -20,7 +20,7 @@ _r_: "South Africa are losing the test match."
 
 $$(p \land q) \to r$$
 
-$p$ could be **T** or **F**, $q$ could be **T** or **F**, and $r$ could be **T**
+_p_ could be **T** or **F**, _q_ could be **T** or **F**, and _r_ could be **T**
 or **F**.
 
 So there are $2 \times 2 \times 2 = 8$ ways to assign truth values to this
@@ -41,3 +41,6 @@ $$ 2 \times 2 \times 2 \times 2 \times 2 = 32$$
 
 There are two possibilities for each of the variables and this gives a total of $2
 \times 2 \times \dots \times 2 = 2^n$ possibilities.
+
+## 5.2 Logical equivalence
+
