@@ -44,3 +44,16 @@ There are two possibilities for each of the variables and this gives a total of 
 
 ## 5.2 Logical equivalence
 
+Why should $p \to q$ mean the same as $\neg p \or q$?
+
+"If you train hard, then you'll finish the marathon."
+
+"You won't train hard or you'll finish the marathon."
+
+"If that's a lion, then we're dead."
+
+"That's not a lion or we're dead."
+
+The expression:
+
+$$\frac{x^3 - 3x^2 + 3x + 1}{(x - 1)^4} \times \frac{x^3 - x}{x + 1}$$
