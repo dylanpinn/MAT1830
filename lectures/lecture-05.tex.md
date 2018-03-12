@@ -89,3 +89,9 @@ $$ p \lor p \equiv p$$
 ### Commutative laws
 
 $$p \land q \equiv q \land p$$
+$$p \lor q \equiv q \lor p$$
+
+### Associative laws
+
+$$p \land (q \land r) \equiv (p \land q) \land r$$
+$$p \lor (q \lor r) \equiv (p \lor q) \lor r$$
