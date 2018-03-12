@@ -1,2 +1,30 @@
 # Lecture 5: Tautologies and logical equivalence
 
+## 5.1 Tautologies and contradictions
+
+A sentence in propositional logic:
+
+* a _tautology_ if it has value **T** under all interpretations;
+* a _contradiction_ if it has value **F** under all interpretations.
+
+### Example
+
+"If Morne Morkel is limping and AB de Villiers is looking grumpy, then South
+Africa are losing the test match."
+
+_p_: "Morne Morkel is limping."
+
+_q_: "AB de Villiers is looking grumpy."
+
+_r_: "South Africa are losing the test match."
+
+$$(p \land q) \to r$$
+
+$p$ could be **T** or **F**, $q$ could be **T** or **F**, and $r$ could be **T**
+or **F**.
+
+So there are $2 \times 2 \times 2 = 8$ ways to assign truth values to this
+statement.
+
+That's why there would be eight rows in the truth table.
+
