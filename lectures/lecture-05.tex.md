@@ -63,3 +63,29 @@ the second expression is nicer.
 
 Similarly $$((p \land (p \lor q)) \to (\neg p \land q)) \land (p \lor \neg q)$$
 is logically equivalent to $$\neg q$$
+
+## Useful equivalences
+
+The following equivalences are the most frequently used in this "algebra of
+logic".
+
+### Equivalence law
+
+$$p \leftrightarrow q \equiv (p \to q) \land (q \to p)$$
+
+### Implication law
+
+$$p \to q \equiv (\neg p) \lor q$$
+
+### Double Negation law
+
+$$\neg \neg p \equiv p$$
+
+### Idempotent laws
+
+$$ p \land p \equiv p$$
+$$ p \lor p \equiv p$$
+
+### Commutative laws
+
+$$p \land q \equiv q \land p$$
