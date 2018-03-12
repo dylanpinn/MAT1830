@@ -123,3 +123,17 @@ logic".
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2f5d6887caa69c6ea1a87e2a5faa3e47.svg?invert_in_darkmode" align=middle width=82.054665pt height=16.438356pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a086c78223b65e9771b70e7ffebdc50c.svg?invert_in_darkmode" align=middle width=82.054665pt height=16.438356pt/></p>
+
+### Question
+
+What simpler sentence is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/65a1f2e388f2ddfb01a0e9e5aab893d4.svg?invert_in_darkmode" align=middle width=184.90510500000002pt height=24.65759999999998pt/>
+logically equivalent to?
+
+#### Answer
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/faa93ca178e354cdd7d60a25f8cf8dfa.svg?invert_in_darkmode" align=middle width=184.90394999999998pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e3836bef224e27ebedc26a591d28b482.svg?invert_in_darkmode" align=middle width=180.3384pt height=16.438356pt/></p> (double negation law)
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7800aa722e5ac5d5695f7f33764e672f.svg?invert_in_darkmode" align=middle width=141.01757999999998pt height=16.438356pt/></p> (idempotent law)
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/75c6528c652ad144a990b651555eee30.svg?invert_in_darkmode" align=middle width=94.35673499999999pt height=16.438356pt/></p> (inverse law)
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f9bfaadb602d840a00ef7a27a5d8d797.svg?invert_in_darkmode" align=middle width=29.240804999999995pt height=11.23287pt/></p> (annihilation law)
+
