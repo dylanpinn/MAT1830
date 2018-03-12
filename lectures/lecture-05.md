@@ -87,3 +87,9 @@ logic".
 ### Commutative laws
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c6a162e8f636a5b2ef434fe810a1699c.svg?invert_in_darkmode" align=middle width=90.84438pt height=12.3288pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/09b400121795ba111198d4b90bee5a66.svg?invert_in_darkmode" align=middle width=90.84438pt height=12.3288pt/></p>
+
+### Associative laws
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c5870688cb178c7552f0739380964b76.svg?invert_in_darkmode" align=middle width=168.69105pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e76068caf6d67b264c70b0cea3bea6eb.svg?invert_in_darkmode" align=middle width=168.69105pt height=16.438356pt/></p>
