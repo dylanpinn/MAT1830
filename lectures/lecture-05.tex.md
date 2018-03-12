@@ -58,5 +58,8 @@ The expression:
 
 $$\frac{x^3 - 3x^2 + 3x + 1}{(x - 1)^4} \times \frac{x^3 - x}{x + 1}$$
 
-is actually the same as the expression $$x \text{ for } x \not= -1, 1)$$, but
+is actually the same as the expression $$x (\text{ for } x \not= -1, 1)$$, but
 the second expression is nicer.
+
+Similarly $$((p \land (p \lor q)) \to (\neg p \land q)) \land (p \lor \neg q)$$
+is logically equivalent to $$\neg q$$
