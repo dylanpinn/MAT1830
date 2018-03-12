@@ -42,3 +42,16 @@ There are two possibilities for each of the variables and this gives a total of 
 
 ## 5.2 Logical equivalence
 
+Why should <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2857c19c3ea1f88d3e6309be566b7046.svg?invert_in_darkmode" align=middle width=41.769420000000004pt height=14.155350000000013pt/> mean the same as <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/346c404d6b9937eed5e0180470ae431b.svg?invert_in_darkmode" align=middle width=27.157680000000003pt height=14.155350000000013pt/>?
+
+"If you train hard, then you'll finish the marathon."
+
+"You won't train hard or you'll finish the marathon."
+
+"If that's a lion, then we're dead."
+
+"That's not a lion or we're dead."
+
+The expression:
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/05e948bc1ee6b5ba467f4558ed78077f.svg?invert_in_darkmode" align=middle width=198.15675pt height=39.8871pt/></p>
