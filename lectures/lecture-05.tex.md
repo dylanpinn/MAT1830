@@ -139,3 +139,23 @@ $$\equiv (p \lor \neg p) \lor (q \land r)$$ (idempotent law)
 $$\equiv T \lor (q \land r)$$ (inverse law)
 $$\equiv T$$ (annihilation law)
 
+### Question 5.2
+
+First show that $\neg (p \land q) \equiv \neg (p \lor \neg q)$.
+
+| $p$ | $q$ | $p \land q$ |
+|-----|-----|-------------|
+|  T  |  T  |      T      |
+|  T  |  F  |      F      |
+|  F  |  T  |      F      |
+|  F  |  F  |      F      |
+
+| $\neg p$ | $\neg q$ | $\neg p \land \neg q$ |
+|----------|----------|-----------------------|
+|     F    |     F    |           F           |
+|     F    |     T    |           T           |
+|     T    |     F    |           T           |
+|     T    |     T    |           T           |
+
+The columns for $\neg (p \land q)$ and $\neg p \lor \neg q$ are the same so
+$\neg (p \land q) \equiv \neg (p \lor \neg q)$.
