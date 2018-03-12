@@ -159,3 +159,22 @@ First show that $\neg (p \land q) \equiv \neg (p \lor \neg q)$.
 
 The columns for $\neg (p \land q)$ and $\neg p \lor \neg q$ are the same so
 $\neg (p \land q) \equiv \neg (p \lor \neg q)$.
+
+Next show that $\neg (p \lor q) \equiv \neg p \land \neg q$.
+
+| $p$ | $q$ | $p \lor q$  | $\neg (p \land q)$ |
+|-----|-----|-------------|--------------------|
+|  T  |  T  |      T      |        F           |
+|  T  |  F  |      T      |        F           |
+|  F  |  T  |      T      |        F           |
+|  F  |  F  |      F      |        T           |
+
+| $\neg p$ | $\neg q$ | $\neg p \land \neg q$ |
+|----------|----------|-----------------------|
+|     F    |     F    |           F           |
+|     F    |     T    |           T           |
+|     T    |     F    |           T           |
+|     T    |     T    |           T           |
+
+The columns for $\neg (p \lor q)$ and $\neg p \lor \neg q$ are the same so
+$\neg (p \lor q) \equiv \neg (p \land \neg q)$.
