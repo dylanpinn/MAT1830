@@ -55,3 +55,6 @@ Why should <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2
 The expression:
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/05e948bc1ee6b5ba467f4558ed78077f.svg?invert_in_darkmode" align=middle width=198.15675pt height=39.8871pt/></p>
+
+is actually the same as the expression <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/66ebd006735fe5fe65c562bbcc075772.svg?invert_in_darkmode" align=middle width=114.26942999999999pt height=16.438356pt/></p>, but
+the second expression is nicer.
