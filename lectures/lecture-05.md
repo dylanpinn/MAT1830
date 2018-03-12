@@ -56,5 +56,8 @@ The expression:
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/05e948bc1ee6b5ba467f4558ed78077f.svg?invert_in_darkmode" align=middle width=198.15675pt height=39.8871pt/></p>
 
-is actually the same as the expression <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/66ebd006735fe5fe65c562bbcc075772.svg?invert_in_darkmode" align=middle width=114.26942999999999pt height=16.438356pt/></p>, but
+is actually the same as the expression <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/911121f44fb86cab5f5ba8e45e25a5d7.svg?invert_in_darkmode" align=middle width=120.662025pt height=16.438356pt/></p>, but
 the second expression is nicer.
+
+Similarly <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/af57f530016787cb4467a16356be6578.svg?invert_in_darkmode" align=middle width=259.60605pt height=16.438356pt/></p>
+is logically equivalent to <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cf9ba349ce9223c81132dd7536d119dc.svg?invert_in_darkmode" align=middle width=18.887055pt height=10.2739725pt/></p>
