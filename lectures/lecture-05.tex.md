@@ -39,5 +39,5 @@ $$ 2 \times 2 \times 2 \times 2 \times 2 = 32$$
 
 ### Question 5.1
 
-There are two posibilites for each of the variables and this gives a total of $2
+There are two possibilities for each of the variables and this gives a total of $2
 \times 2 \times \dots \times 2 = 2^n$ possibilities.
