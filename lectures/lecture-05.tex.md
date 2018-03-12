@@ -95,3 +95,13 @@ $$p \lor q \equiv q \lor p$$
 
 $$p \land (q \land r) \equiv (p \land q) \land r$$
 $$p \lor (q \lor r) \equiv (p \lor q) \lor r$$
+
+### Distributive laws
+
+$$p \land (q \lor r) \equiv (p \land q) \lor (p \land r)$$
+$$p \lor (q \land r) \equiv (p \lor q) \land (p \lor r)$$
+
+### De Morgans's laws
+
+$$\neg(p \land q) \equiv (\neg p) \lor (\neg q)$$
+$$\neg(p \lor q) \equiv (\neg p) \land (\neg q)$$
