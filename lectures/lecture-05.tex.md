@@ -27,4 +27,3 @@ So there are $2 \times 2 \times 2 = 8$ ways to assign truth values to this
 statement.
 
 That's why there would be eight rows in the truth table.
-
