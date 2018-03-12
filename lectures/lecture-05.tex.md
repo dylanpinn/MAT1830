@@ -34,3 +34,10 @@ How many ways are there to assign truth values to the following statement?
 
 $$\not((\not p_1 \land p_2) \lor ((p_3 \lor \not p_4) \land p_1)) \to (p_2 \land
 p_5)$$
+
+$$ 2 \times 2 \times 2 \times 2 \times 2 = 32$$
+
+### Question 5.1
+
+There are two posibilites for each of the variables and this gives a total of $2
+\times 2 \times \dots \times 2 = 2^n$ possibilities.
