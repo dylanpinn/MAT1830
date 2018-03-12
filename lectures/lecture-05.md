@@ -61,3 +61,29 @@ the second expression is nicer.
 
 Similarly <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/af57f530016787cb4467a16356be6578.svg?invert_in_darkmode" align=middle width=259.60605pt height=16.438356pt/></p>
 is logically equivalent to <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cf9ba349ce9223c81132dd7536d119dc.svg?invert_in_darkmode" align=middle width=18.887055pt height=10.2739725pt/></p>
+
+## Useful equivalences
+
+The following equivalences are the most frequently used in this "algebra of
+logic".
+
+### Equivalence law
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aeb6975cde084274d82842a4e5f691a5.svg?invert_in_darkmode" align=middle width=191.06175pt height=16.438356pt/></p>
+
+### Implication law
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a1479b48ea1f45f94733d62b0264cff3.svg?invert_in_darkmode" align=middle width=121.894575pt height=16.438356pt/></p>
+
+### Double Negation law
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/24ab40837e08e2315e0d9504feabe51f.svg?invert_in_darkmode" align=middle width=60.376635pt height=10.819611pt/></p>
+
+### Idempotent laws
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6933bd24f2c4992891eb5b1f7f2b570c.svg?invert_in_darkmode" align=middle width=64.993995pt height=12.3288pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/acb2ef2a0b4f306a6d95ac0f6252d2d5.svg?invert_in_darkmode" align=middle width=64.993995pt height=12.3288pt/></p>
+
+### Commutative laws
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c6a162e8f636a5b2ef434fe810a1699c.svg?invert_in_darkmode" align=middle width=90.84438pt height=12.3288pt/></p>
