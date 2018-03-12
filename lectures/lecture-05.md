@@ -157,3 +157,22 @@ First show that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/
 
 The columns for <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/39ced75f957b0342b2ff3e811eb3418f.svg?invert_in_darkmode" align=middle width=58.20771pt height=24.65759999999998pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4a11aae2ed125fc0ec19c2c7e28bf644.svg?invert_in_darkmode" align=middle width=56.381325000000004pt height=18.265169999999976pt/> are the same so
 <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ce726fdfdf2faac320bdd723ddc48f2.svg?invert_in_darkmode" align=middle width=149.29216499999998pt height=24.65759999999998pt/>.
+
+Next show that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e48c3b30d83acb59b05adea5ac1d21eb.svg?invert_in_darkmode" align=middle width=136.506645pt height=24.65759999999998pt/>.
+
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/82385103bdbbacdc2e6ac03827c9e3e1.svg?invert_in_darkmode" align=middle width=34.463385pt height=18.265169999999976pt/>  | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/39ced75f957b0342b2ff3e811eb3418f.svg?invert_in_darkmode" align=middle width=58.20771pt height=24.65759999999998pt/> |
+|-----|-----|-------------|--------------------|
+|  T  |  T  |      T      |        F           |
+|  T  |  F  |      T      |        F           |
+|  F  |  T  |      T      |        F           |
+|  F  |  F  |      F      |        T           |
+
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/eea93f3519d9141e9e02f11439b4588d.svg?invert_in_darkmode" align=middle width=19.229595000000003pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1806b28ae3f8ccb2f7176ba68a4fc8a3.svg?invert_in_darkmode" align=middle width=18.887055000000004pt height=14.155350000000013pt/> | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/504fff36819ddaef58fd55633732ebd5.svg?invert_in_darkmode" align=middle width=56.381325000000004pt height=18.265169999999976pt/> |
+|----------|----------|-----------------------|
+|     F    |     F    |           F           |
+|     F    |     T    |           T           |
+|     T    |     F    |           T           |
+|     T    |     T    |           T           |
+
+The columns for <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/21c8d2427dd9c667d00782c12c41828d.svg?invert_in_darkmode" align=middle width=58.20771pt height=24.65759999999998pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4a11aae2ed125fc0ec19c2c7e28bf644.svg?invert_in_darkmode" align=middle width=56.381325000000004pt height=18.265169999999976pt/> are the same so
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/798b1af4a8abaa2a0e8ddabfc6eea8f4.svg?invert_in_darkmode" align=middle width=149.29216499999998pt height=24.65759999999998pt/>.
