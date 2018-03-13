@@ -1,30 +1,83 @@
 \documentclass[11pt]{article}
 \usepackage{enumitem}
+\usepackage{amsmath}
 \begin{document}
 \title{MAT1830 --- Assignment 1}
-\author{Dylan Pinn --- 24..} % TODO: Add student number
+\author{Dylan Pinn --- 24160547}
 \maketitle
 
 \section*{Question 1}
 Are the following statements true or false? For each, explain why.
 \begin{enumerate}[label= (\alph*)]
 \item 5 divides 22
+
+	False (because there is no integer $k$ such that $5k = 22$)
+
 \item $14 \equiv 26$ (mod 6)
+
+	True (because 6 divides $26 - 14$)
+
 \item 15 divides 5
+
+	False (because there is no integer $k$ such that $15k = 5$)
+
 \item For any positive integer $n \neq 11, \gcd(11, n) = 1$
+
+% TODO: Q 1d
+
 \item There are integers $x, y$ and $z$ such that 15 divides $2^x \times 3^y
   \times 7^z$.
+
+% TODO: Q 1e
+
 \item If $x$ is an integer such that $4x \equiv 12$ (mod 16), then definitely $x
   \equiv 3$ (mod 16)
+
+% TODO: Q 1f
+
 \end{enumerate}
 
 \section*{Question 2}
 Use the extended Euclidean algorithm to find integers $x$ and $y$ such that
 $356x + 132y = 8$
 
+First use the Euclidean Algorithm to calculate the $\gcd(356,132)$.
+
+\begin{align*}
+	356 &= 2 \times 132 + 92 \\
+	132 &= 1 \times  92 + 40 \\
+	 92 &= 2 \times  40 + 12 \\
+	 40 &= 3 \times  12 +  4 \\
+	 12 &= 3 \times   4 +  0
+\end{align*}
+
+So $\gcd(356,132) = 4$. Now we can use the extended Euclidean algorithm to
+calculate $8 = 356x + 132y$. This is easiest if we convert this to be equal the
+$\gcd$ of $4$ so we divide it through by 2. Which gives $$4 = 178x + 66y$$
+
+Working back up gives
+
+\begin{align*}
+	4 &= 40 - 3 \times 12 \\
+	4 &= 40 - 3 \times (92 - 2 \times 40) \\
+	4 &= -3 \times 92 + 7 \times 40 \\
+	4 &= -3 \times 92 + 7 \times (132 - 92) \\
+	4 &= -10 \times 92 + 7 \times 132 \\
+	4 &= -10 \times (356 - 2 \times 132) + 7 \times 132 \\
+	4 &= -10 \times (356 - 2 \times 132) + 7 \times 132 \\
+	4 &= -10 \times 356 + 27 \times 132
+\end{align*}
+
+To get this back into the original form of $8 = 356x + 132y$ we need to
+multiply through by 2. This gives $$8 = -20 \times 356 + 54 \times 132$$
+So $x = -20$ and $y = 54$
+
+
 \section*{Question 3}
 Let $x$ and $y$ be integers such that $x \equiv 4$ (mod 10) and $y \equiv 5$
 (mod 10).  Find the integer $z$ such that $48x + 3y^2 \equiv z$ (mod 10) and $0
 \leq z \leq 9$.
+
+% TODO: Q 3
 
 \end{document}
