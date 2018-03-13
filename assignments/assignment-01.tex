@@ -23,7 +23,7 @@ Are the following statements true or false? For each, explain why.
 
 \item For any positive integer $n \neq 11, \gcd(11, n) = 1$
 
-% TODO: Q 1d
+	False (because 11 is a prime number and only has the divisors of 1 and 11).
 
 \item There are integers $x, y$ and $z$ such that 15 divides $2^x \times 3^y
   \times 7^z$.
@@ -33,7 +33,11 @@ Are the following statements true or false? For each, explain why.
 \item If $x$ is an integer such that $4x \equiv 12$ (mod 16), then definitely $x
   \equiv 3$ (mod 16)
 
-% TODO: Q 1f
+	$$\gcd(4, 16) = 4$$
+	4 divides 12 so there are solutions.
+	
+	Divide through by 4 to get $$x \equiv 3 \text{ (mod 16) }$$ which is the 
+	desired result, so the solution is True
 
 \end{enumerate}
 
@@ -78,6 +82,16 @@ Let $x$ and $y$ be integers such that $x \equiv 4$ (mod 10) and $y \equiv 5$
 (mod 10).  Find the integer $z$ such that $48x + 3y^2 \equiv z$ (mod 10) and $0
 \leq z \leq 9$.
 
-% TODO: Q 3
+Substituting $x$ and $y$ into the equation gives 
+
+\begin{align*}
+	z &\equiv 48(4) + 3(5)^2 \text{ (mod 10) } \\
+	z &\equiv 192 + 75 \text{ (mod 10) } \\
+	z &\equiv 267 \text{ (mod 10) } 
+\end{align*}
+
+We are able to take many lots of 10 from this to give 
+$$z \equiv 7 \text{ (mod 10) }$$ which satisfies the range 
+$0 \leq z \leq 9$.
 
 \end{document}
