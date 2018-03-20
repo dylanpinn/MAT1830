@@ -57,3 +57,26 @@ Logically equivalent to the original statement!
 **Negation:** "He's the dean and he doesn't have pants on."
 
 True exactly when the original statement is false.
+
+### Question 6.3
+
+Write down the following sentences as implications and then write their
+contrapositives.
+
+**Sentence:** "You can't make an omelette without breaking eggs."
+
+**Implication:** "you made an omelette" $\to$ "you broke eggs."
+
+**Contrapositive:** "you didn't break eggs" $\to$ "you didn't make an omelette"
+
+**Sentence:** "If $n$ is even, so is $n^2$."
+
+**Implication:** "n is even" $\to$ "$n^2$ is even"
+
+**Contrapositive:** "$n^2$ is odd" $\to$ "n is odd"
+
+**Sentence:** "Haste makes waste."
+
+**Implication:** "haste" $\to$ "waste"
+
+**Contrapositive:** "no waste" $\to$ "no haste"
