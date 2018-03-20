@@ -46,3 +46,13 @@ the original statement.
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/05d0809b6109565c12aacb82e453153d.svg?invert_in_darkmode" align=middle width=156.59786999999997pt height=16.438356pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/66bf877892c106e55ba86370a5004c35.svg?invert_in_darkmode" align=middle width=84.691695pt height=12.3288pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a875a8bec7acc304f62df816a7792294.svg?invert_in_darkmode" align=middle width=62.77392pt height=12.3288pt/></p>
+
+"If he were the dean then he'd have pants on.""
+
+**Contrapositive:** "If he doesn't have pants on then he isn't the dean."
+
+Logically equivalent to the original statement!
+
+**Negation:** "He's the dean and he doesn't have pants on."
+
+True exactly when the original statement is false.
