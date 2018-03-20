@@ -12,3 +12,4 @@
 ## Assignments
 
 - [Assignment 1](/assignments/assignment-01.tex)
+- [Assignment 2](/assignments/assignment-02.tex)
