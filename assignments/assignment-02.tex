@@ -1,0 +1,129 @@
+\documentclass[11pt]{article}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\begin{document}
+\title{MAT1830 --- Assignment 2}
+\author{Dylan Pinn --- 24160547}
+\maketitle
+
+\section*{Question 1}
+Use truth tables to determine whether $(a \land \neg b) \to (b \lor c)$ is logically equivalent to $\neg a \lor b \lor c$.
+
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+$a$ & $b$ & $c$ & $a \land \neg $ & $b \lor c$ & $(a \land \neg b) \to (b \lor c)$ & $\neg a \lor b \lor c$ \\ \hline
+T & T & T & F & T & T & T \\ \hline
+T & T & F & F & T & T & T \\ \hline
+T & F & T & T & T & T & T \\ \hline
+T & F & F & T & T & T & F \\ \hline
+F & T & T & F & T & T & T \\ \hline
+F & T & F & F & F & T & T \\ \hline
+F & F & T & F & T & T & T \\ \hline
+F & F & F & F & F & F & T \\ \hline
+\end{tabular}
+
+Because they have different values they are not equivalent.
+
+\break
+
+\section*{Question 2}
+Use laws of logic to show that $\neg (p \lor \neg (p \to q)) \lor p$ is a tautology.
+
+\begin{equation}
+	\neg (p \lor \neg (p \to q)) \lor p
+\end{equation}
+\begin{equation} \label{eq:1}
+	\neg (p \lor \neg (\neg p \lor q)) \lor p
+\end{equation}
+Equation \ref{eq:1} uses Implication law.
+\begin{equation} \label{eq:2}
+	\neg (p \lor \neg (\neg p) \land \neg q) \lor p)
+\end{equation}
+Equation \ref{eq:2} uses De Morgan's law.
+\begin{equation} \label{eq:3}
+	\neg (p \lor p \land \neg q) \lor p	
+\end{equation}
+Equation \ref{eq:3} uses Double Negation law.
+\begin{equation} \label{eq:4}
+	\neg (p \land \neg q) \lor p
+\end{equation}
+Equation \ref{eq:4} uses Idempotent law.
+\begin{equation} \label{eq:5}
+	\neg p \land \neg (\neg q) \lor p
+\end{equation}
+Equation \ref{eq:5} uses De Morgan's law.
+\begin{equation} \label{eq:6}
+	\neg  p \lor q \lor p
+\end{equation}
+Equation \ref{eq:6} uses Double Negation law.
+\begin{equation} \label{eq:7}
+	T \lor q
+\end{equation}
+Equation \ref{eq:7} uses Inverse law.
+\begin{equation} \label{eq:8}
+	T
+\end{equation}
+Equation \ref{eq:8} uses Annihilation law.
+
+This shows that it is a tautology.
+
+\break
+
+\section*{Question 3}
+For each of the following statements, write down the statement's contrapositive and then write down the statement's negation.
+
+\begin{enumerate}[label=(\roman*)]
+\item "If the function is differentiable, then it is continuous."
+
+	\textbf{Contrapositive}
+	
+	"If it isn't continuous, then the function is not differentiable."
+	
+	\textbf{Negation}
+	
+	"There exists a continuous function that is not differentiable."
+
+\item "If a weak key was used, then the encryption wasn't secure."
+
+	\textbf{Contrapositive}
+	
+	"If the encryption was secure, then a weak key wasn't used."
+	
+	\textbf{Negation}
+	
+	"The encryption was secure and a weak key was used."
+	
+\end{enumerate}
+\break
+
+\section*{Question 4}
+
+Pei Ann has been dealt two cards from a standard 52 card deck. She holds one in her left hand and one in her right.  
+
+Let $p$ be the proposition "The card in Pei Ann's left hand is an ace".
+
+Let $q$ be the proposition "The card in Pei Ann's right hand is an ace".
+
+Let $r$ be the proposition "The card in Pei Ann's left hand is a club".
+
+Let $s$ be the proposition "The card in Pei Ann's right hand is a club".
+
+Write down propositions (using just $p$, $q$, $r$, $s$ and logical connectives) corresponding to the following statements.
+
+\begin{enumerate}[label=(\roman*)]
+
+\item Neither of Pei Ann's cards is an ace.
+
+$$\neg p \land \neg q$$
+
+\item If Pei Ann has the ace of clubs in her right hand, then she doesn't have a club in her left hand
+
+$$(q \land s) \to \neg r $$
+
+\item Pei Ann has the ace of clubs and another club.
+
+$$((p \land r) \lor (q \land s)) \land (r \lor s) $$
+
+\end{enumerate}
+
+\end{document}
