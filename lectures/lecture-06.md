@@ -100,6 +100,6 @@ Show that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3a
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6b13b13631a9060029e7ae48dc060da1.svg?invert_in_darkmode" align=middle width=162.93552pt height=16.438356pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/0276652d14c6ead898c2a4624948c7de.svg?invert_in_darkmode" align=middle width=119.09996999999998pt height=12.3288pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9d988f98de23f29d295d04c5ee268bbb.svg?invert_in_darkmode" align=middle width=150.15pt height=16.438356pt/></p>
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a19539480a0cc6b0133e96dcbf2d7280.svg?invert_in_darkmode" align=middle width=67.87291499999999pt height=14.429217pt/></p>
-<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c1d5631299f1af9861ff7a8dbee8b734.svg?invert_in_darkmode" align=middle width=11.889306pt height=11.23287pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/12ad7a9c21ee959593acf68ecdb6426b.svg?invert_in_darkmode" align=middle width=85.22448pt height=14.429217pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f9bfaadb602d840a00ef7a27a5d8d797.svg?invert_in_darkmode" align=middle width=29.240804999999995pt height=11.23287pt/></p>
 
