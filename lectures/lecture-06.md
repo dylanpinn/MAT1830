@@ -103,3 +103,9 @@ Show that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3a
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/12ad7a9c21ee959593acf68ecdb6426b.svg?invert_in_darkmode" align=middle width=85.22448pt height=14.429217pt/></p>
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f9bfaadb602d840a00ef7a27a5d8d797.svg?invert_in_darkmode" align=middle width=29.240804999999995pt height=11.23287pt/></p>
 
+### Question 6.5
+
+Find a tautology form with <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/> variables which is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d47b770aa2387b856be80049acafef97.svg?invert_in_darkmode" align=middle width=88.395945pt height=24.65759999999998pt/> for <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/da60d8ce586cf444dfc2735588ee6cab.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>
+and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3aa3b4bab2e10ab5dc2f3e143bfb409c.svg?invert_in_darkmode" align=middle width=134.624985pt height=24.65759999999998pt/> for <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aa6905d780872f0007f642420d7a2d9c.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/999e10419e85a914862f938816afee28.svg?invert_in_darkmode" align=middle width=393.41445pt height=16.438356pt/></p>
