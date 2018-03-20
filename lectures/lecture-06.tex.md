@@ -121,4 +121,15 @@ the sentence $q$.
 ## 6.3 Logical consequence
 
 A sentence $\psi$ is a _logical consequence_ of a sentence $\phi$, if $\psi = T$
-whenever $\psi = T$. We write this as $\phu \implies \psi$.
+whenever $\psi = T$. We write this as $\phi \implies \psi$.
+
+It might help to think that:
+
+$\implies$ corresponds to $\to$ in the same way $\equiv$ corresponds to
+$\leftrightarrow$
+
+We say that $\phi \equiv \psi$ exactly when $\phi \leftrightarrow$ is a
+tautology.
+
+In the same way, $\phi \implies \psi$ exactly when $\phi \to \psi$ is a
+tautology.
