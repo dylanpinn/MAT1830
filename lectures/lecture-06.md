@@ -79,3 +79,27 @@ contrapositives.
 **Implication:** "haste" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e49c6dac8af82421dba6bed976a80bd9.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/> "waste"
 
 **Contrapositive:** "no waste" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e49c6dac8af82421dba6bed976a80bd9.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/> "no haste"
+
+### Question
+
+Suppose "If x is mimsy, then x is not frumious" is true. What can we say about
+whether the following statements are true?
+
+1. "If x is not frumious, then x is mimsy."
+2. "x is mimsey and x is frumious."
+3. "if x is frumious, then x is not mimsy."
+
+(1) maybe, (2) false, (3) true
+
+### Question 6.4
+
+Show that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3aa3b4bab2e10ab5dc2f3e143bfb409c.svg?invert_in_darkmode" align=middle width=134.624985pt height=24.65759999999998pt/> is a tautology.
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/fd678caf9c7d3d3cb004a312354aecd2.svg?invert_in_darkmode" align=middle width=155.629485pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f9d9ec54d266ca54a69fcb2c07199001.svg?invert_in_darkmode" align=middle width=159.28242pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6b13b13631a9060029e7ae48dc060da1.svg?invert_in_darkmode" align=middle width=162.93552pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/0276652d14c6ead898c2a4624948c7de.svg?invert_in_darkmode" align=middle width=119.09996999999998pt height=12.3288pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9d988f98de23f29d295d04c5ee268bbb.svg?invert_in_darkmode" align=middle width=150.15pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a19539480a0cc6b0133e96dcbf2d7280.svg?invert_in_darkmode" align=middle width=67.87291499999999pt height=14.429217pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c1d5631299f1af9861ff7a8dbee8b734.svg?invert_in_darkmode" align=middle width=11.889306pt height=11.23287pt/></p>
+
