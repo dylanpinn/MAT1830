@@ -101,6 +101,6 @@ $$\equiv \neg p \lor (\neg q \lor (r \to p))$$
 $$\equiv \neg p \lor (\neg q \lor (\neg r \lor p))$$
 $$\equiv \neg p \lor \neg q \lor \neg r p$$
 $$\equiv (\neg p \lor p) \lor \neg q \lor \neg r$$
-$$T \lor \neg q \neg r$$
-$$T$$
+$$\equiv T \lor \neg q \neg r$$
+$$\equiv T$$
 
