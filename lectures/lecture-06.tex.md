@@ -111,3 +111,14 @@ and $p \to (q \to (r \to p))$ for $n=3$.
 
 $$p_1 \to (p_2 \to (p_3 \to (p_4 \to \dots (p_{n-1} \to (p_n \to p_1 )) \dots
 )))$$
+
+## 6.2 Modus ponens
+
+The tautology $((p \to q) \land p) \to q$ also translates into a rule of
+inference known as _modus ponens:_ from sentences $p \to q$ and $p$ we can infer
+the sentence $q$.
+
+## 6.3 Logical consequence
+
+A sentence $\psi$ is a _logical consequence_ of a sentence $\phi$, if $\psi = T$
+whenever $\psi = T$. We write this as $\phu \implies \psi$.
