@@ -104,3 +104,10 @@ $$\equiv (\neg p \lor p) \lor \neg q \lor \neg r$$
 $$\equiv T \lor \neg q \neg r$$
 $$\equiv T$$
 
+### Question 6.5
+
+Find a tautology form with $n$ variables which is $p \to (q \to p)$ for $n=2$
+and $p \to (q \to (r \to p))$ for $n=3$.
+
+$$p_1 \to (p_2 \to (p_3 \to (p_4 \to \dots (p_{n-1} \to (p_n \to p_1 )) \dots
+)))$$
