@@ -80,3 +80,27 @@ contrapositives.
 **Implication:** "haste" $\to$ "waste"
 
 **Contrapositive:** "no waste" $\to$ "no haste"
+
+### Question
+
+Suppose "If x is mimsy, then x is not frumious" is true. What can we say about
+whether the following statements are true?
+
+1. "If x is not frumious, then x is mimsy."
+2. "x is mimsey and x is frumious."
+3. "if x is frumious, then x is not mimsy."
+
+(1) maybe, (2) false, (3) true
+
+### Question 6.4
+
+Show that $p \to (q \to (r \to p))$ is a tautology.
+
+$$\equiv \neg p \lor (q \to (r \to p))$$
+$$\equiv \neg p \lor (\neg q \lor (r \to p))$$
+$$\equiv \neg p \lor (\neg q \lor (\neg r \lor p))$$
+$$\equiv \neg p \lor \neg q \lor \neg r p$$
+$$\equiv (\neg p \lor p) \lor \neg q \lor \neg r$$
+$$T \lor \neg q \neg r$$
+$$T$$
+
