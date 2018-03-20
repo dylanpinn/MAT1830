@@ -47,3 +47,13 @@ the original statement.
 $$\neg (p \to q) \equiv \neg (\neg p \lor q)$$
 $$\equiv \neg \neg p \land \neg q$$
 $$\equiv p \land \neg q$$
+
+"If he were the dean then he'd have pants on.""
+
+**Contrapositive:** "If he doesn't have pants on then he isn't the dean."
+
+Logically equivalent to the original statement!
+
+**Negation:** "He's the dean and he doesn't have pants on."
+
+True exactly when the original statement is false.
