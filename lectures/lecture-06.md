@@ -109,3 +109,14 @@ Find a tautology form with <img src="https://rawgit.com/dylanpinn/MAT1830/master
 and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3aa3b4bab2e10ab5dc2f3e143bfb409c.svg?invert_in_darkmode" align=middle width=134.624985pt height=24.65759999999998pt/> for <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aa6905d780872f0007f642420d7a2d9c.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
 
 <p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/999e10419e85a914862f938816afee28.svg?invert_in_darkmode" align=middle width=393.41445pt height=16.438356pt/></p>
+
+## 6.2 Modus ponens
+
+The tautology <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1a8270a023f0afbd3abd41e35d6e41e9.svg?invert_in_darkmode" align=middle width=127.37422500000002pt height=24.65759999999998pt/> also translates into a rule of
+inference known as _modus ponens:_ from sentences <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2857c19c3ea1f88d3e6309be566b7046.svg?invert_in_darkmode" align=middle width=41.769420000000004pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> we can infer
+the sentence <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d5c18a8ca1894fd3a7d25f242cbe8890.svg?invert_in_darkmode" align=middle width=7.928167500000005pt height=14.155350000000013pt/>.
+
+## 6.3 Logical consequence
+
+A sentence <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7e3c241c2dec821bd6c6fbd314fe4762.svg?invert_in_darkmode" align=middle width=11.297715000000004pt height=22.831379999999992pt/> is a _logical consequence_ of a sentence <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f50853d41be7d55874e952eb0d80c53e.svg?invert_in_darkmode" align=middle width=9.794565000000006pt height=22.831379999999992pt/>, if <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/10e101c2026db2147e0c77307f532427.svg?invert_in_darkmode" align=middle width=45.104565pt height=22.831379999999992pt/>
+whenever <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/10e101c2026db2147e0c77307f532427.svg?invert_in_darkmode" align=middle width=45.104565pt height=22.831379999999992pt/>. We write this as <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5ec9c99c7c0dc8dc6de8bd194b25c07b.svg?invert_in_darkmode" align=middle width=46.91412pt height=22.831379999999992pt/>.
