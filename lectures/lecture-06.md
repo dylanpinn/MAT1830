@@ -33,3 +33,16 @@ What is the contrapositive of "If <img src="https://rawgit.com/dylanpinn/MAT1830
 
 "If <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c195b4d2dcdbaaecb13ed8c83438c791.svg?invert_in_darkmode" align=middle width=47.751165pt height=22.831379999999992pt/> (mod 6), then <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/86cc7301c00ca89447534080e14ad01a.svg?invert_in_darkmode" align=middle width=39.53185500000001pt height=22.831379999999992pt/> (mod 6)."
 
+### Contrapositives are not negations!
+
+Don't confuse contrapositives with negations.
+
+We've seen that the contrapositive of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2857c19c3ea1f88d3e6309be566b7046.svg?invert_in_darkmode" align=middle width=41.769420000000004pt height=14.155350000000013pt/> is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5c5ff038a240620a59cfe401033fe4f3.svg?invert_in_darkmode" align=middle width=63.687195pt height=14.155350000000013pt/> and that
+is logically equivalent to the original statement.
+
+The negation of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2857c19c3ea1f88d3e6309be566b7046.svg?invert_in_darkmode" align=middle width=41.769420000000004pt height=14.155350000000013pt/> is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e5a366c2f461424e115f2e58e245c480.svg?invert_in_darkmode" align=middle width=65.513745pt height=24.65759999999998pt/>. It is not logically equivalent to
+the original statement.
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/05d0809b6109565c12aacb82e453153d.svg?invert_in_darkmode" align=middle width=156.59786999999997pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/66bf877892c106e55ba86370a5004c35.svg?invert_in_darkmode" align=middle width=84.691695pt height=12.3288pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a875a8bec7acc304f62df816a7792294.svg?invert_in_darkmode" align=middle width=62.77392pt height=12.3288pt/></p>
