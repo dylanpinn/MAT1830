@@ -56,3 +56,26 @@ Logically equivalent to the original statement!
 **Negation:** "He's the dean and he doesn't have pants on."
 
 True exactly when the original statement is false.
+
+### Question 6.3
+
+Write down the following sentences as implications and then write their
+contrapositives.
+
+**Sentence:** "You can't make an omelette without breaking eggs."
+
+**Implication:** "you made an omelette" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e49c6dac8af82421dba6bed976a80bd9.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/> "you broke eggs."
+
+**Contrapositive:** "you didn't break eggs" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e49c6dac8af82421dba6bed976a80bd9.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/> "you didn't make an omelette"
+
+**Sentence:** "If <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/> is even, so is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/021273d50c6ff03efebda428e9e42d77.svg?invert_in_darkmode" align=middle width=16.419480000000004pt height=26.76201000000001pt/>."
+
+**Implication:** "n is even" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e49c6dac8af82421dba6bed976a80bd9.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/> "<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/021273d50c6ff03efebda428e9e42d77.svg?invert_in_darkmode" align=middle width=16.419480000000004pt height=26.76201000000001pt/> is even"
+
+**Contrapositive:** "<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/021273d50c6ff03efebda428e9e42d77.svg?invert_in_darkmode" align=middle width=16.419480000000004pt height=26.76201000000001pt/> is odd" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e49c6dac8af82421dba6bed976a80bd9.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/> "n is odd"
+
+**Sentence:** "Haste makes waste."
+
+**Implication:** "haste" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e49c6dac8af82421dba6bed976a80bd9.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/> "waste"
+
+**Contrapositive:** "no waste" <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e49c6dac8af82421dba6bed976a80bd9.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/> "no haste"
