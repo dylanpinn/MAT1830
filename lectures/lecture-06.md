@@ -119,4 +119,15 @@ the sentence <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex
 ## 6.3 Logical consequence
 
 A sentence <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7e3c241c2dec821bd6c6fbd314fe4762.svg?invert_in_darkmode" align=middle width=11.297715000000004pt height=22.831379999999992pt/> is a _logical consequence_ of a sentence <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f50853d41be7d55874e952eb0d80c53e.svg?invert_in_darkmode" align=middle width=9.794565000000006pt height=22.831379999999992pt/>, if <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/10e101c2026db2147e0c77307f532427.svg?invert_in_darkmode" align=middle width=45.104565pt height=22.831379999999992pt/>
-whenever <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/10e101c2026db2147e0c77307f532427.svg?invert_in_darkmode" align=middle width=45.104565pt height=22.831379999999992pt/>. We write this as <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5ec9c99c7c0dc8dc6de8bd194b25c07b.svg?invert_in_darkmode" align=middle width=46.91412pt height=22.831379999999992pt/>.
+whenever <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/10e101c2026db2147e0c77307f532427.svg?invert_in_darkmode" align=middle width=45.104565pt height=22.831379999999992pt/>. We write this as <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9736258c36f60779ca4e1f96c12c14f6.svg?invert_in_darkmode" align=middle width=65.840775pt height=22.831379999999992pt/>.
+
+It might help to think that:
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1b0d922798b4d32a51ea4cf1c23d30ec.svg?invert_in_darkmode" align=middle width=26.484315000000006pt height=14.155350000000013pt/> corresponds to <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e49c6dac8af82421dba6bed976a80bd9.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/> in the same way <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ebf45b23c8b2fe7cb8bf20cb8bbd565d.svg?invert_in_darkmode" align=middle width=12.785520000000004pt height=15.24665999999999pt/> corresponds to
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/43c24ae4490ffb3a4e8e30d0250ffd2c.svg?invert_in_darkmode" align=middle width=16.438455000000005pt height=14.155350000000013pt/>
+
+We say that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9c58f2b3d87a1ef5a6812cef964462cb.svg?invert_in_darkmode" align=middle width=43.00989pt height=22.831379999999992pt/> exactly when <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6ccb82abed3752a71fac7a90b4298699.svg?invert_in_darkmode" align=middle width=30.799065000000006pt height=22.831379999999992pt/> is a
+tautology.
+
+In the same way, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9736258c36f60779ca4e1f96c12c14f6.svg?invert_in_darkmode" align=middle width=65.840775pt height=22.831379999999992pt/> exactly when <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/bd30539cd585ab9df512f211b49cf97b.svg?invert_in_darkmode" align=middle width=46.662825000000005pt height=22.831379999999992pt/> is a
+tautology.
