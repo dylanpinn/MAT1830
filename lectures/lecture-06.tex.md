@@ -34,3 +34,16 @@ What is the contrapositive of "If $x \equiv 0$ (mod 6), then $2x \equiv 0$ (mod
 
 "If $2x \not\equiv 0$ (mod 6), then $x \not\equiv 0$ (mod 6)."
 
+### Contrapositives are not negations!
+
+Don't confuse contrapositives with negations.
+
+We've seen that the contrapositive of $p \to q$ is $\neg q \to \neg p$ and that
+is logically equivalent to the original statement.
+
+The negation of $p \to q$ is $\neg (p \to q)$. It is not logically equivalent to
+the original statement.
+
+$$\neg (p \to q) \equiv \neg (\neg p \lor q)$$
+$$\equiv \neg \neg p \land \neg q$$
+$$\equiv p \land \neg q$$
