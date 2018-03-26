@@ -33,3 +33,12 @@ rose(x): "x is a rose"
 red(x): "x is red"
 
 <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8e5d5cee4ce9b587f97783a949902271.svg?invert_in_darkmode" align=middle width=152.56857pt height=24.65759999999998pt/>
+
+### Question 7.2
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/df97415f8172a229024f8fdd42b8180b.svg?invert_in_darkmode" align=middle width=142.47535499999998pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/636115037645d5b7fae29df0bbef5ab0.svg?invert_in_darkmode" align=middle width=133.54274999999998pt height=16.438356pt/></p>
+
+What does <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/bc8603105f0cd774b753dd97dabc42ca.svg?invert_in_darkmode" align=middle width=100.447215pt height=24.65759999999998pt/> mean?
+
+"n is prime and n is not even." OR "n is an odd prime."
