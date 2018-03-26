@@ -32,4 +32,4 @@ rose(x): "x is a rose"
 
 red(x): "x is red"
 
-$\exists x(\text{rose}(x) \to \text{red}(x))$
+$\forall x(\text{rose}(x) \to \text{red}(x))$
