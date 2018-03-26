@@ -32,4 +32,4 @@ rose(x): "x is a rose"
 
 red(x): "x is red"
 
-<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/60691ab496c20498a56c7c713ed5ad32.svg?invert_in_darkmode" align=middle width=152.56857pt height=24.65759999999998pt/>
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8e5d5cee4ce9b587f97783a949902271.svg?invert_in_darkmode" align=middle width=152.56857pt height=24.65759999999998pt/>
