@@ -33,3 +33,12 @@ rose(x): "x is a rose"
 red(x): "x is red"
 
 $\forall x(\text{rose}(x) \to \text{red}(x))$
+
+### Question 7.2
+
+$$P(n): \text{"n is prime."}$$
+$$E(n): \text{"n is even."}$$
+
+What does $P(n) \land \neg E(n)$ mean?
+
+"n is prime and n is not even." OR "n is an odd prime."
