@@ -7,6 +7,8 @@
     "remark-preset-lint-recommended": "^3.0.1"
   },
   "remarkConfig": {
-    "plugins": ["remark-present-lint-recommended"]
+    "plugins": [
+      "remark-preset-lint-recommended"
+    ]
   }
 }
