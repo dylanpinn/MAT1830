@@ -1,0 +1,50 @@
+\documentclass[11pt]{article}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\begin{document}
+\title{MAT1830 --- Assignment 3}
+\author{Dylan Pinn --- 24160547}
+\maketitle
+
+\section*{Question 1}
+Consider the following sentences. Under the interpretation where $x$ and $y$ range over the positive integers and $P(x,y)$ is the predicate "$y=x+7$", state whether each sentence is true or false and give a short explanation of why.
+
+\begin{enumerate}[label= (\alph*)]
+	\item $\forall y \exists x P(x, y)$
+	\item $\forall x \exists y P(x, y)$
+	\item $\exists y \forall x P(x, y)$
+\end{enumerate}
+
+\section*{Question 2}
+Use logic laws to show that
+$$\neg (\forall xA(x) \to \forall x \exists y \neg B(x, y))$$
+is logically equivalent to
+$$\forall xA(x) \land \exists x \forall y B(x, y)$$
+
+\section*{Question 3}
+Is the sentence
+$$(\exists xQ(x) \land \exists xR(x)) \to \exists x(Q(x) \land R(x))$$
+valid?
+
+\section*{Question 4}
+Prove using simple induction that, for each integer $n \geq 1$,
+$$5+5^2+5^3+\dots + 5^n = \frac{5^{n+1}-5}{4}$$
+
+Let $P(n)$ be the statement $5+5^2+5^3+\dots + 5^n = \frac{5^{n+1}-5}{4}$
+
+\emph{Base step.} The left hand side of $P(1)$ is 5 and the right hand side of $P(1)$ is $\frac{5^{1+1}-5}{4} = \frac{5^2-5}{4}=\frac{25-5}{4} = \frac{20}{4} = 5$
+
+\emph{Induction step.} For some integer $k \geq 1$, assume that $P(k)$ is true. That is assume that
+$$1 + 2^2 + 3^3 + \dots + k^k = \frac{5^{k+1}-5}{4}$$
+
+Now we need to prove that $P(k+1)$ is true. So we must show that
+$$1 + 2^2 + 3^3 + \dots + (k+1)^{k+1} = \frac{5^{k+1+1}-5}{4}$$
+
+Working with the left hand side of the equation we see that
+
+\begin{align*}
+	1+2^2+3^3+ \dots + (k+1)^{k+1} &= (1 + 2^2 + 3^3 + \dots + k^k) + (k+1)^{k+1} \\
+	&= \frac{5^{k+1}-5}{4} + (k+1)^{k+1} \text{ (using our assumption)} 
+\end{align}
+
+\end{document}
