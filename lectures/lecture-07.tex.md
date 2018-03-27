@@ -87,13 +87,13 @@ Let x and y range over all people.
 $\forall x \exists y(x \text{ is friends with } y)$ Think: ∀x(∃y(x is friends
 with y)).
 
-∃y(x is friends with y) is saying “x has a friend.”
+$\exists y(x$ is friends with $y)$ is saying “x has a friend.”
 
-∀x∃y(x is friends with y) is saying “Everybody has a friend.”
+$\forall x \exists y(x$ is friends with $y)$ is saying “Everybody has a friend.”
 
-∃x ∀y (x is friends with y ) Think: ∃x(∀y(x is friends with y))
+$\exists x \forall y (x$ is friends with $y)$ Think: ∃x(∀y(x is friends with y))
 
-∀y(x is friends with y) is saying “x is friends with everybody.”
+$\forall y(x$ is friends with $y)$ is saying “x is friends with everybody.”
 
-∃x∀y(x is friends with y) is saying “There is somebody that is friends with
-everybody."
+$\exists x \forall y(x$ is friends with $y)$ is saying “There is somebody that
+is friends with everybody."
