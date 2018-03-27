@@ -64,3 +64,16 @@ $\forall x(\text{pol}(x) \to \neg \text{liar}(x))$
 
 $\exists x(\text{pol}(x) \land \neg \text{liar}(x))$
 
+### Question
+
+Let $n$ range over the integers.
+
+$P(n):$ "n is prime."
+
+$E(n):$ "n is even."
+
+$G(n):$ "$n \geq 3$."
+
+What does $\exists n((P(N) \land G(N)) \to \neg E(n))$ mean?
+
+"All primes are greater than or equal to 3 are odd."
