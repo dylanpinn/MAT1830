@@ -77,3 +77,23 @@ $G(n):$ "$n \geq 3$."
 What does $\exists n((P(N) \land G(N)) \to \neg E(n))$ mean?
 
 "All primes are greater than or equal to 3 are odd."
+
+## 7.4 Alternating quantifiers
+
+### Order of quantifiers
+
+Let x and y range over all people.
+
+$\forall x \exists y(x \text{ is friends with } y)$ Think: ∀x(∃y(x is friends
+with y)).
+
+∃y(x is friends with y) is saying “x has a friend.”
+
+∀x∃y(x is friends with y) is saying “Everybody has a friend.”
+
+∃x ∀y (x is friends with y ) Think: ∃x(∀y(x is friends with y))
+
+∀y(x is friends with y) is saying “x is friends with everybody.”
+
+∃x∀y(x is friends with y) is saying “There is somebody that is friends with
+everybody."
