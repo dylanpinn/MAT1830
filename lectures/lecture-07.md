@@ -64,3 +64,16 @@ What does <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/bc
 
 <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/77edd86bd9299e652d197b58f13560bd.svg?invert_in_darkmode" align=middle width=151.061955pt height=24.65759999999998pt/>
 
+### Question
+
+Let <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode" align=middle width=9.867000000000003pt height=14.155350000000013pt/> range over the integers.
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c8c02a6fffa7cbdf49bc81021a13e318.svg?invert_in_darkmode" align=middle width=44.621445pt height=24.65759999999998pt/> "n is prime."
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/da1213b6cdc8fd55abf73929a239e5cd.svg?invert_in_darkmode" align=middle width=44.8668pt height=24.65759999999998pt/> "n is even."
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7cef5b7dc8769438eb9d946c46331097.svg?invert_in_darkmode" align=middle width=44.70939pt height=24.65759999999998pt/> "<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/84872ff6fed071721ce0bdbc5e6a80be.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>."
+
+What does <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ac9fc2ab8274b08d26551ee5ccdc5691.svg?invert_in_darkmode" align=middle width=216.43165499999995pt height=24.65759999999998pt/> mean?
+
+"All primes are greater than or equal to 3 are odd."
