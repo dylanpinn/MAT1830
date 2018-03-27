@@ -100,3 +100,29 @@ everybody.”
 
 $\exists x \forall y(x \text{ is friends with } y)$ is saying “There is
 somebody that is friends with everybody."
+
+### Question
+
+Let c range over all countries and p range over all people $P(p,c):$ "p lives in
+c."
+
+What does $\forall c \exist p P(p, c)$ mean? Is it true?
+
+"Every country has somebody living in it." TRUE
+
+What does $\exists c \forall p P(p,c)$ mean? Is it true?
+
+"There is one country that everybody lives in." FALSE
+
+### Question
+
+Let x and y range over the integers. $N(x,y): "x+y=0"$
+
+Is $\exists x \forall y N(x, y)$ true or false? Is $\forall x \exists y N(x,y)$
+true or false?
+
+The first statement says there is a single integer so that when any other
+integer is added to it the result is 0. This is false.
+
+The second statement says that for every integer there is another integer so
+that when the two are added the result is 0. This is true.
