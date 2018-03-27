@@ -42,3 +42,25 @@ $$E(n): \text{"n is even."}$$
 What does $P(n) \land \neg E(n)$ mean?
 
 "n is prime and n is not even." OR "n is an odd prime."
+
+### Question 7.3
+
+$$\text{pol}(x): \text{"x is a politician."}$$
+$$\text{liar}(x): \text{"x is a liar."}$$
+
+"All politicians are liars."
+
+$\forall x(\text{pol}(x) \to \text{liar}(x))$
+
+"Some politicians are liars."
+
+$\exists x(\text{pol}(x) \land \text{liar}(x))$
+
+"No politicians are liars."
+
+$\forall x(\text{pol}(x) \to \neg \text{liar}(x))$
+
+"Some politicians are not liars."
+
+$\exists x(\text{pol}(x) \land \neg \text{liar}(x))$
+
