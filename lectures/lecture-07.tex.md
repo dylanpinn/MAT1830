@@ -116,7 +116,7 @@ What does $\exists c \forall p P(p,c)$ mean? Is it true?
 
 ### Question
 
-Let x and y range over the integers. $N(x,y): "x+y=0"$
+Let x and y range over the integers. $N(x,y): "x + y = 0"$
 
 Is $\exists x \forall y N(x, y)$ true or false? Is $\forall x \exists y N(x,y)$
 true or false?
