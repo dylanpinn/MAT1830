@@ -94,3 +94,7 @@ friend.”
 
 $\exists x \forall y(x \text{ is friends with } y)$ Think: ∃x(∀y(x is friends
 with y))
+
+$\forall y(x \text{ is friends with } y)$ is saying “x is friends with
+everybody.”
+
