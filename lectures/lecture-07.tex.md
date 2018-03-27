@@ -88,3 +88,6 @@ $\forall x \exists y(x \text{ is friends with } y)$ Think: ∀x(∃y(x is friend
 with y)).
 
 $\exists y(x \text{ is friends with } y)$ is saying “x has a friend.”
+
+$\forall x \exists y(x \text{ is friends with } y)$ is saying “Everybody has a
+friend.”
