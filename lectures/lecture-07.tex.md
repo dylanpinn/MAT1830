@@ -89,11 +89,14 @@ with y)).
 
 $\exists y(x \text{ is friends with } y)$ is saying “x has a friend.”
 
-$\forall x \exists y(x \text{ is friends with } y)$ is saying “Everybody has a friend.”
+$\forall x \exists y(x \text{ is friends with } y)$ is saying “Everybody has a
+friend.”
 
-$\exists x \forall y (x \text{ is friends with } y)$ Think: ∃x(∀y(x is friends with y))
+$\exists x \forall y (x \text{ is friends with } y)$ Think: ∃x(∀y(x is friends
+with y))
 
-$\forall y(x \text{ is friends with } y)$ is saying “x is friends with everybody.”
+$\forall y(x \text{ is friends with } y)$ is saying “x is friends with
+everybody.”
 
-$\exists x \forall y(x \text{ is friends with } y)$ is saying “There is somebody that
-is friends with everybody."
+$\exists x \forall y(x \text{ is friends with } y)$ is saying “There is
+somebody that is friends with everybody."
