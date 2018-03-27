@@ -88,3 +88,6 @@ Let x and y range over all people.
 with y)).
 
 <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ff909371fdb83cca6f2cd3e326554342.svg?invert_in_darkmode" align=middle width=161.62525499999998pt height=24.65759999999998pt/> is saying “x has a friend.”
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d6c5bc14f61bdf78d9bbbf1e94c7cd75.svg?invert_in_darkmode" align=middle width=180.153105pt height=24.65759999999998pt/> is saying “Everybody has a
+friend.”
