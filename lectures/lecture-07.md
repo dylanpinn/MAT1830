@@ -42,3 +42,25 @@ red(x): "x is red"
 What does <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/bc8603105f0cd774b753dd97dabc42ca.svg?invert_in_darkmode" align=middle width=100.447215pt height=24.65759999999998pt/> mean?
 
 "n is prime and n is not even." OR "n is an odd prime."
+
+### Question 7.3
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/df8bbdcd15bd129bf9384026dbff6821.svg?invert_in_darkmode" align=middle width=190.76475pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f21ef815b40acdd01084ee3cd3356046.svg?invert_in_darkmode" align=middle width=148.84716pt height=16.438356pt/></p>
+
+"All politicians are liars."
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7d8af122d1d9cd2a6aa985cf1c261583.svg?invert_in_darkmode" align=middle width=147.40885499999996pt height=24.65759999999998pt/>
+
+"Some politicians are liars."
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/84e4a36e0edfbb12f5286a443f86d2a0.svg?invert_in_darkmode" align=middle width=140.102985pt height=24.65759999999998pt/>
+
+"No politicians are liars."
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a4670f0458facc0e31de16ec71d6b7b.svg?invert_in_darkmode" align=middle width=158.368155pt height=24.65759999999998pt/>
+
+"Some politicians are not liars."
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/77edd86bd9299e652d197b58f13560bd.svg?invert_in_darkmode" align=middle width=151.061955pt height=24.65759999999998pt/>
+
