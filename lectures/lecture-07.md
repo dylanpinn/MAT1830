@@ -91,3 +91,6 @@ with y)).
 
 <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d6c5bc14f61bdf78d9bbbf1e94c7cd75.svg?invert_in_darkmode" align=middle width=180.153105pt height=24.65759999999998pt/> is saying “Everybody has a
 friend.”
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e93cf46348ef04504ee20a11551c387f.svg?invert_in_darkmode" align=middle width=180.153105pt height=24.65759999999998pt/> Think: ∃x(∀y(x is friends
+with y))
