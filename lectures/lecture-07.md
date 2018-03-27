@@ -100,3 +100,29 @@ everybody.”
 
 <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e93cf46348ef04504ee20a11551c387f.svg?invert_in_darkmode" align=middle width=180.153105pt height=24.65759999999998pt/> is saying “There is
 somebody that is friends with everybody."
+
+### Question
+
+Let c range over all countries and p range over all people <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/927b3e2edc178c188f19b22d8da7eeee.svg?invert_in_darkmode" align=middle width=57.444915pt height=24.65759999999998pt/> "p lives in
+c."
+
+What does <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4b403aead4b08b3e3e030794f0e8c83d.svg?invert_in_darkmode" align=middle width=72.82935pt height=24.65759999999998pt/> mean? Is it true?
+
+"Every country has somebody living in it." TRUE
+
+What does <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7e8596744510fcd44f0f6cfc8ae7940b.svg?invert_in_darkmode" align=middle width=81.96177pt height=24.65759999999998pt/> mean? Is it true?
+
+"There is one country that everybody lives in." FALSE
+
+### Question
+
+Let x and y range over the integers. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e404f236a293ec4a37cd7acfd97265c6.svg?invert_in_darkmode" align=middle width=151.54458pt height=24.65759999999998pt/>
+
+Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cfa171e8bed4b838833ea24074dcda3b.svg?invert_in_darkmode" align=middle width=89.44468499999999pt height=24.65759999999998pt/> true or false? Is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/424daa8813a9045c186f40079863f661.svg?invert_in_darkmode" align=middle width=89.44468499999999pt height=24.65759999999998pt/>
+true or false?
+
+The first statement says there is a single integer so that when any other
+integer is added to it the result is 0. This is false.
+
+The second statement says that for every integer there is another integer so
+that when the two are added the result is 0. This is true.
