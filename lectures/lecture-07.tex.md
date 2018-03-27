@@ -98,3 +98,5 @@ with y))
 $\forall y(x \text{ is friends with } y)$ is saying “x is friends with
 everybody.”
 
+$\exists x \forall y(x \text{ is friends with } y)$ is saying “There is
+somebody that is friends with everybody."
