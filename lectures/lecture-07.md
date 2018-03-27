@@ -98,3 +98,5 @@ with y))
 <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d7c12f651998dcea8f65a7566d15d9bb.svg?invert_in_darkmode" align=middle width=161.62525499999998pt height=24.65759999999998pt/> is saying “x is friends with
 everybody.”
 
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e93cf46348ef04504ee20a11551c387f.svg?invert_in_darkmode" align=middle width=180.153105pt height=24.65759999999998pt/> is saying “There is
+somebody that is friends with everybody."
