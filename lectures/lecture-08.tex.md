@@ -68,7 +68,7 @@ Does $\forall x \exists yR(x,y) \Rightarrow \exists y \forall xR(x,y)$?
 No. Let $x$ and $y$ range over the real numbers and $R(x,y)$ be $x < y$. Then
 $\forall x \exists yR(x,y)$ is true but $\exists y \forall xR(x,y)$ is false.
 
-## Question 8.4
+### Question 8.4
 
 Does $\exists y \forall xR(x,y) \Rightarrow \forall x \exists yR(x,y)$?
 
@@ -77,3 +77,14 @@ $y \prime$, such that $R(x, y \prime) \equiv T$ for all $x$. So then for any $x$
 there is a value of $y$, namely $y \prime$, such that $R(x,y \prime) \equiv T$.
 So $\forall x \exists yR(x,y)$ is true.
 
+### Question
+
+Does $\forall xP(x) \lor \forall xQ(x) \Rightarrow \forall x(P(x) \lor Q(x))$?
+
+**Thinking:** The LHS is effectively $(\forall xP(x)) \lor (\forall xQ(x))$ It's
+an $\lor$ of two separate $\forall$ statements.
+
+**Answer:** Yes. If the first statement is true, then $P(x)$ is true for all $x$
+in the range or $Q(x)$ is true for all $x$ in the range. In each case this will
+mean that $P(x) \lor Q(x)$ is true for all $x$ in the range, and so the second
+statement will be true.
