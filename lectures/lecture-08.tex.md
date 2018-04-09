@@ -68,4 +68,12 @@ Does $\forall x \exists yR(x,y) \Rightarrow \exists y \forall xR(x,y)$?
 No. Let $x$ and $y$ range over the real numbers and $R(x,y)$ be $x < y$. Then
 $\forall x \exists yR(x,y)$ is true but $\exists y \forall xR(x,y)$ is false.
 
+## Question 8.4
+
+Does $\exists y \forall xR(x,y) \Rightarrow \forall x \exists yR(x,y)$?
+
+Yes. If $\exists y \forall xR(x,y)$ is true then there is one specific $y$, say
+$y \prime$, such that $R(x, y \prime) \equiv T$ for all $x$. So then for any $x$
+there is a value of $y$, namely $y \prime$, such that $R(x,y \prime) \equiv T$.
+So $\forall x \exists yR(x,y)$ is true.
 
