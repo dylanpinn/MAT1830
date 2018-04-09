@@ -44,6 +44,11 @@ hence is valid.
 
 ## 8.4 Consequence and equivalence
 
+As in propositional logic, a sentence $\psi$ is a _logical consequence_ of a
+sentence $\phi$ if any interpretation which makes $\phi$ true makes $\psi$ true.
+Again we write $\phi \Rightarrow \psi$ if $\psi$ is a consequence of $\phi$, and
+this the same as saying $\phi \to \psi$ is valid.
+
 ### Question 8.2
 
 Give an interpretation to show that $\exists x(P(x) \land L(x))$ and $\exists
