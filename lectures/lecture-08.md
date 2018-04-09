@@ -120,3 +120,14 @@ In C, the LHS is true and the RHS is false, as required.
 D cannot be correct because C shows <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/05f7f3829760b85f420cac284821be8d.svg?invert_in_darkmode" align=middle width=281.81290499999994pt height=24.65759999999998pt/>.
 
 So C.
+
+## 8.5 Useful equivalences
+
+Two important equivalences involving quantifiers are:
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/67a0dcb54200bcf17e61ab52df8c7cf0.svg?invert_in_darkmode" align=middle width=150.92484pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/edf2ef16d3475f03993da872e3300c43.svg?invert_in_darkmode" align=middle width=150.92484pt height=16.438356pt/></p>
+
+These makes sense intuitively. For example, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/04120abefd259e101174da1d52576708.svg?invert_in_darkmode" align=middle width=64.503615pt height=24.65759999999998pt/> means <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/52be0087c9da1f0683ccc50761e8bcab.svg?invert_in_darkmode" align=middle width=35.01729pt height=24.65759999999998pt/> is
+not true for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/>, hence there is an <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> for which <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/52be0087c9da1f0683ccc50761e8bcab.svg?invert_in_darkmode" align=middle width=35.01729pt height=24.65759999999998pt/> is false, that is,
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ff81bb1a337a4a77929f40602ebf9a5a.svg?invert_in_darkmode" align=middle width=64.503615pt height=24.65759999999998pt/>.
