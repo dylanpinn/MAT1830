@@ -44,6 +44,11 @@ hence is valid.
 
 ## 8.4 Consequence and equivalence
 
+As in propositional logic, a sentence <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7e3c241c2dec821bd6c6fbd314fe4762.svg?invert_in_darkmode" align=middle width=11.297715000000004pt height=22.831379999999992pt/> is a _logical consequence_ of a
+sentence <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f50853d41be7d55874e952eb0d80c53e.svg?invert_in_darkmode" align=middle width=9.794565000000006pt height=22.831379999999992pt/> if any interpretation which makes <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f50853d41be7d55874e952eb0d80c53e.svg?invert_in_darkmode" align=middle width=9.794565000000006pt height=22.831379999999992pt/> true makes <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7e3c241c2dec821bd6c6fbd314fe4762.svg?invert_in_darkmode" align=middle width=11.297715000000004pt height=22.831379999999992pt/> true.
+Again we write <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1a34f8919390041c407f7f9fdaa737f5.svg?invert_in_darkmode" align=middle width=46.662825000000005pt height=22.831379999999992pt/> if <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7e3c241c2dec821bd6c6fbd314fe4762.svg?invert_in_darkmode" align=middle width=11.297715000000004pt height=22.831379999999992pt/> is a consequence of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f50853d41be7d55874e952eb0d80c53e.svg?invert_in_darkmode" align=middle width=9.794565000000006pt height=22.831379999999992pt/>, and
+this the same as saying <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/bd30539cd585ab9df512f211b49cf97b.svg?invert_in_darkmode" align=middle width=46.662825000000005pt height=22.831379999999992pt/> is valid.
+
 ### Question 8.2
 
 Give an interpretation to show that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/faaf171caa9fc28ba3701d54bdbc5646.svg?invert_in_darkmode" align=middle width=117.96246pt height=24.65759999999998pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/79c7e94fe87a9d97cb0c1f44a4ad8564.svg?invert_in_darkmode" align=middle width=128.92143pt height=24.65759999999998pt/> are not equivalent.
