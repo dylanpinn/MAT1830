@@ -67,7 +67,7 @@ Does <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/820067a
 No. Let <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode" align=middle width=8.649300000000004pt height=14.155350000000013pt/> range over the real numbers and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/73919a441dd89d8138f79ea73c6a0d2f.svg?invert_in_darkmode" align=middle width=50.7441pt height=24.65759999999998pt/> be <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/aa99d366a0125c60e3800f3bed358ad4.svg?invert_in_darkmode" align=middle width=39.961845000000004pt height=17.723969999999973pt/>. Then
 <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a90d486d5bcd783a38aabbaf009c768.svg?invert_in_darkmode" align=middle width=87.053175pt height=24.65759999999998pt/> is true but <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e0e6c3457129622b4e7c6d81ffebea8e.svg?invert_in_darkmode" align=middle width=87.053175pt height=24.65759999999998pt/> is false.
 
-## Question 8.4
+### Question 8.4
 
 Does <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3d5c031e54db377f3a955f4159d26c51.svg?invert_in_darkmode" align=middle width=199.677555pt height=24.65759999999998pt/>?
 
@@ -76,3 +76,14 @@ Yes. If <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e0e6
 there is a value of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode" align=middle width=8.649300000000004pt height=14.155350000000013pt/>, namely <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7988ace88d5befc4da7b1849751ce84d.svg?invert_in_darkmode" align=middle width=13.169805000000002pt height=18.265169999999976pt/>, such that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1bf46c3434f57df254f8ffa991086cdf.svg?invert_in_darkmode" align=middle width=89.071455pt height=24.65759999999998pt/>.
 So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a90d486d5bcd783a38aabbaf009c768.svg?invert_in_darkmode" align=middle width=87.053175pt height=24.65759999999998pt/> is true.
 
+### Question
+
+Does <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/b948672b9f5a8b16316ebae445be1b95.svg?invert_in_darkmode" align=middle width=270.85360499999996pt height=24.65759999999998pt/>?
+
+**Thinking:** The LHS is effectively <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4df99a11c4a65cf4510382f551dee028.svg?invert_in_darkmode" align=middle width=151.08356999999998pt height=24.65759999999998pt/> It's
+an <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6007a29527e0ec27309d7829f5754d08.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=18.265169999999976pt/> of two separate <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ecea226b5977d1a327732124dccb8969.svg?invert_in_darkmode" align=middle width=9.132585000000002pt height=22.831379999999992pt/> statements.
+
+**Answer:** Yes. If the first statement is true, then <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/52be0087c9da1f0683ccc50761e8bcab.svg?invert_in_darkmode" align=middle width=35.01729pt height=24.65759999999998pt/> is true for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/>
+in the range or <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a9e90a4d3d59b0dfcec4f4b52795842.svg?invert_in_darkmode" align=middle width=35.175855000000006pt height=24.65759999999998pt/> is true for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> in the range. In each case this will
+mean that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d31787cd76684cd00ed371082cfaa858.svg?invert_in_darkmode" align=middle width=88.45782pt height=24.65759999999998pt/> is true for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> in the range, and so the second
+statement will be true.
