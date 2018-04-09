@@ -87,3 +87,31 @@ an <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6007a2952
 in the range or <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a9e90a4d3d59b0dfcec4f4b52795842.svg?invert_in_darkmode" align=middle width=35.175855000000006pt height=24.65759999999998pt/> is true for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> in the range. In each case this will
 mean that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d31787cd76684cd00ed371082cfaa858.svg?invert_in_darkmode" align=middle width=88.45782pt height=24.65759999999998pt/> is true for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> in the range, and so the second
 statement will be true.
+
+### Question
+
+Does <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/85242950be793112b8a375373c054bc4.svg?invert_in_darkmode" align=middle width=270.85360499999996pt height=24.65759999999998pt/>?
+If not, give an interpretation which proves this.
+
+**A.** No. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> ranges over positive integers, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/52be0087c9da1f0683ccc50761e8bcab.svg?invert_in_darkmode" align=middle width=35.01729pt height=24.65759999999998pt/> is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/97361e18b77255f2ef2dce9e9fe30b0b.svg?invert_in_darkmode" align=middle width=47.751165pt height=21.18732pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a9e90a4d3d59b0dfcec4f4b52795842.svg?invert_in_darkmode" align=middle width=35.175855000000006pt height=24.65759999999998pt/>
+is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8636a5aa414fcc887eb3e16a4ab5a084.svg?invert_in_darkmode" align=middle width=39.53185500000001pt height=21.18732pt/>.
+
+**B.** No. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> ranges over positive integers, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/52be0087c9da1f0683ccc50761e8bcab.svg?invert_in_darkmode" align=middle width=35.01729pt height=24.65759999999998pt/> is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6efbb45658b31c210374682d1b7e85ac.svg?invert_in_darkmode" align=middle width=39.53185500000001pt height=21.18732pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a9e90a4d3d59b0dfcec4f4b52795842.svg?invert_in_darkmode" align=middle width=35.175855000000006pt height=24.65759999999998pt/>
+is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/061542a1d255f600688b4938ab3ebe35.svg?invert_in_darkmode" align=middle width=47.751165pt height=21.18732pt/>.
+
+**C.** No. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> ranges over positive integers, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/52be0087c9da1f0683ccc50761e8bcab.svg?invert_in_darkmode" align=middle width=35.01729pt height=24.65759999999998pt/> is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/97361e18b77255f2ef2dce9e9fe30b0b.svg?invert_in_darkmode" align=middle width=47.751165pt height=21.18732pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8a9e90a4d3d59b0dfcec4f4b52795842.svg?invert_in_darkmode" align=middle width=35.175855000000006pt height=24.65759999999998pt/>
+is <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/09ab94f9c2a8d52ef5e4eb018315924d.svg?invert_in_darkmode" align=middle width=47.751165pt height=21.18732pt/>.
+
+**D.** Yes.
+
+**Answer:** To show <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/06c804f6ca4175c47cdf85495d5a5d5e.svg?invert_in_darkmode" align=middle width=281.81290499999994pt height=24.65759999999998pt/> we need to make the LHS true and the RHS false.
+
+In A, both LHS and RHS are true.
+
+In B, the LHS is false.
+
+In C, the LHS is true and the RHS is false, as required.
+
+D cannot be correct because C shows <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/05f7f3829760b85f420cac284821be8d.svg?invert_in_darkmode" align=middle width=281.81290499999994pt height=24.65759999999998pt/>.
+
+So C.
