@@ -7,13 +7,32 @@
 \maketitle
 
 \section*{Question 1}
-Consider the following sentences. Under the interpretation where $x$ and $y$ range over the positive integers and $P(x,y)$ is the predicate "$y=x+7$", state whether each sentence is true or false and give a short explanation of why.
+Consider the following sentences. Under the interpretation where $x$ and $y$ range over the positive integers and $P(x, y)$ is the predicate "$y=x+7$", state whether each sentence is true or false and give a short explanation of why.
 
 \begin{enumerate}[label= (\alph*)]
 	\item $\forall y \exists x P(x, y)$
+	"For all $y$ there exists a $x$ such that $y = x + 7$
+
+	This is False, as picking an arbitrary number for $y$ such as 1, gives:
+	$$y - x = 7$$
+	$$1 - x = 7$$
+	$$-x = 6$$
+	$$x = -6$$
+	which does not fall in the range of positive integers.
 	\item $\forall x \exists y P(x, y)$
+	"For all $x$ there exists a $y$ such that $y = x + 7$
+
+	This is True, as the expression can be equated to $x = y - 7$ and for every value of $x$ in the range we can find a $y$ also in the range that makes the expression true. $y$ will always be 7 more than $x$.
 	\item $\exists y \forall x P(x, y)$
+	"There exists a $y$ for all $x$ such that $y = x + 7$
+
+	This is False, as picking an arbitrary value for $y$ such as 1 and picking any positive integer for $x$ such as 1 gives:
+	$$1 + 1 = 7$$
+	$$2 = 7$$
+	Which is False.
+
 \end{enumerate}
+\break
 
 \section*{Question 2}
 Use logic laws to show that
@@ -21,10 +40,33 @@ $$\neg (\forall xA(x) \to \forall x \exists y \neg B(x, y))$$
 is logically equivalent to
 $$\forall xA(x) \land \exists x \forall y B(x, y)$$
 
+$$\neg (\forall xA(x) \to \forall x \exists y \neg B(x, y))$$
+$$\equiv \neg (\neg (\forall xA(x) \lor \forall x \exists y \neg B(x, y)) \text{ (Implication law) }$$
+$$\equiv \neg \neg(\forall xA(x)) \land \neg(\forall x\exists y \neg B(x, y)) \text{ (De Morgan's law)}$$
+$$\equiv \forall xA(x) \land \neg(\forall x\exists y \neg B(x, y)) \text{ (Double Negation law)} $$
+$$\equiv \forall xA(x) \land \neg(\forall x \neg \forall yB(x, y))$$
+$$\equiv \forall xA(x) \land \neg(\neg \exists x \forall yB(x, y))$$
+$$\equiv \forall xA(x) \land \neg\neg \exists x \forall yB(x, y)$$
+$$\equiv \forall xA(x) \land \exists x \forall yB(x, y) \text{ (Double Negation law)} $$
+
+Therefore $$\neg (\forall xA(x) \to \forall x \exists y \neg B(x, y))$$ is logically equivalent to $$\forall xA(x) \land \exists x \forall y B(x, y)$$
+
+\break
+
 \section*{Question 3}
 Is the sentence
 $$(\exists xQ(x) \land \exists xR(x)) \to \exists x(Q(x) \land R(x))$$
 valid?
+
+The expression is not valid and is False. For this to be False the LHS must be True and the RHS must be True.
+
+LSH: $(\exists xQ(x) \land \exists xR(x))$
+
+RSH: $(\exists x(Q(x) \land R(x))$
+
+An implementation of this where this holds is $Q(x) \text{ is } x = 0$ and $R(x) \text{ is } x = 1$. The LHS of this is True as there exists a $x$ for $x=0$ and there exists a $x$ for $x=1$. The RHS is False because there doesn't exist a $x$ for which both $x=0$ and $x=1$.
+
+\break
 
 \section*{Question 4}
 Prove using simple induction that, for each integer $n \geq 1$,
@@ -32,19 +74,26 @@ $$5+5^2+5^3+\dots + 5^n = \frac{5^{n+1}-5}{4}$$
 
 Let $P(n)$ be the statement $5+5^2+5^3+\dots + 5^n = \frac{5^{n+1}-5}{4}$
 
-\emph{Base step.} The left hand side of $P(1)$ is 5 and the right hand side of $P(1)$ is $\frac{5^{1+1}-5}{4} = \frac{5^2-5}{4}=\frac{25-5}{4} = \frac{20}{4} = 5$
+\emph{Base step.} The left hand side of $P(1)$ is 5 and the right hand side of $P(1)$ is $\frac{5^{1+1}-5}{4} = \frac{5^2-5}{4}=\frac{25-5}{4} = \frac{20}{4} = 5$. Therefore the base case is true.
 
 \emph{Induction step.} For some integer $k \geq 1$, assume that $P(k)$ is true. That is assume that
-$$1 + 2^2 + 3^3 + \dots + k^k = \frac{5^{k+1}-5}{4}$$
+$$5 + 5^2 + 5^3 + \dots + 5^k = \frac{5^{k+1}-5}{4}$$
 
 Now we need to prove that $P(k+1)$ is true. So we must show that
-$$1 + 2^2 + 3^3 + \dots + (k+1)^{k+1} = \frac{5^{k+1+1}-5}{4}$$
+$$5 + 5^2 + 5^3 + \dots + 5^{k+1} = \frac{5^{k+1+1}-5}{4}$$
 
 Working with the left hand side of the equation we see that
 
 \begin{align*}
-	1+2^2+3^3+ \dots + (k+1)^{k+1} &= (1 + 2^2 + 3^3 + \dots + k^k) + (k+1)^{k+1} \\
-	&= \frac{5^{k+1}-5}{4} + (k+1)^{k+1} \text{ (using our assumption)} 
-\end{align}
+	5+5^2+5^3+ \dots + 5^{k+1} &= (5 + 5^2 + 5^3 + \dots + 5^k) + 5^{k+1} \\
+	&= \frac{5^{k+1}-5}{4} + 5^{k+1} \text{ (using our assumption)} \\
+	&= \frac{5^{k+1}-5}{4} + \frac{20^{k+1}}{4} \\
+	&= \frac{25^{k+1}-5}{4} \\
+	&= \frac{5(5^{k+1}-1)}{4} \\
+	&= \frac{5(1^{k+1+1}-1)}{4} \\
+	&= \frac{5^{k+2}-5}{4}
+\end{align*}
+
+Which is the right hand side we required. Thus $P(k+1)$ is true. So we have proved by induction that $5+5^2+5^3+\dots + 5^n = \frac{5^{n+1}-5}{4}$ for each integer $n \geq q$.
 
 \end{document}
