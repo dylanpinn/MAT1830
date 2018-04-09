@@ -88,3 +88,33 @@ an $\lor$ of two separate $\forall$ statements.
 in the range or $Q(x)$ is true for all $x$ in the range. In each case this will
 mean that $P(x) \lor Q(x)$ is true for all $x$ in the range, and so the second
 statement will be true.
+
+### Question
+
+Does $\forall x(P(x) \lor Q(x)) \Rightarrow \forall xP(x) \lor \forall xQ(x)$?
+If not, give an interpretation which proves this.
+
+**A.** No. $x$ ranges over positive integers, $P(x)$ is $x \leq 10$ and $Q(x)$
+is $x \geq 1$.
+
+**B.** No. $x$ ranges over positive integers, $P(x)$ is $x \leq 5$ and $Q(x)$
+is $x \geq 15$.
+
+**C.** No. $x$ ranges over positive integers, $P(x)$ is $x \leq 10$ and $Q(x)$
+is $x \geq 11$.
+
+**D.** Yes.
+
+**Answer:** To show $\forall x(P(x) \lor Q(x)) \neg \Rightarrow \forall xP(x)
+\lor \forall xQ(x)$ we need to make the LHS true and the RHS false.
+
+In A, both LHS and RHS are true.
+
+In B, the LHS is false.
+
+In C, the LHS is true and the RHS is false, as required.
+
+D cannot be correct because C shows $\forall x(P(x) \lor Q(x)) \neg \Rightarrow
+\forall xP(x) \lor \forall xQ(x)$.
+
+So C.
