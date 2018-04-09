@@ -123,3 +123,14 @@ D cannot be correct because C shows $\forall x(P(x) \lor Q(x)) \neg \Rightarrow
 \forall xP(x) \lor \forall xQ(x)$.
 
 So C.
+
+## 8.5 Useful equivalences
+
+Two important equivalences involving quantifiers are:
+
+$$\neg \forall xP(x) \equiv \exists x \neg P(x)$$
+$$\neg \exists xP(x) \equiv \forall x \neg P(x)$$
+
+These makes sense intuitively. For example, $\neg \forall xP(x)$ means $P(x)$ is
+not true for all $x$, hence there is an $x$ for which $P(x)$ is false, that is,
+$\exists x \neg P(x)$.
