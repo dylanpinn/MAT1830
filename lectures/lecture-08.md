@@ -131,3 +131,27 @@ Two important equivalences involving quantifiers are:
 These makes sense intuitively. For example, <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/04120abefd259e101174da1d52576708.svg?invert_in_darkmode" align=middle width=64.503615pt height=24.65759999999998pt/> means <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/52be0087c9da1f0683ccc50761e8bcab.svg?invert_in_darkmode" align=middle width=35.01729pt height=24.65759999999998pt/> is
 not true for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/>, hence there is an <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode" align=middle width=9.395100000000005pt height=14.155350000000013pt/> for which <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/52be0087c9da1f0683ccc50761e8bcab.svg?invert_in_darkmode" align=middle width=35.01729pt height=24.65759999999998pt/> is false, that is,
 <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ff81bb1a337a4a77929f40602ebf9a5a.svg?invert_in_darkmode" align=middle width=64.503615pt height=24.65759999999998pt/>.
+
+### Question 8.5
+
+Explain why <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cb81667443fcf3ccec5be9f2b9c0f4fa.svg?invert_in_darkmode" align=middle width=203.083155pt height=24.65759999999998pt/>.
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/af131f64c4725bd2f30eb0fa07513c3a.svg?invert_in_darkmode" align=middle width=203.082pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/af69110098e04b14f06199f648500eb9.svg?invert_in_darkmode" align=middle width=107.933925pt height=16.438356pt/></p>
+
+Intuitively: <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9de06c8176af4c7280ffc7155d9af99d.svg?invert_in_darkmode" align=middle width=90.582525pt height=24.65759999999998pt/> means it is not the case that
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d17491f9f9d78fdc3015a4ac48cc20e5.svg?invert_in_darkmode" align=middle width=47.15205pt height=24.65759999999998pt/> is true for all combinations of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4f4f4e395762a3af4575de74c019ebb5.svg?invert_in_darkmode" align=middle width=5.936155500000004pt height=20.222069999999988pt/>. This is the same as saying
+that there is some combination of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode" align=middle width=8.270625000000004pt height=14.155350000000013pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4f4f4e395762a3af4575de74c019ebb5.svg?invert_in_darkmode" align=middle width=5.936155500000004pt height=20.222069999999988pt/> for which <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/d17491f9f9d78fdc3015a4ac48cc20e5.svg?invert_in_darkmode" align=middle width=47.15205pt height=24.65759999999998pt/> is false.
+
+## 8.6 Simplification
+
+The infinite de Morgan's laws allow a certain simplification of predicate
+formulas by "pushing <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/23bf728170c10d0449b90561f827623a.svg?invert_in_darkmode" align=middle width=10.958970000000004pt height=14.155350000000013pt/> inside quantifiers."
+
+**Example:**
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/83aedd7ded7f9fe4ba011d43a19bfa97.svg?invert_in_darkmode" align=middle width=218.71574999999999pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a64afe175a2bcbad77c5d8911b8419e9.svg?invert_in_darkmode" align=middle width=115.75046999999998pt height=16.438356pt/></p>
+
+It is in fact possible to transform any quantified statement in predicate logic
+to an equivalent with all quantifiers at the front.
