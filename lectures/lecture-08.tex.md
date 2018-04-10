@@ -134,3 +134,28 @@ $$\neg \exists xP(x) \equiv \forall x \neg P(x)$$
 These makes sense intuitively. For example, $\neg \forall xP(x)$ means $P(x)$ is
 not true for all $x$, hence there is an $x$ for which $P(x)$ is false, that is,
 $\exists x \neg P(x)$.
+
+### Question 8.5
+
+Explain why $\neg \forall p \forall tF(p,t) \equiv \exists p \exists t \neg
+F(p,t)$.
+
+$$\neg \forall p \forall tF(p,t) \equiv \exists p \neg \forall tF(p,t)$$
+$$\equiv \exists p \exists t \neg F(p,t)$$
+
+Intuitively: $\neg \forall p \forall tF(p,t)$ means it is not the case that
+$F(p,t)$ is true for all combinations of $p$ and $t$. This is the same as saying
+that there is some combination of $p$ and $t$ for which $F(p,t)$ is false.
+
+## 8.6 Simplification
+
+The infinite de Morgan's laws allow a certain simplification of predicate
+formulas by "pushing $\neg$ inside quantifiers."
+
+**Example:**
+
+$$\neg \forall x \exists yQ(x,y) \equiv \exists x \neg \exists yQ(x,y)$$
+$$\equiv \exists x \forall y \neg Q(x,y)$$
+
+It is in fact possible to transform any quantified statement in predicate logic
+to an equivalent with all quantifiers at the front.
