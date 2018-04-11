@@ -12,6 +12,32 @@ Let $a_1,a_2,a_3,\dots$ be the sequence of integers defined by
 $$a_1=3,a_2=9,\text{ and } a_i=12a_{i-1}-9a_{i-2} \text{ for each integer } i \geq 3$$
 Prove by strong induction that $3^n$ divides $a_n$ for all integers $n \geq1$.
 
+\textbf{Proof:} Let $P(n)$ be the statement "$3^n$ divides $a_n$".
+
+\textbf{Base Steps:}
+\begin{align*}
+	a_1 &= 3 = 3^1 \times 1 \\
+	a_2 &= 9 = 3^2 \times 1
+\end{align*}
+
+As $3^n$ divides both $P(1)$ and $P(2)$ are true.
+
+\textbf{Induction Step:}
+Suppose that $P(1),P(2),\dots,P(k)$ are true for some integer $k < n$. We want to prove that $P(k)$ is true when $k = n$.
+
+\begin{align*}
+	P(n) &= 12a_{n-1} - 9a_{n-2} \text{ (from above) } \\
+	P(n-1) &= 3^{n-1}b \text{ (for some integer b)} \\
+	P(n-2) &= 3^{n-2}c \text{ (for some integer c)} \\
+	P(n) &= 12(3^{n-1}b) - 9(3^{n-2}c) \text{ (substituting)} \\
+	&= 3^n(\frac{12b}{3^1} - \frac{9b}{3^2}) \\
+	&= 3^n(4a - b)
+\end{align*}
+
+As $a$ and $b$ are integers then $4a-b$ is an integer and therefore $3^n(4a-b)$ is divisible by $3^n$.
+
+
+\break
 \section*{Question 2}
 Let $R,S$ and $T$ be sets defined as follows.
 
