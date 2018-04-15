@@ -56,3 +56,10 @@ Which of the following is likely to require strong induction for its proof?
 3. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6512cbd0d448700a036bf3a691c37acc.svg?invert_in_darkmode" align=middle width=16.815315000000002pt height=14.155350000000013pt/> is divisible by <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/> for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/685dff572c54cd51cfe7b54bddb98380.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>, where <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/577fcfe243d3ebd16fde487572ee9fb3.svg?invert_in_darkmode" align=middle width=112.65605999999998pt height=14.155350000000013pt/> is the sequence defined by $a_0 = 3, a_1 = 12,$ and $a_i = a_{i-1} +
    2a_{a-2}$ for $i \geq 2$.
 4. Both 2 & 3.
+
+**Answer:**
+
+For 1., split <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6ae048b06eb9e9989603a8174226944e.svg?invert_in_darkmode" align=middle width=182.59015499999998pt height=24.65759999999998pt/> as <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6b12a0afe0936399c25a6a09e0afe94a.svg?invert_in_darkmode" align=middle width=261.07240499999995pt height=24.65759999999998pt/> and use
+normal induction.
+
+For 2., split <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ccc59ab4c2acd6a61457f3889e862bca.svg?invert_in_darkmode" align=middle width=139.01051999999999pt height=24.65759999999998pt/>
