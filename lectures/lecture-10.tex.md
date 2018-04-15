@@ -1,7 +1,7 @@
 # Lecture 10: Induction and well-ordering
 
-In the previous lecture we were able to prove a property _P_ holds for 0,1,2,...
-as follows:
+In the previous lecture we were able to prove a property _P_ holds for
+$0,1,2,\dots$ as follows:
 
 **Base step.** Prove $P(0)$
 
@@ -42,8 +42,20 @@ Because $P(i)$ is true $i$ has a prime factorisation.
 Because $P(j)$ is true $j$ has a prime factorisation.
 
 So $i \times j$ has a prime factorisation. (Just combine the prime
-factorisations of _i_ and _j_.)A
+factorisations of _i_ and _j_.)
 
 So $P(k+1)$ is true.
 
 This proves that $P(n)$ is true for each integer $n \geq 2$.
+
+### Question
+
+Which of the following is likely to require strong induction for its proof?
+
+1. $1+3+5+ \dots + (2n-1) = n^2$ for all $n \geq 1$.
+2. $\neg(p_1 \lor p_2 \lor \dots \lor p_n \equiv \neg p_1 \land \neg p_2 \land
+   \dots \land \neg p_n$ for all $n \geq 2$.
+3. $a_n$ is divisible by $3$ for all $n \geq 0$, where $a_0, a_1, a_2, a_3,
+   \dots$ is the sequence defined by $a_0 = 3, a_1 = 12,$ and $a_i = a_{i-1} +
+   2a_{a-2}$ for $i \geq 2$.
+4. Both 2 & 3.
