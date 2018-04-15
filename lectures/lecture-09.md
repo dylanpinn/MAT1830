@@ -110,3 +110,31 @@ Because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7124
 <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true.
 
 This proves that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> is true for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/685dff572c54cd51cfe7b54bddb98380.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+
+## Example 2.##
+
+Prove that there are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode" align=middle width=16.34523pt height=21.839399999999983pt/> n-letter words using the letters _A_ and _B_ for each
+integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8fa66d8b80ce643977d63a6f345785b9.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+
+**Solution** Let <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> be the statement "there are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode" align=middle width=16.34523pt height=21.839399999999983pt/> _n_-letter words
+using the letters _A_ and _B_".
+
+**Base step.** There are two 1-letter words: 'A' and 'B'. So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4a05c7837b0343503a4430c093a18bb8.svg?invert_in_darkmode" align=middle width=33.8415pt height=24.65759999999998pt/> is true.
+
+**Induction step.** Suppose that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/> is true for some integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ae96194e9dbb4813aa4ad691187f9883.svg?invert_in_darkmode" align=middle width=39.212250000000004pt height=22.831379999999992pt/>.
+This means that there are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/91f4e50a1561b60d45e7079ca70f2ed4.svg?invert_in_darkmode" align=middle width=15.485250000000004pt height=27.91271999999999pt/> _k_-letter words using the letters _A_ and _B_.
+
+We want to prove that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true. We want to show that there are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/bf56939689dfdac754c6e27725da93c9.svg?invert_in_darkmode" align=middle width=32.129295000000006pt height=27.91271999999999pt/>
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8efe9ff4209e9ab5e98c62cd39393f0e.svg?invert_in_darkmode" align=middle width=50.171220000000005pt height=24.65759999999998pt/>-letter words using the letters _A_ and _B_.
+
+Every <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8efe9ff4209e9ab5e98c62cd39393f0e.svg?invert_in_darkmode" align=middle width=50.171220000000005pt height=24.65759999999998pt/>-letter words can be written as _WA_ or _WB_ for some _k_-letter
+word _W_.
+
+By <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/> there are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/91f4e50a1561b60d45e7079ca70f2ed4.svg?invert_in_darkmode" align=middle width=15.485250000000004pt height=27.91271999999999pt/> words that can be written _WA_.
+
+By <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/> there are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/91f4e50a1561b60d45e7079ca70f2ed4.svg?invert_in_darkmode" align=middle width=15.485250000000004pt height=27.91271999999999pt/> words that can be written _WB_.
+
+So in total there are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7085b3fa0079763d6bff97aa05ac7fc7.svg?invert_in_darkmode" align=middle width=106.75235999999998pt height=27.91271999999999pt/> <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8efe9ff4209e9ab5e98c62cd39393f0e.svg?invert_in_darkmode" align=middle width=50.171220000000005pt height=24.65759999999998pt/>-letter words. So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is
+true.
+
+This proves that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> is true for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8fa66d8b80ce643977d63a6f345785b9.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
