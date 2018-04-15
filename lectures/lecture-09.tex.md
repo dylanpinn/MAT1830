@@ -87,3 +87,28 @@ To prove that some statement $P(n)$ is true for all integers $n \geq 0$.
 
 We usually prove the induction step by **assuming that** $P(k)$ **is true** for
 an arbitrary $k$ and then using this to prove that $P(k+1)$ is true.
+
+### Example 1.###
+
+Prove that 3 divides $n^3 + 2n$ for each integer $n \geq 0$.
+
+**Solution** Let $P(n)$ be the statement "3 divides $n^3 + 2n$".
+
+**Base step.** $0^3 + 0 = 0$ and 3 divides 0, so $P(0)$ is true.
+
+**Induction step.** Suppose that $P(k)$ is true for some integer $k \geq 0$.
+This means that $k^3 + 2k = 3a$ for some integer $a$.
+
+We want to prove that $P(k+1)$ is true. We want to show that $(k+1)^3 + 2(k+1) =
+3b$ for some integer $b$.
+
+$$(k+1)^3 + 2(k+1) = (k^3 + 3k&2 + 3k + 1) + 2k + 2$$
+$$ = k^3 + 3k^2 + 5k + 3$$
+$$ = (k^3 + 2k) + 3k^2 + 3k + 3$$
+$$ = 3a + 3k&2 + 3k + 3 \text{ (by P(k))}$$
+$$ = 3(a + 3k^2 + k + 1)$$
+
+Because $(a + k^2 + k + 1)$ is an integer, 3 divides $(k+1)^3 + 2(k+1)$. So
+$P(k+1)$ is true.
+
+This proves that $P(n)$ is true for each integer $n \geq 0$.
