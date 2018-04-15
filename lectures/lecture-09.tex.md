@@ -112,3 +112,31 @@ Because $(a + k^2 + k + 1)$ is an integer, 3 divides $(k+1)^3 + 2(k+1)$. So
 $P(k+1)$ is true.
 
 This proves that $P(n)$ is true for each integer $n \geq 0$.
+
+## Example 2.##
+
+Prove that there are $2^n$ n-letter words using the letters _A_ and _B_ for each
+integer $n \geq 1$.
+
+**Solution** Let $P(n)$ be the statement "there are $2^n$ _n_-letter words
+using the letters _A_ and _B_".
+
+**Base step.** There are two 1-letter words: 'A' and 'B'. So $P(1)$ is true.
+
+**Induction step.** Suppose that $P(k)$ is true for some integer $k \geq 1$.
+This means that there are $2^k$ _k_-letter words using the letters _A_ and _B_.
+
+We want to prove that $P(k+1)$ is true. We want to show that there are $2^{k+1}$
+$(k+1)$-letter words using the letters _A_ and _B_.
+
+Every $(k+1)$-letter words can be written as _WA_ or _WB_ for some _k_-letter
+word _W_.
+
+By $P(k)$ there are $2^k$ words that can be written _WA_.
+
+By $P(k)$ there are $2^k$ words that can be written _WB_.
+
+So in total there are $2^k + 2^k = 2^{k+1}$ $(k+1)$-letter words. So $P(k+1)$ is
+true.
+
+This proves that $P(n)$ is true for each integer $n \geq 1$.
