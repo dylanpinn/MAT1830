@@ -194,3 +194,27 @@ three 3c stamps with two 5c stamps to make <img src="https://rawgit.com/dylanpin
 So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true.
 
 This proves that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> is true for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/045b35124e628a3c24a235842d20bcda.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+
+## 9.3 Sums of series
+
+Induction is commonly used to prove that sum formulas are correct.
+
+### Example 5
+
+Prove that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9e7699697a505b128c0d3131e4db5734.svg?invert_in_darkmode" align=middle width=201.127905pt height=33.20559pt/> for each integer.
+
+**Solution** Let <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> be the statement "<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e15da1c056f24db9b7fe094d8523635c.svg?invert_in_darkmode" align=middle width=201.127905pt height=33.20559pt/>".
+
+**Base step.** The left hand side of <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4a05c7837b0343503a4430c093a18bb8.svg?invert_in_darkmode" align=middle width=33.8415pt height=24.65759999999998pt/> is just 1 and the right hand side is
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/537152bff6634e55b0346e377afaa27b.svg?invert_in_darkmode" align=middle width=72.132555pt height=33.20559pt/>
+
+**Induction step.** Suppose that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/> is true for some integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ae96194e9dbb4813aa4ad691187f9883.svg?invert_in_darkmode" align=middle width=39.212250000000004pt height=22.831379999999992pt/>.
+This means that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/dc67a2764e0e2df11cbadbf81175fcef.svg?invert_in_darkmode" align=middle width=198.61660500000002pt height=33.20559pt/>.
+
+We want to prove that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true. We must show that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9feb4df7fb628bff9d29c10b89a09912.svg?invert_in_darkmode" align=middle width=266.62960499999997pt height=33.20559pt/>.
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ce67ffa197002b35edd79ba06c412b5e.svg?invert_in_darkmode" align=middle width=412.6122pt height=16.438356pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/2ec3d89e81cb2dec4ff2b3cf5f121099.svg?invert_in_darkmode" align=middle width=224.55015pt height=34.725404999999995pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/428c17a18ccd601ce1b5e3dd4a2dc8e3.svg?invert_in_darkmode" align=middle width=121.63915499999999pt height=33.812129999999996pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1f2678cc1c81b7721f9a31623cc252fe.svg?invert_in_darkmode" align=middle width=121.63915499999999pt height=33.812129999999996pt/></p>
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c465259d90c12429bf6cf4e4719e65bf.svg?invert_in_darkmode" align=middle width=119.66658pt height=34.725404999999995pt/></p>
