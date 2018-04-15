@@ -27,3 +27,30 @@ statement is true for $n=4$.
 
 The sum of the angles of a convex 5-sided polygon is 540 degrees so the
 statement is true for $n=5$.
+
+The sum of the angles of a convex 6-sided polygon is 720 degrees so the
+statement is true for $n=6$.
+
+**Solution:** Let $P(n)$ be the statement "the sum of the angles of a convex
+_n_-sided polygon is $180n - 360$ degrees.
+
+_First we show that the statement is true for $n=3$_
+
+**Base Step.** The sum of the angles of a convex 3-sided polygon is 180 degrees
+so _P(3)_ is true.
+
+_Now we should that **if** P(k) is true for some integer $k \geq 3$, **then**
+$P(k+1)$ is also true._
+
+**Induction step.**
+
+- Suppose that _P(k)_ is true.
+- Any convex _(k+1)_-sided polygon can be "split" into a _k_-sided polygon and a
+  triangle.
+- The sum of the angles of a triangle is 180 degrees.
+- The sum of the angles of a _k_-sided polygon is 180_k_ - 360 degrees (by
+  P(k)).
+- So the sum of the angles of a $(k+1)$-sided polygon is $180 + (180k - 360) =
+  180(k+1) - 360$ degrees. So $P(k+1)$ is true.
+
+_This proves the original statement!_
