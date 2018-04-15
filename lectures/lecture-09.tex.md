@@ -113,7 +113,7 @@ $P(k+1)$ is true.
 
 This proves that $P(n)$ is true for each integer $n \geq 0$.
 
-## Example 2.##
+## Example 2
 
 Prove that there are $2^n$ n-letter words using the letters _A_ and _B_ for each
 integer $n \geq 1$.
@@ -169,3 +169,17 @@ $(k+1) \times 2^k > 2 \times 2^k$ is true because $k \geq 4$.
 So $P(k+1)$ is true.
 
 This proves that $P(n)$ is true for each integer $n \geq 4$.
+
+## Example 4
+
+Prove that _n_ cents can be made from 3c and 5c stamps for each integer $n \geq
+8$.
+
+**Solution** Let $P(n)$ be the statement "_n_ cents can be made from 3c and 5c
+stamps."
+
+**Base step.** 8 cents can be made from one 3c stamp and one 5c stamp. So $P(8)$
+is true.
+
+**Induction step.** Suppose that $P(k)$ is true for some integer $k \geq 8$.
+This means that _k_ cents can be made form 3c and 5c stamps.
