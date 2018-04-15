@@ -11,9 +11,11 @@
 - [Lecture 7](/lectures/lecture-07.md)
 - [Lecture 8](/lectures/lecture-08.md)
 - [Lecture 9](/lectures/lecture-09.md)
+- [Lecture 10](/lectures/lecture-10.md)
 
 ## Assignments
 
 - [Assignment 1](/assignments/assignment-01.tex)
 - [Assignment 2](/assignments/assignment-02.tex)
 - [Assignment 3](/assignments/assignment-03.tex)
+- [Assignment 4](/assignments/assignment-04.tex)
