@@ -183,3 +183,17 @@ is true.
 
 **Induction step.** Suppose that $P(k)$ is true for some integer $k \geq 8$.
 This means that _k_ cents can be made form 3c and 5c stamps.
+
+We want to prove that $P(k+1)$ is true. We must show that $k+1$ cents can be
+made from 3c and 5c stamps.
+
+If the way to make _k_ cents involves a 5c stamp, then we can replace it with
+two 3c stamps to make $k+1$ cents.
+
+If the way to make _k_ cents does not involve a 5c stamp, then it is made with
+all 3c stamps (at least three of them because $k \geq 8$). Then we can replace
+three 3c stamps with two 5c stamps to make $k+1$ cents.
+
+So $P(k+1)$ is true.
+
+This proves that $P(n)$ is true for each integer $n \geq 8$.
