@@ -140,3 +140,32 @@ So in total there are $2^k + 2^k = 2^{k+1}$ $(k+1)$-letter words. So $P(k+1)$ is
 true.
 
 This proves that $P(n)$ is true for each integer $n \geq 1$.
+
+## 9.2 Starting the base step higher
+
+It is not always appropriate to start the induction at 0. Some properties are
+true only from a certain positive integer upwards, in which case the induction
+starts at that integer.
+
+### Example 3
+
+Prove that $n! > 2^n$ for each integer $n \geq 4$.
+
+**Solution:** Let $P(n)$ be the statement "$n! > 2^n$".
+
+**Base step.** $4! = 24$ and $2^4 = 16$. So $P(4)$ is true.
+
+**Induction step.** Suppose that $P(k)$ is true for some integer $k \geq 4$.
+This means that $k! > 2^k$.
+
+We want to prove that $P(k+1)$ is true. We want to show that $(k+1)! > 2^{k+1}$.
+
+$$(k+1)! = (k+1) \times k! > (k+1) \times 2^k > 2 \times 2^k = 2^{k+1}$$
+
+$(k+1) \times k! > (k+1) \times 2^k$ is true by $P(k)$.
+
+$(k+1) \times 2^k > 2 \times 2^k$ is true because $k \geq 4$.
+
+So $P(k+1)$ is true.
+
+This proves that $P(n)$ is true for each integer $n \geq 4$.
