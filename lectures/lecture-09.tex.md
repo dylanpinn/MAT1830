@@ -63,4 +63,27 @@ begins with 0 and repeatedly adds 1, we have the following.
 Property _P_ for all natural numbers if
 
 1. $P(0)$ is true.
-2. $P(k) \Rightarrow P(k+1)$ for all $k \in \N$.
+2. $P(k) \Rightarrow P(k+1)$ for all $k \in \mathbb{N}$.
+
+This is called the _principle of mathematical induction._
+
+It is used in a style of proof called _proof by induction_, which consists of
+two steps.
+
+**Base step:** Proof that the required property _P_ is true for 0.
+
+**Induction step:** Proof that **if** $P(k)$ is true **then** $P(k+1)$ is true,
+for each $k \in \mathbb{N}$
+
+To prove that some statement $P(n)$ is true for all integers $n \geq 0$.
+
+- prove $P(0)$ is true (called the base step); then
+- prove that, for each integer $k \geq 0$, **if** $P(k)$ is true **then**
+  $P(k+1)$ is true (called the induction step).
+
+| n      | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | $\dots$ |
+|--------|---|---|---|---|---|---|---|---|---|---------|
+| $P(n)$ | T | T | T | T | T | T | T | T | T | $\dots$ |
+
+We usually prove the induction step by **assuming that** $P(k)$ **is true** for
+an arbitrary $k$ and then using this to prove that $P(k+1)$ is true.
