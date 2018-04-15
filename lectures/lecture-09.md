@@ -180,3 +180,17 @@ is true.
 
 **Induction step.** Suppose that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/> is true for some integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f61452dd260589c70b1dd1b9fe990264.svg?invert_in_darkmode" align=middle width=39.212250000000004pt height=22.831379999999992pt/>.
 This means that _k_ cents can be made form 3c and 5c stamps.
+
+We want to prove that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true. We must show that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/33359de825e43daa97171e27f6558ae9.svg?invert_in_darkmode" align=middle width=37.385865pt height=22.831379999999992pt/> cents can be
+made from 3c and 5c stamps.
+
+If the way to make _k_ cents involves a 5c stamp, then we can replace it with
+two 3c stamps to make <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/33359de825e43daa97171e27f6558ae9.svg?invert_in_darkmode" align=middle width=37.385865pt height=22.831379999999992pt/> cents.
+
+If the way to make _k_ cents does not involve a 5c stamp, then it is made with
+all 3c stamps (at least three of them because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f61452dd260589c70b1dd1b9fe990264.svg?invert_in_darkmode" align=middle width=39.212250000000004pt height=22.831379999999992pt/>). Then we can replace
+three 3c stamps with two 5c stamps to make <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/33359de825e43daa97171e27f6558ae9.svg?invert_in_darkmode" align=middle width=37.385865pt height=22.831379999999992pt/> cents.
+
+So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true.
+
+This proves that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> is true for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/045b35124e628a3c24a235842d20bcda.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
