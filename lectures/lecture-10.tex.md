@@ -59,3 +59,10 @@ Which of the following is likely to require strong induction for its proof?
    \dots$ is the sequence defined by $a_0 = 3, a_1 = 12,$ and $a_i = a_{i-1} +
    2a_{a-2}$ for $i \geq 2$.
 4. Both 2 & 3.
+
+**Answer:**
+
+For 1., split $1+3+5+\dots+(2k+1)$ as $(1+3+5+\dots+(2k-1)) + 2k + 1$ and use
+normal induction.
+
+For 2., split $\neg(p_1 \lor p_2 \lor \dots \lor p_n $
