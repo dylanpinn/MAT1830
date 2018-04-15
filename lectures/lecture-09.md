@@ -62,4 +62,27 @@ begins with 0 and repeatedly adds 1, we have the following.
 Property _P_ for all natural numbers if
 
 1. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c94461c42a545e128f875c4c5b07f994.svg?invert_in_darkmode" align=middle width=33.8415pt height=24.65759999999998pt/> is true.
-2. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8d964ff95bb74502bce8da917cfee26f.svg?invert_in_darkmode" align=middle width=123.27612000000002pt height=24.65759999999998pt/> for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/bf237a6e393b429a3fb33e61e356e8f8.svg?invert_in_darkmode" align=middle width=24.60051pt height=22.831379999999992pt/>.
+2. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8d964ff95bb74502bce8da917cfee26f.svg?invert_in_darkmode" align=middle width=123.27612000000002pt height=24.65759999999998pt/> for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/091a3af356c1abf7e80434e9d0049f52.svg?invert_in_darkmode" align=middle width=41.0388pt height=22.831379999999992pt/>.
+
+This is called the _principle of mathematical induction._
+
+It is used in a style of proof called _proof by induction_, which consists of
+two steps.
+
+**Base step:** Proof that the required property _P_ is true for 0.
+
+**Induction step:** Proof that **if** <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/> is true **then** <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true,
+for each <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/091a3af356c1abf7e80434e9d0049f52.svg?invert_in_darkmode" align=middle width=41.0388pt height=22.831379999999992pt/>
+
+To prove that some statement <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> is true for all integers <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/685dff572c54cd51cfe7b54bddb98380.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+
+- prove <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c94461c42a545e128f875c4c5b07f994.svg?invert_in_darkmode" align=middle width=33.8415pt height=24.65759999999998pt/> is true (called the base step); then
+- prove that, for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/937d867d9b3d53c96323a9b2d9eb895f.svg?invert_in_darkmode" align=middle width=39.212250000000004pt height=22.831379999999992pt/>, **if** <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/> is true **then**
+  <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true (called the induction step).
+
+| n      | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/76aacde399706233c450f7a48e28adb4.svg?invert_in_darkmode" align=middle width=19.178115000000002pt height=14.155350000000013pt/> |
+|--------|---|---|---|---|---|---|---|---|---|---------|
+| <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> | T | T | T | T | T | T | T | T | T | <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/76aacde399706233c450f7a48e28adb4.svg?invert_in_darkmode" align=middle width=19.178115000000002pt height=14.155350000000013pt/> |
+
+We usually prove the induction step by **assuming that** <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/> **is true** for
+an arbitrary <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/63bb9849783d01d91403bc9a5fea12a2.svg?invert_in_darkmode" align=middle width=9.075495000000004pt height=22.831379999999992pt/> and then using this to prove that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true.
