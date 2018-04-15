@@ -138,3 +138,32 @@ So in total there are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lec
 true.
 
 This proves that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> is true for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8fa66d8b80ce643977d63a6f345785b9.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+
+## 9.2 Starting the base step higher
+
+It is not always appropriate to start the induction at 0. Some properties are
+true only from a certain positive integer upwards, in which case the induction
+starts at that integer.
+
+### Example 3
+
+Prove that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/37583176f0fadd31341913f5156e3f39.svg?invert_in_darkmode" align=middle width=52.69605000000001pt height=22.831379999999992pt/> for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3d6a4afeef91ad21a23dd44d10afcb7b.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+
+**Solution:** Let <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> be the statement "<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/37583176f0fadd31341913f5156e3f39.svg?invert_in_darkmode" align=middle width=52.69605000000001pt height=22.831379999999992pt/>".
+
+**Base step.** <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9829e6c8e7e53ad8e0af8bb9afd53852.svg?invert_in_darkmode" align=middle width=51.141585pt height=22.831379999999992pt/> and <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/49db0ca540e68dc1e939eaf219ad8c35.svg?invert_in_darkmode" align=middle width=53.94972pt height=26.76201000000001pt/>. So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/fafc18c8e470a7b068354842f77fd4f8.svg?invert_in_darkmode" align=middle width=33.8415pt height=24.65759999999998pt/> is true.
+
+**Induction step.** Suppose that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/> is true for some integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/955a19148aa8c34b3dddcc4e26c65c16.svg?invert_in_darkmode" align=middle width=39.212250000000004pt height=22.831379999999992pt/>.
+This means that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9ffe792cc6a0dba354a35f53586f2650.svg?invert_in_darkmode" align=middle width=51.044565000000006pt height=27.91271999999999pt/>.
+
+We want to prove that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true. We want to show that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/bf5954d39686de6f6d0cdcd3ddbc7ad5.svg?invert_in_darkmode" align=middle width=108.784335pt height=27.91271999999999pt/>.
+
+<p align="center"><img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1aa5fb316b11c151df48659ed39377eb.svg?invert_in_darkmode" align=middle width=389.6277pt height=18.887715pt/></p>
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4939dc5f570fc3524d43a43cd499b2c5.svg?invert_in_darkmode" align=middle width=191.56945499999998pt height=27.91271999999999pt/> is true by <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/>.
+
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/ca30f316e40c4d2ee75302b8038c13da.svg?invert_in_darkmode" align=middle width=152.282955pt height=27.91271999999999pt/> is true because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/955a19148aa8c34b3dddcc4e26c65c16.svg?invert_in_darkmode" align=middle width=39.212250000000004pt height=22.831379999999992pt/>.
+
+So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true.
+
+This proves that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> is true for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3d6a4afeef91ad21a23dd44d10afcb7b.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
