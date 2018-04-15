@@ -197,3 +197,29 @@ three 3c stamps with two 5c stamps to make $k+1$ cents.
 So $P(k+1)$ is true.
 
 This proves that $P(n)$ is true for each integer $n \geq 8$.
+
+## 9.3 Sums of series
+
+Induction is commonly used to prove that sum formulas are correct.
+
+### Example 5
+
+Prove that $1+2+3+ \dots + n = \frac{n(n+1)}{2}$ for each integer.
+
+**Solution** Let $P(n)$ be the statement "$1+2+3+ \dots + n =
+\frac{n(n+1)}{2}$".
+
+**Base step.** The left hand side of $P(1)$ is just 1 and the right hand side is
+$\frac{1(1+1)}{2}=1$
+
+**Induction step.** Suppose that $P(k)$ is true for some integer $k \geq 1$.
+This means that $1+2+3+ \dots + k = \frac{k(k+1)}{2}$.
+
+We want to prove that $P(k+1)$ is true. We must show that $1+2+3+ \dots + (k+1)
+= \frac{(k+1)(k+2)}{2}$.
+
+$$1+2+3+ \dots + (k+1) = (1+2+3+ \dots + k) + (k+1)$$
+$$= \frac{k(k+1)}{2} + (k+1) \text{ (by P(k))}$$
+$$= (k+1)(\frac{k}{2}+1)$$
+$$= (k+1)(\frac{k+2}{2})$$
+$$= \frac{(k+1)(k+2)}{2}$$
