@@ -1,7 +1,7 @@
 # Lecture 10: Induction and well-ordering
 
-In the previous lecture we were able to prove a property _P_ holds for 0,1,2,...
-as follows:
+In the previous lecture we were able to prove a property _P_ holds for
+<img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/fe43dff12772ed4c9d2593ad6b2ba6c1.svg?invert_in_darkmode" align=middle width=65.753325pt height=21.18732pt/> as follows:
 
 **Base step.** Prove <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/c94461c42a545e128f875c4c5b07f994.svg?invert_in_darkmode" align=middle width=33.8415pt height=24.65759999999998pt/>
 
@@ -41,8 +41,18 @@ Because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/02e5
 Because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/1aadac9df964729662a76d442fca2190.svg?invert_in_darkmode" align=middle width=33.332640000000005pt height=24.65759999999998pt/> is true <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/36b5afebdba34564d884d347484ac0c7.svg?invert_in_darkmode" align=middle width=7.710483000000004pt height=21.683310000000006pt/> has a prime factorisation.
 
 So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/a238dda0a11c8a4443e2f0f31f3d5e03.svg?invert_in_darkmode" align=middle width=33.46497000000001pt height=21.683310000000006pt/> has a prime factorisation. (Just combine the prime
-factorisations of _i_ and _j_.)A
+factorisations of _i_ and _j_.)
 
 So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true.
 
 This proves that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> is true for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e4fa18f24ed41ec42105ccc667ea4f17.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+
+### Question
+
+Which of the following is likely to require strong induction for its proof?
+
+1. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/785b452e7e1671a824e4d37390e10cfa.svg?invert_in_darkmode" align=middle width=221.71990499999998pt height=26.76201000000001pt/> for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8fa66d8b80ce643977d63a6f345785b9.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+2. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/9ad498a8243f912af9dae4314006479b.svg?invert_in_darkmode" align=middle width=316.28635499999996pt height=24.65759999999998pt/> for all $n \geq 2$.
+3. <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/6512cbd0d448700a036bf3a691c37acc.svg?invert_in_darkmode" align=middle width=16.815315000000002pt height=14.155350000000013pt/> is divisible by <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/5dc642f297e291cfdde8982599601d7e.svg?invert_in_darkmode" align=middle width=8.219277000000005pt height=21.18732pt/> for all <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/685dff572c54cd51cfe7b54bddb98380.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>, where <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/577fcfe243d3ebd16fde487572ee9fb3.svg?invert_in_darkmode" align=middle width=112.65605999999998pt height=14.155350000000013pt/> is the sequence defined by $a_0 = 3, a_1 = 12,$ and $a_i = a_{i-1} +
+   2a_{a-2}$ for $i \geq 2$.
+4. Both 2 & 3.
