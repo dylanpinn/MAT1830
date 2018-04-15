@@ -111,7 +111,7 @@ Because <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/7124
 
 This proves that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> is true for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/685dff572c54cd51cfe7b54bddb98380.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
 
-## Example 2.##
+## Example 2
 
 Prove that there are <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode" align=middle width=16.34523pt height=21.839399999999983pt/> n-letter words using the letters _A_ and _B_ for each
 integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/8fa66d8b80ce643977d63a6f345785b9.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
@@ -167,3 +167,16 @@ We want to prove that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lec
 So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode" align=middle width=63.008055pt height=24.65759999999998pt/> is true.
 
 This proves that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> is true for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/3d6a4afeef91ad21a23dd44d10afcb7b.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+
+## Example 4
+
+Prove that _n_ cents can be made from 3c and 5c stamps for each integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/cf9592a6e3e397319c64c4d1c96db98a.svg?invert_in_darkmode" align=middle width=40.003755pt height=21.18732pt/>.
+
+**Solution** Let <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode" align=middle width=35.48919pt height=24.65759999999998pt/> be the statement "_n_ cents can be made from 3c and 5c
+stamps."
+
+**Base step.** 8 cents can be made from one 3c stamp and one 5c stamp. So <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4d42ece659a9eaa7ed2911b418e20d8a.svg?invert_in_darkmode" align=middle width=33.8415pt height=24.65759999999998pt/>
+is true.
+
+**Induction step.** Suppose that <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode" align=middle width=34.69768500000001pt height=24.65759999999998pt/> is true for some integer <img src="https://rawgit.com/dylanpinn/MAT1830/master//lectures/tex/f61452dd260589c70b1dd1b9fe990264.svg?invert_in_darkmode" align=middle width=39.212250000000004pt height=22.831379999999992pt/>.
+This means that _k_ cents can be made form 3c and 5c stamps.
