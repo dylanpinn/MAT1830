@@ -1,0 +1,95 @@
+\documentclass[11pt]{article}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+\begin{document}
+\title{MATH1830 --- Assignment 5}
+\author{Dylan Pinn --- 24160547}
+\maketitle
+
+Let $A = \mathcal{P}(\{1,2,3,4\})$. Let $f$, $g$ and $h$ be the following functions.
+
+$ f: A \to A$ defined by $(X) = X \cap \{1,4\}$
+\begin{equation*}
+  g: A \to \mathbb{Z} \text { defined by } g(X) =
+  \begin{cases} 
+      -1 & \text{if } X = \emptyset \\
+      \text{ the smallest element of X} & if X \not = \emptyset 
+   \end{cases}
+\end{equation*}
+
+$h: \{1,2,3,4\} \to A$ defined by $h(x)=\{1,2,3,4\} - \{x\}$
+
+\section*{Question 1}
+  
+\begin{enumerate}[label=(\roman*)]
+  \item Write down $f(\{1,2\})$
+  $$= \{1,2\} \cap \{1,4\} = \{1\}$$
+
+  \item Write down $g(\{2,4\})$
+  $$= \{2\}$$
+
+  \item Write down $h(4)$
+  $$= \{1,2,3\}$$
+
+  \item Write down $f(h(1))$
+  $$h(1) = \{1\}$$
+  $$f(\{1\}) = \{1\}$$
+\end{enumerate}
+
+\break
+\section*{Question 2}
+
+\begin{enumerate}[label=(\roman*)]
+  \item Is $f$ one-to-one?
+  
+  To show that it is not one-to-one we must show that $f(x_1) = f(x_2)$ and $x_1 \not = x_2$
+  
+  By using the values of $x_1 = \{1,2\}$ and $x_2 = \{1,3\}$ we can show that the functions of both of these do not match.
+  
+  \begin{equation*}
+    f(x_1) = \{1,2\} \cap \{1,4\} = \{1\} \\
+    f(x_2) = \{1,3\} \cap \{1,4\} = \{1\}
+  \end{equation*}
+  
+  \item Is $g$ one-to-one?
+  \item Is $h$ one-to-one?
+\end{enumerate}
+
+\section*{Question 3}
+
+\begin{enumerate}[label=(\roman*)]
+  \item Write down the image of $f$.
+  $$= \mathcal{P}(\{1,4\})$$
+ 
+  \item Write down the image of $g$.
+  $$= \{-1, 1, 2, 3, 4\}$$
+  
+  
+  \item Write down the image of $h$.
+  $$= \mathcal{P}(1,2,3,4) -  \{\}$$
+\end{enumerate}
+
+\section*{Question 4}
+
+\begin{enumerate}[label=(\roman*)]
+  \item How many functions are there with domain $A$ and codomain $\{0,1\}$?
+  
+  The domain has 16 elements $(2^4)$.
+  
+  For each input, we can decide if it's mapped to a 0 or 1.
+  
+  We can do this $2^{16} = 65536$ ways.
+  
+  \item How many one-to-one functions are there wth domain $A$ and codomain $\{0,1\}$?
+  
+  Each element in A is mapped to $\{0,1\}$. To find out the number of permutations of this:
+  $$= \frac{n!}{(n-k)!}$$
+  
+  We use number of elements of $A$ as $n$ and the number of elements in the codomain as $k$. This gives:
+  $$\frac{16!}{(16-2)!} = 240$$
+  
+  \item How many onto functions are there with domain $A$ and codomain $\{0,1\}$?
+\end{enumerate}
+\end{document}
