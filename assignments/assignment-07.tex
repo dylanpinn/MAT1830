@@ -1,4 +1,8 @@
 \documentclass[11pt]{article}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage{amsmath}
+
 \begin{document}
 \title{MAT1830 --- Assignment 7}
 \author{Dylan Pinn --- 24160547}
@@ -6,12 +10,64 @@
 
 \section*{Question 1}
 
-Let $R$
+Let $R$ be the relation on $\mathbb{Z} \times \mathbb{Z}$ defined by $(w, x)R(y,
+z)$ if any only if $w + x \leq y + z$.
+
+Let $S$ be the relation on $\mathbb{Z} \times \mathbb{Z}$ defined by $(w, x)S(y,
+z)$ if and only if $w \leq y$ and $x \leq z$
+
+\begin{enumerate}[label= (\alph*)]
+  \item Is $R$ antisymmetric?
+
+  \item Is $S$ antisymmetric?
+\end{enumerate}
 
 \section*{Question 2}
 
+You know the following facts about a relation $T$:
+
+\begin{itemize}
+  \item $T$ is defined on the set $\{a, b, c, d, e \}$,
+  \item $aTc, bTc, cTd, eTb$ and $e\not{T}a$,
+  \item $T$ is a particular order relation.
+\end{itemize}
+
+Draw a Hasse diagram for every possible relation that $T$ could be and, for
+each, write down whether it is a total order relation.
+
 \section*{Question 3}
 
+Find expressions for each of the following
+
+\begin{enumerate}[label= (\alph*)]
+  \item The number of strings of 7 lower case letters (a-z) that do not contain
+    any letter twice or more.
+
+  \item The number of binary strings of length 50 that contain at most three 1s.
+
+  \item The number of ternary strings of length 10 (strings of 0s, 1s and 2s)
+    containing one 1 and exactly four 2s.
+\end{enumerate}
+
 \section*{Question 4}
+
+A small school with 14 students has a basketball team with 5 players, a chess
+team with 4 players, a netball team with 7 players, and a soccer team with 11
+players.
+
+\begin{itemize}
+  \item Each student is on at least one of these teams and no student is on all
+    four teams.
+  \item Only one student, Hawa, is on three of the teams; she plays chess,
+    netball and soccer.
+  \item There is exactly 1 student who plays basketball and chess.
+  \item There is exactly 1 student who plays basketball and netball.
+  \item Hawa is the only student who plays chess and netball.
+  \item There are exactly 3 students (including Hawa) who play chess and soccer.
+  \item There are exactly 5 students (including Hawa) who play netball and
+    soccer.
+\end{itemize}
+
+How many students play basketball and soccer?
 
 \end{document}
