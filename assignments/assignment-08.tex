@@ -1,0 +1,125 @@
+\documentclass[11pt]{article}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{booktabs}
+
+\begin{document}
+\title{MAT1830 --- Assignment 8}
+\author{Dylan Pinn --- 24160547}
+\maketitle
+
+\section*{Question 1}
+
+One side of a 6-sided die is marked ``0'', two sides are marked ``2'', and three
+sides are marked ``3''. Each side is equally likely to occur when the die is
+rolled. The die is rolled twice and the results are recorded.
+
+\noindent
+Let $A$ be the event that the first roll is 0. \\
+Let $B$ be the event that the second roll is 3. \\
+Let $C$ be the event that the sum of the two rolls is 5.
+
+\begin{enumerate}[label= (\alph*)]
+  \item Find $\Pr(A)$, $\Pr(B)$, and $\Pr(C)$.
+
+    \[ \Pr(A) = \frac{1}{6} \]
+    \[ \Pr(B) = \frac{3}{6} = \frac{1}{2} \]
+    \[ \Pr(C) = \frac{12}{36} = \frac{1}{3} \]
+
+  \item Find $\Pr(A \cap B)$, $\Pr(A \cap C)$, and $\Pr(B \cap C)$.
+
+    \[ \Pr(A \cap B) = \frac{3}{36} = \frac{1}{12} \]
+    \[ \Pr(A \cap C) = 0 \]
+    \[ \Pr(B \cap C) = \frac{6}{36} = \frac{1}{6} \]
+
+  \item Are $A$ and $C$ independent events? Are $B$ and $C$ independent events?
+
+    \[ \Pr(A \cap C) = \Pr(A)\Pr(C) \]
+    \[ 0 = \frac{1}{6} \times \frac{1}{3} \]
+    \[ 0 \not = \frac{1}{18} \]
+
+    As these are not equal the events are not independent.
+
+    \[ \Pr(B \cap C) = \Pr(B)\Pr(C) \]
+    \[ \frac{6}{36} = \frac{1}{2} \times \frac{1}{3} \]
+    \[ \frac{1}{6} = \frac{1}{6} \]
+
+    As these are equal the events are independent.
+
+  \item Find $\Pr(A \cup C)$ and $\Pr(B \cup C)$.
+
+    \begin{align*}
+      \Pr(A \cup C) &= \Pr(A) + \Pr(C) - \Pr(A \cap C) \\
+      &= \frac{1}{6} + \frac{1}{3} - 0 \\
+      &= \frac{3}{6} \\
+      &= \frac{1}{2}
+    \end{align*}
+
+    \begin{align*}
+      \Pr(B \cup C) &= \Pr(B) + \Pr(C) - \Pr(B \cap C) \\
+      &= \frac{1}{2} + \frac{1}{3} - \frac{1}{6} \\
+      &= \frac{4}{6} \\
+      &= \frac{2}{3}
+    \end{align*}
+
+  \item Find $\Pr(B \mid B \cup C)$.
+
+    \begin{align*}
+      \Pr(B \mid B \cup C) &= \frac{\Pr(B \cap (B \cup C))}{\Pr(B \cup C)} \\
+      &= \frac{\Pr(B)}{\frac{2}{3}} \\
+      &= \frac{\frac{1}{2}}{\frac{2}{3}} \\
+      &= \frac{3}{4}
+    \end{align*}
+\end{enumerate}
+
+\break{}
+\section*{Question 2}
+
+Blofeld captures James Bond and places him in a pit with 100 deadly scorpions,
+20 of which have been genetically engineered for extra deadliness. The normal
+scorpions' bites are fatal $60\%$ of the time and the genetically engineered
+scorpions' bites are fatal $90\%$ of the time. Bond escapes the pit, but is
+bitten once by one of the scorpions. Given that Bond survives, what is the
+probability that the scorpion that bit him was genetically engineered?
+
+\bigskip
+\noindent
+Let $A$ be the event that Bond is bitten by a genetically engineered scorpion.
+\\
+Let $B$ be the event that Bond survives.
+
+\begin{align*}
+  \Pr(A) &= \frac{20}{100} = \frac{2}{10} \\
+  \Pr(B \mid A) &= \frac{9}{10} \\
+  \Pr(B \mid \bar A) &= \frac{6}{10} \\
+  \Pr(\bar A) &= \frac{80}{100} = \frac{8}{10} \\
+  \Pr(A \mid B) &= \frac{\Pr(B \mid A) \Pr(A)}{\Pr(B \mid A)\Pr(A) + \Pr(B \mid
+  \bar A) \Pr(\bar A)} \\
+  &= \frac{\frac{9}{10} \times \frac{2}{10}}{\frac{6}{10} \times \frac{2}{10} +
+  \frac{6}{10} \times \frac{8}{10}} \\
+  &= \frac{\frac{18}{100}}{\frac{12}{100}+\frac{48}{100}} \\
+  &= \frac{\frac{18}{100}}{\frac{60}{100}} \\
+  &= \frac{3}{10}
+\end{align*}
+
+\break{}
+\section*{Question 3}
+
+A word is chosen uniformly at random from the set
+
+\[ \{ \text{there, was, a, wall, it, did, not, look, important} \}\]
+
+\noindent
+Let $X$ be the number of times the letter `t' occurs in the chosen word. Write
+down the probability distribution of $X$.
+
+\begin{center}
+  \begin{tabular}{c c c c}
+    \toprule
+    $x$ & 0 & 1 & 2 \\
+    $\Pr(X=x)$ & $\frac{5}{9}$ & $\frac{3}{9}$ & $\frac{1}{9}$ \\
+    \bottomrule
+  \end{tabular}
+\end{center}
+
+\end{document}
