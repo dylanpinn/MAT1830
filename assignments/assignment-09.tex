@@ -39,14 +39,33 @@ average of 5 cars per minute pass through the junction.
   \item What is the probability that exactly one car passes through the
     junction in a certain minute?
 
-  \item Write down the expected number of cards to pass through the junction in
+  $\lambda = 5$ and using the Poisson distribution formula gives;
+
+  \begin{align*}
+    \Pr(X=k) &= \frac{{\lambda}^k {e}^{- \lambda}}{k!} \\
+    \Pr(X=1) &= \frac{5^1 e^{-5}}{1!} \\
+    &= \frac{5}{e^5} \\
+    &\approx 0.03
+  \end{align*}
+
+  \item Write down the expected number of cars to pass through the junction in
     four minutes.
+
+    20 cars in 4 minutes.
 
   \item What is the probability that exactly 10 cars pass through the junction
     in a certain four minute period?
 
+    $\lambda = 20$ from part (b) and using the Poisson distribution gives;
+
+    \begin{align*}
+      \Pr(X=10) &= \frac{20^{10} e^{-20}}{10!} \\
+      &= \frac{1600000000}{567 e^{20}} \\
+      &\approx 0.0058
+    \end{align*}
 \end{enumerate}
 
+\break{}
 \section*{Question 3}
 
 A random variable $Y$ can only take values in $ \{ -5, 0, 5 \}$. The expected
