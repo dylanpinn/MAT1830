@@ -115,9 +115,36 @@ s_4)$ of each of the following recursive sequences.
 \begin{enumerate}[label = (\alph*)]
   \item $r_0 = 2$, $r_n = {(r_{n-1})}^2 - 3n + 1$ for all integers $n \geq 1$.
 
+    \begin{align*}
+      r_0 &= 2 \\
+      r_1 &= {(r_0)}^2 - 3 \times 1 + 1 \\
+      &= 2^2 - 3 + 1 \\
+      &= 0 \\
+      r_2 &= {(r_1)}^2 - 3 \times 2 + 1 \\
+      &= 0^2 - 6 + 1 \\
+      &= -7 \\
+      r_3 &= {(r_2)}^2 - 3 \times 3 + 1 \\
+      &= {(-7)}^2 - 9 + 1 \\
+      &= 39 \\
+      r_4 &= {(r_3)}^2 - 3 \times 4 + 1 \\
+      &= 39^2 - 12 + 1 \\
+      &= 1510
+    \end{align*}
+
   \item $s_0 = 2$, $s_n = {(s_{n-1})}^2 + {(s_{n-2})}^2 + \cdots + {(s_0)}^2$
   for all integers $n \geq 1$.
 
+    \begin{align*}
+      s_0 &= 2 \\
+      s_1 &= 2^2 \\
+          &= 4 \\
+      s_2 &= 4^2 + 2^2 \\
+          &= 20 \\
+      s_3 &= 20^2 + 4^2 + 2^2 \\
+          &= 420 \\
+      s_4 &= 420^2 + 20^2 + 4^2 + 2^2 \\
+          &= 176820
+    \end{align*}
 \end{enumerate}
 
 \end{document}
