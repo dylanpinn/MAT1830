@@ -72,6 +72,41 @@ A random variable $Y$ can only take values in $ \{ -5, 0, 5 \}$. The expected
 value of $Y$ is 0 and its variance is 24. Find the probability distribution of
 $Y$.
 
+\begin{center}
+  \begin{tabular}{c c c c}
+    \toprule
+    $y$ & -5 & 0 & 5 \\
+    $\Pr(Y=y)$ & $a$ & $b$ & $c$ \\
+    \bottomrule
+  \end{tabular}
+\end{center}
+
+We know that $a + b + c = 1$ and $-5 + 5c = 0$ which gives $a = c$.
+
+\[ a{(-5)}^2 + b{(0)}^2 + c{(5)}^2 = 24 \]
+\[ 25a + 25c = 24 \]
+\[ 25(a + c) = 24 \]
+\[ a + c = \frac{24}{25} \]
+as $a = c$ \[ 2a = \frac{24}{25} \]
+\[ a = \frac{24}{50} = \frac{12}{25} \]
+
+We can substitute this into the original formula to give:
+
+\[ a + b + c = 1 \]
+\[ b = 1 - a - c \]
+\[ = 1 - \frac{12}{24} - \frac{12}{24} \]
+\[ = \frac{1}{25} \]
+
+\begin{center}
+  \begin{tabular}{c c c c}
+    \toprule
+    $y$ & -5 & 0 & 5 \\
+    $\Pr(Y=y)$ & $\frac{12}{24}$ & $\frac{1}{24}$ & $\frac{12}{24}$ \\
+    \bottomrule
+  \end{tabular}
+\end{center}
+
+\break{}
 \section*{Question 4}
 
 Write down the first five values $(r_0, \dots, r_4 \text{ and } s_0, \dots,
