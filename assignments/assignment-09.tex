@@ -14,6 +14,22 @@ A biased coin flips heads with probability $\frac{4}{9}$ and tails with
 probability $\frac{5}{9}$. The coin is flipped 90 times. What is the probability
 that heads is flipped exactly 40 times?
 
+\begin{align*}
+  \Pr(H) &= \frac{4}{9} \\
+  \Pr(T) &= \frac{5}{9} \\
+  \Pr(X = k) &= \binom{n}{k} p^k {(1-p)}^{n-k} \text{ for } k \in \{ 0,
+    \dots, n \} \\
+  n &= 90 \\
+  k &= 40 \\
+  p &= \frac{4}{9} \\
+  \Pr(X = 40) &= \binom{90}{40} {\frac{4}{9}}^{40} {(1-\frac{4}{9})}^{90-40} \\
+  &= \frac{90!}{40!50!} \times \frac{4^{40}}{9^{40}} \times
+  \frac{5^{50}}{9^{50}} \\
+  &\approx 0.08
+\end{align*}
+
+\break{}
+
 \section*{Question 2}
 
 Cars pass through a road junction according to a Poisson distribution. An
