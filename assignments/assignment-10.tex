@@ -14,7 +14,32 @@ Rewrite the following expressions without using $\Sigma$ or $\Pi$.
 \begin{enumerate}[label= (\alph*)]
   \item $\sum_{i=2}^{6} \frac{2}{6i - 7}$
 
+  \begin{align*}
+    &= \frac{2}{6 \times 2 - 7} + \frac{2}{6 \times 3 - 7} + \frac{2}{6 \times
+    4 - 7} \\
+    &+ \frac{2}{6 \times 5 - 7} + \frac{2}{6 \times 6 - 7} + \frac{2}{6 \times
+    7 - 7} \\
+    &= \frac{2}{5} + \frac{2}{11} + \frac{2}{17} + \frac{2}{23} + \frac{2}{29} +
+    \frac{2}{35}
+  \end{align*}
+
   \item $\prod_{i=5}^{8} ({(z + 2i)}^{i} - i - 1)$
+
+    \begin{align*}
+      &= ({(z + 2 \times 5)}^{5} - 5 - 1) \times ({(z + 2 \times 6)}^{6} - 6 -
+      1) \\
+      &\times ({(z + 2 \times 7)}^{7} - 7 - 1) \times ({(z + 2 \times 8)}^{8} - 8
+      - 1) \\
+      &\times ({(z + 2 \times 9)}^{9} - 9 - 1) \times ({(z + 2 \times 10)}^{10}
+      - 10 - 1) \\
+      &\times ({(z + 2 \times 11)}^{11} - 11 - 1) \times ({(z + 2 \times
+      12)}^{12} - 12 - 1) \\
+      &= ({(z + 10)}^{5} - 6) \times ({(z + 12)}^{6} - 7) \times ({(z + 14)}^{7}
+      - 8) \\
+      &\times ({(z + 16)}^{8} - 9) \times ({(z + 18)}^{9} - 10) \times ({(z +
+      20)}^{10} - 11) \\
+      &\times ({(z + 22)}^{11} - 12) \times ({(z + 24)}^{12} - 13) \\
+    \end{align*}
 
 \end{enumerate}
 
@@ -24,8 +49,12 @@ Rewrite the following expressions using $\Sigma$ or $\Pi$ notation.
 \begin{enumerate}[label= (\alph*)]
   \item $x(x+1)(x+4)(x+9)(x+16) \dots (x+400)$
 
+    \[ \prod_{i=0}^{21} (x + i^2) \]
+
   \item $\frac{1}{6^4} + \frac{1}{9^5} + \frac{1}{12^6} + \frac{1}{15^7} + \dots
     + \frac{1}{33^{13}}$
+
+    \[ \sum_{i=4}^{10} \frac{1}{{(3i - 6)}^{i}} \]
 
 \end{enumerate}
 
@@ -42,7 +71,33 @@ letters. For example, $t_1 = 1$ (`$a$' is the only legal string) and $t_2 = 3$
 \begin{enumerate}[label= (\alph*)]
   \item Write down $t_3$ and a list of all the legal strings of length 3.
 
+    \begin{itemize}
+      \item $aaa$
+      \item $abb$
+      \item $acc$
+      \item $bba$
+      \item $cca$
+    \end{itemize}
+
+    \[ t_3 = 5 \]
+
   \item Write down $t_4$ and a list of all the legal strings of length 4.
+
+    \begin{itemize}
+      \item $aaaa$
+      \item $abba$
+      \item $aabb$
+      \item $aacc$
+      \item $acca$
+      \item $bbaa$
+      \item $bbbb$
+      \item $bbcc$
+      \item $ccaa$
+      \item $cccc$
+      \item $ccbb$
+    \end{itemize}
+
+    \[ t_4 = 11 \]
 
   \item Find a recurrence for $t_n$ that holds for all $n \geq 3$. Explain why
     your recurrence gives $t_n$.
@@ -50,20 +105,30 @@ letters. For example, $t_1 = 1$ (`$a$' is the only legal string) and $t_2 = 3$
 \end{enumerate}
 
 \section*{Question 4}
-Draw a simple graphs with the following properties or explain why they do not
+Draw simple graphs with the following properties or explain why they do not
 exist.
 
 \begin{enumerate}[label= (\alph*)]
   \item The list of vertices is: $P$, $Q$, $R$, $S$, $T$ and the list of edges
     is $PQ$, $PS$, $QR$, $RS$, $RT$.
 
+  SEE ATTACHED
+
   \item The graph has 10 vertices and 47 edges.
 
+  Does not exist. Maximum number of edges possible for a simple graph of $n$
+    verticies is $\binom{n}{2}$.
+
+  \[ \binom{10}{2} = 45 \]
+
+  So a simple graph of 10 vertices and 47 edges is not possible.
+
   \item The graph has 7 vertices and 6 edges and is connected.
+
+  Does not exist. To traverse between 7 verticies you need at least 7 edges.
 
   \item The graph has 7 vertices and 11 edges and its vertices can be divided
   into two sets in such a way that no edge joins two vertices in the same set.
 
 \end{enumerate}
-
 \end{document}
