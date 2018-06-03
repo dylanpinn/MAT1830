@@ -43,3 +43,16 @@ may or may not be equal.
 
 If the image of a function is equal to its codomain, we say that the function is
 _onto_.
+
+Formally, a function consists of a domain $X$, a codomain $Y$, and a set of
+ordered pairs from $X \times Y$ which has exactly one ordered pair $(x,y)$ for
+each $x \in X$.
+
+The set of $y$ values occurring in these ordered pairs is called the _image_ of
+the function.
+
+The image is always a subset of the codomain but they may not be equal. If they
+are equal we say the function is _onto_.
+
+"$f$ is a function with domain $X$ and codomain $Y$" is shortened to $f: X
+\rightarrow Y$.
