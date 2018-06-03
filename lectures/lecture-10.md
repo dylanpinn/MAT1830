@@ -199,3 +199,17 @@ divisor of <img src="/lectures/tex/3ff44da77b122337fa0f84a268ccf932.svg?invert_i
 
 The sequence <img src="/lectures/tex/462db7af62c412d1a607e5cb03286e35.svg?invert_in_darkmode&sanitize=true" align=middle width=168.43939859999998pt height=17.723762100000005pt/> must eventually terminate, and this
 means we find a prime divisor of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>.
+
+### Question
+
+Is every descending sequence of positive rational numbers finite?
+
+No. For example <img src="/lectures/tex/f475889224ee056aeabda44f1daa6ca1.svg?invert_in_darkmode&sanitize=true" align=middle width=106.22349539999998pt height=27.77565449999998pt/> is an infinite sequence.
+
+### Example 2
+
+Prove that <img src="/lectures/tex/71486f265f83bc1e3d2b6f67704bcc23.svg?invert_in_darkmode&sanitize=true" align=middle width=21.91788224999999pt height=28.511366399999982pt/> is irrational.
+
+Suppose that <img src="/lectures/tex/7395f0e10aa95efcec5872eba8199bbc.svg?invert_in_darkmode&sanitize=true" align=middle width=57.472953449999984pt height=28.511366399999982pt/> for all natural numbers <img src="/lectures/tex/0e51a2dede42189d77627c4d742822c3.svg?invert_in_darkmode&sanitize=true" align=middle width=14.433101099999991pt height=14.15524440000002pt/> and <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>. We
+will show this is impossible. Since the square of an odd number is odd, we can
+argue as follows.
