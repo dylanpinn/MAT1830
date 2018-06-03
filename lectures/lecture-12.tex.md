@@ -103,6 +103,6 @@ So $A \cap \overline{B} = A - B$.
 **Question 12.2** Show that $\overline{A \cup B} = \overline{A} \cap
 \overline{B}$ is true using Venn diagrams.
 
-![](images/l12-p13.png)
+![](images/L12-P13.png)
 
 So $\overline{A \cup B} = \overline{A} \cap \overline{B}$
