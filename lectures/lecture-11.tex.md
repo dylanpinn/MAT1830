@@ -137,7 +137,7 @@ which tells which elements of $B$ are in $A$ and which are not.
 $$
 \chi A(a) =
      \begin{cases}
-       1 &\text{ if } &\quad\text{if RMSD}_\text{s-open}\le2\\
-       0 &\text{ if } &\quad\text{otherwise.} \\
+       1 &\text{ if } x \in A \\
+       0 &\text{ if } x \not \in A \\
      \end{cases}
 $$
