@@ -88,4 +88,4 @@ $\mathbb{N}$.
 - $\mathbb{Q}$ rational numbers $\{\frac{a}{b}: a,b \in \mathbb{Z}, b \not =
   0\}$
 - $\mathbb{R}$ real numbers
-- $\mathbb{0}$ empty set $\{\}$
+- $\emptyset$ empty set $\{\}$
