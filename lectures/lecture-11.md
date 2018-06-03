@@ -132,3 +132,13 @@ A subset <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_
 which tells which elements of <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/> are in <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> and which are not.
 
 <p align="center"><img src="/lectures/tex/2d33dc70b770b5f066845ad95da06fa7.svg?invert_in_darkmode&sanitize=true" align=middle width=166.26891104999999pt height=49.315569599999996pt/></p>
+
+**Example.** The subset <img src="/lectures/tex/c6113301d0cb68b238b9a3d55966af7b.svg?invert_in_darkmode&sanitize=true" align=middle width=73.79368919999999pt height=24.65753399999998pt/> of <img src="/lectures/tex/c20d5daf394618a6e0e0161de3de1549.svg?invert_in_darkmode&sanitize=true" align=middle width=89.11897499999998pt height=24.65753399999998pt/> has the characteristic
+function <img src="/lectures/tex/9740dbd219e0391bb4595149ed2ef6a6.svg?invert_in_darkmode&sanitize=true" align=middle width=20.171264849999986pt height=14.15524440000002pt/> with
+
+<p align="center"><img src="/lectures/tex/15ac5672ca1d99d3f80be39827991f62.svg?invert_in_darkmode&sanitize=true" align=middle width=229.21582529999998pt height=16.438356pt/></p>
+
+We also write this function more simply as
+
+- a b c
+- 1 0 1
