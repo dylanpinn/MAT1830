@@ -56,3 +56,18 @@ are equal we say the function is _onto_.
 
 "$f$ is a function with domain $X$ and codomain $Y$" is shortened to $f: X
 \rightarrow Y$.
+
+**Example** Let $f: \{0,1,2,3\} \rightarrow \{0,1,2,3,4,5,6\}$ be defined by
+$f(x) = 2x$.
+
+| $x$ | $f(x)$ |
+|-----|--------|
+|  0  |    0   |
+|  1  |    2   |
+|  2  |    4   |
+|  3  |    6   |
+
+$$\{(0,0),(1,2),(2,4),(3,6)\}$$
+
+**Example** Let $f: \mathbb{R} \rightarrow \mathbb{R}$ be defined by $f(x) =
+2x$.
