@@ -42,3 +42,13 @@ Is $b \in S$? No
 **Question:** Is $\{a\} \in S$? Is $\{a,b\} \in S$?
 
 Answer: Yes, No.
+
+**Question:**
+
+Let $R = \{a,b,c\}$. What is $|R|$? **3**
+
+Let $S = \{a,\{a\},\{b\},\{a,b,c\}\}$. What is $|S|$? **4**
+
+Let $T = \{0,1,2,\dots,100\}$. What is $|T|$? **101**
+
+What is $|\{\}|$? **0**
