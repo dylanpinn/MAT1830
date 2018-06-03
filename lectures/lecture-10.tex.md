@@ -99,10 +99,30 @@ $$\equiv \neg (p_1 \lor \p_2 \lor \dots \lor p_k) \land \neg p_{k+1}$$ by
 DeMorgan's law.
 
 $$\equiv (\neg p_1 \land \neg p_2 \land \dots \land \neg p_k) \land \neg
-p_{k+1}$$ by $P(k)$.
+p_{k+1}$$
+
+by $P(k)$
 
 $$\equiv \neg p_1 \land \neg p_2 \land \dots \land \neg p_k \land \neg p_{k+1}$$
 
 So $P(k+1)$ is true.
 
 This proves that $P(n)$ is true for each integer $n \geq 2$.
+
+## Example 2##
+
+Prove that every integer is a sum of distinct powers of 2. (Just a power of two
+by itself counts as a "sum".)
+
+The idea behind this proof is to repeatedly subtract the largest possible power
+of 2. We illustrate with the number 27.
+
+27 - largest power of 2 less than 27 $= 27 - 16 = 11$
+
+11 - largest power of 2 less than 11 $= 11 - 8 = 3$
+
+3 - largest power of 2 less than 3 $= 3 - 2 = 1$
+
+Hence $27 = 16 + 8 + 2 + 1 = 2^4 + 2^3 + 2^1 + 2^0$. (It is only interesting to
+find _distinct_ powers of 2, because of course each integer $\geq 1$ is a sum of
+1s, and $1=2^0$.)
