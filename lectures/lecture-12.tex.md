@@ -113,6 +113,8 @@ So $\overline{A \cup B} = \overline{A} \cap \overline{B}$
 true using logic.
 
 $$
-x \in \overline{A \cup B} &\equiv \neg(x \in A \cup B) \\
- &\equiv 2
+\begin{align}
+  x \in \overline{A \cup B} &\equiv \neg(x \in A \cup B) \\
+   &\equiv 2
+\end{align}
 $$
