@@ -104,3 +104,24 @@ That is, <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_
 <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/>.
 
 **Notes:** Every set is a subset of itself. <img src="/lectures/tex/4ff29620e88188582cae13f73fcb04b2.svg?invert_in_darkmode&sanitize=true" align=middle width=16.438418699999993pt height=24.65753399999998pt/> is a subset of every set.
+
+**Question:** Let <img src="/lectures/tex/6c4428fe578b3435e53c1acd6a6d030b.svg?invert_in_darkmode&sanitize=true" align=middle width=182.51896409999998pt height=24.65753399999998pt/>.
+
+Is <img src="/lectures/tex/4f59846a3287403b6fc42ed9de7e52a6.svg?invert_in_darkmode&sanitize=true" align=middle width=56.43824834999999pt height=24.65753399999998pt/>? No, because <img src="/lectures/tex/089abefb2a541f5b395e299786d321ff.svg?invert_in_darkmode&sanitize=true" align=middle width=38.173335749999985pt height=22.831056599999986pt/>.
+
+Is <img src="/lectures/tex/dcf794618dc2183737ca6838a00a2f2f.svg?invert_in_darkmode&sanitize=true" align=middle width=126.59231144999998pt height=24.65753399999998pt/>? Yes, because <img src="/lectures/tex/f2327da2f28224c690e81d27baf85f74.svg?invert_in_darkmode&sanitize=true" align=middle width=39.807693749999984pt height=22.465723500000017pt/> and <img src="/lectures/tex/745c257a5c617c8a8cbcb3d84b944276.svg?invert_in_darkmode&sanitize=true" align=middle width=85.02647999999998pt height=24.65753399999998pt/>.
+
+**Question:** Is <img src="/lectures/tex/5f63d107bacd2c99a2bea4bcb2f26186.svg?invert_in_darkmode&sanitize=true" align=middle width=72.43328399999999pt height=24.65753399999998pt/>? Is <img src="/lectures/tex/38b12de86257840f2d9ebbc28d7d7850.svg?invert_in_darkmode&sanitize=true" align=middle width=105.31012304999999pt height=24.65753399999998pt/>?
+
+- A: Yes, yes
+- B: Yes, no
+- C: No, yes
+- D: No, no
+
+**Answer:**
+
+<img src="/lectures/tex/60f17e6b0647db012bdd49b296037039.svg?invert_in_darkmode&sanitize=true" align=middle width=72.43328399999999pt height=24.65753399999998pt/> because <img src="/lectures/tex/089abefb2a541f5b395e299786d321ff.svg?invert_in_darkmode&sanitize=true" align=middle width=38.173335749999985pt height=22.831056599999986pt/>.
+
+<img src="/lectures/tex/2a6617c09aff68cee9a883c86302ba95.svg?invert_in_darkmode&sanitize=true" align=middle width=105.31012304999999pt height=24.65753399999998pt/> because <img src="/lectures/tex/3e3bbc408c616bb1d2909c5a57f7efeb.svg?invert_in_darkmode&sanitize=true" align=middle width=56.24611244999999pt height=24.65753399999998pt/> and <img src="/lectures/tex/0524c3660841104ac89587f2fb27a64a.svg?invert_in_darkmode&sanitize=true" align=middle width=54.611754449999985pt height=24.65753399999998pt/>.
+
+So C.
