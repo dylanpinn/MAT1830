@@ -118,3 +118,31 @@ So <img src="/lectures/tex/6b3f1a8709c7238dc6f8e178d2e85ad6.svg?invert_in_darkmo
 ![](images/L12-P17.png)
 
 So <img src="/lectures/tex/ba91ab9b93dcd62df60dd09d36f07280.svg?invert_in_darkmode&sanitize=true" align=middle width=233.71432424999995pt height=24.65753399999998pt/>
+
+## 12.6 Ordered Pairs
+
+For sets we have <img src="/lectures/tex/79db5004a70941e04e6968b5a7211383.svg?invert_in_darkmode&sanitize=true" align=middle width=100.89413564999998pt height=24.65753399999998pt/>.
+
+But sometimes order is important.
+
+So we defined ordered pairs <img src="/lectures/tex/0cd27d4708cd735f6ea469dc3debed0e.svg?invert_in_darkmode&sanitize=true" align=middle width=35.83526759999999pt height=24.65753399999998pt/>, where the order is significant: <img src="/lectures/tex/ddf8648446ba369c7ec754127f9cefdf.svg?invert_in_darkmode&sanitize=true" align=middle width=93.58816499999999pt height=24.65753399999998pt/>.
+
+We can of course can also define ordered triples <img src="/lectures/tex/b4ba7ba433a5f76d514d90a8ecd91e0d.svg?invert_in_darkmode&sanitize=true" align=middle width=50.25495419999999pt height=24.65753399999998pt/> etc.
+
+## 12.7 Cartesian product
+
+The set of ordered pairs
+
+<p align="center"><img src="/lectures/tex/49f60f513b751e86fb99c92b2ff24b55.svg?invert_in_darkmode&sanitize=true" align=middle width=252.59454659999997pt height=16.438356pt/></p>
+
+is the _Cartesian product_ of sets <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/>.
+
+Remember the elements of <img src="/lectures/tex/206048d77fed9ce184551395c869adce.svg?invert_in_darkmode&sanitize=true" align=middle width=45.71340014999999pt height=22.465723500000017pt/> are always _ordered pairs_.
+
+**Question** If <img src="/lectures/tex/7050c15f953c8063ed6981b061338d79.svg?invert_in_darkmode&sanitize=true" align=middle width=74.42915039999998pt height=24.65753399999998pt/> and <img src="/lectures/tex/cc67ee7a62a7ed5fb5d50535e34b580e.svg?invert_in_darkmode&sanitize=true" align=middle width=90.9188478pt height=24.65753399999998pt/> what is <img src="/lectures/tex/206048d77fed9ce184551395c869adce.svg?invert_in_darkmode&sanitize=true" align=middle width=45.71340014999999pt height=22.465723500000017pt/>?
+
+<p align="center"><img src="/lectures/tex/6203f27d9020a3eb238f9afd26ccaf5c.svg?invert_in_darkmode&sanitize=true" align=middle width=272.14624634999996pt height=16.438356pt/></p>
+
+**Question** If <img src="/lectures/tex/7050c15f953c8063ed6981b061338d79.svg?invert_in_darkmode&sanitize=true" align=middle width=74.42915039999998pt height=24.65753399999998pt/> what is <img src="/lectures/tex/342a1d0f415acb6899f601c3a5d3769d.svg?invert_in_darkmode&sanitize=true" align=middle width=44.29216934999999pt height=22.648391699999998pt/>?
+
+<p align="center"><img src="/lectures/tex/1c03a7c652a6dd66217164b173b3c98d.svg?invert_in_darkmode&sanitize=true" align=middle width=301.36977914999994pt height=16.438356pt/></p>
