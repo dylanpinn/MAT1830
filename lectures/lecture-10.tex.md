@@ -109,7 +109,7 @@ So $P(k+1)$ is true.
 
 This proves that $P(n)$ is true for each integer $n \geq 2$.
 
-## Example 2##
+## Example 2
 
 Prove that every integer is a sum of distinct powers of 2. (Just a power of two
 by itself counts as a "sum".)
@@ -126,3 +126,35 @@ of 2. We illustrate with the number 27.
 Hence $27 = 16 + 8 + 2 + 1 = 2^4 + 2^3 + 2^1 + 2^0$. (It is only interesting to
 find _distinct_ powers of 2, because of course each integer $\geq 1$ is a sum of
 1s, and $1=2^0$.)
+
+
+### Solution
+
+Let $P(n)$ be the statement "_n_ can be written as a sum of distinct powers of
+2".
+
+**Base step.** $1=2^0$, so 1 is a sum of (one) power of 2.
+
+**Induction step.** Suppose that $P(1), P(2), ..., P(k)$ are true for some
+integer $k \geq k$. This means that $1, 2, ..., k$ can be written as a sum of
+distinct powers of 2.
+
+We want to prove that $P(k+1)$ is true. We need to show that $k+1$ can be
+written as a sum of distinct powers of 2.
+
+If $k+1$ is a power of 2, then we are finished.
+
+If not, let $2^j$ be the greatest power of 2 less than $k+1$.
+
+(This means that $2^j > \frac{1}{2}(k+1)$.)
+
+Let $i = (k+1) - 2^j$. Note that $1 \leq i < 2^j$.
+
+Because $P(i)$ is true, $i$ can be written as a sum of distinct powers of 2.
+(Note that each power of 2 in this sum is smaller than $2^j$ because $i < 2^j$).
+
+So $k+1 = 2^j + i$ can be written as a sum of distinct powers of 2.
+
+So $P(k+1)$ is true.
+
+This proves that $P(n)$ is true for each integer $n \geq 2$.
