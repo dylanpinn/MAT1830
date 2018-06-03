@@ -125,3 +125,8 @@ Is <img src="/lectures/tex/dcf794618dc2183737ca6838a00a2f2f.svg?invert_in_darkmo
 <img src="/lectures/tex/2a6617c09aff68cee9a883c86302ba95.svg?invert_in_darkmode&sanitize=true" align=middle width=105.31012304999999pt height=24.65753399999998pt/> because <img src="/lectures/tex/3e3bbc408c616bb1d2909c5a57f7efeb.svg?invert_in_darkmode&sanitize=true" align=middle width=56.24611244999999pt height=24.65753399999998pt/> and <img src="/lectures/tex/0524c3660841104ac89587f2fb27a64a.svg?invert_in_darkmode&sanitize=true" align=middle width=54.611754449999985pt height=24.65753399999998pt/>.
 
 So C.
+
+## 11.4 Characteristic functions
+
+A subset <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> of <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/> can be specified by its _characteristic function_ <img src="/lectures/tex/116b5dfc1436d5c53775b6cf36dc3c9d.svg?invert_in_darkmode&sanitize=true" align=middle width=22.614152549999993pt height=22.465723500000017pt/>,
+which tells which elements of <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/> are in <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> and which are not.
