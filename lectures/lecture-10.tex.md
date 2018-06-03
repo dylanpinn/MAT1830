@@ -158,3 +158,22 @@ So $k+1 = 2^j + i$ can be written as a sum of distinct powers of 2.
 So $P(k+1)$ is true.
 
 This proves that $P(n)$ is true for each integer $n \geq 2$.
+
+## Question 10.2
+
+What else tells you every integer is a sum of distinct powers of 2?
+
+The fact that every integer can be written as binary is equivalent to saying
+every integer is a sum of distinct powers of 2.
+
+## Question 10.3
+
+Is every integer $geq 1$ a sum of distinct powers of 3?
+
+No. The powers of three are $1, 3, 9, 27, ...$ So, for example, 2 is not and 7
+is not.
+
+We can write every integer $\geq 1$ as
+$$a_0 3^0 + a_1 3^1 + a_2 3^2 + a_3 3^3 + \dots$$
+
+Where $a_0, a_1, a_2, a_3, \dots$ are all in {0,1,2}, however.
