@@ -121,3 +121,10 @@ $$\begin{align}
 \end{align}$$
 
 So $\overline{A \cup B} = \overline{A} \cap \overline{B}$
+
+**Question 12.3** Find whether $A \cap (B \triangle C) = (A \cap B) \triangle (A
+\cap C)$ is true using Venn diagrams.
+
+![](images/L12-P17.png)
+
+So $A \cap (B \triangle C) = (A \cap B) \triangle (A \cap C)$
