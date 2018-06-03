@@ -224,3 +224,11 @@ Prove that $\sqrt{2}$ is irrational.
 Suppose that $\sqrt{2} = \frac{m}{n}$ for all natural numbers $m$ and $n$. We
 will show this is impossible. Since the square of an odd number is odd, we can
 argue as follows.
+
+$$\sqrt{2} = \frac{m}{n}$$
+$$\Rightarrow 2 = \frac{m^2}{n^2} \text{ squaring both sides}$$
+$$\Rightarrow m^2 = 2n^2$$
+$$\Rightarrow m^2 \text{ is even }$$
+$$\Rightarrow m \text{ is even, since the square of an odd number is odd }$$
+$$\Rightarrow m = 2m_1 \text{ say }$$
+$$\Rightarrow 2n^2 = m^2 = 4m^2_1$$
