@@ -135,11 +135,9 @@ A subset $A$ of $B$ can be specified by its _characteristic function_ $\chi A$,
 which tells which elements of $B$ are in $A$ and which are not.
 
 $$
-f(a,b) =
+\chi A(a) =
      \begin{cases}
-       \text{open,} &\quad\text{if RMSD}_\text{s-open}\ge6, \text{RMSD}_\text{closed}\ge6\\
-       \text{closed,} &\quad\text{if RMSD}_\text{closed}\le2 \\
-       \text{semiopen,} &\quad\text{if RMSD}_\text{s-open}\le2\\
-       \text{transition,} &\quad\text{otherwise.} \\
+       1 &\text{ if } &\quad\text{if RMSD}_\text{s-open}\le2\\
+       0 &\text{ if } &\quad\text{otherwise.} \\
      \end{cases}
 $$
