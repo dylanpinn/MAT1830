@@ -64,4 +64,16 @@ $$A \triangle B = (A-B) \cup (B-A)$$
 
 but also
 
-$$A \triangle B = (A \cup B) - (A \cap B)$
+$$A \triangle B = (A \cup B) - (A \cap B)$$
+
+**Questions**
+
+What is $\{1,2,3\} = \{2,5,7\}$? = $\{1,3\}$
+
+What is $\{1,2,3\} = \triangle \{2,3,6,7\}$? = $\{1,6,7\}$
+
+What is $\{2,3\} - \{1,2,3\}$? = $\{\}$
+
+What is $\{1,2,3\} \triangle \{3\}$ = $\{1,2\}$
+
+What is $\{1,2,3\} - \{7,8\}$? = $\{1,2,3\}$
