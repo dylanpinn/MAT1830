@@ -183,3 +183,19 @@ saying that the process of working downwards must eventually stop.
 
 Such proofs are equivalent to induction, though they are sometimes called
 "infinite descent" or similar.
+
+## 10.3 Proofs by descent
+
+**Example 1.** Prove that any integer <img src="/lectures/tex/a5029d6fb2d56f3b58c48da8dd19230d.svg?invert_in_darkmode&sanitize=true" align=middle width=25.570741349999988pt height=21.18721440000001pt/> has a prime divisor.
+
+If <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> is prime, then it is a prime divisor of itself. If not, let <img src="/lectures/tex/620d96fc37814cef4788068ba5130b68.svg?invert_in_darkmode&sanitize=true" align=middle width=49.025842799999985pt height=17.723762100000005pt/> be
+a divisor of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>.
+
+If <img src="/lectures/tex/3c7e3568fa1625fede3ff436bfec732d.svg?invert_in_darkmode&sanitize=true" align=middle width=16.41942389999999pt height=14.15524440000002pt/> is prime, it is a prime divisor of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>. If not, let <img src="/lectures/tex/5699ab9c9c338283e921c23160be2416.svg?invert_in_darkmode&sanitize=true" align=middle width=55.57839044999998pt height=17.723762100000005pt/> be a
+divisor of <img src="/lectures/tex/3c7e3568fa1625fede3ff436bfec732d.svg?invert_in_darkmode&sanitize=true" align=middle width=16.41942389999999pt height=14.15524440000002pt/> (and hence of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>).
+
+If <img src="/lectures/tex/3ff44da77b122337fa0f84a268ccf932.svg?invert_in_darkmode&sanitize=true" align=middle width=16.41942389999999pt height=14.15524440000002pt/> is prime, it is a prime divisor of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>. If not, let <img src="/lectures/tex/9783f4176aa82acd6b8b3c1ade305d6f.svg?invert_in_darkmode&sanitize=true" align=middle width=55.57839044999998pt height=17.723762100000005pt/> be a
+divisor of <img src="/lectures/tex/3ff44da77b122337fa0f84a268ccf932.svg?invert_in_darkmode&sanitize=true" align=middle width=16.41942389999999pt height=14.15524440000002pt/>, etc.
+
+The sequence <img src="/lectures/tex/462db7af62c412d1a607e5cb03286e35.svg?invert_in_darkmode&sanitize=true" align=middle width=168.43939859999998pt height=17.723762100000005pt/> must eventually terminate, and this
+means we find a prime divisor of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>.
