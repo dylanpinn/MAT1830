@@ -214,3 +214,16 @@ $$\{2,3,5,7,11,13,17,19,23,29,21,\dots\}$$
 
 corresponds to the property of being prime. The power set $\wp(N)$ corresponds
 to all possible properties of natural numbers.
+
+**Question 11.3** Consider the sets
+
+$$\{x: 0 < x < 1 \}$$
+$$\{x: 0 < x < \frac{1}{2} \}$$
+$$\{x: 0 < x < \frac{1}{3} \}$$
+$$\{x: 0 < x < \frac{1}{4} \}$$
+
+Do they have an element in common?
+
+No. Suppose they had $r$ in common. Then $r > 0$, so there is a (big) natural
+number $n$ such that $r > \frac{1}{n}$. But then $r$ is not in the set $\{x:0 <
+x < \frac{1}{n}\}$. Contradiction.
