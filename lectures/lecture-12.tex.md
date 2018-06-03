@@ -170,3 +170,13 @@ $$\{(0,0),(1,0),(0,1),(1,1),(0,2),(1,2),\dots\}$$
 
 $(-1,1) \in S$ because $-1 \in \{-1,1\}$ and $1 \in \{0,1,2\}$.
 $(0,1) \not \in S$ because $0 \not \in \{-1,1\}$. So **B**.
+
+## 12.8 A x B and Multiplication
+
+If $A$ has $|A|$ elements and $B$ has $|B|$ elements, then $A \times B$ has $|A|
+\times |B|$ elements.
+
+Similarly, if $L$ is a line of length $l$, and $W$ is a line of length $w$, then
+$L \times W$ is a rectangle of area $l \times w$. In fact, we call it an "$l
+\times w$ rectangle." This is probably the reason for using the $\times$ sign,
+and for calling $A \times B$ a "product".
