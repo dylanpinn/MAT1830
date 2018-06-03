@@ -89,10 +89,30 @@ We want to prove that <img src="/lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.s
 <p align="center"><img src="/lectures/tex/3e8d836fb0f378a9e36839c3cdfd3f93.svg?invert_in_darkmode&sanitize=true" align=middle width=211.28404605pt height=16.438356pt/></p> by
 DeMorgan's law.
 
-<p align="center"><img src="/lectures/tex/b6f70806def41a13c90719d26c3bc1c3.svg?invert_in_darkmode&sanitize=true" align=middle width=246.03859334999996pt height=16.438356pt/></p> by <img src="/lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode&sanitize=true" align=middle width=34.69756784999999pt height=24.65753399999998pt/>.
+<p align="center"><img src="/lectures/tex/b6f70806def41a13c90719d26c3bc1c3.svg?invert_in_darkmode&sanitize=true" align=middle width=246.03859334999996pt height=16.438356pt/></p>
+
+by <img src="/lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode&sanitize=true" align=middle width=34.69756784999999pt height=24.65753399999998pt/>
 
 <p align="center"><img src="/lectures/tex/bb68fc4f2d7bf217d1761f2bf00af51f.svg?invert_in_darkmode&sanitize=true" align=middle width=233.25315915000002pt height=12.9680562pt/></p>
 
 So <img src="/lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode&sanitize=true" align=middle width=63.00796754999999pt height=24.65753399999998pt/> is true.
 
 This proves that <img src="/lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode&sanitize=true" align=middle width=35.489081099999986pt height=24.65753399999998pt/> is true for each integer <img src="/lectures/tex/e4fa18f24ed41ec42105ccc667ea4f17.svg?invert_in_darkmode&sanitize=true" align=middle width=40.00371704999999pt height=21.18721440000001pt/>.
+
+## Example 2##
+
+Prove that every integer is a sum of distinct powers of 2. (Just a power of two
+by itself counts as a "sum".)
+
+The idea behind this proof is to repeatedly subtract the largest possible power
+of 2. We illustrate with the number 27.
+
+27 - largest power of 2 less than 27 <img src="/lectures/tex/56524519d55f4f6ab84cb92218b77c2e.svg?invert_in_darkmode&sanitize=true" align=middle width=108.67560989999997pt height=21.18721440000001pt/>
+
+11 - largest power of 2 less than 11 <img src="/lectures/tex/9b4132c19c06970415e6e829e1b7ef65.svg?invert_in_darkmode&sanitize=true" align=middle width=92.23719119999998pt height=21.18721440000001pt/>
+
+3 - largest power of 2 less than 3 <img src="/lectures/tex/98db8266990efcbff9f9307dd9133322.svg?invert_in_darkmode&sanitize=true" align=middle width=84.01798184999998pt height=21.18721440000001pt/>
+
+Hence <img src="/lectures/tex/537176ac78502e5c7860dd250adf6ca1.svg?invert_in_darkmode&sanitize=true" align=middle width=283.46963865pt height=26.76175259999998pt/>. (It is only interesting to
+find _distinct_ powers of 2, because of course each integer <img src="/lectures/tex/33fc3e3d5a5ca99d5ac200178cc7c25a.svg?invert_in_darkmode&sanitize=true" align=middle width=25.570741349999988pt height=21.18721440000001pt/> is a sum of
+1s, and <img src="/lectures/tex/b8f06769d0123f7ead8b61af7ad09f75.svg?invert_in_darkmode&sanitize=true" align=middle width=44.90859614999999pt height=26.76175259999998pt/>.)
