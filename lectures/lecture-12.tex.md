@@ -128,3 +128,32 @@ So $\overline{A \cup B} = \overline{A} \cap \overline{B}$
 ![](images/L12-P17.png)
 
 So $A \cap (B \triangle C) = (A \cap B) \triangle (A \cap C)$
+
+## 12.6 Ordered Pairs
+
+For sets we have $\{a,b\} = \{b,a\}$.
+
+But sometimes order is important.
+
+So we defined ordered pairs $(a,b)$, where the order is significant: $(a,b) \not
+= (b,a)$.
+
+We can of course can also define ordered triples $(a,b,c)$ etc.
+
+## 12.7 Cartesian product
+
+The set of ordered pairs
+
+$$A \times B = \{(a,b) : a \in A \text{ and } b \in B \}$$
+
+is the _Cartesian product_ of sets $A$ and $B$.
+
+Remember the elements of $A \times B$ are always _ordered pairs_.
+
+**Question** If $A = \{0,1\}$ and $B = \{1,2,3\}$ what is $A \times B$?
+
+$$\{(0,1),(0,2),(0,3),(1,1),(1,2),(1,3)\}$$
+
+**Question** If $A = \{0,1\}$ what is $A \times \mathbb{N}$?
+
+$$\{(0,0),(1,0),(0,1),(1,1),(0,2),(1,2),\dots\}$$
