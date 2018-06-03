@@ -99,7 +99,7 @@ So <img src="/lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmo
 
 This proves that <img src="/lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode&sanitize=true" align=middle width=35.489081099999986pt height=24.65753399999998pt/> is true for each integer <img src="/lectures/tex/e4fa18f24ed41ec42105ccc667ea4f17.svg?invert_in_darkmode&sanitize=true" align=middle width=40.00371704999999pt height=21.18721440000001pt/>.
 
-## Example 2##
+## Example 2
 
 Prove that every integer is a sum of distinct powers of 2. (Just a power of two
 by itself counts as a "sum".)
@@ -116,3 +116,35 @@ of 2. We illustrate with the number 27.
 Hence <img src="/lectures/tex/537176ac78502e5c7860dd250adf6ca1.svg?invert_in_darkmode&sanitize=true" align=middle width=283.46963865pt height=26.76175259999998pt/>. (It is only interesting to
 find _distinct_ powers of 2, because of course each integer <img src="/lectures/tex/33fc3e3d5a5ca99d5ac200178cc7c25a.svg?invert_in_darkmode&sanitize=true" align=middle width=25.570741349999988pt height=21.18721440000001pt/> is a sum of
 1s, and <img src="/lectures/tex/b8f06769d0123f7ead8b61af7ad09f75.svg?invert_in_darkmode&sanitize=true" align=middle width=44.90859614999999pt height=26.76175259999998pt/>.)
+
+
+### Solution
+
+Let <img src="/lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode&sanitize=true" align=middle width=35.489081099999986pt height=24.65753399999998pt/> be the statement "_n_ can be written as a sum of distinct powers of
+2".
+
+**Base step.** <img src="/lectures/tex/b8f06769d0123f7ead8b61af7ad09f75.svg?invert_in_darkmode&sanitize=true" align=middle width=44.90859614999999pt height=26.76175259999998pt/>, so 1 is a sum of (one) power of 2.
+
+**Induction step.** Suppose that <img src="/lectures/tex/a15640b42ace9ee59de2bfa481625e75.svg?invert_in_darkmode&sanitize=true" align=middle width=137.99671874999999pt height=24.65753399999998pt/> are true for some
+integer <img src="/lectures/tex/4e5227ce11270fec063cddcfb92c3417.svg?invert_in_darkmode&sanitize=true" align=middle width=40.06836074999999pt height=22.831056599999986pt/>. This means that <img src="/lectures/tex/0b54ec654d26fb072b0da2c417d30183.svg?invert_in_darkmode&sanitize=true" align=middle width=61.13010914999999pt height=22.831056599999986pt/> can be written as a sum of
+distinct powers of 2.
+
+We want to prove that <img src="/lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode&sanitize=true" align=middle width=63.00796754999999pt height=24.65753399999998pt/> is true. We need to show that <img src="/lectures/tex/33359de825e43daa97171e27f6558ae9.svg?invert_in_darkmode&sanitize=true" align=middle width=37.38576269999999pt height=22.831056599999986pt/> can be
+written as a sum of distinct powers of 2.
+
+If <img src="/lectures/tex/33359de825e43daa97171e27f6558ae9.svg?invert_in_darkmode&sanitize=true" align=middle width=37.38576269999999pt height=22.831056599999986pt/> is a power of 2, then we are finished.
+
+If not, let <img src="/lectures/tex/b483d63dd412dda7d6fa3ebd72211fff.svg?invert_in_darkmode&sanitize=true" align=middle width=14.32371929999999pt height=27.15900329999998pt/> be the greatest power of 2 less than <img src="/lectures/tex/33359de825e43daa97171e27f6558ae9.svg?invert_in_darkmode&sanitize=true" align=middle width=37.38576269999999pt height=22.831056599999986pt/>.
+
+(This means that <img src="/lectures/tex/3199b78aae22096ea6852755cc111a8d.svg?invert_in_darkmode&sanitize=true" align=middle width=97.73217795pt height=27.77565449999998pt/>.)
+
+Let <img src="/lectures/tex/1776f87e8322aebc32e49a20a53157e4.svg?invert_in_darkmode&sanitize=true" align=middle width=112.16696369999997pt height=27.15900329999998pt/>. Note that <img src="/lectures/tex/dc72d7f2ace76420cb56531034a20833.svg?invert_in_darkmode&sanitize=true" align=middle width=72.0414156pt height=27.15900329999998pt/>.
+
+Because <img src="/lectures/tex/02e5e81fd8ab521241a88f4d502b53e6.svg?invert_in_darkmode&sanitize=true" align=middle width=31.28543219999999pt height=24.65753399999998pt/> is true, <img src="/lectures/tex/77a3b857d53fb44e33b53e4c8b68351a.svg?invert_in_darkmode&sanitize=true" align=middle width=5.663225699999989pt height=21.68300969999999pt/> can be written as a sum of distinct powers of 2.
+(Note that each power of 2 in this sum is smaller than <img src="/lectures/tex/b483d63dd412dda7d6fa3ebd72211fff.svg?invert_in_darkmode&sanitize=true" align=middle width=14.32371929999999pt height=27.15900329999998pt/> because <img src="/lectures/tex/808df385bb3e16e54831b12945be04b8.svg?invert_in_darkmode&sanitize=true" align=middle width=41.904574799999985pt height=27.15900329999998pt/>).
+
+So <img src="/lectures/tex/83c0292f08488727b21486ab60d85ac3.svg?invert_in_darkmode&sanitize=true" align=middle width=100.20342419999997pt height=27.15900329999998pt/> can be written as a sum of distinct powers of 2.
+
+So <img src="/lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode&sanitize=true" align=middle width=63.00796754999999pt height=24.65753399999998pt/> is true.
+
+This proves that <img src="/lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode&sanitize=true" align=middle width=35.489081099999986pt height=24.65753399999998pt/> is true for each integer <img src="/lectures/tex/e4fa18f24ed41ec42105ccc667ea4f17.svg?invert_in_darkmode&sanitize=true" align=middle width=40.00371704999999pt height=21.18721440000001pt/>.
