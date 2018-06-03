@@ -105,4 +105,6 @@ So $A \cap \overline{B} = A - B$.
 
 ![](images/L12-P13.png)
 
+![](images/L12-P14.png)
+
 So $\overline{A \cup B} = \overline{A} \cap \overline{B}$
