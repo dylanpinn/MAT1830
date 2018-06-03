@@ -198,3 +198,19 @@ $\{\{\}, \{2\}, \{5\}, \{10\}, \{20\}, \{2, 5\}, \{2, 10\}, \{2, 20\}, \{5,
 10\}, \{5, 20\}, \{10, 20\}, \{2, 5, 10\}, \{2, 5, 20\}, \{2, 10, 20\}, \{5,
 10, 20\}, \{2, 5, 10, 20\} \}$
 
+## 11.6 Sets and properties
+
+We mentioned at the beginning that $\{x: P(x)\}$ stands for the set of objects
+$x$ with property $P$. Thus sets correspond to properties.
+
+Properties of the natural numbers $0,1,2,3,\dots,$ for example, correspond to
+subsets of the set $\mathbb{N} = \{0,1,2,3,\dots\}$. Thus the subset
+
+$$\{0,2,4,6,\dots\} = \{n \in \mathbb{N}: n \text{ is even }\},$$
+
+corresponds to the property of being even. Similarly, the set
+
+$$\{2,3,5,7,11,13,17,19,23,29,21,\dots\}$$
+
+corresponds to the property of being prime. The power set $\wp(N)$ corresponds
+to all possible properties of natural numbers.
