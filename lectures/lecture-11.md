@@ -66,3 +66,13 @@ The set containing all multiples of 10, that is <img src="/lectures/tex/193a538e
 Write a formula for the set <img src="/lectures/tex/95bbeb3ff6f126f4f90b12125a8e3bea.svg?invert_in_darkmode&sanitize=true" align=middle width=125.11406654999999pt height=24.65753399999998pt/>.
 
 <img src="/lectures/tex/25e82f2d09e70e00054f3166bedbda86.svg?invert_in_darkmode&sanitize=true" align=middle width=139.0524102pt height=24.65753399999998pt/>
+
+## 11.2 Universal set
+
+The idea of a "set of all sets" leads to logical difficulties. Difficulties are
+avoided by always working within a local "universal set" which includes only
+those objects under consideration.
+
+For example, when discussing arithmetic it might be sufficient to work just with
+numbers <img src="/lectures/tex/5a1c15190d207b036ba70588a3a3b15a.svg?invert_in_darkmode&sanitize=true" align=middle width=81.27835979999999pt height=21.18721440000001pt/>. Our universal set could then be taken as <p align="center"><img src="/lectures/tex/5d586cd0d961345269a45e2447c9d491.svg?invert_in_darkmode&sanitize=true" align=middle width=117.8079705pt height=16.438356pt/></p>, and other sets of interest, e.g. <img src="/lectures/tex/51a1c9d86299c44d5c3726bc6139c5d3.svg?invert_in_darkmode&sanitize=true" align=middle width=40.707607049999986pt height=24.65753399999998pt/> is prime <img src="/lectures/tex/3b95a53f17b42854b8a9aadfd2e09e98.svg?invert_in_darkmode&sanitize=true" align=middle width=8.219209349999991pt height=24.65753399999998pt/>,
+are parts of <img src="/lectures/tex/3d339a5dc0c5e9621b5098220029a9a6.svg?invert_in_darkmode&sanitize=true" align=middle width=8.21920935pt height=14.15524440000002pt/>.
