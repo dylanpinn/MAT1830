@@ -203,3 +203,15 @@ corresponds to the property of being even. Similarly, the set
 
 corresponds to the property of being prime. The power set <img src="/lectures/tex/4d69a69860667da9feda4f7a4f8b785a.svg?invert_in_darkmode&sanitize=true" align=middle width=38.247747449999984pt height=24.65753399999998pt/> corresponds
 to all possible properties of natural numbers.
+
+**Question 11.3** Consider the sets
+
+<p align="center"><img src="/lectures/tex/8afa695b7e4642b65139acc6d0b8d389.svg?invert_in_darkmode&sanitize=true" align=middle width=109.20049635pt height=16.438356pt/></p>
+<p align="center"><img src="/lectures/tex/0f985deb7cb51ae916575a1ae913b095.svg?invert_in_darkmode&sanitize=true" align=middle width=113.1456843pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/a686708f8ba16435bc7f97dfe66bdeea.svg?invert_in_darkmode&sanitize=true" align=middle width=113.1456843pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/356f5fa84917fb215beba65ec09687d8.svg?invert_in_darkmode&sanitize=true" align=middle width=113.1456843pt height=32.990165999999995pt/></p>
+
+Do they have an element in common?
+
+No. Suppose they had <img src="/lectures/tex/89f2e0d2d24bcf44db73aab8fc03252c.svg?invert_in_darkmode&sanitize=true" align=middle width=7.87295519999999pt height=14.15524440000002pt/> in common. Then <img src="/lectures/tex/ac4347acd383a6b21d3794b0b621326e.svg?invert_in_darkmode&sanitize=true" align=middle width=38.009795999999994pt height=21.18721440000001pt/>, so there is a (big) natural
+number <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> such that <img src="/lectures/tex/08316d6d59ba59aef094254b1c67a785.svg?invert_in_darkmode&sanitize=true" align=middle width=39.88920704999999pt height=27.77565449999998pt/>. But then <img src="/lectures/tex/89f2e0d2d24bcf44db73aab8fc03252c.svg?invert_in_darkmode&sanitize=true" align=middle width=7.87295519999999pt height=14.15524440000002pt/> is not in the set <img src="/lectures/tex/813fa296531d5310e29c4a5bf50e9cee.svg?invert_in_darkmode&sanitize=true" align=middle width=113.05250219999999pt height=27.77565449999998pt/>. Contradiction.
