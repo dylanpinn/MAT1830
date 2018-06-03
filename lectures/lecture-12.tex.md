@@ -10,3 +10,17 @@ diagrams_, which show sets $A,B,C,\dots$ as disks within a rectangle
 representing the universal set $U$.
 
 ![](images/L12-P3.png)
+
+## 12.2 Union
+
+The union $A \cup B$ of sets $A$ and $B$ consists of the elements in $A$ _or_
+$B$, and is indicated by the shaded region in the following Venn diagram.
+
+![](images/L12-P4-1.png)
+
+## 12.3 Intersection
+
+The intersection $A \cap B$ of sets $A$ and $B$ consists of the elements in $A$
+_and_ $B$, indicated by the shaded region in the following Venn diagram.
+
+![](images/L12-P4-2.png)
