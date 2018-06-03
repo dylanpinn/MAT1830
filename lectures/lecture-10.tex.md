@@ -66,3 +66,31 @@ For 1., split $1+3+5+\dots+(2k+1)$ as $(1+3+5+\dots+(2k-1)) + 2k + 1$ and use
 normal induction.
 
 For 2., split $\neg(p_1 \lor p_2 \lor \dots \lor p_n $
+
+For 3., the definition of $a_{k+1}$ uses both $a_k$ and $a_{k-1}$ so strong
+induction will be useful.
+
+So 3.
+
+### Normal Induction Proof of 2.
+
+Prove that $\neg(p_1 \lor p_2 \lor \dots \lor p_n \equiv \neg p_1 \land \neg
+p_2 \land \dots \land \neg p_n$ for all $n \geq 2$.
+
+#### Solution
+
+Let $P(n)$ be the statement "$\neg (p_1 \lor p_2 \lor \dots \lor p_n \equiv \neg
+p_1 \lor \neg p_2 \lor \dots \lor \neg p_n$".
+
+**Base Step.** $P(2)$ says "$\neg(\p_1 \lor p_2) \equiv \neg p_1 \lor \neg
+\p_2$" which is just DeMorgan's law.
+
+**Induction step.** Suppose that $P(k)$ is true for some integer $k \geq 2$. So
+$\neg (p_1 \lor p_2 \lor \dots \lor p_k) \equiv \neg p_1 \lor p_2 \lor \dots
+\lor \neg p_k$.
+
+We want to prove that $P(k+1)$ is true. We need to show that $\neg (p_1 \lor p_2
+\lor \dots \lor p_{k+1} \equiv \neg p_1 \lor \neg p_2 \lor \dots \lor \neg
+p_{k+1}$.
+
+$$\neg (p_1 \lor p_2 \lor \dots \lor p_k \lor p_{k+1}$$
