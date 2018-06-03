@@ -33,3 +33,13 @@ input gives exactly one output.
 A function $f$ consists of a _domain_ $X$, a _codomain_ $Y$, and a set of
 ordered pairs from $X \times Y$ which has exactly one ordered pair $(x,y)$ for
 each $x \in X$.
+
+When $(a,b)$ is in this set we write $f(a) = b$.
+
+The set of $y$ values occurring in these pairs in the _image_ of $f$.
+
+Note that the image of a function is always a subset of its codomain but they
+may or may not be equal.
+
+If the image of a function is equal to its codomain, we say that the function is
+_onto_.
