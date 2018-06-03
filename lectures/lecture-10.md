@@ -167,3 +167,19 @@ We can write every integer <img src="/lectures/tex/33fc3e3d5a5ca99d5ac200178cc7c
 <p align="center"><img src="/lectures/tex/810d4fd38171b429a494e9365230131a.svg?invert_in_darkmode&sanitize=true" align=middle width=226.17188714999998pt height=16.66852275pt/></p>
 
 Where <img src="/lectures/tex/e86a7f3439fd74936abfbdda8c73fbad.svg?invert_in_darkmode&sanitize=true" align=middle width=112.65597914999998pt height=14.15524440000002pt/> are all in {0,1,2}, however.
+
+## 10.2 Well-ordering and descent
+
+Induction expresses the fact that each natural number <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> can be reached by
+starting at 0 and going upwards (e.g. adding 1) a finite number of times.
+
+Equivalent facts are that it is only a finite number of steps, _downwards_ from
+any natural number to 0, that _any descending sequence of natural numbers is
+finite_, and that _any set of natural numbers has a least element._
+
+This property is called _well-ordering_ of the natural numbers. It is often
+convenient to arrange a proof to "work downwards" and appeal to well-ordering by
+saying that the process of working downwards must eventually stop.
+
+Such proofs are equivalent to induction, though they are sometimes called
+"infinite descent" or similar.
