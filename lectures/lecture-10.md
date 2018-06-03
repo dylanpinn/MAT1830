@@ -148,3 +148,22 @@ So <img src="/lectures/tex/83c0292f08488727b21486ab60d85ac3.svg?invert_in_darkmo
 So <img src="/lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode&sanitize=true" align=middle width=63.00796754999999pt height=24.65753399999998pt/> is true.
 
 This proves that <img src="/lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode&sanitize=true" align=middle width=35.489081099999986pt height=24.65753399999998pt/> is true for each integer <img src="/lectures/tex/e4fa18f24ed41ec42105ccc667ea4f17.svg?invert_in_darkmode&sanitize=true" align=middle width=40.00371704999999pt height=21.18721440000001pt/>.
+
+## Question 10.2
+
+What else tells you every integer is a sum of distinct powers of 2?
+
+The fact that every integer can be written as binary is equivalent to saying
+every integer is a sum of distinct powers of 2.
+
+## Question 10.3
+
+Is every integer <img src="/lectures/tex/53b5365e05f26de6bd81b9c8fc76defe.svg?invert_in_darkmode&sanitize=true" align=middle width=32.23179299999999pt height=21.18721440000001pt/> a sum of distinct powers of 3?
+
+No. The powers of three are <img src="/lectures/tex/4dd4940f154a092f91a5e5c7674e66a3.svg?invert_in_darkmode&sanitize=true" align=middle width=84.01825244999998pt height=21.18721440000001pt/> So, for example, 2 is not and 7
+is not.
+
+We can write every integer <img src="/lectures/tex/33fc3e3d5a5ca99d5ac200178cc7c25a.svg?invert_in_darkmode&sanitize=true" align=middle width=25.570741349999988pt height=21.18721440000001pt/> as
+<p align="center"><img src="/lectures/tex/810d4fd38171b429a494e9365230131a.svg?invert_in_darkmode&sanitize=true" align=middle width=226.17188714999998pt height=16.66852275pt/></p>
+
+Where <img src="/lectures/tex/e86a7f3439fd74936abfbdda8c73fbad.svg?invert_in_darkmode&sanitize=true" align=middle width=112.65597914999998pt height=14.15524440000002pt/> are all in {0,1,2}, however.
