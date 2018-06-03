@@ -42,3 +42,13 @@ Is <img src="/lectures/tex/af8562d7be650ceb0abd32e1c31104a2.svg?invert_in_darkmo
 **Question:** Is <img src="/lectures/tex/3e3bbc408c616bb1d2909c5a57f7efeb.svg?invert_in_darkmode&sanitize=true" align=middle width=56.24611244999999pt height=24.65753399999998pt/>? Is <img src="/lectures/tex/e3501d225d4caf98a243c3e088b02fab.svg?invert_in_darkmode&sanitize=true" align=middle width=70.60679174999999pt height=24.65753399999998pt/>?
 
 Answer: Yes, No.
+
+**Question:**
+
+Let <img src="/lectures/tex/8cdfdca660369c4088f26a103cff8cd9.svg?invert_in_darkmode&sanitize=true" align=middle width=88.43404019999998pt height=24.65753399999998pt/>. What is <img src="/lectures/tex/b131ee40f802f4941063a6a8351c97d5.svg?invert_in_darkmode&sanitize=true" align=middle width=21.74091809999999pt height=24.65753399999998pt/>? **3**
+
+Let <img src="/lectures/tex/5c7a680f371832cf155e80cc0eea4411.svg?invert_in_darkmode&sanitize=true" align=middle width=182.51896409999998pt height=24.65753399999998pt/>. What is <img src="/lectures/tex/65840c883e7323ab67192c3db4729de1.svg?invert_in_darkmode&sanitize=true" align=middle width=20.159830349999993pt height=24.65753399999998pt/>? **4**
+
+Let <img src="/lectures/tex/abbfcd889a362deba9a7101429f6adbc.svg?invert_in_darkmode&sanitize=true" align=middle width=150.7017996pt height=24.65753399999998pt/>. What is <img src="/lectures/tex/64d5b62235f6fbfef0ee9c4ec7f7624e.svg?invert_in_darkmode&sanitize=true" align=middle width=21.021758999999992pt height=24.65753399999998pt/>? **101**
+
+What is <img src="/lectures/tex/53ad727ba87ae15d58f31805f1f26432.svg?invert_in_darkmode&sanitize=true" align=middle width=25.57086674999999pt height=24.65753399999998pt/>? **0**
