@@ -157,3 +157,16 @@ $$\{(0,1),(0,2),(0,3),(1,1),(1,2),(1,3)\}$$
 **Question** If $A = \{0,1\}$ what is $A \times \mathbb{N}$?
 
 $$\{(0,0),(1,0),(0,1),(1,1),(0,2),(1,2),\dots\}$$
+
+**Question** Let $S = \{-1,1\} \times \{0,1,2\}$. Is $(-1,1) \in S$? Is $(0,1)
+\in S$?
+
+- **A.** Yes, yes
+- **B.** Yes, no
+- **C.** No, yes
+- **D.** No, no
+
+**Answer**
+
+$(-1,1) \in S$ because $-1 \in \{-1,1\}$ and $1 \in \{0,1,2\}$.
+$(0,1) \not \in S$ because $0 \not \in \{-1,1\}$. So **B**.
