@@ -80,17 +80,29 @@ p_2 \land \dots \land \neg p_n$ for all $n \geq 2$.
 #### Solution
 
 Let $P(n)$ be the statement "$\neg (p_1 \lor p_2 \lor \dots \lor p_n \equiv \neg
-p_1 \lor \neg p_2 \lor \dots \lor \neg p_n$".
+p_1 \land \neg p_2 \land \dots \land \neg p_n$".
 
-**Base Step.** $P(2)$ says "$\neg(\p_1 \lor p_2) \equiv \neg p_1 \lor \neg
+**Base Step.** $P(2)$ says "$\neg(\p_1 \lor p_2) \equiv \neg p_1 \land \neg
 \p_2$" which is just DeMorgan's law.
 
 **Induction step.** Suppose that $P(k)$ is true for some integer $k \geq 2$. So
-$\neg (p_1 \lor p_2 \lor \dots \lor p_k) \equiv \neg p_1 \lor p_2 \lor \dots
-\lor \neg p_k$.
+$\neg (p_1 \lor p_2 \lor \dots \lor p_k) \equiv \neg p_1 \land p_2 \land \dots
+\land \neg p_k$.
 
 We want to prove that $P(k+1)$ is true. We need to show that $\neg (p_1 \lor p_2
-\lor \dots \lor p_{k+1} \equiv \neg p_1 \lor \neg p_2 \lor \dots \lor \neg
+\lor \dots \lor p_{k+1} \equiv \neg p_1 \land \neg p_2 \land \dots \land \neg
 p_{k+1}$.
 
 $$\neg (p_1 \lor p_2 \lor \dots \lor p_k \lor p_{k+1}$$
+$$\equiv \neg ((p_1 \lor \p_2 \lor \dots \p_k) \lor p_{k+1})$$
+$$\equiv \neg (p_1 \lor \p_2 \lor \dots \lor p_k) \land \neg p_{k+1}$$ by
+DeMorgan's law.
+
+$$\equiv (\neg p_1 \land \neg p_2 \land \dots \land \neg p_k) \land \neg
+p_{k+1}$$ by $P(k)$.
+
+$$\equiv \neg p_1 \land \neg p_2 \land \dots \land \neg p_k \land \neg p_{k+1}$$
+
+So $P(k+1)$ is true.
+
+This proves that $P(n)$ is true for each integer $n \geq 2$.
