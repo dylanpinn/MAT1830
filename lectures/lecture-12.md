@@ -146,3 +146,15 @@ Remember the elements of <img src="/lectures/tex/206048d77fed9ce184551395c869adc
 **Question** If <img src="/lectures/tex/7050c15f953c8063ed6981b061338d79.svg?invert_in_darkmode&sanitize=true" align=middle width=74.42915039999998pt height=24.65753399999998pt/> what is <img src="/lectures/tex/342a1d0f415acb6899f601c3a5d3769d.svg?invert_in_darkmode&sanitize=true" align=middle width=44.29216934999999pt height=22.648391699999998pt/>?
 
 <p align="center"><img src="/lectures/tex/1c03a7c652a6dd66217164b173b3c98d.svg?invert_in_darkmode&sanitize=true" align=middle width=301.36977914999994pt height=16.438356pt/></p>
+
+**Question** Let <img src="/lectures/tex/93831297fae49f7a096fa318fe0a0326.svg?invert_in_darkmode&sanitize=true" align=middle width=161.71217204999996pt height=24.65753399999998pt/>. Is <img src="/lectures/tex/09194dfd2c0dcc52339ec464cc6865b7.svg?invert_in_darkmode&sanitize=true" align=middle width=80.43370829999999pt height=24.65753399999998pt/>? Is <img src="/lectures/tex/642264e56a7620ded5e5f6179c7e3a6d.svg?invert_in_darkmode&sanitize=true" align=middle width=67.6482741pt height=24.65753399999998pt/>?
+
+- **A.** Yes, yes
+- **B.** Yes, no
+- **C.** No, yes
+- **D.** No, no
+
+**Answer**
+
+<img src="/lectures/tex/09194dfd2c0dcc52339ec464cc6865b7.svg?invert_in_darkmode&sanitize=true" align=middle width=80.43370829999999pt height=24.65753399999998pt/> because <img src="/lectures/tex/316cdc5df51197172a86dd2fb50656be.svg?invert_in_darkmode&sanitize=true" align=middle width=94.06393424999999pt height=24.65753399999998pt/> and <img src="/lectures/tex/f7b0a7434290c253222afe7b4db50aa9.svg?invert_in_darkmode&sanitize=true" align=middle width=84.01816004999998pt height=24.65753399999998pt/>.
+<img src="/lectures/tex/e64634edaa34236399f07f33e18b6312.svg?invert_in_darkmode&sanitize=true" align=middle width=67.6482741pt height=24.65753399999998pt/> because <img src="/lectures/tex/08b23aab54d6e043159c222b9a53d2fe.svg?invert_in_darkmode&sanitize=true" align=middle width=81.27850169999998pt height=24.65753399999998pt/>. So **B**.
