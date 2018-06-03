@@ -232,3 +232,13 @@ $$\Rightarrow m^2 \text{ is even }$$
 $$\Rightarrow m \text{ is even, since the square of an odd number is odd }$$
 $$\Rightarrow m = 2m_1 \text{ say }$$
 $$\Rightarrow 2n^2 = m^2 = 4m^2_1$$
+$$\Rightarrow n^2 = 2m^2_1$$
+$$\Rightarrow n \text{ n is even, } = 2n_1 \text{ say }$$
+
+But then $\sqrt{2} = \frac{m_1}{n_1}$, and we can repeat the argument to show
+that $m_1$ and $n_1$ are both even, so $m_1 = 2m_2$ and $n_1 = 2n_2$, and so on.
+
+Since the argument can be repeated indefinitely, we get an _infinite_ descending
+sequence of natural numbers $$m > m_1 > m_2 > \dots $$ which is impossible.
+
+Hence there are no natural numbers $m$ and $n$ with $\sqrt{2} = \frac{m}{n}$.
