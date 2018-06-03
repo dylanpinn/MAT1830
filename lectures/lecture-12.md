@@ -48,3 +48,19 @@ The difference <img src="/lectures/tex/1324412f6823f49ba2782ac30451a6c4.svg?inve
 _complement_ <img src="/lectures/tex/bb9674d5100390c5eca7be169db2bb73.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=27.725679300000007pt/> of <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/>. Here is the Venn diagram of <img src="/lectures/tex/bb9674d5100390c5eca7be169db2bb73.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=27.725679300000007pt/>.
 
 ![](images/L12-P6-2.png)
+
+## 12.5 Symmetric difference
+
+The union of <img src="/lectures/tex/e5f5db573149c789f22fcdd200188678.svg?invert_in_darkmode&sanitize=true" align=middle width=45.71340014999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/de6ebed358e3b2bba36a60fc60eb9138.svg?invert_in_darkmode&sanitize=true" align=middle width=45.713393549999985pt height=22.465723500000017pt/> is called the _symmetric difference_ <img src="/lectures/tex/45f8da91df45d62bd5bab69a2f519715.svg?invert_in_darkmode&sanitize=true" align=middle width=40.23411974999999pt height=22.831056599999986pt/> of <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/>.
+
+![](images/L12-P7.png)
+
+<img src="/lectures/tex/c770f6f0df6975ef927cc4851bee3b4d.svg?invert_in_darkmode&sanitize=true" align=middle width=40.23411974999999pt height=22.831056599999986pt/> consists of the elements of _one_ of <img src="/lectures/tex/91daf49251530f97b200e0d037770c11.svg?invert_in_darkmode&sanitize=true" align=middle width=32.92809134999999pt height=22.465723500000017pt/> but not the other.
+
+It is clear from the diagram that we have not only
+
+<p align="center"><img src="/lectures/tex/8eecb09d55c98948a56a721ef0d46dc6.svg?invert_in_darkmode&sanitize=true" align=middle width=197.4140949pt height=16.438356pt/></p>
+
+but also
+
+$<img src="/lectures/tex/c5a99a48f87c1bb0d901da0a147297a0.svg?invert_in_darkmode&sanitize=true" align=middle width=195.58760264999998pt height=24.65753399999998pt/>
