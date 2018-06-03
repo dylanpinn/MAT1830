@@ -112,3 +112,9 @@ true using logic.
 <p align="center"><img src="/lectures/tex/c82466a14d8c53bfd08403eef845f621.svg?invert_in_darkmode&sanitize=true" align=middle width=247.46499359999996pt height=117.84771074999999pt/></p>
 
 So <img src="/lectures/tex/6b3f1a8709c7238dc6f8e178d2e85ad6.svg?invert_in_darkmode&sanitize=true" align=middle width=109.69140104999998pt height=27.725679300000007pt/>
+
+**Question 12.3** Find whether <img src="/lectures/tex/fb8e17b56067893676ace6c135bf8548.svg?invert_in_darkmode&sanitize=true" align=middle width=233.71432424999995pt height=24.65753399999998pt/> is true using Venn diagrams.
+
+![](images/L12-P17.png)
+
+So <img src="/lectures/tex/ba91ab9b93dcd62df60dd09d36f07280.svg?invert_in_darkmode&sanitize=true" align=middle width=233.71432424999995pt height=24.65753399999998pt/>
