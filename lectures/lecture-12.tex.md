@@ -112,9 +112,10 @@ So $\overline{A \cup B} = \overline{A} \cap \overline{B}$
 **Question** Show that $\overline{A \cup B} = \overline{A} \cap \overline{B}$ is
 true using logic.
 
-$$
-\begin{align}
+$$\begin{align}
   x \in \overline{A \cup B} &\equiv \neg(x \in A \cup B) \\
-   &\equiv \neg((x \in A) \lor (x \in B))
-\end{align}
-$$
+  &\equiv \neg((x \in A) \lor (x \in B)) \\
+  &\equiv \neg(x \in ) \land \neg (x \in B) \\
+  &\equiv (x \in \overline{A}) \land (x \in \overline{B}) \\
+  &\equal x \in \overline{A} \cap \overline{B}
+\end{align}$$
