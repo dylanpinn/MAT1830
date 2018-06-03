@@ -187,3 +187,19 @@ What is <img src="/lectures/tex/51e2c123aa8de712f82a7ea0802cb6e6.svg?invert_in_d
 
 <img src="/lectures/tex/9b4552a5696eb6defb0a38a4d9ed1b35.svg?invert_in_darkmode&sanitize=true" align=middle width=907.7634340499998pt height=24.65753399999998pt/>
 
+## 11.6 Sets and properties
+
+We mentioned at the beginning that <img src="/lectures/tex/83f1c4f904aae11b5d136390b1659bbb.svg?invert_in_darkmode&sanitize=true" align=middle width=74.54902125pt height=24.65753399999998pt/> stands for the set of objects
+<img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> with property <img src="/lectures/tex/df5a289587a2f0247a5b97c1e8ac58ca.svg?invert_in_darkmode&sanitize=true" align=middle width=12.83677559999999pt height=22.465723500000017pt/>. Thus sets correspond to properties.
+
+Properties of the natural numbers <img src="/lectures/tex/12069d2c8fd405e0321f158983089448.svg?invert_in_darkmode&sanitize=true" align=middle width=88.58424299999999pt height=21.18721440000001pt/> for example, correspond to
+subsets of the set <img src="/lectures/tex/c73a7487724c0a68b6d85f1a7669f555.svg?invert_in_darkmode&sanitize=true" align=middle width=134.24624895pt height=24.65753399999998pt/>. Thus the subset
+
+<p align="center"><img src="/lectures/tex/fefef07803d0b4b203a111cfba72b50e.svg?invert_in_darkmode&sanitize=true" align=middle width=268.22629185pt height=16.438356pt/></p>
+
+corresponds to the property of being even. Similarly, the set
+
+<p align="center"><img src="/lectures/tex/66babcc63ab8084550a1035627fabe8b.svg?invert_in_darkmode&sanitize=true" align=middle width=266.6665518pt height=16.438356pt/></p>
+
+corresponds to the property of being prime. The power set <img src="/lectures/tex/4d69a69860667da9feda4f7a4f8b785a.svg?invert_in_darkmode&sanitize=true" align=middle width=38.247747449999984pt height=24.65753399999998pt/> corresponds
+to all possible properties of natural numbers.
