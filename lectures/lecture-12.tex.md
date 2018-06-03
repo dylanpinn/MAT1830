@@ -48,3 +48,20 @@ The difference $U - B$ relative to the universal set $U$ is called the
 _complement_ $\overline{B}$ of $B$. Here is the Venn diagram of $\overline{B}$.
 
 ![](images/L12-P6-2.png)
+
+## 12.5 Symmetric difference
+
+The union of $A-B$ and $B-A$ is called the _symmetric difference_ $A \triangle
+B$ of $A$ and $B$.
+
+![](images/L12-P7.png)
+
+$A \triangle B$ consists of the elements of _one_ of $A,B$ but not the other.
+
+It is clear from the diagram that we have not only
+
+$$A \triangle B = (A-B) \cup (B-A)$$
+
+but also
+
+$$A \triangle B = (A \cup B) - (A \cap B)$
