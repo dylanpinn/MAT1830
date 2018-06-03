@@ -22,3 +22,13 @@ vice-versa.
 ## 11.1 Set notation
 
 - $x \in S$ means that _x_ is an element of set _S_.
+- $\{x_1, x_2, x_3, \dots \}$ is the set with elements $x_1, x_2, x_3, \dots$
+- $\{x : P(x) \}$ is the set of all _x_ with property _P_.
+
+**Example.**
+
+$$17 \in \{ x : x \text{ is prime } \} = \{2,3,5,7,11,13,\dots\}$$
+$$\{1,2,3\} = \{3,1,2\}$$
+$$\{1,1,1\} - \{1\}$$
+
+For a finite set $S$, we write $|S|$ for the number of elements of $S$.
