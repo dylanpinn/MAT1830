@@ -74,4 +74,9 @@ avoided by always working within a local "universal set" which includes only
 those objects under consideration.
 
 For example, when discussing arithmetic it might be sufficient to work just with
-numbers <img src="/lectures/tex/5a1c15190d207b036ba70588a3a3b15a.svg?invert_in_darkmode&sanitize=true" align=middle width=81.27835979999999pt height=21.18721440000001pt/>. Our universal set could then be taken as <p align="center"><img src="/lectures/tex/9aeff5c3ff37d807accf717b7a8da2e9.svg?invert_in_darkmode&sanitize=true" align=middle width=134.24624895pt height=16.438356pt/></p>, and other sets of interest, e.g. <img src="/lectures/tex/51920564c1e0c9ce8c84794506da715b.svg?invert_in_darkmode&sanitize=true" align=middle width=117.55702859999997pt height=24.65753399999998pt/>, are parts of <img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>.
+numbers <img src="/lectures/tex/5a1c15190d207b036ba70588a3a3b15a.svg?invert_in_darkmode&sanitize=true" align=middle width=81.27835979999999pt height=21.18721440000001pt/>. Our universal set could then be taken as
+
+<p align="center"><img src="/lectures/tex/821944705ea61bde1bf97d240809b162.svg?invert_in_darkmode&sanitize=true" align=middle width=134.24624895pt height=16.438356pt/></p>
+
+, and other sets of interest, e.g. <img src="/lectures/tex/327ec78623d1a3d9e7668ebd5b0022b7.svg?invert_in_darkmode&sanitize=true" align=middle width=117.55702859999997pt height=24.65753399999998pt/>, are parts of
+<img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>.
