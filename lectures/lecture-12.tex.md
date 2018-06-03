@@ -36,3 +36,15 @@ What is $\{1,2,3\} \cup \{2,3\}$? = $\{1,2,3\}$
 What is $\{1,2,3\} \cap \{3\}$? = $\{3\}$
 
 What is $\{1,2,3\} \cap \{7,8\}$? = $\{\}$
+
+## 12.4 Difference
+
+The difference $A - B$ of sets $A$ and $B$ consists of the elements in $A$ and
+_not_ in $B$, indicated by the shaded region in the following Venn diagram.
+
+![](images/L12-P6-1.png)
+
+The difference $U - B$ relative to the universal set $U$ is called the
+_complement_ $\overline{B}$ of $B$. Here is the Venn diagram of $\overline{B}$.
+
+![](images/L12-P6-2.png)
