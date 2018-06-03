@@ -75,13 +75,24 @@ Prove that <img src="/lectures/tex/dcc420291f81d2a87777b98f2000c545.svg?invert_i
 
 #### Solution
 
-Let <img src="/lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode&sanitize=true" align=middle width=35.489081099999986pt height=24.65753399999998pt/> be the statement "<img src="/lectures/tex/31119d60c730c8b61f39b2c69edc9e53.svg?invert_in_darkmode&sanitize=true" align=middle width=316.28548215pt height=24.65753399999998pt/>".
+Let <img src="/lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode&sanitize=true" align=middle width=35.489081099999986pt height=24.65753399999998pt/> be the statement "<img src="/lectures/tex/5c32b32771ba3b609d367231d80921ea.svg?invert_in_darkmode&sanitize=true" align=middle width=316.28548215pt height=24.65753399999998pt/>".
 
-**Base Step.** <img src="/lectures/tex/80cf2a320983d550f5666d11b9632b78.svg?invert_in_darkmode&sanitize=true" align=middle width=33.84141419999999pt height=24.65753399999998pt/> says "<img src="/lectures/tex/2247587229ec528f1331fe2c1334c65d.svg?invert_in_darkmode&sanitize=true" align=middle width=142.0205853pt height=24.65753399999998pt/>" which is just DeMorgan's law.
+**Base Step.** <img src="/lectures/tex/80cf2a320983d550f5666d11b9632b78.svg?invert_in_darkmode&sanitize=true" align=middle width=33.84141419999999pt height=24.65753399999998pt/> says "<img src="/lectures/tex/fd00a2320c2b5e65d9c3f5f5ee47d227.svg?invert_in_darkmode&sanitize=true" align=middle width=142.0205853pt height=24.65753399999998pt/>" which is just DeMorgan's law.
 
 **Induction step.** Suppose that <img src="/lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode&sanitize=true" align=middle width=34.69756784999999pt height=24.65753399999998pt/> is true for some integer <img src="/lectures/tex/93b0cc42af701f8d26df07765ffc4627.svg?invert_in_darkmode&sanitize=true" align=middle width=39.21220214999999pt height=22.831056599999986pt/>. So
-<img src="/lectures/tex/76419da73cc19f7b2172842011e02a45.svg?invert_in_darkmode&sanitize=true" align=middle width=309.9992709pt height=24.65753399999998pt/>.
+<img src="/lectures/tex/90f10cf31f3ec8a68ccd820ab55a2002.svg?invert_in_darkmode&sanitize=true" align=middle width=309.9992709pt height=24.65753399999998pt/>.
 
-We want to prove that <img src="/lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode&sanitize=true" align=middle width=63.00796754999999pt height=24.65753399999998pt/> is true. We need to show that <img src="/lectures/tex/b7bcf1b047acd9bf0faaf41e537579c1.svg?invert_in_darkmode&sanitize=true" align=middle width=347.85332504999997pt height=24.65753399999998pt/>.
+We want to prove that <img src="/lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode&sanitize=true" align=middle width=63.00796754999999pt height=24.65753399999998pt/> is true. We need to show that <img src="/lectures/tex/d1cd2a644b8ccda251c75ed90ce88484.svg?invert_in_darkmode&sanitize=true" align=middle width=347.85332504999997pt height=24.65753399999998pt/>.
 
 <p align="center"><img src="/lectures/tex/f00a0280bcd4e1d4797b9ce1c8df53ee.svg?invert_in_darkmode&sanitize=true" align=middle width=189.41752169999998pt height=16.438356pt/></p>
+<p align="center"><img src="/lectures/tex/2641c20ad30148bd2bde76c9b62b0615.svg?invert_in_darkmode&sanitize=true" align=middle width=187.3971792pt height=16.438356pt/></p>
+<p align="center"><img src="/lectures/tex/3e8d836fb0f378a9e36839c3cdfd3f93.svg?invert_in_darkmode&sanitize=true" align=middle width=211.28404605pt height=16.438356pt/></p> by
+DeMorgan's law.
+
+<p align="center"><img src="/lectures/tex/b6f70806def41a13c90719d26c3bc1c3.svg?invert_in_darkmode&sanitize=true" align=middle width=246.03859334999996pt height=16.438356pt/></p> by <img src="/lectures/tex/4aea7d03cb3afc4a3d2c5963d5d5d280.svg?invert_in_darkmode&sanitize=true" align=middle width=34.69756784999999pt height=24.65753399999998pt/>.
+
+<p align="center"><img src="/lectures/tex/bb68fc4f2d7bf217d1761f2bf00af51f.svg?invert_in_darkmode&sanitize=true" align=middle width=233.25315915000002pt height=12.9680562pt/></p>
+
+So <img src="/lectures/tex/11ef9f3112a5610ca9d47a508db9dc2d.svg?invert_in_darkmode&sanitize=true" align=middle width=63.00796754999999pt height=24.65753399999998pt/> is true.
+
+This proves that <img src="/lectures/tex/e720ef2e3dc10278f2cc0341a8635074.svg?invert_in_darkmode&sanitize=true" align=middle width=35.489081099999986pt height=24.65753399999998pt/> is true for each integer <img src="/lectures/tex/e4fa18f24ed41ec42105ccc667ea4f17.svg?invert_in_darkmode&sanitize=true" align=middle width=40.00371704999999pt height=21.18721440000001pt/>.
