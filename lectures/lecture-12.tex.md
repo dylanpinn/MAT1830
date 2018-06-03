@@ -108,3 +108,11 @@ So $A \cap \overline{B} = A - B$.
 ![](images/L12-P14.png)
 
 So $\overline{A \cup B} = \overline{A} \cap \overline{B}$
+
+**Question** Show that $\overline{A \cup B} = \overline{A} \cap \overline{B}$ is
+true using logic.
+
+$$
+x \in \overline{A \cup B} &\equiv \neg(x \in A \cup B) \\
+ &\equiv 2
+$$
