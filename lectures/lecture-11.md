@@ -78,3 +78,11 @@ numbers <img src="/lectures/tex/5a1c15190d207b036ba70588a3a3b15a.svg?invert_in_d
 <p align="center"><img src="/lectures/tex/821944705ea61bde1bf97d240809b162.svg?invert_in_darkmode&sanitize=true" align=middle width=134.24624895pt height=16.438356pt/></p>
 , and other sets of interest, e.g. <img src="/lectures/tex/327ec78623d1a3d9e7668ebd5b0022b7.svg?invert_in_darkmode&sanitize=true" align=middle width=117.55702859999997pt height=24.65753399999998pt/>, are parts of
 <img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>.
+
+### Important sets
+
+- <img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> natural numbers <img src="/lectures/tex/23ab5f88fff6bc77e39976f07a64ad20.svg?invert_in_darkmode&sanitize=true" align=middle width=84.93134594999998pt height=24.65753399999998pt/>.
+- <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/> integers <img src="/lectures/tex/f9308236d569f86005633f85db36d673.svg?invert_in_darkmode&sanitize=true" align=middle width=170.77593059999998pt height=24.65753399999998pt/>
+- <img src="/lectures/tex/0f452ec0bcf578fa387e4857f80f03f4.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=22.648391699999998pt/> rational numbers <img src="/lectures/tex/36cbdba2d529a6aafad364c8c4c3befd.svg?invert_in_darkmode&sanitize=true" align=middle width=139.809846pt height=24.65753399999998pt/>
+- <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> real numbers
+- <img src="/lectures/tex/f21a321fb872de33723aaddf4d7c121a.svg?invert_in_darkmode&sanitize=true" align=middle width=10.045686749999991pt height=22.648391699999998pt/> empty set <img src="/lectures/tex/4ff29620e88188582cae13f73fcb04b2.svg?invert_in_darkmode&sanitize=true" align=middle width=16.438418699999993pt height=24.65753399999998pt/>
