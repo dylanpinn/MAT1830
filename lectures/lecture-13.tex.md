@@ -71,3 +71,5 @@ $$\{(0,0),(1,2),(2,4),(3,6)\}$$
 
 **Example** Let $f: \mathbb{R} \rightarrow \mathbb{R}$ be defined by $f(x) =
 2x$.
+
+$$\{(x,2x): x \in \mathbb{R}\}$$
