@@ -102,4 +102,6 @@ So <img src="/lectures/tex/ace60d92fd9633a2b6da3a5a5aae7aea.svg?invert_in_darkmo
 
 ![](images/L12-P13.png)
 
+![](images/L12-P14.png)
+
 So <img src="/lectures/tex/6b3f1a8709c7238dc6f8e178d2e85ad6.svg?invert_in_darkmode&sanitize=true" align=middle width=109.69140104999998pt height=27.725679300000007pt/>
