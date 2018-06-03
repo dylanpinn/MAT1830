@@ -89,3 +89,11 @@ $\mathbb{N}$.
   0\}$
 - $\mathbb{R}$ real numbers
 - $\emptyset$ empty set $\{\}$
+
+## 11.3 Subsets
+
+We say that $A$ is a _subset_ of $B$ and write $A \subset B$ when each element
+of $A$ is an element of $B$.
+
+**Example.** The set of primes forms a _subset_ of $\mathbb{N}$, that is $\{x: x
+\text{ is prime }\} \subset \mathbb{N}$.
