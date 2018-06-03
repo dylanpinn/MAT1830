@@ -221,3 +221,13 @@ argue as follows.
 <p align="center"><img src="/lectures/tex/a24b31ab7d61b876bdd5bfca834f9004.svg?invert_in_darkmode&sanitize=true" align=middle width=397.08229769999997pt height=14.611878599999999pt/></p>
 <p align="center"><img src="/lectures/tex/807adeac8bfb0f374f2258b88487db0a.svg?invert_in_darkmode&sanitize=true" align=middle width=116.01220124999999pt height=13.789957499999998pt/></p>
 <p align="center"><img src="/lectures/tex/5b44d7ab66b6e433e05a19925ceb8161.svg?invert_in_darkmode&sanitize=true" align=middle width=141.31272539999998pt height=18.2666319pt/></p>
+<p align="center"><img src="/lectures/tex/05633b45e2f20cd499d9e6cb505bcdb8.svg?invert_in_darkmode&sanitize=true" align=middle width=89.36832464999999pt height=18.2666319pt/></p>
+<p align="center"><img src="/lectures/tex/58418651c5047cfb40476229e19aed36.svg?invert_in_darkmode&sanitize=true" align=middle width=185.50995705pt height=14.174856299999998pt/></p>
+
+But then <img src="/lectures/tex/4f6eadc57d126f1c09b41ecdd5358342.svg?invert_in_darkmode&sanitize=true" align=middle width=63.88856429999999pt height=28.511366399999982pt/>, and we can repeat the argument to show
+that <img src="/lectures/tex/0429e3dd940669f4c728ca27fe915301.svg?invert_in_darkmode&sanitize=true" align=middle width=20.985647099999987pt height=14.15524440000002pt/> and <img src="/lectures/tex/3c7e3568fa1625fede3ff436bfec732d.svg?invert_in_darkmode&sanitize=true" align=middle width=16.41942389999999pt height=14.15524440000002pt/> are both even, so <img src="/lectures/tex/1d915c18a76bdec4bd1c16e98d16eaf8.svg?invert_in_darkmode&sanitize=true" align=middle width=72.93004784999998pt height=21.18721440000001pt/> and <img src="/lectures/tex/e27c0c4b33d473407b3addf9be3d643b.svg?invert_in_darkmode&sanitize=true" align=middle width=63.79759979999999pt height=21.18721440000001pt/>, and so on.
+
+Since the argument can be repeated indefinitely, we get an _infinite_ descending
+sequence of natural numbers <p align="center"><img src="/lectures/tex/550520667bc1c49bf81b62f2d5043c15.svg?invert_in_darkmode&sanitize=true" align=middle width=142.9791033pt height=11.327609699999998pt/></p> which is impossible.
+
+Hence there are no natural numbers <img src="/lectures/tex/0e51a2dede42189d77627c4d742822c3.svg?invert_in_darkmode&sanitize=true" align=middle width=14.433101099999991pt height=14.15524440000002pt/> and <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> with <img src="/lectures/tex/7395f0e10aa95efcec5872eba8199bbc.svg?invert_in_darkmode&sanitize=true" align=middle width=57.472953449999984pt height=28.511366399999982pt/>.
