@@ -92,3 +92,10 @@ Note $S = \{0,1,2\}$. So for $S$ to be a subset of $\{-1,0,1\} \cup T$ we need
 that each of 0,1,2 is an element of $\{-1,0,1\} \cup T$. This is definitely true
 for 0 and 1 because they're in $\{-1,0,1\}$. So we just need that 2 be an
 element of $T$. So **D**.
+
+**Question 12.1** Draw a Venn diagram for $A \cap \overline{B}$. What is another
+name for this set?
+
+![](images/L12-P10.png)
+
+So $A \cap \overline{B} = A - B$.
