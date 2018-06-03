@@ -99,3 +99,10 @@ name for this set?
 ![](images/L12-P10.png)
 
 So $A \cap \overline{B} = A - B$.
+
+**Question 12.2** Show that $\overline{A \cup B} = \overline{A} \cap
+\overline{B}$ is true using Venn diagrams.
+
+![](images/l12-p13.png)
+
+So $\overline{A \cup B} = \overline{A} \cap \overline{B}$
