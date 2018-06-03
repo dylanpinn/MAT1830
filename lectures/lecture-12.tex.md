@@ -74,6 +74,21 @@ What is $\{1,2,3\} = \triangle \{2,3,6,7\}$? = $\{1,6,7\}$
 
 What is $\{2,3\} - \{1,2,3\}$? = $\{\}$
 
-What is $\{1,2,3\} \triangle \{3\}$ = $\{1,2\}$
+What is $\{1,2,3\} \triangle \{3\}$? = $\{1,2\}$
 
 What is $\{1,2,3\} - \{7,8\}$? = $\{1,2,3\}$
+
+**Question** Let $S = \{-2,-1,0,1,2\} \cap \mathbb{N}$. If we know that $S
+\subseteq (\{-1,0,1\} \cup T)$, what can we say about $T$?
+
+- **A.** $T$ must equal $\{2\}$
+- **B.** $T$ must equal $\mathbb{N}$
+- **C.** $T$ can be any set such that $-2 \in T$
+- **D.** $T$ can be any set such that $2 \in T$
+
+**Answer**
+
+Note $S = \{0,1,2\}$. So for $S$ to be a subset of $\{-1,0,1\} \cup T$ we need
+that each of 0,1,2 is an element of $\{-1,0,1\} \cup T$. This is definitely true
+for 0 and 1 because they're in $\{-1,0,1\}$. So we just need that 2 be an
+element of $T$. So **D**.
