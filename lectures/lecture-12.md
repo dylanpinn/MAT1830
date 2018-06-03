@@ -63,4 +63,16 @@ It is clear from the diagram that we have not only
 
 but also
 
-$<img src="/lectures/tex/c5a99a48f87c1bb0d901da0a147297a0.svg?invert_in_darkmode&sanitize=true" align=middle width=195.58760264999998pt height=24.65753399999998pt/>
+<p align="center"><img src="/lectures/tex/147be44d2bc8b7e3e632181f3c99d741.svg?invert_in_darkmode&sanitize=true" align=middle width=195.58760265pt height=16.438356pt/></p>
+
+**Questions**
+
+What is <img src="/lectures/tex/e5aa794698afac752d3e6282208e7131.svg?invert_in_darkmode&sanitize=true" align=middle width=133.33325774999997pt height=24.65753399999998pt/>? = <img src="/lectures/tex/a4fcb4500397cbb130042139c507ec40.svg?invert_in_darkmode&sanitize=true" align=middle width=40.18272059999999pt height=24.65753399999998pt/>
+
+What is <img src="/lectures/tex/438e2eb5d06960953063678b07355e4c.svg?invert_in_darkmode&sanitize=true" align=middle width=163.47026025pt height=24.65753399999998pt/>? = <img src="/lectures/tex/919dc400ee296a701fd4c74fd824dcb4.svg?invert_in_darkmode&sanitize=true" align=middle width=55.70781314999999pt height=24.65753399999998pt/>
+
+What is <img src="/lectures/tex/99c330419369f70fbf9e5b2cb85404e3.svg?invert_in_darkmode&sanitize=true" align=middle width=115.98172575pt height=24.65753399999998pt/>? = <img src="/lectures/tex/4ff29620e88188582cae13f73fcb04b2.svg?invert_in_darkmode&sanitize=true" align=middle width=16.438418699999993pt height=24.65753399999998pt/>
+
+What is <img src="/lectures/tex/8815554a81cff15d74b000e8c5348cb2.svg?invert_in_darkmode&sanitize=true" align=middle width=94.97735279999999pt height=24.65753399999998pt/> = <img src="/lectures/tex/d724abf25a6ab4d8bb1dd8ecebd54c53.svg?invert_in_darkmode&sanitize=true" align=middle width=40.18272059999999pt height=24.65753399999998pt/>
+
+What is <img src="/lectures/tex/848abeac0099e6134d5406698c761c10.svg?invert_in_darkmode&sanitize=true" align=middle width=115.98172575pt height=24.65753399999998pt/>? = <img src="/lectures/tex/49519068a123d98fcecd8120989abbc5.svg?invert_in_darkmode&sanitize=true" align=middle width=55.70781314999999pt height=24.65753399999998pt/>
