@@ -24,3 +24,15 @@ The intersection <img src="/lectures/tex/b0c1a78bbd8d865698d311abad4d5d92.svg?in
 _and_ <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/>, indicated by the shaded region in the following Venn diagram.
 
 ![](images/L12-P4-2.png)
+
+**Questions**
+
+What is <img src="/lectures/tex/fd197938258ba006d219e889b09cf440.svg?invert_in_darkmode&sanitize=true" align=middle width=129.68032604999996pt height=24.65753399999998pt/>? = <img src="/lectures/tex/0ab5bed1bf89bdf7df80fbc2c9da57b0.svg?invert_in_darkmode&sanitize=true" align=middle width=86.75799824999999pt height=24.65753399999998pt/>
+
+What is <img src="/lectures/tex/c5304343b1c35c3f802616c5bbb98a49.svg?invert_in_darkmode&sanitize=true" align=middle width=145.20541859999997pt height=24.65753399999998pt/>? = <img src="/lectures/tex/a40178e917ed5ce7b8049c1947198c62.svg?invert_in_darkmode&sanitize=true" align=middle width=40.18272059999999pt height=24.65753399999998pt/>
+
+What is <img src="/lectures/tex/ad7f72c4266cac872b94fad3183d01a0.svg?invert_in_darkmode&sanitize=true" align=middle width=114.1552335pt height=24.65753399999998pt/>? = <img src="/lectures/tex/49519068a123d98fcecd8120989abbc5.svg?invert_in_darkmode&sanitize=true" align=middle width=55.70781314999999pt height=24.65753399999998pt/>
+
+What is <img src="/lectures/tex/ec7e842d1d781027a42bdca97071a185.svg?invert_in_darkmode&sanitize=true" align=middle width=98.63014094999998pt height=24.65753399999998pt/>? = <img src="/lectures/tex/ebef3a209d3c76e8b0b586f3dae5a400.svg?invert_in_darkmode&sanitize=true" align=middle width=24.657628049999992pt height=24.65753399999998pt/>
+
+What is <img src="/lectures/tex/b0f59b0d95850b7c357608bdf86a74c7.svg?invert_in_darkmode&sanitize=true" align=middle width=114.1552335pt height=24.65753399999998pt/>? = <img src="/lectures/tex/4ff29620e88188582cae13f73fcb04b2.svg?invert_in_darkmode&sanitize=true" align=middle width=16.438418699999993pt height=24.65753399999998pt/>
