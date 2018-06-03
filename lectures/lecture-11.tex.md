@@ -176,12 +176,12 @@ sequences can be filled in two ways.)
 
 ## 11.5 Power set
 
-The set of all subsets of a set $U$ is called the _power set_ $\mathbb{P}(U)$ of
+The set of all subsets of a set $U$ is called the _power set_ $\wp(U)$ of
 $U$.
 
-**Example.** We see from the previous table that $\mathbb{P}(a\{a,b,c\})$ is the
+**Example.** We see from the previous table that $\wp(a\{a,b,c\})$ is the
 set
 
 $$\{\{\},\{c\},\{b\},\{b,c\},\{a\},\{a,c\},\{a,b\},\{a,b,c\}\}.$$
 
-If $U$ has $n$ elements, then $\mathbb{P}(U)$ has $2^n$ elements.
+If $U$ has $n$ elements, then $\wp(U)$ has $2^n$ elements.
