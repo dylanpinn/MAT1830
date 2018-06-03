@@ -32,3 +32,13 @@ $$\{1,2,3\} = \{3,1,2\}$$
 $$\{1,1,1\} - \{1\}$$
 
 For a finite set $S$, we write $|S|$ for the number of elements of $S$.
+
+**Question:** Let $S = \{a, \{a\}, \{b\}, \{a,b,c\}\}$.
+
+Is $a \in S$? Yes
+
+Is $b \in S$? No
+
+**Question:** Is $\{a\} \in S$? Is $\{a,b\} \in S$?
+
+Answer: Yes, No.
