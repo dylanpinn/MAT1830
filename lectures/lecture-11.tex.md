@@ -173,3 +173,15 @@ be $2^4 = 16$ of them, corresponding to the $2^4$ sequences of 0s and 1s.
 In the same way, we find that an n-element set has $2^n$ subsets, because there
 are $2^n$ binary sequences of length $n$. (Each of the $n$ places in the
 sequences can be filled in two ways.)
+
+## 11.5 Power set
+
+The set of all subsets of a set $U$ is called the _power set_ $\mathbb{P}(U)$ of
+$U$.
+
+**Example.** We see from the previous table that $\mathbb{P}(a\{a,b,c\})$ is the
+set
+
+$$\{\{\},\{c\},\{b\},\{b,c\},\{a\},\{a,c\},\{a,b\},\{a,b,c\}\}.$$
+
+If $U$ has $n$ elements, then $\mathbb{P}(U)$ has $2^n$ elements.
