@@ -164,3 +164,15 @@ be <img src="/lectures/tex/49db0ca540e68dc1e939eaf219ad8c35.svg?invert_in_darkmo
 In the same way, we find that an n-element set has <img src="/lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode&sanitize=true" align=middle width=16.34523329999999pt height=21.839370299999988pt/> subsets, because there
 are <img src="/lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode&sanitize=true" align=middle width=16.34523329999999pt height=21.839370299999988pt/> binary sequences of length <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>. (Each of the <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> places in the
 sequences can be filled in two ways.)
+
+## 11.5 Power set
+
+The set of all subsets of a set <img src="/lectures/tex/6bac6ec50c01592407695ef84f457232.svg?invert_in_darkmode&sanitize=true" align=middle width=13.01596064999999pt height=22.465723500000017pt/> is called the _power set_ <img src="/lectures/tex/14622b437d4330abc46e8ff4c2924406.svg?invert_in_darkmode&sanitize=true" align=middle width=35.84706014999999pt height=24.65753399999998pt/> of
+<img src="/lectures/tex/6bac6ec50c01592407695ef84f457232.svg?invert_in_darkmode&sanitize=true" align=middle width=13.01596064999999pt height=22.465723500000017pt/>.
+
+**Example.** We see from the previous table that <img src="/lectures/tex/273c715f68dc201b8a114c0e7b91dac2.svg?invert_in_darkmode&sanitize=true" align=middle width=85.42821374999998pt height=24.65753399999998pt/> is the
+set
+
+<p align="center"><img src="/lectures/tex/03e0fbf81cdc5b06cd2b18ee90781da0.svg?invert_in_darkmode&sanitize=true" align=middle width=331.61361089999997pt height=16.438356pt/></p>
+
+If <img src="/lectures/tex/6bac6ec50c01592407695ef84f457232.svg?invert_in_darkmode&sanitize=true" align=middle width=13.01596064999999pt height=22.465723500000017pt/> has <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> elements, then <img src="/lectures/tex/14622b437d4330abc46e8ff4c2924406.svg?invert_in_darkmode&sanitize=true" align=middle width=35.84706014999999pt height=24.65753399999998pt/> has <img src="/lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode&sanitize=true" align=middle width=16.34523329999999pt height=21.839370299999988pt/> elements.
