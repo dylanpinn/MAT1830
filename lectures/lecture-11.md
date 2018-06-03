@@ -32,3 +32,13 @@ vice-versa.
 <p align="center"><img src="/lectures/tex/91c26afa6786e50f00a847e05659c4eb.svg?invert_in_darkmode&sanitize=true" align=middle width=100.45663319999998pt height=16.438356pt/></p>
 
 For a finite set <img src="/lectures/tex/e257acd1ccbe7fcb654708f1a866bfe9.svg?invert_in_darkmode&sanitize=true" align=middle width=11.027402099999989pt height=22.465723500000017pt/>, we write <img src="/lectures/tex/65840c883e7323ab67192c3db4729de1.svg?invert_in_darkmode&sanitize=true" align=middle width=20.159830349999993pt height=24.65753399999998pt/> for the number of elements of <img src="/lectures/tex/e257acd1ccbe7fcb654708f1a866bfe9.svg?invert_in_darkmode&sanitize=true" align=middle width=11.027402099999989pt height=22.465723500000017pt/>.
+
+**Question:** Let <img src="/lectures/tex/6c4428fe578b3435e53c1acd6a6d030b.svg?invert_in_darkmode&sanitize=true" align=middle width=182.51896409999998pt height=24.65753399999998pt/>.
+
+Is <img src="/lectures/tex/f2327da2f28224c690e81d27baf85f74.svg?invert_in_darkmode&sanitize=true" align=middle width=39.807693749999984pt height=22.465723500000017pt/>? Yes
+
+Is <img src="/lectures/tex/af8562d7be650ceb0abd32e1c31104a2.svg?invert_in_darkmode&sanitize=true" align=middle width=38.173335749999985pt height=22.831056599999986pt/>? No
+
+**Question:** Is <img src="/lectures/tex/3e3bbc408c616bb1d2909c5a57f7efeb.svg?invert_in_darkmode&sanitize=true" align=middle width=56.24611244999999pt height=24.65753399999998pt/>? Is <img src="/lectures/tex/e3501d225d4caf98a243c3e088b02fab.svg?invert_in_darkmode&sanitize=true" align=middle width=70.60679174999999pt height=24.65753399999998pt/>?
+
+Answer: Yes, No.
