@@ -177,3 +177,19 @@ We can write every integer $\geq 1$ as
 $$a_0 3^0 + a_1 3^1 + a_2 3^2 + a_3 3^3 + \dots$$
 
 Where $a_0, a_1, a_2, a_3, \dots$ are all in {0,1,2}, however.
+
+## 10.2 Well-ordering and descent
+
+Induction expresses the fact that each natural number $n$ can be reached by
+starting at 0 and going upwards (e.g. adding 1) a finite number of times.
+
+Equivalent facts are that it is only a finite number of steps, _downwards_ from
+any natural number to 0, that _any descending sequence of natural numbers is
+finite_, and that _any set of natural numbers has a least element._
+
+This property is called _well-ordering_ of the natural numbers. It is often
+convenient to arrange a proof to "work downwards" and appeal to well-ordering by
+saying that the process of working downwards must eventually stop.
+
+Such proofs are equivalent to induction, though they are sometimes called
+"infinite descent" or similar.
