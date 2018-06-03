@@ -99,3 +99,10 @@ of $A$ is an element of $B$.
 \text{ is prime }\} \subseteq \mathbb{N}$.
 
 ![](images/L10-P16.png)
+
+Formally, $A \subseteq B$ if $\forall x(x \in A \rightarrow x \in B)$.
+
+That is, $A$ is a subset of $B$ if every element of $A$ is also an element of
+$B$.
+
+**Notes:** Every set is a subset of itself. $\{\}$ is a subset of every set.
