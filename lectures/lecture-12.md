@@ -109,4 +109,6 @@ So <img src="/lectures/tex/6b3f1a8709c7238dc6f8e178d2e85ad6.svg?invert_in_darkmo
 **Question** Show that <img src="/lectures/tex/6b3f1a8709c7238dc6f8e178d2e85ad6.svg?invert_in_darkmode&sanitize=true" align=middle width=109.69140104999998pt height=27.725679300000007pt/> is
 true using logic.
 
-<p align="center"><img src="/lectures/tex/4eea9891c96e9a06911709f27c344f59.svg?invert_in_darkmode&sanitize=true" align=middle width=247.46499359999996pt height=117.84771074999999pt/></p>
+<p align="center"><img src="/lectures/tex/c82466a14d8c53bfd08403eef845f621.svg?invert_in_darkmode&sanitize=true" align=middle width=247.46499359999996pt height=117.84771074999999pt/></p>
+
+So <img src="/lectures/tex/6b3f1a8709c7238dc6f8e178d2e85ad6.svg?invert_in_darkmode&sanitize=true" align=middle width=109.69140104999998pt height=27.725679300000007pt/>
