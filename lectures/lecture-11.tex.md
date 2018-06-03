@@ -75,7 +75,9 @@ those objects under consideration.
 
 For example, when discussing arithmetic it might be sufficient to work just with
 numbers $0,1,2,3,\dots$. Our universal set could then be taken as
+
 $$\mathbb{N} = \{0,1,2,3,\dots \}$$
+
 , and other sets of interest, e.g. $\{x: x \text{ is prime } \}$, are parts of
 $\mathbb{N}$.
 
