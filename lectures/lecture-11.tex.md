@@ -106,3 +106,25 @@ That is, $A$ is a subset of $B$ if every element of $A$ is also an element of
 $B$.
 
 **Notes:** Every set is a subset of itself. $\{\}$ is a subset of every set.
+
+**Question:** Let $S = \{a, \{a\}, \{b\}, \{a,b,c\}\}$.
+
+Is $\{b\} \subseteq S$? No, because $b \not \in S$.
+
+Is $\{a, \{a,b,c\},\} \subseteq S$? Yes, because $a \in S$ and $\{a,b,c\} \in
+S$.
+
+**Question:** Is $\{a,b\} \subseteq S$? Is $\{\{a\}, \{b\}\} \subseteq S$?
+
+- A: Yes, yes
+- B: Yes, no
+- C: No, yes
+- D: No, no
+
+**Answer:**
+
+$\{a,b\} \not \subseteq S$ because $b \not \in S$.
+
+$\{\{a\},\{b\}\} \subseteq S$ because $\{a\} \in S$ and $\{b\} \in S$.
+
+So C.
