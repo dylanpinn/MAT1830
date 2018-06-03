@@ -97,3 +97,5 @@ of $A$ is an element of $B$.
 
 **Example.** The set of primes forms a _subset_ of $\mathbb{N}$, that is $\{x: x
 \text{ is prime }\} \subseteq \mathbb{N}$.
+
+![](images/L10-P16.png)
