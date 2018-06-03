@@ -90,3 +90,10 @@ Note <img src="/lectures/tex/5a301859375176c372235b5ae930b9ea.svg?invert_in_dark
 that each of 0,1,2 is an element of <img src="/lectures/tex/bcdfbdfbd08866828f411555ef77c982.svg?invert_in_darkmode&sanitize=true" align=middle width=98.64725969999998pt height=24.65753399999998pt/>. This is definitely true
 for 0 and 1 because they're in <img src="/lectures/tex/d830584068bebf3f54bf307910cd212a.svg?invert_in_darkmode&sanitize=true" align=middle width=68.49324734999999pt height=24.65753399999998pt/>. So we just need that 2 be an
 element of <img src="/lectures/tex/2f118ee06d05f3c2d98361d9c30e38ce.svg?invert_in_darkmode&sanitize=true" align=middle width=11.889314249999991pt height=22.465723500000017pt/>. So **D**.
+
+**Question 12.1** Draw a Venn diagram for <img src="/lectures/tex/d12a63a1819f3e5d69d3c909a497d604.svg?invert_in_darkmode&sanitize=true" align=middle width=43.88690624999999pt height=27.725679300000007pt/>. What is another
+name for this set?
+
+![](images/L12-P10.png)
+
+So <img src="/lectures/tex/ace60d92fd9633a2b6da3a5a5aae7aea.svg?invert_in_darkmode&sanitize=true" align=middle width=111.51790814999998pt height=27.725679300000007pt/>.
