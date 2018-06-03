@@ -66,3 +66,14 @@ The set containing all multiples of 10, that is $\{0,10,20,30,\dots\}$.
 Write a formula for the set $\{5,15,25,35,\dots\}$.
 
 $\{x: \neg E(x) \land F(x)\}$
+
+## 11.2 Universal set
+
+The idea of a "set of all sets" leads to logical difficulties. Difficulties are
+avoided by always working within a local "universal set" which includes only
+those objects under consideration.
+
+For example, when discussing arithmetic it might be sufficient to work just with
+numbers $0,1,2,3,\dots$. Our universal set could then be taken as $$\N =
+\{0,1,2,3,\dots \}$$, and other sets of interest, e.g. $\{x: x$ is prime $\}$,
+are parts of $\N$.
