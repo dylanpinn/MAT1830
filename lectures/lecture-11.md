@@ -142,3 +142,25 @@ We also write this function more simply as
 
 - a b c
 - 1 0 1
+
+In fact we can list all characteristic functions on <img src="/lectures/tex/b5935d2873e269fe97955fa45c8ee5a6.svg?invert_in_darkmode&sanitize=true" align=middle width=53.90794035pt height=24.65753399999998pt/>, and hence all
+subsets of <img src="/lectures/tex/b5935d2873e269fe97955fa45c8ee5a6.svg?invert_in_darkmode&sanitize=true" align=middle width=53.90794035pt height=24.65753399999998pt/>, by listing all sequences of three binary digits:
+
+| characteristic function | subset |
+|-------------------------|--------|
+| a b c                   |        |
+| 0 0 0                   | <img src="/lectures/tex/4ff29620e88188582cae13f73fcb04b2.svg?invert_in_darkmode&sanitize=true" align=middle width=16.438418699999993pt height=24.65753399999998pt/> |
+| 0 0 1                   | <img src="/lectures/tex/54503bfb2865a3ed5bb8f924c557ab22.svg?invert_in_darkmode&sanitize=true" align=middle width=23.552223749999985pt height=24.65753399999998pt/> |
+| 0 1 0                   | <img src="/lectures/tex/3f119c53287d45650d843885ff6ee115.svg?invert_in_darkmode&sanitize=true" align=middle width=23.493214799999986pt height=24.65753399999998pt/> |
+| 0 1 1                   | <img src="/lectures/tex/6ac258419e7ab63fb46fa353dc2fc36d.svg?invert_in_darkmode&sanitize=true" align=middle width=37.91290304999999pt height=24.65753399999998pt/> |
+| 1 0 0                   | <img src="/lectures/tex/c3e2cf59ab52ddb82646528b31dc523a.svg?invert_in_darkmode&sanitize=true" align=middle width=25.12757279999999pt height=24.65753399999998pt/> |
+| 1 0 1                   | <img src="/lectures/tex/c5e9578fb772b0ecd601fbaefaf9f1c2.svg?invert_in_darkmode&sanitize=true" align=middle width=39.54726104999999pt height=24.65753399999998pt/> |
+| 1 1 0                   | <img src="/lectures/tex/862d66bb688d01a807467833e7a64042.svg?invert_in_darkmode&sanitize=true" align=middle width=39.48825209999999pt height=24.65753399999998pt/> |
+| 1 1 1                   | <img src="/lectures/tex/b5935d2873e269fe97955fa45c8ee5a6.svg?invert_in_darkmode&sanitize=true" align=middle width=53.90794035pt height=24.65753399999998pt/> |
+
+We could similarly list all the subsets of a four-element set, and there would
+be <img src="/lectures/tex/49db0ca540e68dc1e939eaf219ad8c35.svg?invert_in_darkmode&sanitize=true" align=middle width=53.94971834999998pt height=26.76175259999998pt/> of them, corresponding to the <img src="/lectures/tex/812eddc94b3c44a52699e8da08d64dd6.svg?invert_in_darkmode&sanitize=true" align=middle width=14.771756999999988pt height=26.76175259999998pt/> sequences of 0s and 1s.
+
+In the same way, we find that an n-element set has <img src="/lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode&sanitize=true" align=middle width=16.34523329999999pt height=21.839370299999988pt/> subsets, because there
+are <img src="/lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode&sanitize=true" align=middle width=16.34523329999999pt height=21.839370299999988pt/> binary sequences of length <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>. (Each of the <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> places in the
+sequences can be filled in two ways.)
