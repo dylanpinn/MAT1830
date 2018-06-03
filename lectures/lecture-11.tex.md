@@ -141,3 +141,13 @@ $$
        0 &\text{ if } x \not \in A \\
      \end{cases}
 $$
+
+**Example.** The subset $A = \{a,c\}$ of $B = \{a,b,c\}$ has the characteristic
+function $\chi_A$ with
+
+$$\chi_A(a) = 1, \chi_A(b) = 0, \chi_A(c) = 1$$
+
+We also write this function more simply as
+
+- a b c
+- 1 0 1
