@@ -52,3 +52,17 @@ Let <img src="/lectures/tex/5c7a680f371832cf155e80cc0eea4411.svg?invert_in_darkm
 Let <img src="/lectures/tex/abbfcd889a362deba9a7101429f6adbc.svg?invert_in_darkmode&sanitize=true" align=middle width=150.7017996pt height=24.65753399999998pt/>. What is <img src="/lectures/tex/64d5b62235f6fbfef0ee9c4ec7f7624e.svg?invert_in_darkmode&sanitize=true" align=middle width=21.021758999999992pt height=24.65753399999998pt/>? **101**
 
 What is <img src="/lectures/tex/53ad727ba87ae15d58f31805f1f26432.svg?invert_in_darkmode&sanitize=true" align=middle width=25.57086674999999pt height=24.65753399999998pt/>? **0**
+
+### Question 11.1
+
+<img src="/lectures/tex/9558402e4701b4901b73fda0b34173be.svg?invert_in_darkmode&sanitize=true" align=middle width=44.39492144999999pt height=24.65753399999998pt/> "x is even"
+
+<img src="/lectures/tex/717a497105a214f1c655cd26cfd8e001.svg?invert_in_darkmode&sanitize=true" align=middle width=44.16666704999999pt height=24.65753399999998pt/> "5 divides x" (Assume we're working in the integers <img src="/lectures/tex/97724efe1d61e77783b76251d3ae68dc.svg?invert_in_darkmode&sanitize=true" align=middle width=25.570741349999988pt height=21.18721440000001pt/>).
+
+What is the set <img src="/lectures/tex/ea7ee7e9becffadaef1942b97975e3b7.svg?invert_in_darkmode&sanitize=true" align=middle width=128.09346824999997pt height=24.65753399999998pt/>?
+
+The set containing all multiples of 10, that is <img src="/lectures/tex/193a538e58aada3f09c221e1c9d06279.svg?invert_in_darkmode&sanitize=true" align=middle width=125.11406654999999pt height=24.65753399999998pt/>.
+
+Write a formula for the set <img src="/lectures/tex/95bbeb3ff6f126f4f90b12125a8e3bea.svg?invert_in_darkmode&sanitize=true" align=middle width=125.11406654999999pt height=24.65753399999998pt/>.
+
+<img src="/lectures/tex/25e82f2d09e70e00054f3166bedbda86.svg?invert_in_darkmode&sanitize=true" align=middle width=139.0524102pt height=24.65753399999998pt/>
