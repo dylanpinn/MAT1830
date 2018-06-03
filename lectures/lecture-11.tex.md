@@ -128,3 +128,8 @@ $\{a,b\} \not \subseteq S$ because $b \not \in S$.
 $\{\{a\},\{b\}\} \subseteq S$ because $\{a\} \in S$ and $\{b\} \in S$.
 
 So C.
+
+## 11.4 Characteristic functions
+
+A subset $A$ of $B$ can be specified by its _characteristic function_ $\chi A$,
+which tells which elements of $B$ are in $A$ and which are not.
