@@ -209,3 +209,18 @@ divisor of $n_2$, etc.
 
 The sequence $n > n_1 > n_2 > n_3 > \dots$ must eventually terminate, and this
 means we find a prime divisor of $n$.
+
+### Question
+
+Is every descending sequence of positive rational numbers finite?
+
+No. For example $\frac{1}{1}, \frac{1}{2},\frac{1}{3}, \frac{1}{4}, \frac{1}{5},
+\dots$ is an infinite sequence.
+
+### Example 2
+
+Prove that $\sqrt{2}$ is irrational.
+
+Suppose that $\sqrt{2} = \frac{m}{n}$ for all natural numbers $m$ and $n$. We
+will show this is impossible. Since the square of an odd number is odd, we can
+argue as follows.
