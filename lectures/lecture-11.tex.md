@@ -52,3 +52,17 @@ Let $S = \{a,\{a\},\{b\},\{a,b,c\}\}$. What is $|S|$? **4**
 Let $T = \{0,1,2,\dots,100\}$. What is $|T|$? **101**
 
 What is $|\{\}|$? **0**
+
+### Question 11.1
+
+$E(x): $ "x is even"
+
+$F(x): $ "5 divides x" (Assume we're working in the integers $\geq 0$).
+
+What is the set $\{ x: E(x) \land F(x) \}$?
+
+The set containing all multiples of 10, that is $\{0,10,20,30,\dots\}$.
+
+Write a formula for the set $\{5,15,25,35,\dots\}$.
+
+$\{x: \neg E(x) \land F(x)\}$
