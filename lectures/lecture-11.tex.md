@@ -151,3 +151,25 @@ We also write this function more simply as
 
 - a b c
 - 1 0 1
+
+In fact we can list all characteristic functions on $\{a,b,c\}$, and hence all
+subsets of $\{a,b,c\}$, by listing all sequences of three binary digits:
+
+| characteristic function | subset |
+|-------------------------|--------|
+| a b c                   |        |
+| 0 0 0                   | $\{\}$ |
+| 0 0 1                   | $\{c\}$ |
+| 0 1 0                   | $\{b\}$ |
+| 0 1 1                   | $\{b,c\}$ |
+| 1 0 0                   | $\{a\}$ |
+| 1 0 1                   | $\{a,c\}$ |
+| 1 1 0                   | $\{a,b\}$ |
+| 1 1 1                   | $\{a,b,c\}$ |
+
+We could similarly list all the subsets of a four-element set, and there would
+be $2^4 = 16$ of them, corresponding to the $2^4$ sequences of 0s and 1s.
+
+In the same way, we find that an n-element set has $2^n$ subsets, because there
+are $2^n$ binary sequences of length $n$. (Each of the $n$ places in the
+sequences can be filled in two ways.)
