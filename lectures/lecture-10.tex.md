@@ -193,3 +193,19 @@ saying that the process of working downwards must eventually stop.
 
 Such proofs are equivalent to induction, though they are sometimes called
 "infinite descent" or similar.
+
+## 10.3 Proofs by descent
+
+**Example 1.** Prove that any integer $\geq 2$ has a prime divisor.
+
+If $n$ is prime, then it is a prime divisor of itself. If not, let $n_1 < n$ be
+a divisor of $n$.
+
+If $n_1$ is prime, it is a prime divisor of $n$. If not, let $n_2 < n_1$ be a
+divisor of $n_1$ (and hence of $n$).
+
+If $n_2$ is prime, it is a prime divisor of $n$. If not, let $n_3 > n_2$ be a
+divisor of $n_2$, etc.
+
+The sequence $n > n_1 > n_2 > n_3 > \dots$ must eventually terminate, and this
+means we find a prime divisor of $n$.
