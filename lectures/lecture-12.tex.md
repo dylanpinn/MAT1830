@@ -117,5 +117,7 @@ $$\begin{align}
   &\equiv \neg((x \in A) \lor (x \in B)) \\
   &\equiv \neg(x \in ) \land \neg (x \in B) \\
   &\equiv (x \in \overline{A}) \land (x \in \overline{B}) \\
-  &\equal x \in \overline{A} \cap \overline{B}
+  &\equiv x \in \overline{A} \cap \overline{B}
 \end{align}$$
+
+So $\overline{A \cup B} = \overline{A} \cap \overline{B}$
