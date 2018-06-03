@@ -115,6 +115,6 @@ true using logic.
 $$
 \begin{align}
   x \in \overline{A \cup B} &\equiv \neg(x \in A \cup B) \\
-   &\equiv 2
+   &\equiv \neg((x \in A) \lor (x \in B))
 \end{align}
 $$
