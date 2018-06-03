@@ -95,3 +95,5 @@ We say that <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_
 of <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> is an element of <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/>.
 
 **Example.** The set of primes forms a _subset_ of <img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, that is <img src="/lectures/tex/f8237436d95f7b6e9d9b5d71579ef238.svg?invert_in_darkmode&sanitize=true" align=middle width=151.34683739999997pt height=24.65753399999998pt/>.
+
+![](images/L10-P16.png)
