@@ -24,3 +24,15 @@ The intersection $A \cap B$ of sets $A$ and $B$ consists of the elements in $A$
 _and_ $B$, indicated by the shaded region in the following Venn diagram.
 
 ![](images/L12-P4-2.png)
+
+**Questions**
+
+What is $\{1,2,3\} \cup \{2,5,7\}$? = $\{1,2,3,5,7\}$
+
+What is $\{1,2,3\} \cap \{2,3,6,7\}$? = $\{2,3\}$
+
+What is $\{1,2,3\} \cup \{2,3\}$? = $\{1,2,3\}$
+
+What is $\{1,2,3\} \cap \{3\}$? = $\{3\}$
+
+What is $\{1,2,3\} \cap \{7,8\}$? = $\{\}$
