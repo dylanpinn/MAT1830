@@ -78,3 +78,12 @@ numbers $0,1,2,3,\dots$. Our universal set could then be taken as
 $$\mathbb{N} = \{0,1,2,3,\dots \}$$
 , and other sets of interest, e.g. $\{x: x \text{ is prime } \}$, are parts of
 $\mathbb{N}$.
+
+### Important sets
+
+- $\mathbb{N}$ natural numbers $\{0,1,2,\dots\}$.
+- $\mathbb{Z}$ integers $\{\dots, -2, -1,0,1,2,\dots\}$
+- $\mathbb{Q}$ rational numbers $\{\frac{a}{b}: a,b \in \mathbb{Z}, b \not =
+  0\}$
+- $\mathbb{R}$ real numbers
+- $\mathbb{0}$ empty set $\{\}$
