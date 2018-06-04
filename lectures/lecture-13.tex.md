@@ -121,3 +121,14 @@ $$U = \{(0,7),(1,4),(2,\pi),(2,3)\}$$
 
 ## Square: $\mathbb{R} \rightarrow \mathbb{R}$
 
+**Examples.**
+
+1. The squaring functions square $(x) = x^2$ with domain $\mathbb{R}$, codomain
+   $\mathbb{R}$, and pairs
+
+   $$\{(x,x^2) : x \in \mathbb{R}\}$$
+
+   which form what we usually call the _plot_ of the squaring function.
+
+   The image of this function (the set of _y_ values) is the set
+   $\mathbb{R}^{\geq 0}$ of real numbers $\geq 0$.
