@@ -168,3 +168,21 @@ Which of the following rules define functions?
   is a subset of both <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/>.
   - Yes (depending on your interpretation of "largest").
   - <img src="/lectures/tex/901e596f03626ad34269cf7be6d68aac.svg?invert_in_darkmode&sanitize=true" align=middle width=117.45415439999998pt height=24.65753399999998pt/>.
+
+## 13.2 Arrow notation
+
+If <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> is a function with domain <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> and codomain <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/> we write:
+
+<p align="center"><img src="/lectures/tex/12e56f867353753c65849f53a3a8b4ee.svg?invert_in_darkmode&sanitize=true" align=middle width=74.70864225pt height=14.611878599999999pt/></p>
+
+and we say that <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> is from <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> to <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/>.
+
+**Question 13.2** Which of the following functions can be defined on the whole
+of <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, so that the function values also lie in <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>? (In other
+words, which can be <img src="/lectures/tex/1023c6ff6aeb2536ae58d75211c2c6fa.svg?invert_in_darkmode&sanitize=true" align=middle width=49.314959099999996pt height=22.648391699999998pt/> functions?)
+
+- <img src="/lectures/tex/6177db6fc70d94fdb9dbe1907695fce6.svg?invert_in_darkmode&sanitize=true" align=middle width=15.94753544999999pt height=26.76175259999998pt/> - Yes
+- <img src="/lectures/tex/f6de2147c9c203a34732c0a74515a98c.svg?invert_in_darkmode&sanitize=true" align=middle width=7.454371649999997pt height=27.77565449999998pt/> - No undefined for <img src="/lectures/tex/2f3c8b04b987706450f80c5b0c2619d4.svg?invert_in_darkmode&sanitize=true" align=middle width=39.53182859999999pt height=21.18721440000001pt/>
+- <img src="/lectures/tex/38f816ed8d9782e71ecfd164e77c5150.svg?invert_in_darkmode&sanitize=true" align=middle width=43.41333149999999pt height=24.65753399999998pt/> - No - undefined for <img src="/lectures/tex/4ffda6d041407624a670ed82e95de8c8.svg?invert_in_darkmode&sanitize=true" align=middle width=39.53182859999999pt height=21.18721440000001pt/> (because <img src="/lectures/tex/42c302b7b723c671fd35a91bd18d0c62.svg?invert_in_darkmode&sanitize=true" align=middle width=46.067244299999984pt height=21.839370299999988pt/> for all <img src="/lectures/tex/f037e157fa0f871ed85ce6ac327e7201.svg?invert_in_darkmode&sanitize=true" align=middle width=41.35830434999999pt height=22.648391699999998pt/>.
+- <img src="/lectures/tex/dd14e4011870d961fb4f5097866d9009.svg?invert_in_darkmode&sanitize=true" align=middle width=23.09366069999999pt height=24.995338500000003pt/> - No - undefined for <img src="/lectures/tex/949d3fe7fc31d082be4b1fbe3eb4ac89.svg?invert_in_darkmode&sanitize=true" align=middle width=39.53182859999999pt height=21.18721440000001pt/>
+- <img src="/lectures/tex/25aa9348b4709fc636acf596bc35a9f8.svg?invert_in_darkmode&sanitize=true" align=middle width=31.31284694999999pt height=24.995338500000003pt/> - Yes
