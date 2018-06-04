@@ -132,6 +132,16 @@ The image of this function (the set of _y_ values) is the set
 
 The square root function sqrt <img src="/lectures/tex/af4e2c5c66a242a3cf6d446a28206d59.svg?invert_in_darkmode&sanitize=true" align=middle width=67.1917125pt height=24.995338500000003pt/> with domain <img src="/lectures/tex/83384b0778f2b99b99ec51e21c52a786.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>, codomain <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, and pairs
 
-<p align="center"><img src="/lectures/tex/71c8befdabcdcbaf92785de363808bd4.svg?invert_in_darkmode&sanitize=true" align=middle width=194.65718579999998pt height=17.4097869pt/></p>
+<p align="center"><img src="/lectures/tex/b0f1ef01f61e92232f1654858e28495d.svg?invert_in_darkmode&sanitize=true" align=middle width=201.04990125pt height=17.4097869pt/></p>
 
 The image of this function (the set of <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> values) is the set <img src="/lectures/tex/83384b0778f2b99b99ec51e21c52a786.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>.
+
+## cube: <img src="/lectures/tex/1023c6ff6aeb2536ae58d75211c2c6fa.svg?invert_in_darkmode&sanitize=true" align=middle width=49.314959099999996pt height=22.648391699999998pt/>
+
+The cubing function cube <img src="/lectures/tex/8acb1ceffc413f625fcb8f21a19cf8fe.svg?invert_in_darkmode&sanitize=true" align=middle width=60.04558724999999pt height=26.76175259999998pt/> with domain <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, codomain
+<img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, and pairs
+
+<p align="center"><img src="/lectures/tex/1f7d0a96e2aaf22606d121520465f049.svg?invert_in_darkmode&sanitize=true" align=middle width=117.750897pt height=18.312383099999998pt/></p>
+
+The image of this function is the whole of the codomain <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, so it is
+onto.
