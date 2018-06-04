@@ -100,3 +100,21 @@ example, make a nice class to consider.
 
 **Question** What set of ordered pairs does $f: \{0,1,2,3\} \rightarrow
 \mathbb{N}$ defined by $f(x) = x^2$ correspond to?
+
+$$\{(0,0),(1,1),(2,4),(3,9)\}$$
+
+**Question** Which of the following sets of ordered pairs correspond to
+functions from $\{0,1,2\}$ to $\mathbb{R}$?
+
+$$S = \{(0,7),(2,\pi)\}$$
+$$T = \{(0,7),(1,1),(2,\pi)\}$$
+$$U = \{(0,7),(1,4),(2,\pi),(2,3)\}$$
+
+- **A.** Just T
+- **B.** S and T
+- **C.** T and U
+- **D.** All of them
+
+**Answer** Not **S** - it doesn't have an ordered pair with coordinate 1. Not
+**U** - it has two ordered pairs with first coordinate 2. But **T** is fine. So
+**A**.
