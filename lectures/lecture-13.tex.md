@@ -218,6 +218,6 @@ function.
 
 **Question** Is the function pictured below one-to-one?
 
-![](lectures/L13-P100.png)
+![](images/L13-P100.png)
 
 Yes
