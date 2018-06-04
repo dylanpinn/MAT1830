@@ -138,7 +138,17 @@ $\mathbb{R}^{\geq 0}$ of real numbers $\geq 0$.
 The square root function sqrt $(x) = \sqrt{x}$ with domain $\mathbb{R}^{\geq
 0}$, codomain $\mathbb{R}$, and pairs
 
-$$\{x,\sqrt{x}) : x \in \mathbb{R} \text{ and } x \geq 0 \}$$
+$$\{(x,\sqrt{x}) : x \in \mathbb{R} \text{ and } x \geq 0 \}$$
 
 The image of this function (the set of $y$ values) is the set $\mathbb{R}^{\geq
 0}$.
+
+## cube: $\mathbb{R} \rightarrow \mathbb{R}$
+
+The cubing function cube $(x) = x^3$ with domain $\mathbb{R}$, codomain
+$\mathbb{R}$, and pairs
+
+$$\{(x,x^3): x \in \mathbb{R}\}$$
+
+The image of this function is the whole of the codomain $\mathbb{R}$, so it is
+onto.
