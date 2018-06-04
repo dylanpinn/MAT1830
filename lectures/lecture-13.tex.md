@@ -152,3 +152,19 @@ $$\{(x,x^3): x \in \mathbb{R}\}$$
 
 The image of this function is the whole of the codomain $\mathbb{R}$, so it is
 onto.
+
+## Question 13.1
+
+Which of the following rules define functions?
+
+- For each non-empty set $S$ of natural numbers, let $f(S)$ be the least member
+  of $S$.
+  - Yes
+- For each set $X$ of real numbers between 0 and 1, let $g(X)$ be the least
+  member of $X$.
+  - No - $g(\{x: x \in \mathbb{R} \text{ and } \frac{1}{2} < x < 1 \})$ is not
+    defined.
+- For each circle $C$ in the $(x,y)$ plane, let $h(C)$ be the minimum distance
+  from $C$ to the x axis.
+  - Yes
+
