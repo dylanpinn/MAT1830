@@ -193,4 +193,4 @@ words, which can be $\mathbb{R} \rightarrow \mathbb{R}$ functions?)
 - $\log(x)$ - No - undefined for $x \leq 0$ (because $e^x > 0$ for all $x \in
   \mathbb{R}$.
 - $\sqrt{x}$ - No - undefined for $x < 0$
-- $\sqrt{x}{3}$ - Yes
+- $\sqrt[3]{x}$ - Yes
