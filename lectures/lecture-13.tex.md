@@ -73,3 +73,8 @@ $$\{(0,0),(1,2),(2,4),(3,6)\}$$
 2x$.
 
 $$\{(x,2x): x \in \mathbb{R}\}$$
+
+## Arrow Diagrams
+
+**Example** Let $f: \{0,1,2,3\} \rightarrow \{0,1,2,3,4,5,6\}$ be defined by
+$f(x) = 2x$.
