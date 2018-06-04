@@ -145,3 +145,19 @@ The cubing function cube <img src="/lectures/tex/8acb1ceffc413f625fcb8f21a19cf8f
 
 The image of this function is the whole of the codomain <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, so it is
 onto.
+
+## Question 13.1
+
+Which of the following rules define functions?
+
+- For each non-empty set <img src="/lectures/tex/e257acd1ccbe7fcb654708f1a866bfe9.svg?invert_in_darkmode&sanitize=true" align=middle width=11.027402099999989pt height=22.465723500000017pt/> of natural numbers, let <img src="/lectures/tex/a74295660f0f66b340fbf614a573656f.svg?invert_in_darkmode&sanitize=true" align=middle width=33.63022904999998pt height=24.65753399999998pt/> be the least member
+  of <img src="/lectures/tex/e257acd1ccbe7fcb654708f1a866bfe9.svg?invert_in_darkmode&sanitize=true" align=middle width=11.027402099999989pt height=22.465723500000017pt/>.
+  - Yes
+- For each set <img src="/lectures/tex/cbfb1b2a33b28eab8a3e59464768e810.svg?invert_in_darkmode&sanitize=true" align=middle width=14.908688849999992pt height=22.465723500000017pt/> of real numbers between 0 and 1, let <img src="/lectures/tex/889ff6fa193255b40c2616db0e8ec14f.svg?invert_in_darkmode&sanitize=true" align=middle width=36.12445814999999pt height=24.65753399999998pt/> be the least
+  member of <img src="/lectures/tex/cbfb1b2a33b28eab8a3e59464768e810.svg?invert_in_darkmode&sanitize=true" align=middle width=14.908688849999992pt height=22.465723500000017pt/>.
+  - No - <img src="/lectures/tex/7888ba85a39432e0ea44939415edb116.svg?invert_in_darkmode&sanitize=true" align=middle width=211.49610735pt height=27.77565449999998pt/> is not
+    defined.
+- For each circle <img src="/lectures/tex/9b325b9e31e85137d1de765f43c0f8bc.svg?invert_in_darkmode&sanitize=true" align=middle width=12.92464304999999pt height=22.465723500000017pt/> in the <img src="/lectures/tex/7392a8cd69b275fa1798ef94c839d2e0.svg?invert_in_darkmode&sanitize=true" align=middle width=38.135511149999985pt height=24.65753399999998pt/> plane, let <img src="/lectures/tex/1f0fa7f228a3fb21e110b4ec8e98cf50.svg?invert_in_darkmode&sanitize=true" align=middle width=35.18118614999999pt height=24.65753399999998pt/> be the minimum distance
+  from <img src="/lectures/tex/9b325b9e31e85137d1de765f43c0f8bc.svg?invert_in_darkmode&sanitize=true" align=middle width=12.92464304999999pt height=22.465723500000017pt/> to the x axis.
+  - Yes
+
