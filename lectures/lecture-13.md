@@ -186,3 +186,24 @@ words, which can be <img src="/lectures/tex/1023c6ff6aeb2536ae58d75211c2c6fa.svg
 - <img src="/lectures/tex/38f816ed8d9782e71ecfd164e77c5150.svg?invert_in_darkmode&sanitize=true" align=middle width=43.41333149999999pt height=24.65753399999998pt/> - No - undefined for <img src="/lectures/tex/4ffda6d041407624a670ed82e95de8c8.svg?invert_in_darkmode&sanitize=true" align=middle width=39.53182859999999pt height=21.18721440000001pt/> (because <img src="/lectures/tex/42c302b7b723c671fd35a91bd18d0c62.svg?invert_in_darkmode&sanitize=true" align=middle width=46.067244299999984pt height=21.839370299999988pt/> for all <img src="/lectures/tex/f037e157fa0f871ed85ce6ac327e7201.svg?invert_in_darkmode&sanitize=true" align=middle width=41.35830434999999pt height=22.648391699999998pt/>.
 - <img src="/lectures/tex/dd14e4011870d961fb4f5097866d9009.svg?invert_in_darkmode&sanitize=true" align=middle width=23.09366069999999pt height=24.995338500000003pt/> - No - undefined for <img src="/lectures/tex/949d3fe7fc31d082be4b1fbe3eb4ac89.svg?invert_in_darkmode&sanitize=true" align=middle width=39.53182859999999pt height=21.18721440000001pt/>
 - <img src="/lectures/tex/ab581c2338e8b905c9c8076866561329.svg?invert_in_darkmode&sanitize=true" align=middle width=23.09365905pt height=24.995338500000003pt/> - Yes
+
+## 13.3 One-to-one functions
+
+A function <img src="/lectures/tex/8dd51bd31b996f66d97db221486b70a5.svg?invert_in_darkmode&sanitize=true" align=middle width=77.19148799999999pt height=22.831056599999986pt/> is _one-to-one_ if for each <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> in the range of
+<img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> there is only one <img src="/lectures/tex/ef2a9dc0d2e528efe607b65aaed55845.svg?invert_in_darkmode&sanitize=true" align=middle width=44.39481419999999pt height=22.465723500000017pt/> such that <img src="/lectures/tex/1058016037635271ffc2e170bf1e40de.svg?invert_in_darkmode&sanitize=true" align=middle width=62.564690099999986pt height=24.65753399999998pt/>.
+
+For example, the function cube(x) is one-to-one because each real number <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> is
+the cube of exactly one real number <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/>.
+
+The function square: <img src="/lectures/tex/1023c6ff6aeb2536ae58d75211c2c6fa.svg?invert_in_darkmode&sanitize=true" align=middle width=49.314959099999996pt height=22.648391699999998pt/> is _not_ one-to-one
+because the real number 1 is the square of two different real numbers, 1 and -1.
+(In fact each real <img src="/lectures/tex/1160cbd2c82a490a8f9f6fd9ef657806.svg?invert_in_darkmode&sanitize=true" align=middle width=38.78604674999999pt height=21.18721440000001pt/> is the square of two different real numbers,
+<img src="/lectures/tex/f9e91f01119bbc22d42cb9c4d73a3e56.svg?invert_in_darkmode&sanitize=true" align=middle width=22.34789699999999pt height=21.79901790000001pt/> and <img src="/lectures/tex/df76aa85a92d9c1edb5053582d8b53a9.svg?invert_in_darkmode&sanitize=true" align=middle width=35.133331199999986pt height=21.79901790000001pt/>)
+
+On the other hand, square: <img src="/lectures/tex/7090bd21ba30b4ea6d6d2ef5a8c33889.svg?invert_in_darkmode&sanitize=true" align=middle width=66.96341684999999pt height=27.705869399999983pt/> _is_
+one-to-one because each real number <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> in <img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/> is the square
+of only one real number in <img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>, namely <img src="/lectures/tex/f9e91f01119bbc22d42cb9c4d73a3e56.svg?invert_in_darkmode&sanitize=true" align=middle width=22.34789699999999pt height=21.79901790000001pt/>.
+
+The last example shows that the domain of a function is an important part of its
+description, because changing the domain can change the properties of the
+function.
