@@ -167,4 +167,11 @@ Which of the following rules define functions?
 - For each circle $C$ in the $(x,y)$ plane, let $h(C)$ be the minimum distance
   from $C$ to the x axis.
   - Yes
-
+- For a pair $A, B$ of sets of real numbers let $s(A,B)$ be the smallest set
+  which has both $A$ and $B$ as subsets.
+  - Yes (depending on your interpretation of "smallest").
+  - $s(A,B) = A \cup B$.
+- For a pair $A,B$ of sets of real numbers let $t(A,B)$ be the largest set which
+  is a subset of both $A$ and $B$.
+  - Yes (depending on your interpretation of "largest").
+  - $t(A,B) = A \cap B$.
