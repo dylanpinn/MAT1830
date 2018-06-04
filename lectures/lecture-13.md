@@ -116,3 +116,14 @@ functions from <img src="/lectures/tex/3f4efc607a90eb7ad1e9c1db443d0a13.svg?inve
 
 ## Square: <img src="/lectures/tex/1023c6ff6aeb2536ae58d75211c2c6fa.svg?invert_in_darkmode&sanitize=true" align=middle width=49.314959099999996pt height=22.648391699999998pt/>
 
+**Examples.**
+
+1. The squaring functions square <img src="/lectures/tex/560e6a06958749f60c6766986c0d9557.svg?invert_in_darkmode&sanitize=true" align=middle width=60.04558724999999pt height=26.76175259999998pt/> with domain <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, codomain
+   $\mathbb{R}$, and pairs
+
+   $$\{(x,x^2) : x \in \mathbb{R}\}$$
+
+   which form what we usually call the _plot_ of the squaring function.
+
+   The image of this function (the set of _y_ values) is the set
+   $\mathbb{R}^{\geq 0}$ of real numbers $\geq 0$.
