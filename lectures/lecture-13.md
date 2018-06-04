@@ -95,3 +95,21 @@ Another reason is that "<img src="/lectures/tex/1023c6ff6aeb2536ae58d75211c2c6fa
 example, make a nice class to consider.
 
 **Question** What set of ordered pairs does <img src="/lectures/tex/a7a0af87a865b67ae3c11fdc6dbc5893.svg?invert_in_darkmode&sanitize=true" align=middle width=132.19152044999998pt height=24.65753399999998pt/> defined by <img src="/lectures/tex/45d56c128bbdcd4414f84c155351f718.svg?invert_in_darkmode&sanitize=true" align=middle width=69.86299979999998pt height=26.76175259999998pt/> correspond to?
+
+<p align="center"><img src="/lectures/tex/bddaaf43bbdfb86ff8e84aa281afafb6.svg?invert_in_darkmode&sanitize=true" align=middle width=184.4750094pt height=16.438356pt/></p>
+
+**Question** Which of the following sets of ordered pairs correspond to
+functions from <img src="/lectures/tex/3f4efc607a90eb7ad1e9c1db443d0a13.svg?invert_in_darkmode&sanitize=true" align=middle width=55.70781314999999pt height=24.65753399999998pt/> to <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>?
+
+<p align="center"><img src="/lectures/tex/11408117bb12fd1f77b02a6c7b0d122f.svg?invert_in_darkmode&sanitize=true" align=middle width=131.4896649pt height=16.438356pt/></p>
+<p align="center"><img src="/lectures/tex/1d49d15e0f23b01ca8f927476b342258.svg?invert_in_darkmode&sanitize=true" align=middle width=176.1872112pt height=16.438356pt/></p>
+<p align="center"><img src="/lectures/tex/0a404eeb747898148e4b4be711f89bb9.svg?invert_in_darkmode&sanitize=true" align=middle width=221.14945875pt height=16.438356pt/></p>
+
+- **A.** Just T
+- **B.** S and T
+- **C.** T and U
+- **D.** All of them
+
+**Answer** Not **S** - it doesn't have an ordered pair with coordinate 1. Not
+**U** - it has two ordered pairs with first coordinate 2. But **T** is fine. So
+**A**.
