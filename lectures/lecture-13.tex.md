@@ -78,3 +78,25 @@ $$\{(x,2x): x \in \mathbb{R}\}$$
 
 **Example** Let $f: \{0,1,2,3\} \rightarrow \{0,1,2,3,4,5,6\}$ be defined by
 $f(x) = 2x$.
+
+![](images/L13-P50.png)
+
+The image of $f$ is $\{0,2,4,6\}$. (So $f$ is not onto.)
+
+**Question**
+
+Why don't we always set the codomain equal to the image?
+
+Think about $f: \mathbb{R} \rightarrow \mathbb{R}$ defined by $f(x) = x^8 +
+102x^7 - 7x^5 + 20x^4 - 100x + 7$.
+
+We've set the codomain to $\mathbb{R}$ and that's fine - certainly $f(x) \in
+\mathbb{R}$.
+
+What is the image of $f$? Hard to find and probably ugly.
+
+Another reason is that "$\mathbb{R} \rightarrow \mathbb{R}$ functions", for
+example, make a nice class to consider.
+
+**Question** What set of ordered pairs does $f: \{0,1,2,3\} \rightarrow
+\mathbb{N}$ defined by $f(x) = x^2$ correspond to?
