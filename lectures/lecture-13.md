@@ -118,12 +118,20 @@ functions from <img src="/lectures/tex/3f4efc607a90eb7ad1e9c1db443d0a13.svg?inve
 
 **Examples.**
 
-1. The squaring functions square <img src="/lectures/tex/560e6a06958749f60c6766986c0d9557.svg?invert_in_darkmode&sanitize=true" align=middle width=60.04558724999999pt height=26.76175259999998pt/> with domain <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, codomain
-   $\mathbb{R}$, and pairs
+The squaring functions square <img src="/lectures/tex/560e6a06958749f60c6766986c0d9557.svg?invert_in_darkmode&sanitize=true" align=middle width=60.04558724999999pt height=26.76175259999998pt/> with domain <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, codomain
+<img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, and pairs
 
-   $$\{(x,x^2) : x \in \mathbb{R}\}$$
+<p align="center"><img src="/lectures/tex/8197a8f2c7f612dee5fabb513aeb0894.svg?invert_in_darkmode&sanitize=true" align=middle width=117.750897pt height=18.312383099999998pt/></p>
 
-   which form what we usually call the _plot_ of the squaring function.
+which form what we usually call the _plot_ of the squaring function.
 
-   The image of this function (the set of _y_ values) is the set
-   $\mathbb{R}^{\geq 0}$ of real numbers $\geq 0$.
+The image of this function (the set of _y_ values) is the set
+<img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/> of real numbers <img src="/lectures/tex/97724efe1d61e77783b76251d3ae68dc.svg?invert_in_darkmode&sanitize=true" align=middle width=25.570741349999988pt height=21.18721440000001pt/>.
+
+## sqrt: <img src="/lectures/tex/7090bd21ba30b4ea6d6d2ef5a8c33889.svg?invert_in_darkmode&sanitize=true" align=middle width=66.96341684999999pt height=27.705869399999983pt/>
+
+The square root function sqrt <img src="/lectures/tex/af4e2c5c66a242a3cf6d446a28206d59.svg?invert_in_darkmode&sanitize=true" align=middle width=67.1917125pt height=24.995338500000003pt/> with domain <img src="/lectures/tex/83384b0778f2b99b99ec51e21c52a786.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>, codomain <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>, and pairs
+
+<p align="center"><img src="/lectures/tex/71c8befdabcdcbaf92785de363808bd4.svg?invert_in_darkmode&sanitize=true" align=middle width=194.65718579999998pt height=17.4097869pt/></p>
+
+The image of this function (the set of <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> values) is the set <img src="/lectures/tex/83384b0778f2b99b99ec51e21c52a786.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>.
