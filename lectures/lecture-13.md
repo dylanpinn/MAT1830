@@ -113,3 +113,6 @@ functions from <img src="/lectures/tex/3f4efc607a90eb7ad1e9c1db443d0a13.svg?inve
 **Answer** Not **S** - it doesn't have an ordered pair with coordinate 1. Not
 **U** - it has two ordered pairs with first coordinate 2. But **T** is fine. So
 **A**.
+
+## Square: <img src="/lectures/tex/1023c6ff6aeb2536ae58d75211c2c6fa.svg?invert_in_darkmode&sanitize=true" align=middle width=49.314959099999996pt height=22.648391699999998pt/>
+
