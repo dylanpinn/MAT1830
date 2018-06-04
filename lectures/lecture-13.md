@@ -71,3 +71,8 @@ are equal we say the function is _onto_.
 **Example** Let <img src="/lectures/tex/b279a1f7296f643186b7be3760225978.svg?invert_in_darkmode&sanitize=true" align=middle width=72.83079209999998pt height=22.831056599999986pt/> be defined by <img src="/lectures/tex/d6f38fe1ad2efcb79c9f06a2b815210a.svg?invert_in_darkmode&sanitize=true" align=middle width=71.52966314999999pt height=24.65753399999998pt/>.
 
 <p align="center"><img src="/lectures/tex/833a815f2530ddbd8dacd26490fdbfd9.svg?invert_in_darkmode&sanitize=true" align=middle width=118.59564749999998pt height=16.438356pt/></p>
+
+## Arrow Diagrams
+
+**Example** Let <img src="/lectures/tex/892a37aa017271610e33589d33f2b1b7.svg?invert_in_darkmode&sanitize=true" align=middle width=238.12752479999995pt height=24.65753399999998pt/> be defined by
+<img src="/lectures/tex/1c9d6807786d5d3d1c49ccb5c3b6556f.svg?invert_in_darkmode&sanitize=true" align=middle width=71.52966314999999pt height=24.65753399999998pt/>.
