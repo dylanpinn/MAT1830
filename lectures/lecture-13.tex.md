@@ -215,3 +215,9 @@ of only one real number in $\mathbb{R}^{\geq 0}$, namely $\sqrt{y}$.
 The last example shows that the domain of a function is an important part of its
 description, because changing the domain can change the properties of the
 function.
+
+**Question** Is the function pictured below one-to-one?
+
+![](lectures/L13-P100.png)
+
+Yes
