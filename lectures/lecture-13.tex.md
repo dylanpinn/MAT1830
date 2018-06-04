@@ -118,3 +118,6 @@ $$U = \{(0,7),(1,4),(2,\pi),(2,3)\}$$
 **Answer** Not **S** - it doesn't have an ordered pair with coordinate 1. Not
 **U** - it has two ordered pairs with first coordinate 2. But **T** is fine. So
 **A**.
+
+## Square: $\mathbb{R} \rightarrow \mathbb{R}$
+
