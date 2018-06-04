@@ -207,3 +207,9 @@ of only one real number in <img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e
 The last example shows that the domain of a function is an important part of its
 description, because changing the domain can change the properties of the
 function.
+
+**Question** Is the function pictured below one-to-one?
+
+![](lectures/L13-P100.png)
+
+Yes
