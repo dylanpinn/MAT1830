@@ -194,3 +194,24 @@ words, which can be $\mathbb{R} \rightarrow \mathbb{R}$ functions?)
   \mathbb{R}$.
 - $\sqrt{x}$ - No - undefined for $x < 0$
 - $\sqrt[3]{x}$ - Yes
+
+## 13.3 One-to-one functions
+
+A function $f: X \rightarrow Y$ is _one-to-one_ if for each $y$ in the range of
+$f$ there is only one $x \in X$ such that $f(x) = y$.
+
+For example, the function cube(x) is one-to-one because each real number $y$ is
+the cube of exactly one real number $x$.
+
+The function square: $\mathbb{R} \rightarrow \mathbb{R}$ is _not_ one-to-one
+because the real number 1 is the square of two different real numbers, 1 and -1.
+(In fact each real $y > 0$ is the square of two different real numbers,
+$\sqrt{y}$ and $-\sqrt{y}$)
+
+On the other hand, square: $\mathbb{R}^{\geq 0} \rightarrow \mathbb{R}$ _is_
+one-to-one because each real number $y$ in $\mathbb{R}^{\geq 0}$ is the square
+of only one real number in $\mathbb{R}^{\geq 0}$, namely $\sqrt{y}$.
+
+The last example shows that the domain of a function is an important part of its
+description, because changing the domain can change the properties of the
+function.
