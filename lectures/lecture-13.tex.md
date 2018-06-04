@@ -175,3 +175,22 @@ Which of the following rules define functions?
   is a subset of both $A$ and $B$.
   - Yes (depending on your interpretation of "largest").
   - $t(A,B) = A \cap B$.
+
+## 13.2 Arrow notation
+
+If $f$ is a function with domain $A$ and codomain $B$ we write:
+
+$$f: A \rightarrow B$$
+
+and we say that $f$ is from $A$ to $B$.
+
+**Question 13.2** Which of the following functions can be defined on the whole
+of $\mathbb{R}$, so that the function values also lie in $\mathbb{R}$? (In other
+words, which can be $\mathbb{R} \rightarrow \mathbb{R}$ functions?)
+
+- $x^2$ - Yes
+- $\frac{1}{x}$ - No undefined for $x = 0$
+- $\log(x)$ - No - undefined for $x \leq 0$ (because $e^x > 0$ for all $x \in
+  \mathbb{R}$.
+- $\sqrt{x}$ - No - undefined for $x < 0$
+- $\sqrt{x}{3}$ - Yes
