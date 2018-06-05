@@ -249,3 +249,22 @@ $$\Rightarrow x_1 = x_2$$
 = x^2 + 1$ is not one-to-one because $f(-1) = 2$ and $f(1) = 2$ and so
 
 $$f(-1) = f(1)$$
+
+**Question** Which of the following functions are one-to-one?
+
+$f: \mathbb{N} \rightarrow \mathbb{Z}$ defined by $f(x) = y$ where $y$ is the
+least even integer greater than $x$.
+
+$g: \mathbb{N} \rightarrow \mathbb{Z}$ defined by $g(x) = (x+6)^2 + 1$.
+
+- **A.** Neither
+- **B.** Just _f_
+- **C.** Just _g_
+- **D.** Both
+
+**Examples for _f_**: $f(0) = 2, f(1)=2, f(2)=4, f(3)=4, f(4)=6, f(5)=6$
+
+**Examples for _g_**: $g(0)=37, g(1)=50, g(2)=65, g(3)=82, g(4)=101$
+
+**Answer:** _f_ isn't one-to-one because $f(2)=f(3)$. _g_ is one-to-one. So
+**C**.
