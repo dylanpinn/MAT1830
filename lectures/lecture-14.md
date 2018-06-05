@@ -123,3 +123,11 @@ If <img src="/lectures/tex/ddb9012b42fd2347a9c4b8a29e5ec983.svg?invert_in_darkmo
 If <img src="/lectures/tex/ddb9012b42fd2347a9c4b8a29e5ec983.svg?invert_in_darkmode&sanitize=true" align=middle width=42.28681214999999pt height=22.831056599999986pt/> and <img src="/lectures/tex/381251736155b0008ef0f4a04718a76e.svg?invert_in_darkmode&sanitize=true" align=middle width=43.25142359999999pt height=22.831056599999986pt/> then <img src="/lectures/tex/eb6ba1e2a6fad176ce1dc1cee32111ca.svg?invert_in_darkmode&sanitize=true" align=middle width=176.4817296pt height=24.65753399999998pt/>
 
 So <img src="/lectures/tex/408071ee07950d527434f8364859f393.svg?invert_in_darkmode&sanitize=true" align=middle width=87.89764829999999pt height=24.65753399999998pt/> is the characteristic function of <img src="/lectures/tex/b0c1a78bbd8d865698d311abad4d5d92.svg?invert_in_darkmode&sanitize=true" align=middle width=43.88690624999999pt height=22.465723500000017pt/>.
+
+**Question** Let <img src="/lectures/tex/2103f85b8b1477f430fc407cad462224.svg?invert_in_darkmode&sanitize=true" align=middle width=8.55596444999999pt height=22.831056599999986pt/> be a positive integer. If <img src="/lectures/tex/9235a72f4aa70dc9ce73dba089b750c9.svg?invert_in_darkmode&sanitize=true" align=middle width=109.27427114999998pt height=24.65753399999998pt/> is a function defined by
+
+<p align="center"><img src="/lectures/tex/826698b265d0244f9a5a28bd8afa10c0.svg?invert_in_darkmode&sanitize=true" align=middle width=267.6106521pt height=49.315569599999996pt/></p>
+
+then what is <img src="/lectures/tex/d355b67a4612fe1c96900755657f7513.svg?invert_in_darkmode&sanitize=true" align=middle width=288.91307115pt height=24.65753399999998pt/>?
+
+**Answer** The sum of positive divisor of <img src="/lectures/tex/2103f85b8b1477f430fc407cad462224.svg?invert_in_darkmode&sanitize=true" align=middle width=8.55596444999999pt height=22.831056599999986pt/>.
