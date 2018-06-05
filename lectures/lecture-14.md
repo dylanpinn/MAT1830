@@ -18,3 +18,22 @@ Similarly we might define a function binomial <img src="/lectures/tex/eb2947d7b7
 Here the inputs are ordered triples <img src="/lectures/tex/15cc6770c0c74f81b0da0336866879e3.svg?invert_in_darkmode&sanitize=true" align=middle width=55.308270599999986pt height=24.65753399999998pt/> such that <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> and <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> are real
 numbers and <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> is a natural number. We can think of this as a function of three
 variables.
+
+**Question** What are the ordered pairs which define the function sum <img src="/lectures/tex/478d3cc608b383f5b990ce36f8684030.svg?invert_in_darkmode&sanitize=true" align=middle width=147.03173429999998pt height=24.65753399999998pt/> defined by sum <img src="/lectures/tex/af14d8ba82f9ab35db0e59021b64ac69.svg?invert_in_darkmode&sanitize=true" align=middle width=98.18854484999999pt height=24.65753399999998pt/>?
+
+**Answer** We have sum <img src="/lectures/tex/7facb2a05204afb2031830cf239e8bc4.svg?invert_in_darkmode&sanitize=true" align=middle width=79.45200944999999pt height=24.65753399999998pt/>, sum<img src="/lectures/tex/58e586ced985b027705c05c432fa3739.svg?invert_in_darkmode&sanitize=true" align=middle width=79.45200944999999pt height=24.65753399999998pt/>, sum<img src="/lectures/tex/1249b648f02e774013e3b3d9392411dd.svg?invert_in_darkmode&sanitize=true" align=middle width=79.45200944999999pt height=24.65753399999998pt/>, and
+sum<img src="/lectures/tex/ad889f205c7fc83963ae2a332b23b871.svg?invert_in_darkmode&sanitize=true" align=middle width=79.45200944999999pt height=24.65753399999998pt/>.
+
+So <img src="/lectures/tex/36a39ba585838ccee1bcdb9d4d868b17.svg?invert_in_darkmode&sanitize=true" align=middle width=297.7171131pt height=24.65753399999998pt/>.
+
+**Note** We often abbreviate <img src="/lectures/tex/980f271a2ecdc7a7ba11539ee67aa9c6.svg?invert_in_darkmode&sanitize=true" align=middle width=60.73835789999999pt height=24.65753399999998pt/> to <img src="/lectures/tex/e00e75871b4e789e5c465fdab29fa79a.svg?invert_in_darkmode&sanitize=true" align=middle width=47.95292369999999pt height=24.65753399999998pt/> and so on when dealing with
+multivariable functions.
+
+**Question 14.1** Suggest domains and codomains for the following functions.
+
+- gcd
+  - domain: <img src="/lectures/tex/95e432db21c0ba5d949b50732e6961db.svg?invert_in_darkmode&sanitize=true" align=middle width=42.00907259999999pt height=22.648391699999998pt/>
+  - codomain: <img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>
+- reciprocal
+  - domain: <img src="/lectures/tex/fc9d357a03a51c7423b27451bd771784.svg?invert_in_darkmode&sanitize=true" align=middle width=56.620999049999995pt height=24.65753399999998pt/>
+  - codomain <img src="/lectures/tex/fc9d357a03a51c7423b27451bd771784.svg?invert_in_darkmode&sanitize=true" align=middle width=56.620999049999995pt height=24.65753399999998pt/>
