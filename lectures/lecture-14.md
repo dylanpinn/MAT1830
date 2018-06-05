@@ -72,3 +72,11 @@ outputs are real numbers.
 
 Any infinite sequence <img src="/lectures/tex/e86a7f3439fd74936abfbdda8c73fbad.svg?invert_in_darkmode&sanitize=true" align=middle width=112.65597914999998pt height=14.15524440000002pt/> can be viewed as a function
 <img src="/lectures/tex/77cae5832602aaa8012118c74cd0ceb0.svg?invert_in_darkmode&sanitize=true" align=middle width=69.81547484999999pt height=24.65753399999998pt/> from <img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> to some set containing the values <img src="/lectures/tex/6512cbd0d448700a036bf3a691c37acc.svg?invert_in_darkmode&sanitize=true" align=middle width=16.81517804999999pt height=14.15524440000002pt/>.
+
+**Question** For each of the following sequences, find a function <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> such that
+the sequence is <img src="/lectures/tex/f76c6b4b5053345e3f8a682d80cd0f5b.svg?invert_in_darkmode&sanitize=true" align=middle width=133.5618075pt height=24.65753399999998pt/>
+
+<p align="center"><img src="/lectures/tex/a0adf47eb1c12d98d8dcffc6d7d4fa65.svg?invert_in_darkmode&sanitize=true" align=middle width=306.43608435pt height=34.3600389pt/></p>
+<p align="center"><img src="/lectures/tex/8dfd41d02a935afc8888401139acb0e3.svg?invert_in_darkmode&sanitize=true" align=middle width=385.4865762pt height=16.438356pt/></p>
+<p align="center"><img src="/lectures/tex/07f2c2aeb80d200ba4e2742a8b7cb5a8.svg?invert_in_darkmode&sanitize=true" align=middle width=375.43540155pt height=16.438356pt/></p>
+
