@@ -59,3 +59,16 @@ of all sets of real numbers, so <img src="/lectures/tex/1843a00857c9f1156c2cff34
 set of pairs of sets of real numbers. So **B**.
 
 **Note** <img src="/lectures/tex/655ba4ff82d4b3329109a26a2295efe1.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=18.264896099999987pt/> (union) would have the same domain and codomain.
+
+## 14.2 Sequences
+
+An infinite sequence of numbers, such as
+
+<p align="center"><img src="/lectures/tex/075f878f294e9fecdc24adeaa71b0089.svg?invert_in_darkmode&sanitize=true" align=middle width=128.1092967pt height=32.990165999999995pt/></p>
+
+can be viewed as the function <img src="/lectures/tex/8af4bf80119e293d89e72dc50ab5b53c.svg?invert_in_darkmode&sanitize=true" align=middle width=72.83079209999998pt height=22.831056599999986pt/> defined by
+<img src="/lectures/tex/a8fcc7512df3d54aa85f0c50d5f6b20b.svg?invert_in_darkmode&sanitize=true" align=middle width=81.00660644999998pt height=26.17730939999998pt/>. In this case, the inputs to <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> are natural numbers, and its
+outputs are real numbers.
+
+Any infinite sequence <img src="/lectures/tex/e86a7f3439fd74936abfbdda8c73fbad.svg?invert_in_darkmode&sanitize=true" align=middle width=112.65597914999998pt height=14.15524440000002pt/> can be viewed as a function
+<img src="/lectures/tex/77cae5832602aaa8012118c74cd0ceb0.svg?invert_in_darkmode&sanitize=true" align=middle width=69.81547484999999pt height=24.65753399999998pt/> from <img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> to some set containing the values <img src="/lectures/tex/6512cbd0d448700a036bf3a691c37acc.svg?invert_in_darkmode&sanitize=true" align=middle width=16.81517804999999pt height=14.15524440000002pt/>.
