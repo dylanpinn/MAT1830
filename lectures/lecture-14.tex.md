@@ -40,3 +40,25 @@ multivariable functions.
 - reciprocal
   - domain: $\mathbb{R} - \{0\}$
   - codomain $\mathbb{R} - \{0\}$
+
+**Question** Suggest a domain and codomain for $\cap$ (intersection) function
+for sets of real numbers.
+
+- **A** domain: $\mathbb{R} \times \mathbb{R}$, codomain: $\mathbb{R}$
+- **B** domain: $\wp(\mathbb{R}) \times \wp(\mathbb{R})$, codomain:
+  $\wp(\mathbb{R})$
+- **C** domain: $\wp(\mathbb{R})$, codomain: $\wp(\mathbb{R})$
+- **D** domain: $\mathbb{R} \times \mathbb{R}$, codomain: $\wp(\mathbb{R})$
+
+**Example** Input: $(\{1,2,3,4\},\{2,3,\pi\})$ Output: $\{2,3\}$
+
+**Answer** The function must output a *set* of real numbers. So the codomain
+must be the set containing all sets of real numbers. $\mathbb{R}$ is the set of
+real numbers, so $\wp(\mathbb{R})$ is the set of real numbers.
+
+The function must accept a *pair* of *sets* of real numbers. So the domain must
+be the set containing all pairs of real numbers. $\wp(\mathbb{R})$ is the set of
+of all sets of real numbers, so $\wp(\mathbb{R}) \times \wp(\mathbb{R})$ is the
+set of pairs of sets of real numbers. So **B**.
+
+**Note** $\cup$ (union) would have the same domain and codomain.
