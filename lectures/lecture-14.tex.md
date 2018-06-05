@@ -126,3 +126,19 @@ $$
        0 &\text{ if } \text{ otherwise } \\
      \end{cases}
 $$
+
+**Question 14.2** If $A$ and $B$ are subsets of $\mathbb{N}$ with characteristic
+functions $\chi_A(n)$ and $\chi_B(n)$, then what set does the function
+$\chi_A(n)\chi_B(n)$ represent?
+
+**Answer**
+
+If $n \in A$ and $n \in B$ then $\chi_A(n) \chi_B(n) = 1 \times 1 = 1$.
+
+If $n \in A$ and $n \not \in B$ then $\chi_A(n) \chi_B(n) = 1 \times 0 = 0$
+
+If $n \not \in A$ and $n \in B$ then $\chi_A(n) \chi_B(n) = 0 \times 1 = 0$
+
+If $n \not \in A$ and $n \not \in B$ then $\chi_A(n) \chi_B(n) = 0 \times 0 = 0$
+
+So $\chi_A(n) \chi_B(n)$ is the characteristic function of $A \cap B$.
