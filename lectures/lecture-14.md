@@ -37,3 +37,25 @@ multivariable functions.
 - reciprocal
   - domain: <img src="/lectures/tex/fc9d357a03a51c7423b27451bd771784.svg?invert_in_darkmode&sanitize=true" align=middle width=56.620999049999995pt height=24.65753399999998pt/>
   - codomain <img src="/lectures/tex/fc9d357a03a51c7423b27451bd771784.svg?invert_in_darkmode&sanitize=true" align=middle width=56.620999049999995pt height=24.65753399999998pt/>
+
+**Question** Suggest a domain and codomain for <img src="/lectures/tex/7ab28e3f02aa13bfc8dd97fe3b995ecb.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=18.264896099999987pt/> (intersection) function
+for sets of real numbers.
+
+- **A** domain: <img src="/lectures/tex/7966b4e52f875cc7f33077d34751b1d4.svg?invert_in_darkmode&sanitize=true" align=middle width=43.835549999999984pt height=22.648391699999998pt/>, codomain: <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>
+- **B** domain: <img src="/lectures/tex/1843a00857c9f1156c2cff347c42b8d7.svg?invert_in_darkmode&sanitize=true" align=middle width=90.33110789999999pt height=24.65753399999998pt/>, codomain:
+  <img src="/lectures/tex/bfc5866691ec76871f78854c7cf8df18.svg?invert_in_darkmode&sanitize=true" align=middle width=35.11995794999999pt height=24.65753399999998pt/>
+- **C** domain: <img src="/lectures/tex/bfc5866691ec76871f78854c7cf8df18.svg?invert_in_darkmode&sanitize=true" align=middle width=35.11995794999999pt height=24.65753399999998pt/>, codomain: <img src="/lectures/tex/bfc5866691ec76871f78854c7cf8df18.svg?invert_in_darkmode&sanitize=true" align=middle width=35.11995794999999pt height=24.65753399999998pt/>
+- **D** domain: <img src="/lectures/tex/7966b4e52f875cc7f33077d34751b1d4.svg?invert_in_darkmode&sanitize=true" align=middle width=43.835549999999984pt height=22.648391699999998pt/>, codomain: <img src="/lectures/tex/bfc5866691ec76871f78854c7cf8df18.svg?invert_in_darkmode&sanitize=true" align=middle width=35.11995794999999pt height=24.65753399999998pt/>
+
+**Example** Input: <img src="/lectures/tex/98730c8d582cc8c0fa9a65a1bfbba894.svg?invert_in_darkmode&sanitize=true" align=middle width=148.77291495pt height=24.65753399999998pt/> Output: <img src="/lectures/tex/a40178e917ed5ce7b8049c1947198c62.svg?invert_in_darkmode&sanitize=true" align=middle width=40.18272059999999pt height=24.65753399999998pt/>
+
+**Answer** The function must output a *set* of real numbers. So the codomain
+must be the set containing all sets of real numbers. <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> is the set of
+real numbers, so <img src="/lectures/tex/bfc5866691ec76871f78854c7cf8df18.svg?invert_in_darkmode&sanitize=true" align=middle width=35.11995794999999pt height=24.65753399999998pt/> is the set of real numbers.
+
+The function must accept a *pair* of *sets* of real numbers. So the domain must
+be the set containing all pairs of real numbers. <img src="/lectures/tex/bfc5866691ec76871f78854c7cf8df18.svg?invert_in_darkmode&sanitize=true" align=middle width=35.11995794999999pt height=24.65753399999998pt/> is the set of
+of all sets of real numbers, so <img src="/lectures/tex/1843a00857c9f1156c2cff347c42b8d7.svg?invert_in_darkmode&sanitize=true" align=middle width=90.33110789999999pt height=24.65753399999998pt/> is the
+set of pairs of sets of real numbers. So **B**.
+
+**Note** <img src="/lectures/tex/655ba4ff82d4b3329109a26a2295efe1.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=18.264896099999987pt/> (union) would have the same domain and codomain.
