@@ -169,4 +169,21 @@ input, we can decide if it's mapped to -1 or 0 or 1. We can do this in $3 \times
 
 **Answer** The domain has $|X|$ elements. (there are $|X|$ possible inputs.) For
 each input, we have $|Y|$ options for where it's mapped to. We can do this in
-$|Y| \times |Y| \times \dots |Y| = |Y|^{|X|}$ ways.
+$|Y| \times |Y| \times \times \dots |Y| = |Y|^{|X|}$ ways.
+
+## 14.4 Boolean functions
+
+The connectives $\land, \lor$ and $\neg$ are functions of variables whose values
+come form the set $\mathbb{B} = \{T,F\}$ of Boolean values (named after George
+Boole).
+
+$\neg$ is a function of one variable, so $\neg: \mathbb{B} \rightarrow
+\mathbb{B}$ and it is completely defined by giving its values on **T** and
+**F**, namely $\neg T = F$ and $\neg F = T$. This is what we did previously by
+giving the truth table of $\neg$.
+
+$\land$ and $\lor$ are functions of two variables, so $\land: \mathbb{B} \times
+\mathbb{B} \rightarrow \mathbb{B}$ and $\lor : \mathbb{B} \times \mathbb{B}
+\rightarrow \mathbb{B}$. They are completely defined by giving their values on
+the pairs $\{T,T\}, \{T,F\}, \{F,T\}, \{F,F\}$ in $\mathbb{B} \times
+\mathbb{B}$, which is what their truth tables do.
