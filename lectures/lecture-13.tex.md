@@ -268,3 +268,16 @@ $g: \mathbb{N} \rightarrow \mathbb{Z}$ defined by $g(x) = (x+6)^2 + 1$.
 
 **Answer:** _f_ isn't one-to-one because $f(2)=f(3)$. _g_ is one-to-one. So
 **C**.
+
+**Example** Show $g: \mathbb{N} \rightarrow \mathbb{Z}$ defined by $g(x) =
+(x+6)^2 + 1$ is one-to-one?
+
+Suppose that
+
+$$g(x_1) = g(x_2)$$
+$$(x_1+6)^2 + 1 = (x_2+6)^2 + 1$$
+$$(x_1 + 6)^2 = (x_2 + 6)^2$$
+$$x_1 + 6 = x_2 + 6$$
+$$x_1 = x_2$$
+
+This shows that _g_ is one-to-one.
