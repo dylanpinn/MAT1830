@@ -80,3 +80,30 @@ the sequence is <img src="/lectures/tex/f76c6b4b5053345e3f8a682d80cd0f5b.svg?inv
 <p align="center"><img src="/lectures/tex/8dfd41d02a935afc8888401139acb0e3.svg?invert_in_darkmode&sanitize=true" align=middle width=385.4865762pt height=16.438356pt/></p>
 <p align="center"><img src="/lectures/tex/07f2c2aeb80d200ba4e2742a8b7cb5a8.svg?invert_in_darkmode&sanitize=true" align=middle width=375.43540155pt height=16.438356pt/></p>
 
+## 14.3 Characteristic functions
+
+A subset of <img src="/lectures/tex/bcd7008b64e598d55eca3c1562458aed.svg?invert_in_darkmode&sanitize=true" align=middle width=126.02703959999998pt height=24.65753399999998pt/> can be represented by its
+characteristic function. For example, the set of squares is represented by the
+function <img src="/lectures/tex/20ee9fcd2588123ef7006eb525871d54.svg?invert_in_darkmode&sanitize=true" align=middle width=101.60927534999999pt height=24.65753399999998pt/> defined by
+
+<p align="center"><img src="/lectures/tex/375262220d0f0ea1cb2381ccea3ccebc.svg?invert_in_darkmode&sanitize=true" align=middle width=245.50832294999998pt height=49.315569599999996pt/></p>
+
+which has the following sequence of values
+
+<p align="center"><img src="/lectures/tex/344abfe83e5806547e71064718ac68aa.svg?invert_in_darkmode&sanitize=true" align=middle width=342.46681755pt height=10.5936072pt/></p>
+
+(with 1s at the positions of the squares <img src="/lectures/tex/aa20aad9a5acde1aca103ee0dfc2e5b7.svg?invert_in_darkmode&sanitize=true" align=middle width=152.51126714999998pt height=21.18721440000001pt/>).
+
+Any property of natural numbers can be likewise be represented by a
+characteristic function. For example, the function <img src="/lectures/tex/c91091e68f0e0113ff161179172813ac.svg?invert_in_darkmode&sanitize=true" align=middle width=10.28535419999999pt height=14.15524440000002pt/> above represents the
+property being a square.
+
+Thus any set or property of natural numbers is represented by a function
+
+<p align="center"><img src="/lectures/tex/2fc7f3769ba62a24857a213aff88bd0c.svg?invert_in_darkmode&sanitize=true" align=middle width=101.60927534999999pt height=16.438356pt/></p>
+
+Characteristic functions of two or more variables represent relations between
+two or more objects. For example, the relation <img src="/lectures/tex/cdfb20e63b6a1d9e6315da9104a271e9.svg?invert_in_darkmode&sanitize=true" align=middle width=39.96184334999999pt height=20.908638300000003pt/> between real numbers
+<img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> and <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> has the characteristic function <img src="/lectures/tex/837eec0547136633c0e0d4d09972e294.svg?invert_in_darkmode&sanitize=true" align=middle width=133.57264634999999pt height=24.65753399999998pt/> defined by
+
+<p align="center"><img src="/lectures/tex/aef696ed935fee1cefebf7c4fe7d39d9.svg?invert_in_darkmode&sanitize=true" align=middle width=197.65053659999998pt height=49.315569599999996pt/></p>
