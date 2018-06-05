@@ -213,3 +213,29 @@ function.
 ![](images/L13-P100.png)
 
 Yes
+
+**Question** Is the function pictured below one-to-one?
+
+![](images/L13-P101.png)
+
+No. <img src="/lectures/tex/2b2e09aa15ed7d1e2ba808bbcb63c1b1.svg?invert_in_darkmode&sanitize=true" align=middle width=100.66221824999998pt height=24.65753399999998pt/>.
+
+## 13.4 Proving a function is one-to-one
+
+There is an equivalent way of phrasing the definition of one-to-one: a function
+<img src="/lectures/tex/8dd51bd31b996f66d97db221486b70a5.svg?invert_in_darkmode&sanitize=true" align=middle width=77.19148799999999pt height=22.831056599999986pt/> is one-to-one when, for all <img src="/lectures/tex/13779be22d85173e4d1ff498bf53cf38.svg?invert_in_darkmode&sanitize=true" align=middle width=75.84460619999999pt height=22.465723500000017pt/>,
+
+<p align="center"><img src="/lectures/tex/74c7c3f7f19ec09b3836a4a0c93e2c11.svg?invert_in_darkmode&sanitize=true" align=middle width=180.86743289999998pt height=16.438356pt/></p>
+
+This can be useful for proving that some functions are or are not one-to-one.
+
+**Example.** The function <img src="/lectures/tex/b279a1f7296f643186b7be3760225978.svg?invert_in_darkmode&sanitize=true" align=middle width=72.83079209999998pt height=22.831056599999986pt/> given by <img src="/lectures/tex/2ec31cc76dbabda99d2c26345318b7ac.svg?invert_in_darkmode&sanitize=true" align=middle width=99.84006285pt height=24.65753399999998pt/> is one-to-one because:
+
+<p align="center"><img src="/lectures/tex/462332e13ce51040a2ce2f3b2ce79228.svg?invert_in_darkmode&sanitize=true" align=middle width=100.66221825pt height=16.438356pt/></p>
+<p align="center"><img src="/lectures/tex/b84b17cbf1bed854321194039e0a1262.svg?invert_in_darkmode&sanitize=true" align=middle width=149.5202478pt height=13.059335849999998pt/></p>
+<p align="center"><img src="/lectures/tex/81fd44e659abb66bcd03feb5b14d9d11.svg?invert_in_darkmode&sanitize=true" align=middle width=92.07753389999999pt height=13.059335849999998pt/></p>
+<p align="center"><img src="/lectures/tex/92b159c894777b6c297ea162622f6ba4.svg?invert_in_darkmode&sanitize=true" align=middle width=75.63911519999999pt height=9.54335085pt/></p>
+
+**Example.** The function <img src="/lectures/tex/b279a1f7296f643186b7be3760225978.svg?invert_in_darkmode&sanitize=true" align=middle width=72.83079209999998pt height=22.831056599999986pt/> given by <img src="/lectures/tex/dc13dd657f2526f2ad0d1a3b63307511.svg?invert_in_darkmode&sanitize=true" align=middle width=98.99531399999998pt height=26.76175259999998pt/> is not one-to-one because <img src="/lectures/tex/6f44fa9c3c20190c656dae2457c4c0ef.svg?invert_in_darkmode&sanitize=true" align=middle width=73.74432944999998pt height=24.65753399999998pt/> and <img src="/lectures/tex/671bdb51c88878bef02eea8fd1d54964.svg?invert_in_darkmode&sanitize=true" align=middle width=60.95889524999999pt height=24.65753399999998pt/> and so
+
+<p align="center"><img src="/lectures/tex/79359937d4af8982a7eec8c25a0e6afb.svg?invert_in_darkmode&sanitize=true" align=middle width=96.34717619999999pt height=16.438356pt/></p>
