@@ -157,3 +157,16 @@ $$
 then what is $1 \chi_d(1) + 2\chi_d(2) + 3\chi_d(3) + \dots + d\chi_d(d)$?
 
 **Answer** The sum of positive divisor of $d$.
+
+**Question** How many functions are there with domain $\{1,2,3,4\}$ and codomain
+$\{-1,0,1\}$?
+
+**Answer** The domain has 4 elements. (There are 4 possible inputs.) For each
+input, we can decide if it's mapped to -1 or 0 or 1. We can do this in $3 \times
+3 \times 3 \times 3 = 3^4 = 81$ ways.
+
+**Question** How many functions are there with domain $X$ and codomain $Y$?
+
+**Answer** The domain has $|X|$ elements. (there are $|X|$ possible inputs.) For
+each input, we have $|Y|$ options for where it's mapped to. We can do this in
+$|Y| \times |Y| \times \dots |Y| = |Y|^{|X|}$ ways.
