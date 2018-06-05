@@ -22,3 +22,8 @@
 - [Assignment 2](/assignments/assignment-02.tex)
 - [Assignment 3](/assignments/assignment-03.tex)
 - [Assignment 4](/assignments/assignment-04.tex)
+- [Assignment 4](/assignments/assignment-05.tex)
+- [Assignment 4](/assignments/assignment-07.tex)
+- [Assignment 4](/assignments/assignment-08.tex)
+- [Assignment 4](/assignments/assignment-09.tex)
+- [Assignment 4](/assignments/assignment-10.tex)
