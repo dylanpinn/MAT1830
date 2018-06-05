@@ -62,3 +62,16 @@ of all sets of real numbers, so $\wp(\mathbb{R}) \times \wp(\mathbb{R})$ is the
 set of pairs of sets of real numbers. So **B**.
 
 **Note** $\cup$ (union) would have the same domain and codomain.
+
+## 14.2 Sequences
+
+An infinite sequence of numbers, such as
+
+$$1, \frac{1}{2}, \frac{1}{4}, \frac{1}{8}, \frac{1}{16}, \dots,$$
+
+can be viewed as the function $f: \mathbb{N} \rightarrow \mathbb{R}$ defined by
+$f(n) = 2^{-n}$. In this case, the inputs to $f$ are natural numbers, and its
+outputs are real numbers.
+
+Any infinite sequence $a_0, a_1, a_2, a_3, \dots$ can be viewed as a function
+$g(n) = a_n$ from $\mathbb{N}$ to some set containing the values $a_n$.
