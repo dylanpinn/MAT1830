@@ -131,3 +131,15 @@ So <img src="/lectures/tex/408071ee07950d527434f8364859f393.svg?invert_in_darkmo
 then what is <img src="/lectures/tex/d355b67a4612fe1c96900755657f7513.svg?invert_in_darkmode&sanitize=true" align=middle width=288.91307115pt height=24.65753399999998pt/>?
 
 **Answer** The sum of positive divisor of <img src="/lectures/tex/2103f85b8b1477f430fc407cad462224.svg?invert_in_darkmode&sanitize=true" align=middle width=8.55596444999999pt height=22.831056599999986pt/>.
+
+**Question** How many functions are there with domain <img src="/lectures/tex/8dac5e3e48ac4d0c99d192e289efcd71.svg?invert_in_darkmode&sanitize=true" align=middle width=71.23290569999999pt height=24.65753399999998pt/> and codomain
+<img src="/lectures/tex/d830584068bebf3f54bf307910cd212a.svg?invert_in_darkmode&sanitize=true" align=middle width=68.49324734999999pt height=24.65753399999998pt/>?
+
+**Answer** The domain has 4 elements. (There are 4 possible inputs.) For each
+input, we can decide if it's mapped to -1 or 0 or 1. We can do this in <img src="/lectures/tex/4d6c723ce1c3b7a49c265cc3358f61ee.svg?invert_in_darkmode&sanitize=true" align=middle width=169.0177599pt height=26.76175259999998pt/> ways.
+
+**Question** How many functions are there with domain <img src="/lectures/tex/cbfb1b2a33b28eab8a3e59464768e810.svg?invert_in_darkmode&sanitize=true" align=middle width=14.908688849999992pt height=22.465723500000017pt/> and codomain <img src="/lectures/tex/91aac9730317276af725abd8cef04ca9.svg?invert_in_darkmode&sanitize=true" align=middle width=13.19638649999999pt height=22.465723500000017pt/>?
+
+**Answer** The domain has <img src="/lectures/tex/7545b5696e2fa3db81c8229d5c9deff8.svg?invert_in_darkmode&sanitize=true" align=middle width=24.041115449999985pt height=24.65753399999998pt/> elements. (there are <img src="/lectures/tex/7545b5696e2fa3db81c8229d5c9deff8.svg?invert_in_darkmode&sanitize=true" align=middle width=24.041115449999985pt height=24.65753399999998pt/> possible inputs.) For
+each input, we have <img src="/lectures/tex/1ed16253bed052de5c0c1fbeb311814e.svg?invert_in_darkmode&sanitize=true" align=middle width=22.32882794999999pt height=24.65753399999998pt/> options for where it's mapped to. We can do this in
+<img src="/lectures/tex/9e55953e142f95b40a957b9cc87756b3.svg?invert_in_darkmode&sanitize=true" align=middle width=192.81596564999998pt height=29.190975000000005pt/> ways.
