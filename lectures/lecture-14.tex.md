@@ -142,3 +142,18 @@ If $n \not \in A$ and $n \in B$ then $\chi_A(n) \chi_B(n) = 0 \times 1 = 0$
 If $n \not \in A$ and $n \not \in B$ then $\chi_A(n) \chi_B(n) = 0 \times 0 = 0$
 
 So $\chi_A(n) \chi_B(n)$ is the characteristic function of $A \cap B$.
+
+**Question** Let $d$ be a positive integer. If $\chi_d: \mathbb{N} \rightarrow
+\{0,1\}$ is a function defined by
+
+$$
+\chi A(a) =
+     \begin{cases}
+       1, &\text{ if } x \text{ divides } d \\
+       0, &\text{ if } x \text{ does not divide } d \\
+     \end{cases}
+$$
+
+then what is $1 \chi_d(1) + 2\chi_d(2) + 3\chi_d(3) + \dots + d\chi_d(d)$?
+
+**Answer** The sum of positive divisor of $d$.
