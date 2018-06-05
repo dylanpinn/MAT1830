@@ -258,3 +258,15 @@ least even integer greater than <img src="/lectures/tex/332cc365a4987aacce0ead01
 
 **Answer:** _f_ isn't one-to-one because <img src="/lectures/tex/7daacf31e94b15c1ad603b0f1faf6a0a.svg?invert_in_darkmode&sanitize=true" align=middle width=83.561742pt height=24.65753399999998pt/>. _g_ is one-to-one. So
 **C**.
+
+**Example** Show <img src="/lectures/tex/f8d223a437accd5c3b9579ea4685d855.svg?invert_in_darkmode&sanitize=true" align=middle width=70.53049904999999pt height=22.648391699999998pt/> defined by <img src="/lectures/tex/5f87327375af7b8f7464a5a854b49187.svg?invert_in_darkmode&sanitize=true" align=middle width=138.70409189999998pt height=26.76175259999998pt/> is one-to-one?
+
+Suppose that
+
+<p align="center"><img src="/lectures/tex/00cc9129025a641df7a697f845802c35.svg?invert_in_darkmode&sanitize=true" align=middle width=97.8881079pt height=16.438356pt/></p>
+<p align="center"><img src="/lectures/tex/8cafd59f79e1296b2935cfd8704d9ad6.svg?invert_in_darkmode&sanitize=true" align=middle width=209.0179146pt height=18.312383099999998pt/></p>
+<p align="center"><img src="/lectures/tex/64d3a7a1e99aca81ebbcb1a107ff3fce.svg?invert_in_darkmode&sanitize=true" align=middle width=151.5752007pt height=18.312383099999998pt/></p>
+<p align="center"><img src="/lectures/tex/1539a76928b8f635ac1274bc977f6617.svg?invert_in_darkmode&sanitize=true" align=middle width=112.07732744999998pt height=13.059335849999998pt/></p>
+<p align="center"><img src="/lectures/tex/a893e1a316d29c1cc327f2ca154c0a6f.svg?invert_in_darkmode&sanitize=true" align=middle width=54.634613550000005pt height=9.54335085pt/></p>
+
+This shows that _g_ is one-to-one.
