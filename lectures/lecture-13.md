@@ -239,3 +239,22 @@ This can be useful for proving that some functions are or are not one-to-one.
 **Example.** The function <img src="/lectures/tex/b279a1f7296f643186b7be3760225978.svg?invert_in_darkmode&sanitize=true" align=middle width=72.83079209999998pt height=22.831056599999986pt/> given by <img src="/lectures/tex/dc13dd657f2526f2ad0d1a3b63307511.svg?invert_in_darkmode&sanitize=true" align=middle width=98.99531399999998pt height=26.76175259999998pt/> is not one-to-one because <img src="/lectures/tex/6f44fa9c3c20190c656dae2457c4c0ef.svg?invert_in_darkmode&sanitize=true" align=middle width=73.74432944999998pt height=24.65753399999998pt/> and <img src="/lectures/tex/671bdb51c88878bef02eea8fd1d54964.svg?invert_in_darkmode&sanitize=true" align=middle width=60.95889524999999pt height=24.65753399999998pt/> and so
 
 <p align="center"><img src="/lectures/tex/79359937d4af8982a7eec8c25a0e6afb.svg?invert_in_darkmode&sanitize=true" align=middle width=96.34717619999999pt height=16.438356pt/></p>
+
+**Question** Which of the following functions are one-to-one?
+
+<img src="/lectures/tex/533e8cb6a5543f381cc3baf9a77108f4.svg?invert_in_darkmode&sanitize=true" align=middle width=71.91755504999998pt height=22.831056599999986pt/> defined by <img src="/lectures/tex/1058016037635271ffc2e170bf1e40de.svg?invert_in_darkmode&sanitize=true" align=middle width=62.564690099999986pt height=24.65753399999998pt/> where <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> is the
+least even integer greater than <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/>.
+
+<img src="/lectures/tex/f8d223a437accd5c3b9579ea4685d855.svg?invert_in_darkmode&sanitize=true" align=middle width=70.53049904999999pt height=22.648391699999998pt/> defined by <img src="/lectures/tex/a17143cb0af27e53a35c12eec430ae48.svg?invert_in_darkmode&sanitize=true" align=middle width=138.70409189999998pt height=26.76175259999998pt/>.
+
+- **A.** Neither
+- **B.** Just _f_
+- **C.** Just _g_
+- **D.** Both
+
+**Examples for _f_**: <img src="/lectures/tex/7a512827e8807f99e15dcf784a410152.svg?invert_in_darkmode&sanitize=true" align=middle width=402.2827908pt height=24.65753399999998pt/>
+
+**Examples for _g_**: <img src="/lectures/tex/40aa1b3960794dd9971a8021cb07127e.svg?invert_in_darkmode&sanitize=true" align=middle width=376.39799175pt height=24.65753399999998pt/>
+
+**Answer:** _f_ isn't one-to-one because <img src="/lectures/tex/7daacf31e94b15c1ad603b0f1faf6a0a.svg?invert_in_darkmode&sanitize=true" align=middle width=83.561742pt height=24.65753399999998pt/>. _g_ is one-to-one. So
+**C**.
