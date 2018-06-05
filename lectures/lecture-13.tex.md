@@ -221,3 +221,31 @@ function.
 ![](images/L13-P100.png)
 
 Yes
+
+**Question** Is the function pictured below one-to-one?
+
+![](images/L13-P101.png)
+
+No. $f(x_2) = f(x_3)$.
+
+## 13.4 Proving a function is one-to-one
+
+There is an equivalent way of phrasing the definition of one-to-one: a function
+$f: X \rightarrow Y$ is one-to-one when, for all $x_1, x_2 \in X$,
+
+$$f(x_1) = f(x_2) \Rightarrow x_1 = x_2$$
+
+This can be useful for proving that some functions are or are not one-to-one.
+
+**Example.** The function $f: \mathbb{R} \rightarrow \mathbb{R}$ given by $f(x)
+= 6x + 2$ is one-to-one because:
+
+$$f(x_1) = f(x_2)$$
+$$\Rightarrow 6x_1 + 2 = 6x_2 + 2$$
+$$\Rightarrow 6x_1 = 6x_2$$
+$$\Rightarrow x_1 = x_2$$
+
+**Example.** The function $f: \mathbb{R} \rightarrow \mathbb{R}$ given by $f(x)
+= x^2 + 1$ is not one-to-one because $f(-1) = 2$ and $f(1) = 2$ and so
+
+$$f(-1) = f(1)$$
