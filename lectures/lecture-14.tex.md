@@ -86,3 +86,43 @@ $$5, 1, -3, -7, -11, -15, \dots \Rightarrow f: \mathbb{N} \rightarrow
 $$4, 12, 36, 108, 324, 972, \dots \Rightarrow f: \mathbb{N} \rightarrow
 \mathbb{Z}, f(n) = 4(3^n)$$
 
+## 14.3 Characteristic functions
+
+A subset of $\mathbb{N} = {0,1,2,3,\dots\}$ can be represented by its
+characteristic function. For example, the set of squares is represented by the
+function $\chi: \mathbb{N} \rightarrow \{0,1\}$ defined by
+
+$$
+\chi A(a) =
+     \begin{cases}
+       1 &\text{ if } n \text{ is a square } \\
+       0 &\text{ if } n \text{ is not a square } \\
+     \end{cases}
+$$
+
+which has the following sequence of values
+
+$$110010000100000010000000010000000000100\dots$$
+
+(with 1s at the positions of the squares $0,1,4,9,16,25,36,\dots$).
+
+Any property of natural numbers can be likewise be represented by a
+characteristic function. For example, the function $\chi$ above represents the
+property being a square.
+
+Thus any set or property of natural numbers is represented by a function
+
+$$\chi : \mathbb{N} \rightarrow \{0,1\}$$
+
+Characteristic functions of two or more variables represent relations between
+two or more objects. For example, the relation $x \leq y$ between real numbers
+$x$ and $y$ has the characteristic function $\chi : \mathbb{R} \times \mathbb{R}
+\rightarrow \{0,1\}$ defined by
+
+$$
+\chi A(a) =
+     \begin{cases}
+       1 &\text{ if } x \leq y \\
+       0 &\text{ if } \text{ otherwise } \\
+     \end{cases}
+$$
