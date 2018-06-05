@@ -75,3 +75,14 @@ outputs are real numbers.
 
 Any infinite sequence $a_0, a_1, a_2, a_3, \dots$ can be viewed as a function
 $g(n) = a_n$ from $\mathbb{N}$ to some set containing the values $a_n$.
+
+**Question** For each of the following sequences, find a function $f$ such that
+the sequence is $f(0), f(1), f(2), \dots$
+
+$$1, \frac{1}{2}, \frac{1}{3}, \frac{1}{4} \frac{1}{5},\dots \Rightarrow f:
+\mathbb{N} \rightarrow \mathbb{Q}, f(n) = \frac{1}{n+1}$$
+$$5, 1, -3, -7, -11, -15, \dots \Rightarrow f: \mathbb{N} \rightarrow
+\mathbb{Z}, f(n) = 5-4n$$
+$$4, 12, 36, 108, 324, 972, \dots \Rightarrow f: \mathbb{N} \rightarrow
+\mathbb{Z}, f(n) = 4(3^n)$$
+
