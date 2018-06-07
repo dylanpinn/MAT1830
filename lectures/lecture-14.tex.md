@@ -187,3 +187,18 @@ $\land$ and $\lor$ are functions of two variables, so $\land: \mathbb{B} \times
 \rightarrow \mathbb{B}$. They are completely defined by giving their values on
 the pairs $\{T,T\}, \{T,F\}, \{F,T\}, \{F,F\}$ in $\mathbb{B} \times
 \mathbb{B}$, which is what their truth tables do.
+
+**Question:** Let $\mathbb{B} = \{0,1\}$. How many functions are there with
+domain $\mathbb{B} \times \mathbb{B} \times \dots \times \mathbb{B}$ and
+codomain $\mathbb{B}$?
+
+- **A.** $n^2$
+- **B.** $2^{(n^2)}$
+- **C.** $2^n$
+- **D.** $2^{(2^n)}$
+
+**Answer:** The domain has $2^n$ elements. (There are $2^n$ possible inputs.)
+For each input, we can decide if it's mapped to 0 or 1. We can do this in $2
+\times 2 \times \dots \times \2 = 2^{(2^n)}$ ways.
+
+So **D**.
