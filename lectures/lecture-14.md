@@ -156,3 +156,17 @@ giving the truth table of <img src="/lectures/tex/23bf728170c10d0449b90561f82762
 
 <img src="/lectures/tex/0b6832fb78c570edf56af766820951ee.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=18.264896099999987pt/> and <img src="/lectures/tex/6007a29527e0ec27309d7829f5754d08.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=18.264896099999987pt/> are functions of two variables, so <img src="/lectures/tex/756eae2b5d96cafc023fa7cc1b744abd.svg?invert_in_darkmode&sanitize=true" align=middle width=103.19597474999999pt height=22.648391699999998pt/> and <img src="/lectures/tex/e3b34b036f9074b0b7ebeb630c540670.svg?invert_in_darkmode&sanitize=true" align=middle width=103.19597474999999pt height=22.648391699999998pt/>. They are completely defined by giving their values on
 the pairs <img src="/lectures/tex/439dd2acfd480df0a0629c452f11804a.svg?invert_in_darkmode&sanitize=true" align=middle width=210.38827095pt height=24.65753399999998pt/> in <img src="/lectures/tex/135a54c89e4e6ae7fa4aad9d54e7340c.svg?invert_in_darkmode&sanitize=true" align=middle width=42.00907259999999pt height=22.648391699999998pt/>, which is what their truth tables do.
+
+**Question:** Let <img src="/lectures/tex/dde41b8e657ab6309cb5eab646ac956a.svg?invert_in_darkmode&sanitize=true" align=middle width=73.05929234999999pt height=24.65753399999998pt/>. How many functions are there with
+domain <img src="/lectures/tex/1ba90325dc05396b2a85d910c1ab631a.svg?invert_in_darkmode&sanitize=true" align=middle width=112.3283865pt height=22.648391699999998pt/> and
+codomain <img src="/lectures/tex/f0e8ebc4201c3608138c518417f42ac4.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/>?
+
+- **A.** <img src="/lectures/tex/021273d50c6ff03efebda428e9e42d77.svg?invert_in_darkmode&sanitize=true" align=middle width=16.41942389999999pt height=26.76175259999998pt/>
+- **B.** <img src="/lectures/tex/f5ac8bc1b354a334d65fc81e65f0adcc.svg?invert_in_darkmode&sanitize=true" align=middle width=33.03487934999999pt height=32.44583099999998pt/>
+- **C.** <img src="/lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode&sanitize=true" align=middle width=16.34523329999999pt height=21.839370299999988pt/>
+- **D.** <img src="/lectures/tex/56f3577693c38f185d7e9f0173375ebd.svg?invert_in_darkmode&sanitize=true" align=middle width=33.10714439999999pt height=29.190975000000005pt/>
+
+**Answer:** The domain has <img src="/lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode&sanitize=true" align=middle width=16.34523329999999pt height=21.839370299999988pt/> elements. (There are <img src="/lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode&sanitize=true" align=middle width=16.34523329999999pt height=21.839370299999988pt/> possible inputs.)
+For each input, we can decide if it's mapped to 0 or 1. We can do this in <img src="/lectures/tex/2cd9b146a4d373ab499c90dfa7940a01.svg?invert_in_darkmode&sanitize=true" align=middle width=146.34865904999998pt height=29.190975000000005pt/> ways.
+
+So **D**.
