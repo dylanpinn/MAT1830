@@ -210,3 +210,22 @@ _Hamming distance_ is a function $h: B_n \times B_n \rightarrow \mathbb{N}$
 defined by $h(s,t)$ equals the number of places in which $s$ and $t$ disagree.
 
 For example, $h(000,101) = 2$, $h(011,010) = 1$ and $h(10111,01000) = 5$.
+
+A set of binary strings of length $n$ such that any two different strings in the
+set have Hamming distance at least $d$ is called a _binary error correcting code
+of length n and distance d_.
+
+These are useful in sending information across noisy channels.
+
+$\{000,0011,0101,0110,1001,1010,1100,1111\}$ is a binary code of length 4 and
+distance 2.
+
+If we only send strings in this set across a channel and at most one error
+occurs in each string we will be able to detect the errors.
+
+$\{0000000, 1110000, 1001100, 0111100, 0101010, 1011010, 1100110, 0010110,
+1101001, 0011001, 0100101, 1010101, 1000011, 0110011, 0001111, 1111111\}$ is a
+binary code of length 7 and distance 3.
+
+If we only send strings in this set across a channel and at most one errors in
+each string then we will be able to _correct_ the errors on the fly.
