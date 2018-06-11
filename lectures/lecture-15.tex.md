@@ -91,3 +91,14 @@ Does $g \circ f$ exist?
 codomain$(f) = \{y_1, y_2, y_3,y_4\}$ and domain$(g) = \{y_1, y_2, y_3, y_4\}$.
 So $g \circ f$ does exist because codomain(f) = domain(g). $g \circ f: A
 \rightarrow D$.
+
+**Question** Let $f: A \rightarrow B$ and $g: C \rightarrow D$ be the functions
+pictured below.
+
+![](images/L15-P11.png)
+
+Does $g \circ f$ exist?
+
+codomain$(f) = \{y_1, y_2, y_3,y_4, y_5\}$ and domain$(g) = \{y_1, y_2, y_3,
+y_4\}$. So $g \circ f$ does not exist because codomain(f) $\not =$ domain(g).
+
