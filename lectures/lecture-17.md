@@ -74,3 +74,17 @@ Yes. For all <img src="/lectures/tex/44a1d7d67596224f0a40f78cd7dfdec8.svg?invert
 ![](images/L17-P10-2.png)
 
 No, because <img src="/lectures/tex/f71d5d5e6452c9705b6218f526f3f008.svg?invert_in_darkmode&sanitize=true" align=middle width=27.465800999999992pt height=22.465723500000017pt/> and <img src="/lectures/tex/d71c3812c1d4d65d0cfef3727049b423.svg?invert_in_darkmode&sanitize=true" align=middle width=27.465800999999992pt height=22.465723500000017pt/> but <img src="/lectures/tex/56af438101d47fb52703aa803222788f.svg?invert_in_darkmode&sanitize=true" align=middle width=36.59799824999999pt height=22.831056599999986pt/>.
+
+## 17.1 Other equivalence relations
+
+### 1. Equivalence of fractions.
+
+Two fractions are equivalent if they reduce to the same fraction when the
+numerator and denominator of each are divided by their gcd. E.g. <img src="/lectures/tex/9c745c562772092347a57955277bdcc1.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/>
+and <img src="/lectures/tex/3b43e7492ec293c36a7bd884f4101aca.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/> are equivalent because both reduce to <img src="/lectures/tex/47d54de4e337a06266c0e1d22c9b417b.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/>.
+
+### 2. Congruence of triangles.
+
+Triangles <img src="/lectures/tex/bf1e7c123c5e9726ce33581a9d5cbbef.svg?invert_in_darkmode&sanitize=true" align=middle width=38.54684624999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/985555f8f781ae5ae029152861934666.svg?invert_in_darkmode&sanitize=true" align=middle width=51.56055134999999pt height=24.7161288pt/> are congruent if <img src="/lectures/tex/0a4d5a7b5ee67033e950c4e0236077ae.svg?invert_in_darkmode&sanitize=true" align=middle width=167.8353435pt height=24.7161288pt/> and <img src="/lectures/tex/d786ce8cbfedf33fdb97aace01460768.svg?invert_in_darkmode&sanitize=true" align=middle width=80.82633899999999pt height=24.7161288pt/>. E.g. The following triangles are congruent.
+
+![](images/L17-P11.png)
