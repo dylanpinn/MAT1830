@@ -30,3 +30,19 @@ _composite_ of <img src="/lectures/tex/3cf4fbd05970446973fc3d9fa3fe3c41.svg?inve
 square(successor(x)) = <img src="/lectures/tex/c62d45be56957d6a7af0888ee993f2ad.svg?invert_in_darkmode&sanitize=true" align=middle width=162.56814914999998pt height=26.76175259999998pt/>
 
 successor(square(x)) = <img src="/lectures/tex/a5a30da7dbf3b5aa59781cf342da1718.svg?invert_in_darkmode&sanitize=true" align=middle width=45.079847999999984pt height=26.76175259999998pt/>
+
+**Question 15.1** Let _f_, _m_ and _s_ be the functions on the set of people
+defined by
+
+- _m(x)_ = mother of _x_
+- _f(x)_ = father of _x_
+- _s(x)_ = spouse of _x_
+
+What are the following?
+
+- <img src="/lectures/tex/e7d04a8dee8c260fd6bdb73938f43d39.svg?invert_in_darkmode&sanitize=true" align=middle width=59.843968799999985pt height=24.65753399999998pt/> mother in law of _x_
+- <img src="/lectures/tex/d99182446bec9a2f0d60d93175b73319.svg?invert_in_darkmode&sanitize=true" align=middle width=55.22828024999998pt height=24.65753399999998pt/> father in law of _x_
+- <img src="/lectures/tex/9ee5b5559182d2f2c6aa1b564075b416.svg?invert_in_darkmode&sanitize=true" align=middle width=66.57158969999999pt height=24.65753399999998pt/> grandmother (maternal) of _x_
+- <img src="/lectures/tex/47ea9dfef214ebba3e9562938061ae4c.svg?invert_in_darkmode&sanitize=true" align=middle width=61.95590279999999pt height=24.65753399999998pt/> grandfather (maternal) of _x_
+- <img src="/lectures/tex/618e460ba8a5ba64a259ae6dd9c50e4b.svg?invert_in_darkmode&sanitize=true" align=middle width=53.11634789999999pt height=24.65753399999998pt/> _x_
+
