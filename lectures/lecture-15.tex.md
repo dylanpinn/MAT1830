@@ -123,3 +123,8 @@ Which of the following statements if **false**?
   codomain(f) = $\mathbb{Z}$
 - **C** is true because codomain(h) $\not = $ domain(g)
 - **D** is false because codomain(g) = domain$(f \circ g)$.
+
+## 15.3 The identify functions
+
+On each set $A$ the function $i_A : A \rightarrow A$ defined by $$i_A(x) = x$$
+is called the _identity function_ (on $A$).
