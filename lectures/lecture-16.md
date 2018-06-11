@@ -148,3 +148,8 @@ ordered pairs are there? So how many possible relations?
   subsets of <img src="/lectures/tex/2cfbede980e22a2122e4e9c3258b799e.svg?invert_in_darkmode&sanitize=true" align=middle width=49.90854659999999pt height=22.465723500000017pt/>.
 - <img src="/lectures/tex/80ee660918fc47508458750b36e5b977.svg?invert_in_darkmode&sanitize=true" align=middle width=97.3780269pt height=26.76175259999998pt/>. So the number of subsets of <img src="/lectures/tex/2cfbede980e22a2122e4e9c3258b799e.svg?invert_in_darkmode&sanitize=true" align=middle width=49.90854659999999pt height=22.465723500000017pt/> is <img src="/lectures/tex/f5ac8bc1b354a334d65fc81e65f0adcc.svg?invert_in_darkmode&sanitize=true" align=middle width=33.03487934999999pt height=32.44583099999998pt/>.
 - So **B**.
+
+### 5. Congruence modulo n
+
+For a fixed <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>, congruence modulo <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> is a binary relation. It consists of the
+ordered pairs of integers <img src="/lectures/tex/0cd27d4708cd735f6ea469dc3debed0e.svg?invert_in_darkmode&sanitize=true" align=middle width=35.83526759999999pt height=24.65753399999998pt/> such that <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> divides <img src="/lectures/tex/3db94e1f2989d6890a93270f166723f6.svg?invert_in_darkmode&sanitize=true" align=middle width=35.83514219999999pt height=22.831056599999986pt/>.
