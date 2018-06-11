@@ -155,3 +155,17 @@ $\mathbb{Z}$?
 - Transitive: No. $1^3 - 0^3 = 1$ and $0^3 - (-1)^3 = 1$ but $1^3 - (-1)^3 \not
   = 1$, so $1S0$ and $0S(-1)$ but $1 \not S(-1)$.
 - So it is not an equivalence relation.
+
+(3) $T$ defined by $xTu$ if and only if $x$ divides $y$
+
+- Reflexive: No. a divides a for all $a \in \mathbb{Z}$.
+- Symmetric: No. 3 divides 6 but 6 does not divide 3, so $3T6T$ but $6 \not T
+  3$.
+- Transitive: No. If a divides b and b divides c, then a divides c for all
+  $a,b,c \in \mathbb{Z}$
+- So it is not an equivalence relation.
+
+(4) $U$ defined by $xUy$ if and only if 5 divides $x-y$
+
+Yes. This relation sit the same as $x \equiv y$ (mod 5) and we know that's an
+equivalence relation.
