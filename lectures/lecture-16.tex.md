@@ -108,3 +108,19 @@ square with the corners $(0,0), (1,0), (0,1)$ and $(1, 1)$.
 **Answer**
 
 $$(0 \leq x) \land (x \leq 1) \land (0 \leq y) \land (y \leq 1)$$
+
+### 3. Algebraic curves
+
+An algebraic curve consists of the points $(x,y)$ satisfying an equation $p(x,y)
+= 0$ where $p$ is a polynomial.
+
+E.g. unit circle $x^2 + y^2 - 1 = 0$. Notice that this relation is not a
+function, because there are two pairs with the same $x$, e.g. $(0,1)$ and
+$(0,-1)$.
+
+Likewise, the curve $y^2 = x^2(x+1)$ is not a function.
+
+### 4. The subset relation $\subseteq$.
+
+This consists of the ordered pairs of sets $(A,B)$ such that $A \subseteq B$.
+$A$ and $B$ must be subsets of some universal set $U$.
