@@ -188,10 +188,10 @@ Because congruence is like equality, congruence $a \equiv b$ (mod _n_) behave a
 lot like equations. In particular, they have the following three properties.
 
 1. Reflexive property: $a \equiv a$ (mod $n$) for any number $a$.
-2. Symmetric property: $a \equiv b$ (mod $n$) $\Rightarrow b \equiv a (
+2. Symmetric property: $a \equiv b$ (mod $n$) $ \Rightarrow b \equiv a (
    \text{mod } n)$ for any numbers $a$ and $b$.
 3. Transitive property: $a \equiv b$ (mod $n$) and $b \equiv c$ (mod $n$)
-   $\Rightarrow a \equiv c$ (mod $n$) for any numbers $a,b$ and $c$.
+   $ \Rightarrow a \equiv c$ (mod $n$) for any numbers $a,b$ and $c$.
 
 These properties are clear if one remembers that $a \equiv b$ (mod n) means that
 a and b have the same remainder on division by n.
