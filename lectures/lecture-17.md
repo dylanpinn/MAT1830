@@ -9,3 +9,12 @@ following three properties.
 
 Equality and congruence mod <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> (for fixed <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>) are examples of equivalence
 relations.
+
+**Reflexivity** (For a binary relation <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> on a set <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/>).
+
+![](images/L17-P4.png)
+
+To prove that <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> is reflexive, show that; For all <img src="/lectures/tex/01ecdb3daafde7f0180f5e82627de1be.svg?invert_in_darkmode&sanitize=true" align=middle width=80.51925419999999pt height=22.465723500000017pt/>
+
+To prove that <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> is not reflexive, show that; There is an <img src="/lectures/tex/7b841c751621276ac77f2f984cb9a281.svg?invert_in_darkmode&sanitize=true" align=middle width=41.81492369999999pt height=22.465723500000017pt/> such that
+<img src="/lectures/tex/811d384e3a573ae398b239b3c762346d.svg?invert_in_darkmode&sanitize=true" align=middle width=40.53064289999999pt height=22.831056599999986pt/>.
