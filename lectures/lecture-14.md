@@ -170,3 +170,7 @@ codomain <img src="/lectures/tex/f0e8ebc4201c3608138c518417f42ac4.svg?invert_in_
 For each input, we can decide if it's mapped to 0 or 1. We can do this in <img src="/lectures/tex/2cd9b146a4d373ab499c90dfa7940a01.svg?invert_in_darkmode&sanitize=true" align=middle width=146.34865904999998pt height=29.190975000000005pt/> ways.
 
 So **D**.
+
+**Example (Hamming distance)** Let <img src="/lectures/tex/34c759c10ccac82213a2aa1a2bed361b.svg?invert_in_darkmode&sanitize=true" align=middle width=20.594674649999988pt height=22.465723500000017pt/> be the set of all binary strings of
+length <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>.
+
