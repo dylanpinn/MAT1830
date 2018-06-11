@@ -47,3 +47,18 @@ What are the following?
 - $f \circ m(x)$ grandfather (maternal) of _x_
 - $s \circ s(x)$ _x_
 
+**Question 15.2** Write the following as composites of square(x), sqrt(x),
+successor(x) and cube(x).
+
+(Assume that all of these have domain and codomain $\{x: x \in \mathbb{R}$ and
+$x \geq 0 \}$.)
+
+- $\sqrt{1 + x^3}$ = sqrt(successor(cube(x))) = sqrt $\circ$ successor $\circ$
+  cube(x)
+- $x^{\frac{3}{2}}$ = sqrt((cube(x)) = sqrt $\circ$ cube(x)
+- $(1+x)^3$ = cube(successor(x)) = cube $\circ$ successor(x)
+- $(1+x^3)^2$ = square(successor(cube(x))) = square $\circ$ successor $\circ$
+  cube(x)
+
+**Note** Composition of functions is associative: $(f \circ g) \circ h = f \circ
+(g \circ h)$. So we don't bother with the brackets.
