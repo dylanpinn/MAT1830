@@ -121,3 +121,10 @@ Likewise, the curve <img src="/lectures/tex/bb6c04a0e2e0bd4bbb5a20b8296140d4.svg
 
 This consists of the ordered pairs of sets <img src="/lectures/tex/0ed7b9f99b267c62dd2db0eb0241c40f.svg?invert_in_darkmode&sanitize=true" align=middle width=45.71351894999999pt height=24.65753399999998pt/> such that <img src="/lectures/tex/3c8b983d929a7dc3bcb427bbf20e86d6.svg?invert_in_darkmode&sanitize=true" align=middle width=47.539839599999986pt height=22.465723500000017pt/>.
 <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/> must be subsets of some universal set <img src="/lectures/tex/6bac6ec50c01592407695ef84f457232.svg?invert_in_darkmode&sanitize=true" align=middle width=13.01596064999999pt height=22.465723500000017pt/>.
+
+**Question** Give the set of ordered pairs for the relation <img src="/lectures/tex/e0990e04e807dbb309998a6dc3aa3f37.svg?invert_in_darkmode&sanitize=true" align=middle width=38.35605014999999pt height=22.831056599999986pt/> on
+<img src="/lectures/tex/64ec31d8aa3de54f297ba4c28b44c6cf.svg?invert_in_darkmode&sanitize=true" align=middle width=63.43049954999999pt height=24.65753399999998pt/> and draw an arrow diagram for it.
+
+Remember <img src="/lectures/tex/40bffec850facaaf3e88a118dfc4fc54.svg?invert_in_darkmode&sanitize=true" align=middle width=221.42138534999995pt height=24.65753399999998pt/>.
+
+![](images/L16-P20.png)
