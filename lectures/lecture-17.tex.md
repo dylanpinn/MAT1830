@@ -31,3 +31,12 @@ Yes. $xRx$ for all $x \in A$.
 
 No. $4 \not S 4$.
 
+**Symmetry** (For a binary relation $R$ on a set $A$.)
+
+![](images/L17-P6.png)
+
+To prove $R$ is symmetric, show that; For all $x, y \in A$, if $xRy$ then
+$yRx$.
+
+To prove $R$ is not symmetric, show that; There are some $x,y \in A$ such that
+$xRy$ but $y \not R x$.
