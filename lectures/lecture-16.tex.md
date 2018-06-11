@@ -191,8 +191,8 @@ lot like equations. In particular, they have the following three properties.
 2. Symmetric property: $a \equiv b ( \text{ mod } n) \Rightarrow b \equiv a (
    \text{mod } n)$ for any numbers _a_ and _b_.
 3. Transitive property: $a \equiv b ( \text{ mod } n) and b \equiv c ( \text{
-   mod } n) \Rightarrow a \equiv c ( \text{ mod } n)$ for any numbers $a,b$ and
-   $c$.
+   mod } n) \Rightarrow a \equiv c ( \text{ mod } n)$ for any numbers _a,b_ and
+   _c_.
 
 These properties are clear if one remembers that $a \equiv b$ (mod n) means that
 a and b have the same remainder on division by n.
