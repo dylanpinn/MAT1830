@@ -138,3 +138,20 @@ $\mathbb{Z}$?
 - (3) is not symmetric. E.g. $3T6$ but $6\not T 3$ (3 divides 6 but 6 doesn't
   divide 3). So (3) is not an equivalence relation.
 - (1) and (4) are equivalence relations. So **C**.
+
+(1) $R$ defined by $xRy$ if and only if $|x| = |y|$
+
+- Reflexive: Yes. $|a| = |a|$ for all $a \in \mathbb{Z}$.
+- Symmetric: Yes. If $|a| = |b|$, then $|b| = |a|$ for all $a,b \in \mathbb{Z}$.
+- Transitive: Yes. If $|a| = |b|$ and $|b| = |c|$, then $|a| = |c|$ for all
+  $a,b,c \in \mathbb{Z}$.
+- So it is an equivalence relation.
+
+(2) $S$ defined by $xSy$ if and only if $x^3 - y^3 = 1$
+
+- Reflexive: No. $1^3 - 1^3 \not = 1$ so $1 \not S 1$.
+- Symmetric: No. $1^3 - 1^3 = 1$ but $0^3 - 1^3 \not = 1$, so $1S0$ but $0 \not
+  S1$.
+- Transitive: No. $1^3 - 0^3 = 1$ and $0^3 - (-1)^3 = 1$ but $1^3 - (-1)^3 \not
+  = 1$, so $1S0$ and $0S(-1)$ but $1 \not S(-1)$.
+- So it is not an equivalence relation.
