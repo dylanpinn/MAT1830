@@ -102,3 +102,17 @@ E.g. the following triangles are similar
 ### 4. Parallelism of lines
 
 The relation <img src="/lectures/tex/e35c7b7a0d9250039479f70700d01913.svg?invert_in_darkmode&sanitize=true" align=middle width=38.05942799999999pt height=24.65753399999998pt/> (L is parallel to M) is an equivalence relation.
+
+## Remark
+
+In all of these cases the relation is an equivalence because it says that
+objects are the _same_ in some respect.
+
+1. Equivalent fractions have the same reduced form.
+2. Congruent triangles have the same side lengths.
+3. Similar triangles have the same shape.
+4. Parallel lines have the same direction.
+
+Sameness is always reflexive (a is the same as a), symmetric (if a is the same
+as b, then b is the same as a) and transitive (if a is the same as b and b is
+the same as c, then a is the same as c).
