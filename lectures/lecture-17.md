@@ -1,1 +1,11 @@
 # Lecture 17: Equivalence Relations
+
+An _equivalence relation_ <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> on a set <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> is a binary relation with the
+following three properties.
+
+1. Reflexivity: <img src="/lectures/tex/30aef789a648cebe26d40b1e53219d0e.svg?invert_in_darkmode&sanitize=true" align=middle width=33.62642249999999pt height=22.465723500000017pt/> for all <img src="/lectures/tex/093389674502221e9d1394082bbabd6f.svg?invert_in_darkmode&sanitize=true" align=middle width=41.10908999999999pt height=22.465723500000017pt/>.
+2. Symmetry: <img src="/lectures/tex/fb74771af5c33d84b9bc9ba73fba9e86.svg?invert_in_darkmode&sanitize=true" align=middle width=82.2754416pt height=22.831056599999986pt/> for all <img src="/lectures/tex/b62c2586b691b315f9b440ae4358ed02.svg?invert_in_darkmode&sanitize=true" align=middle width=55.46977094999998pt height=22.831056599999986pt/>.
+3. Transitivity: <img src="/lectures/tex/b3b3425b4ba9f5f69882ea9d0c802c3f.svg?invert_in_darkmode&sanitize=true" align=middle width=28.35242024999999pt height=22.831056599999986pt/> and <img src="/lectures/tex/58b4ec2477394924e2151ae5a91db8c7.svg?invert_in_darkmode&sanitize=true" align=middle width=80.75909984999998pt height=22.831056599999986pt/> for all <img src="/lectures/tex/5d22b101a8e05a8b7a3f72eff1d3e90a.svg?invert_in_darkmode&sanitize=true" align=middle width=69.88945754999999pt height=22.831056599999986pt/>.
+
+Equality and congruence mod <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> (for fixed <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>) are examples of equivalence
+relations.
