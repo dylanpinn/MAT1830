@@ -131,3 +131,25 @@ On each set $A$ the function $i_A : A \rightarrow A$ defined by
 $$i_A(x) = x$$
 
 is called the _identity function_ (on $A$).
+
+## 15.4 Inverse functions
+
+Functions $f: A \rightarrow A$ and $g: A \rightarrow A$ are said to be inverses
+(of each other) if
+
+$$f \circ g = g \circ f = i_A$$
+
+**Example.** square and sqrt are inverses of each other on the set
+$\mathbb{R}^{\geq 0}$ of reals $\geq 0$.
+sqrt(square(x)) = $x$ and square(sqrt(x)) = $x$.
+
+In fact, this is exactly what sqrt is supposed to do - reverse the process of
+squaring. However, this works only if we restrict the domain to
+$\mathbb{R}^{\geq 0}$, On $\mathbb{R}$ we don not have sqrt(square(x)) = x
+because, for example,
+sqrt(square(-1)) = sqrt(1) = 1.
+
+This problem arises whenever we seek an inverse for a function which is not
+one-to-one. The squaring function on $\mathbb{R}$ sends both 1 and -1 to 1, but
+we want a single value 1 for sqrt(1). Thus we have to restrict the squaring
+function to $\mathbb{R}^{\geq 0}$.
