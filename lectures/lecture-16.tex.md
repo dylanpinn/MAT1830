@@ -51,3 +51,10 @@ $\{(a,a),(a,b),(b,c),(d,e),(e,d),(i,i)\}$.
 
 ## 16.1 Relations and functions
 
+Any function $f: X \rightarrow Y$ can be viewed as a relation $R$ on $X \cup
+Y$. The relation is defined by $xRy$ if and only if $y=f(x)$.
+
+However, not every relation is a function. Remember that a function must have
+exactly one output $y$ for each input $x$ in its domain. In a relation, on the
+other hand, and element $x$ may be related to many elements $y$, or to none at
+all.
