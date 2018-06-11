@@ -202,3 +202,23 @@ $f^{-1}$ exist?
 
 **Answer** No. $f$ is not onto. (E.g. there is no student with ID number
 $10^{200}$.)
+
+**Question** Let $g$ and $h$ be the functions:
+
+- $g: \mathbb{N} \times \mathbb{N} \rightarrow \mathbb{N}$ defined by $g(a,b) =
+  ab$
+- $h: \{C: C$ is a circle in the plane with centre $(0,0)\} \rightarrow
+  \mathbb{R}$ defined by $h(C)$ is the area of $C$.
+
+Does $g^{-1}$ exist? Does $h^{-1}$ exist?
+
+- **A.** Yes, yes
+- **B.** Yes, no
+- **C.** No, yes
+- **D.** No, no
+
+**Answer** $g$ is not one-to-one. E.g. $g((2,3)) = g((1,6))$. So $g^{-1}$
+doesn't exist.
+
+$h$ is not onto. E.g. there is no circle of area -1 centred at $(0,0)$. So
+$h^{-1}$ doesn't exist. So **D**.
