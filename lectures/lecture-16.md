@@ -35,3 +35,16 @@ If <img src="/lectures/tex/7392a8cd69b275fa1798ef94c839d2e0.svg?invert_in_darkmo
 If <img src="/lectures/tex/7392a8cd69b275fa1798ef94c839d2e0.svg?invert_in_darkmode&sanitize=true" align=middle width=38.135511149999985pt height=24.65753399999998pt/> is not in the set then we write <img src="/lectures/tex/d20fbc173b5876c674d4dd27be842599.svg?invert_in_darkmode&sanitize=true" align=middle width=39.78488084999999pt height=22.831056599999986pt/>.
 
 Order matters. It might be that <img src="/lectures/tex/cd545545658252896318babb6260cb4a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65268359999999pt height=22.465723500000017pt/> but <img src="/lectures/tex/1a32e44da613c81dafd31706353e2003.svg?invert_in_darkmode&sanitize=true" align=middle width=39.78486104999999pt height=22.831056599999986pt/>.
+
+**Arrow diagrams**
+
+**Example** Let <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> be the relation on <img src="/lectures/tex/59855cc9c63715a8bed6834ce6651a79.svg?invert_in_darkmode&sanitize=true" align=middle width=146.4222078pt height=24.65753399999998pt/> given by the set
+<img src="/lectures/tex/dd8ebf3be7a4968df2609137da5e17a2.svg?invert_in_darkmode&sanitize=true" align=middle width=264.5532483pt height=24.65753399999998pt/>.
+
+![](images/L16-P9.png)
+
+- Is <img src="/lectures/tex/38c431708856b993858482ba375992fb.svg?invert_in_darkmode&sanitize=true" align=middle width=26.777071199999988pt height=22.831056599999986pt/>? **Yes**
+- Is <img src="/lectures/tex/ad0fb7c3cb3e73936e96693165eb8bcb.svg?invert_in_darkmode&sanitize=true" align=middle width=30.08002469999999pt height=22.831056599999986pt/>? **No**
+- Is <img src="/lectures/tex/971822f2806bf66535aec9c2f4a0d223.svg?invert_in_darkmode&sanitize=true" align=middle width=28.411429199999986pt height=22.465723500000017pt/>? **No**
+- Is <img src="/lectures/tex/0581c18d937e07ab0e316a8411087271.svg?invert_in_darkmode&sanitize=true" align=middle width=28.818571649999992pt height=22.831056599999986pt/>? **Yes**
+- Is <img src="/lectures/tex/5f57ca0200c31a8d7c7afbde528e10dc.svg?invert_in_darkmode&sanitize=true" align=middle width=23.93492309999999pt height=22.465723500000017pt/>? **Yes&&
