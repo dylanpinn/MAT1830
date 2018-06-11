@@ -85,3 +85,13 @@ Does <img src="/lectures/tex/95d22f4ccb6c0263a2496cf871cd7777.svg?invert_in_dark
 
 codomain<img src="/lectures/tex/f262a67483bfe4bbd13bc0385a744ae4.svg?invert_in_darkmode&sanitize=true" align=middle width=144.61210994999996pt height=24.65753399999998pt/> and domain<img src="/lectures/tex/71831453e26c833a2866df610e2f6b64.svg?invert_in_darkmode&sanitize=true" align=middle width=143.22505395pt height=24.65753399999998pt/>.
 So <img src="/lectures/tex/95d22f4ccb6c0263a2496cf871cd7777.svg?invert_in_darkmode&sanitize=true" align=middle width=33.77274119999999pt height=22.831056599999986pt/> does exist because codomain(f) = domain(g). <img src="/lectures/tex/fbe2fde076b85c9c0441450ec61e512c.svg?invert_in_darkmode&sanitize=true" align=middle width=99.43678799999999pt height=22.831056599999986pt/>.
+
+**Question** Let <img src="/lectures/tex/c2308dccf241052557114444f47dcd72.svg?invert_in_darkmode&sanitize=true" align=middle width=74.70864224999998pt height=22.831056599999986pt/> and <img src="/lectures/tex/1c24f11be166117cd68eee560cbe2757.svg?invert_in_darkmode&sanitize=true" align=middle width=74.69024805pt height=22.465723500000017pt/> be the functions
+pictured below.
+
+![](images/L15-P11.png)
+
+Does <img src="/lectures/tex/95d22f4ccb6c0263a2496cf871cd7777.svg?invert_in_darkmode&sanitize=true" align=middle width=33.77274119999999pt height=22.831056599999986pt/> exist?
+
+codomain<img src="/lectures/tex/88ef50850587fa26b19ae505a22967ee.svg?invert_in_darkmode&sanitize=true" align=middle width=167.35188359999998pt height=24.65753399999998pt/> and domain<img src="/lectures/tex/88564320dc02c450507d3f0da2b4ede6.svg?invert_in_darkmode&sanitize=true" align=middle width=143.22505395pt height=24.65753399999998pt/>. So <img src="/lectures/tex/95d22f4ccb6c0263a2496cf871cd7777.svg?invert_in_darkmode&sanitize=true" align=middle width=33.77274119999999pt height=22.831056599999986pt/> does not exist because codomain(f) <img src="/lectures/tex/34da809cf641dbc24baded3b37e17d7b.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=22.831056599999986pt/> domain(g).
+
