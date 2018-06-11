@@ -89,3 +89,17 @@ Triangles $ABC$ and $A'B'C'$ are congruent if $AB = A'B, BC = B'C'$ and $CA =
 C'A'$. E.g. The following triangles are congruent.
 
 ![](images/L17-P11.png)
+
+### 3. Similarity of triangles
+
+Triangles $ABC$ and $A'B'C'$ are similar if
+
+$$\frac{AB}{A'B'} = \frac{BC}{B'C'} = \frac{CA}{C'A'}$$
+
+E.g. the following triangles are similar
+
+![](images/L17-P12.png)
+
+### 4. Parallelism of lines
+
+The relation $L||M$ (L is parallel to M) is an equivalence relation.
