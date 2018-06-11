@@ -165,3 +165,9 @@ and only if <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_
 ![](images/L15-P17.png)
 
 Does <img src="/lectures/tex/8fac22af20becca270bc855e487906cb.svg?invert_in_darkmode&sanitize=true" align=middle width=26.643980549999988pt height=26.76175259999998pt/> exist? **Yes**
+
+**Question** Let <img src="/lectures/tex/c2308dccf241052557114444f47dcd72.svg?invert_in_darkmode&sanitize=true" align=middle width=74.70864224999998pt height=22.831056599999986pt/> be the function pictured below.
+
+![](images/L15-P18.png)
+
+Does <img src="/lectures/tex/8fac22af20becca270bc855e487906cb.svg?invert_in_darkmode&sanitize=true" align=middle width=26.643980549999988pt height=26.76175259999998pt/> exist? **No** <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> is not one-to-one.
