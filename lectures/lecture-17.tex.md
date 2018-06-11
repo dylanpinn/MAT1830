@@ -74,3 +74,18 @@ Yes. For all $x,y,z \in A$, if $xRy$ and $yRz$ then $xRz$.
 ![](images/L17-P10-2.png)
 
 No, because $3S6$ and $6S5$ but $3 \not S 5$.
+
+## 17.1 Other equivalence relations
+
+### 1. Equivalence of fractions.
+
+Two fractions are equivalent if they reduce to the same fraction when the
+numerator and denominator of each are divided by their gcd. E.g. $\frac{2}{4}$
+and $\frac{3}{6}$ are equivalent because both reduce to $\frac{1}{2}$.
+
+### 2. Congruence of triangles.
+
+Triangles $ABC$ and $A'B'C'$ are congruent if $AB = A'B, BC = B'C'$ and $CA =
+C'A'$. E.g. The following triangles are congruent.
+
+![](images/L17-P11.png)
