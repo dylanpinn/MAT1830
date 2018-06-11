@@ -117,3 +117,24 @@ objects are the _same_ in some respect.
 Sameness is always reflexive (a is the same as a), symmetric (if a is the same
 as b, then b is the same as a) and transitive (if a is the same as b and b is
 the same as c, then a is the same as c).
+
+**Question** Which of the following relations are equivalence relations on
+$\mathbb{Z}$?
+
+1. $R$ defined by $xRy$ if and only if $|x| = |y|$
+2. $S$ defined by $xSy$ if and only if $x^3 - y^3 = 1$
+3. $T$ defined by $xTu$ if and only if $x$ divides $y$
+4. $U$ defined by $xUy$ if and only if 5 divides $x-y$
+
+- **A** Just (1) and (3)
+- **B** Just (1)
+- **C** Just (1) and (4)
+- **D** Just (1), (2) and (4)
+
+**Answer**
+
+- (2) is not reflexive. E.g. $1 \not S 1$ because $1^3 - 1^3 \not = 1$. So (2)
+  is not an equivalence relation.
+- (3) is not symmetric. E.g. $3T6$ but $6\not T 3$ (3 divides 6 but 6 doesn't
+  divide 3). So (3) is not an equivalence relation.
+- (1) and (4) are equivalence relations. So **C**.
