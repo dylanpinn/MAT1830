@@ -167,3 +167,9 @@ Not every function has an inverse, but we can neatly classify the ones that do.
 
 Let $f: A \rightarrow B$ be a function. Then $f^{-1}: B \rightarrow A$ exists if
 and only if $f$ is one-to-one and onto.
+
+**Question** Let $f: A \rightarrow B$ be the function pictured below.
+
+![](images/L15-P17.png)
+
+Does $f^{-1}$ exist? **Yes**
