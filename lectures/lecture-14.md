@@ -175,4 +175,4 @@ So **D**.
 length <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>.
 
 **Hamming distance** is a function  defined by  equals the number of
-places in which  and  disagree.
+places in which  and <img src="/lectures/tex/4f4f4e395762a3af4575de74c019ebb5.svg?invert_in_darkmode&sanitize=true" align=middle width=5.936097749999991pt height=20.221802699999984pt/> disagree.
