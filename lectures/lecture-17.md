@@ -18,3 +18,16 @@ To prove that <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?inver
 
 To prove that <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> is not reflexive, show that; There is an <img src="/lectures/tex/7b841c751621276ac77f2f984cb9a281.svg?invert_in_darkmode&sanitize=true" align=middle width=41.81492369999999pt height=22.465723500000017pt/> such that
 <img src="/lectures/tex/811d384e3a573ae398b239b3c762346d.svg?invert_in_darkmode&sanitize=true" align=middle width=40.53064289999999pt height=22.831056599999986pt/>.
+
+**Question** Let <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> be the relation on <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> pictured below. Is <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> reflexive?
+
+![](images/L17-P5-1.png)
+
+Yes. <img src="/lectures/tex/be9e5f75dbd376935623909f9094e065.svg?invert_in_darkmode&sanitize=true" align=middle width=31.39844564999999pt height=22.465723500000017pt/> for all <img src="/lectures/tex/7b841c751621276ac77f2f984cb9a281.svg?invert_in_darkmode&sanitize=true" align=middle width=41.81492369999999pt height=22.465723500000017pt/>.
+
+**Question** Let <img src="/lectures/tex/e257acd1ccbe7fcb654708f1a866bfe9.svg?invert_in_darkmode&sanitize=true" align=middle width=11.027402099999989pt height=22.465723500000017pt/> be the relation on <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> pictured below. Is <img src="/lectures/tex/e257acd1ccbe7fcb654708f1a866bfe9.svg?invert_in_darkmode&sanitize=true" align=middle width=11.027402099999989pt height=22.465723500000017pt/> reflexive?
+
+![](images/L17-P5-2.png)
+
+No. <img src="/lectures/tex/1d2337a459296ebe1d09df524405ac6c.svg?invert_in_darkmode&sanitize=true" align=middle width=36.59799824999999pt height=22.831056599999986pt/>.
+
