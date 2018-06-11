@@ -138,14 +138,13 @@ sqrt(square(x)) = <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?i
 
 In fact, this is exactly what sqrt is supposed to do - reverse the process of
 squaring. However, this works only if we restrict the domain to
-<img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>, On <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> we don not have sqrt(square(x)) = x
-because, for example,
-sqrt(square(-1)) = sqrt(1) = 1.
+<img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>, On <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> we do not have sqrt(square(x)) = x
+because, for example, sqrt(square(-1)) = sqrt(1) = 1.
 
 This problem arises whenever we seek an inverse for a function which is not
-one-to-one. The squaring function on <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> sends both 1 and -1 to 1, but
-we want a single value 1 for sqrt(1). Thus we have to restrict the squaring
-function to <img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>.
+one-to-one. The squaring function on <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> sends both 1 and -1 to
+1, but we want a single value 1 for sqrt(1). Thus we have to restrict the
+squaring function to <img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>.
 
 ## 15.5 Conditions for inversion
 
