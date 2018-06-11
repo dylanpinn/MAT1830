@@ -192,3 +192,9 @@ lot like equations. In particular, they have the following three properties.
 
 These properties are clear if one remembers that <img src="/lectures/tex/221a6eec2aff3385193ce94d706a1b7c.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/> (mod n) means that
 a and b have the same remainder on division by n.
+
+**Question** Let _R_ be the binary relation on <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/> defined by <img src="/lectures/tex/cd545545658252896318babb6260cb4a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65268359999999pt height=22.465723500000017pt/> if
+and if <img src="/lectures/tex/ee7e4d9ca61da271efaf35f9cd10d96d.svg?invert_in_darkmode&sanitize=true" align=middle width=39.96184334999999pt height=15.24650820000002pt/> (mod 3). Roughly, what would an arrow diagram for _R_ look
+like?
+
+![](images/L16-P27.png)
