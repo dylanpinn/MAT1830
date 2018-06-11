@@ -131,3 +131,23 @@ $\wp(\{1,2\})$ and draw an arrow diagram for it.
 Remember $\wp(\{1,2\}) = \{0, \{1\}, \{2\}, \{1,2\}\}$.
 
 ![](images/L16-P20.png)
+
+**Question** How many possible relations are there on a set $X$ with $|X| = n$?
+
+- **A** $n^2$
+- **B** $2^{(n^2)}$
+- **C** $2^n$
+- **D** $2^{(2^n)}$
+
+**Hint** Think of the relation as a set of ordered pairs. How many possible
+ordered pairs are there? So how many possible relations?
+
+**Answer**
+
+- A relation on $X$ can be thought of as a subset of $X \times X$.
+- Every subset of $X \times X$ corresponds to a unique relation (and vice
+  versa).
+- So the number of possible relations on $X$ is the same as the number of
+  subsets of $X \times X$.
+- $|X \times X| = n^2$. So the number of subsets of $X \times X$ is $2^{(n^2)}$.
+- So **B**.
