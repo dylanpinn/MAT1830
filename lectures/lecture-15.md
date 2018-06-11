@@ -124,3 +124,25 @@ On each set <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_
 <p align="center"><img src="/lectures/tex/a5b56073d90b5f93a1d84d49da693ef3.svg?invert_in_darkmode&sanitize=true" align=middle width=69.86407394999999pt height=16.438356pt/></p>
 
 is called the _identity function_ (on <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/>).
+
+## 15.4 Inverse functions
+
+Functions <img src="/lectures/tex/98096eaeba5e73fb8c4022206f56b0c3.svg?invert_in_darkmode&sanitize=true" align=middle width=73.74403079999999pt height=22.831056599999986pt/> and <img src="/lectures/tex/3967b6d58b5b0683143f107811471866.svg?invert_in_darkmode&sanitize=true" align=middle width=72.35697644999999pt height=22.465723500000017pt/> are said to be inverses
+(of each other) if
+
+<p align="center"><img src="/lectures/tex/f21d9ec050be5ee6c054f0395595b687.svg?invert_in_darkmode&sanitize=true" align=middle width=126.92987339999999pt height=14.611878599999999pt/></p>
+
+**Example.** square and sqrt are inverses of each other on the set
+<img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/> of reals <img src="/lectures/tex/97724efe1d61e77783b76251d3ae68dc.svg?invert_in_darkmode&sanitize=true" align=middle width=25.570741349999988pt height=21.18721440000001pt/>.
+sqrt(square(x)) = <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> and square(sqrt(x)) = <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/>.
+
+In fact, this is exactly what sqrt is supposed to do - reverse the process of
+squaring. However, this works only if we restrict the domain to
+<img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>, On <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> we don not have sqrt(square(x)) = x
+because, for example,
+sqrt(square(-1)) = sqrt(1) = 1.
+
+This problem arises whenever we seek an inverse for a function which is not
+one-to-one. The squaring function on <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> sends both 1 and -1 to 1, but
+we want a single value 1 for sqrt(1). Thus we have to restrict the squaring
+function to <img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>.
