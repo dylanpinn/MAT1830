@@ -153,3 +153,42 @@ ordered pairs are there? So how many possible relations?
 
 For a fixed <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>, congruence modulo <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> is a binary relation. It consists of the
 ordered pairs of integers <img src="/lectures/tex/0cd27d4708cd735f6ea469dc3debed0e.svg?invert_in_darkmode&sanitize=true" align=middle width=35.83526759999999pt height=24.65753399999998pt/> such that <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> divides <img src="/lectures/tex/3db94e1f2989d6890a93270f166723f6.svg?invert_in_darkmode&sanitize=true" align=middle width=35.83514219999999pt height=22.831056599999986pt/>.
+
+**Congruence modulo _n_**
+
+Remember <img src="/lectures/tex/221a6eec2aff3385193ce94d706a1b7c.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/> (mod n) means that _a_ and _b_ have the same remainder
+when you divide them by _n_.
+
+**Definition** We say <img src="/lectures/tex/221a6eec2aff3385193ce94d706a1b7c.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/> (mod n) if _n_ divides <img src="/lectures/tex/3db94e1f2989d6890a93270f166723f6.svg?invert_in_darkmode&sanitize=true" align=middle width=35.83514219999999pt height=22.831056599999986pt/>.
+
+For a fixed integer <img src="/lectures/tex/e4fa18f24ed41ec42105ccc667ea4f17.svg?invert_in_darkmode&sanitize=true" align=middle width=40.00371704999999pt height=21.18721440000001pt/>, congruence modulo _n_ is a binary relation.
+
+**Question** Which integers are congruent to 1 modulo 7?
+
+Integers in the set <img src="/lectures/tex/cfe8d070d7f6f5a0a424aded99a9b3ea.svg?invert_in_darkmode&sanitize=true" align=middle width=247.48838729999994pt height=24.65753399999998pt/>. This is
+the set <img src="/lectures/tex/3f645d0e15eab8aef7477f21939b570b.svg?invert_in_darkmode&sanitize=true" align=middle width=115.86725369999999pt height=24.65753399999998pt/>.
+
+**Question** Which integers are congruent to 2 modulo 5?
+
+Integers in the set <img src="/lectures/tex/5ada4cecec234404b9c1efc15cb428fa.svg?invert_in_darkmode&sanitize=true" align=middle width=239.26917794999997pt height=24.65753399999998pt/>.
+
+This is the set <img src="/lectures/tex/73c0f0b4782edc662088cbbcc56e8fbe.svg?invert_in_darkmode&sanitize=true" align=middle width=115.86725369999999pt height=24.65753399999998pt/>.
+
+## 16.3 Properties of congruence
+
+As the symbol <img src="/lectures/tex/ebf45b23c8b2fe7cb8bf20cb8bbd565d.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=15.24650820000002pt/> suggests, congruence mod <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> is a lot like equality.
+Numbers <img src="/lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode&sanitize=true" align=middle width=8.68915409999999pt height=14.15524440000002pt/> and <img src="/lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode&sanitize=true" align=middle width=7.054796099999991pt height=22.831056599999986pt/> which are congruent mod <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> are not necessarily equal, but
+they are "equal up to multiples of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>," because they have equal remainders when
+divided by <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>.
+
+Because congruence is like equality, congruence <img src="/lectures/tex/221a6eec2aff3385193ce94d706a1b7c.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/> (mod _n_) behave a
+lot like equations. In particular, they have the following three properties.
+
+1. Reflexive property: <img src="/lectures/tex/97b4b2884947bc33647e51fc8688d4f0.svg?invert_in_darkmode&sanitize=true" align=middle width=39.29593799999999pt height=15.24650820000002pt/> (mod <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>) for any number <img src="/lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode&sanitize=true" align=middle width=8.68915409999999pt height=14.15524440000002pt/>.
+2. Symmetric property: <img src="/lectures/tex/221a6eec2aff3385193ce94d706a1b7c.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/> (mod <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>) <img src="/lectures/tex/1d5b7ddd761c80a1ccee4107e0c0a83a.svg?invert_in_darkmode&sanitize=true" align=middle width=58.66608329999999pt height=22.831056599999986pt/> (mod <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>)
+   for any numbers $a$ and $b$.
+3. Transitive property: <img src="/lectures/tex/221a6eec2aff3385193ce94d706a1b7c.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/> (mod <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>) and <img src="/lectures/tex/29f294a16bc16028d6731b3c4f739496.svg?invert_in_darkmode&sanitize=true" align=middle width=36.08623094999999pt height=22.831056599999986pt/> (mod <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>)
+   $\Rightarrow a \equiv c$ (mod $n$) for any numbers $a,b$ and $c$.
+
+These properties are clear if one remembers that <img src="/lectures/tex/221a6eec2aff3385193ce94d706a1b7c.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/> (mod n) means that
+a and b have the same remainder on division by n.
