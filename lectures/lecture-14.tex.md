@@ -207,4 +207,4 @@ So **D**.
 length $n$.
 
 **Hamming distance** is a function  defined by  equals the number of
-places in which  and $t$ disagree.
+places in which $s$ and $t$ disagree.
