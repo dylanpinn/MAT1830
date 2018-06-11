@@ -185,3 +185,13 @@ Does $f^{-1}$ exist? **No** $f$ is not one-to-one.
 ![](images/L15-P19.png)
 
 Does $f^{-1}$ exist? **No** $f$ is not onto.
+
+**Question 15.4** What features to the following have in common?
+
+- $\neg : \mathbb{B} \rightarrow \mathbb{B}$ defined by $\neg (x) = \neg x$
+- $f(x) : \mathbb{R} - \{0\} \rightarrow \mathbb{R} - \{0\}$ defined by $f(x) =
+  \frac{1}{x}$; and
+- $g(x) : \mathbb{R} - \{1\} \rightarrow \mathbb{R} - \{1\}$ defined by $g(x) =
+  \frac{x}{x-1}$;
+
+**They are their own inverses.**
