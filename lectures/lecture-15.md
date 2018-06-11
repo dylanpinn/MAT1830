@@ -146,3 +146,17 @@ This problem arises whenever we seek an inverse for a function which is not
 one-to-one. The squaring function on <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> sends both 1 and -1 to 1, but
 we want a single value 1 for sqrt(1). Thus we have to restrict the squaring
 function to <img src="/lectures/tex/5b86d9e34af75573e30b3476fa54e0f7.svg?invert_in_darkmode&sanitize=true" align=middle width=28.698746999999987pt height=27.705869399999983pt/>.
+
+## 15.5 Conditions for inversion
+
+A function <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> can have an inverse without its domain and codomain being equal.
+
+The inverse of a function <img src="/lectures/tex/c2308dccf241052557114444f47dcd72.svg?invert_in_darkmode&sanitize=true" align=middle width=74.70864224999998pt height=22.831056599999986pt/> is a function <img src="/lectures/tex/a65842764b186a0e55d81d60d33fd417.svg?invert_in_darkmode&sanitize=true" align=middle width=90.27501944999999pt height=26.76175259999998pt/> and <img src="/lectures/tex/f936a8487e7ef26a411ad60ab920c0a2.svg?invert_in_darkmode&sanitize=true" align=middle width=90.88174919999999pt height=26.76175259999998pt/>.
+
+Note that <img src="/lectures/tex/a8639fa35e47d45998751e080f57e8b0.svg?invert_in_darkmode&sanitize=true" align=middle width=52.80825329999999pt height=26.76175259999998pt/> and <img src="/lectures/tex/bf632f08f87a18611305ecd1b39a7bc1.svg?invert_in_darkmode&sanitize=true" align=middle width=51.98636024999999pt height=26.76175259999998pt/> are both identity functions but
+they have different domains.
+
+Not every function has an inverse, but we can neatly classify the ones that do.
+
+Let <img src="/lectures/tex/c2308dccf241052557114444f47dcd72.svg?invert_in_darkmode&sanitize=true" align=middle width=74.70864224999998pt height=22.831056599999986pt/> be a function. Then <img src="/lectures/tex/0b371ed531445d88d5f0e4bb47d58932.svg?invert_in_darkmode&sanitize=true" align=middle width=92.35709339999998pt height=26.76175259999998pt/> exists if
+and only if <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> is one-to-one and onto.
