@@ -46,3 +46,17 @@ What are the following?
 - <img src="/lectures/tex/47ea9dfef214ebba3e9562938061ae4c.svg?invert_in_darkmode&sanitize=true" align=middle width=61.95590279999999pt height=24.65753399999998pt/> grandfather (maternal) of _x_
 - <img src="/lectures/tex/618e460ba8a5ba64a259ae6dd9c50e4b.svg?invert_in_darkmode&sanitize=true" align=middle width=53.11634789999999pt height=24.65753399999998pt/> _x_
 
+**Question 15.2** Write the following as composites of square(x), sqrt(x),
+successor(x) and cube(x).
+
+(Assume that all of these have domain and codomain <img src="/lectures/tex/78dc6a7b0fbd5bdfaa3cc0ce1768db2b.svg?invert_in_darkmode&sanitize=true" align=middle width=72.6709236pt height=24.65753399999998pt/> and
+<img src="/lectures/tex/265856b9ffc446a5010f60defa9f882f.svg?invert_in_darkmode&sanitize=true" align=middle width=47.75103794999999pt height=24.65753399999998pt/>.)
+
+- <img src="/lectures/tex/2837c63b51a68029b6e3d5f888e25c5e.svg?invert_in_darkmode&sanitize=true" align=middle width=58.778486249999986pt height=28.712280299999996pt/> = sqrt(successor(cube(x))) = sqrt <img src="/lectures/tex/c0463eeb4772bfde779c20d52901d01b.svg?invert_in_darkmode&sanitize=true" align=middle width=8.219209349999991pt height=14.611911599999981pt/> successor <img src="/lectures/tex/c0463eeb4772bfde779c20d52901d01b.svg?invert_in_darkmode&sanitize=true" align=middle width=8.219209349999991pt height=14.611911599999981pt/>
+  cube(x)
+- <img src="/lectures/tex/47a1fa65c17c613491a26d816b8bdb4d.svg?invert_in_darkmode&sanitize=true" align=middle width=16.96128554999999pt height=31.359338999999984pt/> = sqrt((cube(x)) = sqrt <img src="/lectures/tex/c0463eeb4772bfde779c20d52901d01b.svg?invert_in_darkmode&sanitize=true" align=middle width=8.219209349999991pt height=14.611911599999981pt/> cube(x)
+- <img src="/lectures/tex/11bb4af6c32bb5990133b96b4e39eb0a.svg?invert_in_darkmode&sanitize=true" align=middle width=57.043369349999985pt height=26.76175259999998pt/> = cube(successor(x)) = cube <img src="/lectures/tex/c0463eeb4772bfde779c20d52901d01b.svg?invert_in_darkmode&sanitize=true" align=middle width=8.219209349999991pt height=14.611911599999981pt/> successor(x)
+- <img src="/lectures/tex/ecfdc04fded1f35eb049b1525e278a79.svg?invert_in_darkmode&sanitize=true" align=middle width=64.41782819999999pt height=26.76175259999998pt/> = square(successor(cube(x))) = square <img src="/lectures/tex/c0463eeb4772bfde779c20d52901d01b.svg?invert_in_darkmode&sanitize=true" align=middle width=8.219209349999991pt height=14.611911599999981pt/> successor <img src="/lectures/tex/c0463eeb4772bfde779c20d52901d01b.svg?invert_in_darkmode&sanitize=true" align=middle width=8.219209349999991pt height=14.611911599999981pt/>
+  cube(x)
+
+**Note** Composition of functions is associative: <img src="/lectures/tex/6c2422e33699d023a0dbdc54e020eaa5.svg?invert_in_darkmode&sanitize=true" align=middle width=165.02613599999998pt height=24.65753399999998pt/>. So we don't bother with the brackets.
