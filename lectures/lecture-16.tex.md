@@ -151,3 +151,8 @@ ordered pairs are there? So how many possible relations?
   subsets of $X \times X$.
 - $|X \times X| = n^2$. So the number of subsets of $X \times X$ is $2^{(n^2)}$.
 - So **B**.
+
+### 5. Congruence modulo n
+
+For a fixed $n$, congruence modulo $n$ is a binary relation. It consists of the
+ordered pairs of integers $(a,b)$ such that $n$ divides $a-b$.
