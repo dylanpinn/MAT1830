@@ -119,5 +119,8 @@ Which of the following statements if **false**?
 
 ## 15.3 The identify functions
 
-On each set <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> the function <img src="/lectures/tex/2ba4e40bc1703a0283d8ed56a83bc85d.svg?invert_in_darkmode&sanitize=true" align=middle width=80.29765259999999pt height=22.465723500000017pt/> defined by <p align="center"><img src="/lectures/tex/a5b56073d90b5f93a1d84d49da693ef3.svg?invert_in_darkmode&sanitize=true" align=middle width=69.86407394999999pt height=16.438356pt/></p>
+On each set <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> the function <img src="/lectures/tex/2ba4e40bc1703a0283d8ed56a83bc85d.svg?invert_in_darkmode&sanitize=true" align=middle width=80.29765259999999pt height=22.465723500000017pt/> defined by
+
+<p align="center"><img src="/lectures/tex/a5b56073d90b5f93a1d84d49da693ef3.svg?invert_in_darkmode&sanitize=true" align=middle width=69.86407394999999pt height=16.438356pt/></p>
+
 is called the _identity function_ (on <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/>).
