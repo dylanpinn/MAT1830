@@ -7,3 +7,22 @@
 - Relations can be thought of as a generalisation of functions.
 - Like there is a functional programming paradigm there's a relational
   programming paradigm.
+
+Roughly speaking, a binary relation on a set is something that tells us, for
+any two things in the set, that they are related or they are not related. (Order
+_is_ important.)
+
+We could make a set $\{(x,y): x \text{ links to } y \}$.
+
+Mathematical objects can be related in various ways, and any particular way of
+relating objects is called a _relation_ on the set of objects in question.
+
+(This also applies to relations in the everyday sense. For example, "parent of"
+is a relation on the set of people.)
+
+A _binary relation_ $R$ on a set $A$ consists of $A$ and a set of ordered pairs
+from $A \times A$. When $(a,b)$ is in this set we write $aRb$.
+
+Similarly, a _ternary_ relation on $A$ would be defined by a set of ordered
+triples from $A \times A \times A$, and so on. (A _unary_ relation on $A$ is
+just a subset of $A$.)
