@@ -195,3 +195,10 @@ Does $f^{-1}$ exist? **No** $f$ is not onto.
   \frac{x}{x-1}$;
 
 **They are their own inverses.**
+
+**Question** Let $f: \{x: x \text{ is a Monash student } \} \rightarrow
+mathbb{N}$ be the function defined by $f(x)$ equals the ID number of $x$. Does
+$f^{-1}$ exist?
+
+**Answer** No. $f$ is not onto. (E.g. there is no student with ID number
+$10^{200}$.)
