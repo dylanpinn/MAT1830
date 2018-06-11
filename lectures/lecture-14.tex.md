@@ -206,5 +206,5 @@ So **D**.
 **Example (Hamming distance)** Let $B_n$ be the set of all binary strings of
 length $n$.
 
-**Hamming distance** is a function  defined by  equals the number of
-places in which $s$ and $t$ disagree.
+**Hamming distance** is a function defined by equals the number of places in
+which $s$ and $t$ disagree.
