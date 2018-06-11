@@ -171,3 +171,4 @@ For each input, we can decide if it's mapped to 0 or 1. We can do this in <img s
 
 So **D**.
 
+For example, <img src="/lectures/tex/027d22217d5d44ab8c10445144201e3c.svg?invert_in_darkmode&sanitize=true" align=middle width=109.01452814999998pt height=24.65753399999998pt/>, <img src="/lectures/tex/184fe20c14c1eb77be1d66572988907b.svg?invert_in_darkmode&sanitize=true" align=middle width=109.01452814999998pt height=24.65753399999998pt/> and <img src="/lectures/tex/c428b5f2efdd98276d620d445e521354.svg?invert_in_darkmode&sanitize=true" align=middle width=141.89136555pt height=24.65753399999998pt/>.
