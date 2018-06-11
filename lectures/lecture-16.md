@@ -96,3 +96,13 @@ something".
 - True for (3). For each <img src="/lectures/tex/3c8e47ae8fad180b8a50a5bdbf371cbb.svg?invert_in_darkmode&sanitize=true" align=middle width=89.19515055pt height=24.65753399999998pt/> for example.
 - True for (4). For each <img src="/lectures/tex/4fdac3cf3f1bba0236934847b8aaec09.svg?invert_in_darkmode&sanitize=true" align=middle width=69.10396019999999pt height=24.65753399999998pt/> for example.
 - So **B**.
+
+**Question 16.2** Use logic symbols and the <img src="/lectures/tex/a27bd5e00db840936296ead0783388e7.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=20.908638300000003pt/> relation to write a relation
+between real numbers <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> and <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> which says that the point <img src="/lectures/tex/7392a8cd69b275fa1798ef94c839d2e0.svg?invert_in_darkmode&sanitize=true" align=middle width=38.135511149999985pt height=24.65753399999998pt/> lies in the
+square with the corners <img src="/lectures/tex/5e53850ff2f5ca0f27d4f2329433be1f.svg?invert_in_darkmode&sanitize=true" align=middle width=124.20097304999997pt height=24.65753399999998pt/> and <img src="/lectures/tex/345bb27c06bd6ce90e57ba2433f718bb.svg?invert_in_darkmode&sanitize=true" align=middle width=36.52973609999999pt height=24.65753399999998pt/>.
+
+![](images/L16-P17.png)
+
+**Answer**
+
+<p align="center"><img src="/lectures/tex/acc24c89eae588115eb97b07e9bdd37a.svg?invert_in_darkmode&sanitize=true" align=middle width=262.57157685pt height=16.438356pt/></p>
