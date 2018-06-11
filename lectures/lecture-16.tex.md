@@ -76,3 +76,25 @@ $\{1,2,3,4,5,6\}$ and draw an arrow diagram of it.
 
 1. $R$ defined on $\mathbb{R}$ by $xRy$ if and only if $x \land y \equiv T$
 2. $R$ defined on $\wp(\mathbb{N})R$ by $xRy$ if and only if $x \subseteq y$
+3. $R$ defined on $\mathbb{R}$ by $xRy$ if and only if $x > y$
+4. $R$ defined on $\mathbb{N}$ by $xRy$ if and only if $x$ divides $y$
+
+- **A** (1), (2) and (3) but not (4)
+- **B** (2), (3) and (4) but not (1)
+- **C** (2) and (3) but not (1) and (4)
+- **D** None of them
+
+**Hint** $\forall x \exists y(xRy)$ means roughly "everything is R-related to
+something".
+
+**Answer**
+
+- To show $\forall x \exists y(xRy)$ is true we must find, for each x, a y such
+  that $xRy$.
+- To show $\forall x \exists y(xRy)$ is false we must find one specific x such
+  that $x \not R y$ for all $y$.
+- False for (1). If $x=F$ then $x \not R y$ for all $y$.
+- True for (2). For each $x, xRx$ for example.
+- True for (3). For each $x, xR(x-1)$ for example.
+- True for (4). For each $x, xR(2x)$ for example.
+- So **B**.
