@@ -58,3 +58,13 @@ However, not every relation is a function. Remember that a function must have
 exactly one output $y$ for each input $x$ in its domain. In a relation, on the
 other hand, and element $x$ may be related to many elements $y$, or to none at
 all.
+
+## 16.2 Examples
+
+**Question** Give the set of ordered pairs for the relation "=" on
+$\{1,2,3,4,5,6\}$ and draw an arrow diagram of it.
+
+![](images/L16-P12.png)
+
+**Question** Give the set of orders pairs for the relation $"<"$ on
+$\{1,2,3,4,5,6\}$ and draw an arrow diagram of it.
