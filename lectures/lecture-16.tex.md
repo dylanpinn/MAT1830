@@ -98,3 +98,13 @@ something".
 - True for (3). For each $x, xR(x-1)$ for example.
 - True for (4). For each $x, xR(2x)$ for example.
 - So **B**.
+
+**Question 16.2** Use logic symbols and the $\geq$ relation to write a relation
+between real numbers $x$ and $y$ which says that the point $(x,y)$ lies in the
+square with the corners $(0,0), (1,0), (0,1)$ and $(1, 1)$.
+
+![](images/L16-P17.png)
+
+**Answer**
+
+$$(0 \leq x) \land (x \leq 1) \land (0 \leq y) \land (y \leq 1)$$
