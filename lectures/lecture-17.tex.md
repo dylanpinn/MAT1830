@@ -52,3 +52,13 @@ No. $1R4$ but $4 \not R 1$.
 ![](images/L17-P7-2.png)
 
 Yes. For all $x,y \in A$ if $xSy$ then $ySx$.
+
+**Transitivity** (For a binary relation $R$ on a set $A$.)
+
+![](images/L17-P9.png)
+
+To prove that $R$ is transitive, show that; For all $x,z,z \in A$, if $xRy$ and
+$yRz$ then $xRz$.
+
+To prove that $RF$ is not transitive, show that; There are some $x,y,z \in A$
+such that $xRy$ and $yRz$ but $x \not R z$.
