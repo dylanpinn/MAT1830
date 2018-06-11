@@ -185,3 +185,9 @@ Does <img src="/lectures/tex/8fac22af20becca270bc855e487906cb.svg?invert_in_dark
 - <img src="/lectures/tex/1337fab63936f25c409be4fdffa18b2d.svg?invert_in_darkmode&sanitize=true" align=middle width=183.12179819999997pt height=24.65753399999998pt/> defined by <img src="/lectures/tex/21fa1aa6621453e61f787ea2f49a7716.svg?invert_in_darkmode&sanitize=true" align=middle width=78.78194774999999pt height=24.65753399999998pt/>;
 
 **They are their own inverses.**
+
+**Question** Let <img src="/lectures/tex/b2745aeff964e587ab07acca6ff42a08.svg?invert_in_darkmode&sanitize=true" align=middle width=322.09089164999995pt height=24.65753399999998pt/> be the function defined by <img src="/lectures/tex/7997339883ac20f551e7f35efff0a2b9.svg?invert_in_darkmode&sanitize=true" align=middle width=31.99783454999999pt height=24.65753399999998pt/> equals the ID number of <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/>. Does
+<img src="/lectures/tex/8fac22af20becca270bc855e487906cb.svg?invert_in_darkmode&sanitize=true" align=middle width=26.643980549999988pt height=26.76175259999998pt/> exist?
+
+**Answer** No. <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> is not onto. (E.g. there is no student with ID number
+<img src="/lectures/tex/a7e646d767d6a2f59fe85eaa1c986b39.svg?invert_in_darkmode&sanitize=true" align=middle width=36.09605999999999pt height=26.76175259999998pt/>.)
