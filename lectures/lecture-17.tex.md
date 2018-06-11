@@ -40,3 +40,15 @@ $yRx$.
 
 To prove $R$ is not symmetric, show that; There are some $x,y \in A$ such that
 $xRy$ but $y \not R x$.
+
+**Question** Let $R$ be the relation on $A$ pictured below. Is $R$ symmetric?
+
+![](images/L17-P7-1.png)
+
+No. $1R4$ but $4 \not R 1$.
+
+**Question** Let $S$ be the relation on $A$ pictured below. Is $S$ symmetric?
+
+![](images/L17-P7-2.png)
+
+Yes. For all $x,y \in A$ if $xSy$ then $ySx$.
