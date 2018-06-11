@@ -31,3 +31,19 @@ h$ is usually different from $h \circ g$.
 square(successor(x)) = $(x+1)^2 = x^2 + 2x + 1$
 
 successor(square(x)) = $x^2 + 1$
+
+**Question 15.1** Let _f_, _m_ and _s_ be the functions on the set of people
+defined by
+
+- _m(x)_ = mother of _x_
+- _f(x)_ = father of _x_
+- _s(x)_ = spouse of _x_
+
+What are the following?
+
+- $m \circ s(x)$ mother in law of _x_
+- $f \circ s(x)$ father in law of _x_
+- $m \circ m(x)$ grandmother (maternal) of _x_
+- $f \circ m(x)$ grandfather (maternal) of _x_
+- $s \circ s(x)$ _x_
+
