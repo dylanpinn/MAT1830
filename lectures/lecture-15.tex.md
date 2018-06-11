@@ -80,3 +80,14 @@ legal input of $g$.
 Let $g : C \rightarrow D$ and $h: A \rightarrow B$ be functions. The function $g
 \circ h$ exists if and only if $C=B$. If it exists, $g \circ h : A \rightarrow
 D$ and is defined by $g \circ h(x) = g(h(x))$.
+
+**Question** Let $f: A \rightarrow B$ and $g: C \rightarrow D$ be the functions
+pictured below.
+
+![](images/L15-P10.png)
+
+Does $g \circ f$ exist?
+
+codomain$(f) = \{y_1, y_2, y_3,y_4\}$ and domain$(g) = \{y_1, y_2, y_3, y_4\}$.
+So $g \circ f$ does exist because codomain(f) = domain(g). $g \circ f: A
+\rightarrow D$.
