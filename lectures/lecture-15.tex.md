@@ -62,3 +62,21 @@ $x \geq 0 \}$.)
 
 **Note** Composition of functions is associative: $(f \circ g) \circ h = f \circ
 (g \circ h)$. So we don't bother with the brackets.
+
+## 15.2 Conditions for composition
+
+Composite functions do not always exist.
+
+**Example.** If reciprocal $\mathbb{R} - \{0\} \rightarrow \mathbb{R}$ is
+defined by reciprocal(x) = $\frac{1}{x}$ and predecessor $: \mathbb{R}
+\rightarrow \mathbb{R}$ is defined by predecessor(x) = $x-1$, then reciprocal
+$\circ$ predecessor does not exists, because predecessor(1) = 0 is not a legal
+input for reciprocal.
+
+To avoid this problem, we demand that the codomain of $h$ be equal to the domain
+of $g$ for $g \circ h$ to exist. This ensures that each output of $h$ will be a
+legal input of $g$.
+
+Let $g : C \rightarrow D$ and $h: A \rightarrow B$ be functions. The function $g
+\circ h$ exists if and only if $C=B$. If it exists, $g \circ h : A \rightarrow
+D$ and is defined by $g \circ h(x) = g(h(x))$.
