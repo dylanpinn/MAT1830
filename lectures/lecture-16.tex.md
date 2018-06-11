@@ -124,3 +124,10 @@ Likewise, the curve $y^2 = x^2(x+1)$ is not a function.
 
 This consists of the ordered pairs of sets $(A,B)$ such that $A \subseteq B$.
 $A$ and $B$ must be subsets of some universal set $U$.
+
+**Question** Give the set of ordered pairs for the relation $"\subseteq"$ on
+$\wp(\{1,2\})$ and draw an arrow diagram for it.
+
+Remember $\wp(\{1,2\}) = \{0, \{1\}, \{2\}, \{1,2\}\}$.
+
+![](images/L16-P20.png)
