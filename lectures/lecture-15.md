@@ -116,3 +116,8 @@ Which of the following statements if **false**?
   codomain(f) = <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/>
 - **C** is true because codomain(h) <img src="/lectures/tex/c7d8187b40e520f7a72551434f713727.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=22.831056599999986pt/> domain(g)
 - **D** is false because codomain(g) = domain<img src="/lectures/tex/94f52e74478dd00a8459324f73777bfc.svg?invert_in_darkmode&sanitize=true" align=middle width=46.558170449999984pt height=24.65753399999998pt/>.
+
+## 15.3 The identify functions
+
+On each set <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> the function <img src="/lectures/tex/2ba4e40bc1703a0283d8ed56a83bc85d.svg?invert_in_darkmode&sanitize=true" align=middle width=80.29765259999999pt height=22.465723500000017pt/> defined by <p align="center"><img src="/lectures/tex/a5b56073d90b5f93a1d84d49da693ef3.svg?invert_in_darkmode&sanitize=true" align=middle width=69.86407394999999pt height=16.438356pt/></p>
+is called the _identity function_ (on <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/>).
