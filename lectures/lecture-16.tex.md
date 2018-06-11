@@ -26,3 +26,12 @@ from $A \times A$. When $(a,b)$ is in this set we write $aRb$.
 Similarly, a _ternary_ relation on $A$ would be defined by a set of ordered
 triples from $A \times A \times A$, and so on. (A _unary_ relation on $A$ is
 just a subset of $A$.)
+
+A binary relation $R$ on a set $A$ consists of the set $A$ together with a set
+of ordered pairs from $A \times A$.
+
+If $(x,y)$ is in the set then we write $xRy$ and say "x is R-related to y".
+
+If $(x,y)$ is not in the set then we write $x \not R y$.
+
+Order matters. It might be that $xRy$ but $y \not R x$.
