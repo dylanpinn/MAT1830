@@ -153,3 +153,18 @@ This problem arises whenever we seek an inverse for a function which is not
 one-to-one. The squaring function on $\mathbb{R}$ sends both 1 and -1 to 1, but
 we want a single value 1 for sqrt(1). Thus we have to restrict the squaring
 function to $\mathbb{R}^{\geq 0}$.
+
+## 15.5 Conditions for inversion
+
+A function $f$ can have an inverse without its domain and codomain being equal.
+
+The inverse of a function $f: A \rightarrow B$ is a function $f^{-1} \circ f =
+i_A$ and $f \circ f^{-1} = i_B$.
+
+Note that $f^{-1} \circ f$ and $f \circ f^{-1}$ are both identity functions but
+they have different domains.
+
+Not every function has an inverse, but we can neatly classify the ones that do.
+
+Let $f: A \rightarrow B$ be a function. Then $f^{-1}: B \rightarrow A$ exists if
+and only if $f$ is one-to-one and onto.
