@@ -60,3 +60,18 @@ successor(x) and cube(x).
   cube(x)
 
 **Note** Composition of functions is associative: <img src="/lectures/tex/6c2422e33699d023a0dbdc54e020eaa5.svg?invert_in_darkmode&sanitize=true" align=middle width=165.02613599999998pt height=24.65753399999998pt/>. So we don't bother with the brackets.
+
+## 15.2 Conditions for composition
+
+Composite functions do not always exist.
+
+**Example.** If reciprocal <img src="/lectures/tex/de118071b67a1778651e8d1e68b3a55f.svg?invert_in_darkmode&sanitize=true" align=middle width=94.06377749999999pt height=24.65753399999998pt/> is
+defined by reciprocal(x) = <img src="/lectures/tex/f6de2147c9c203a34732c0a74515a98c.svg?invert_in_darkmode&sanitize=true" align=middle width=7.454371649999997pt height=27.77565449999998pt/> and predecessor <img src="/lectures/tex/588990cbb4a95d7ec97b62a82197866e.svg?invert_in_darkmode&sanitize=true" align=middle width=58.44728174999999pt height=22.648391699999998pt/> is defined by predecessor(x) = <img src="/lectures/tex/6e2a027fd5d65c9f49f111b1fa539e7a.svg?invert_in_darkmode&sanitize=true" align=middle width=37.70538914999999pt height=21.18721440000001pt/>, then reciprocal
+<img src="/lectures/tex/c0463eeb4772bfde779c20d52901d01b.svg?invert_in_darkmode&sanitize=true" align=middle width=8.219209349999991pt height=14.611911599999981pt/> predecessor does not exists, because predecessor(1) = 0 is not a legal
+input for reciprocal.
+
+To avoid this problem, we demand that the codomain of <img src="/lectures/tex/2ad9d098b937e46f9f58968551adac57.svg?invert_in_darkmode&sanitize=true" align=middle width=9.47111549999999pt height=22.831056599999986pt/> be equal to the domain
+of <img src="/lectures/tex/3cf4fbd05970446973fc3d9fa3fe3c41.svg?invert_in_darkmode&sanitize=true" align=middle width=8.430376349999989pt height=14.15524440000002pt/> for <img src="/lectures/tex/06ec5e32a8124273ebcfa396bf45f006.svg?invert_in_darkmode&sanitize=true" align=middle width=33.42643919999999pt height=22.831056599999986pt/> to exist. This ensures that each output of <img src="/lectures/tex/2ad9d098b937e46f9f58968551adac57.svg?invert_in_darkmode&sanitize=true" align=middle width=9.47111549999999pt height=22.831056599999986pt/> will be a
+legal input of <img src="/lectures/tex/3cf4fbd05970446973fc3d9fa3fe3c41.svg?invert_in_darkmode&sanitize=true" align=middle width=8.430376349999989pt height=14.15524440000002pt/>.
+
+Let <img src="/lectures/tex/29df52baee1e9208464f4b7dbd026928.svg?invert_in_darkmode&sanitize=true" align=middle width=74.69024805pt height=22.465723500000017pt/> and <img src="/lectures/tex/fbd9ac9a3e7482dd734f2acae08d89f6.svg?invert_in_darkmode&sanitize=true" align=middle width=74.3623452pt height=22.831056599999986pt/> be functions. The function <img src="/lectures/tex/2ce6f98628fccadf9124efcc316d969d.svg?invert_in_darkmode&sanitize=true" align=middle width=33.42643919999999pt height=22.831056599999986pt/> exists if and only if <img src="/lectures/tex/8950f69cac2093283b054723028106e7.svg?invert_in_darkmode&sanitize=true" align=middle width=48.13567769999999pt height=22.465723500000017pt/>. If it exists, <img src="/lectures/tex/dca03096ba2f48381170da396d1e5771.svg?invert_in_darkmode&sanitize=true" align=middle width=99.09049094999997pt height=22.831056599999986pt/> and is defined by <img src="/lectures/tex/c27d74b79890e98d1f82f77d8bdc7772.svg?invert_in_darkmode&sanitize=true" align=middle width=130.39181925pt height=24.65753399999998pt/>.
