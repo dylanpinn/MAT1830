@@ -207,3 +207,5 @@ So **D**.
 length $n$.
 
 _Hamming distance_ is a function $B_n \times B_n$
+
+$x = 1$
