@@ -47,4 +47,7 @@ $\{(a,a),(a,b),(b,c),(d,e),(e,d),(i,i)\}$.
 - Is $eRf$? **No**
 - Is $aRc$? **No**
 - Is $dRe$? **Yes**
-- Is $iRi$? **Yes&&
+- Is $iRi$? **Yes**
+
+## 16.1 Relations and functions
+
