@@ -177,3 +177,11 @@ Does <img src="/lectures/tex/8fac22af20becca270bc855e487906cb.svg?invert_in_dark
 ![](images/L15-P19.png)
 
 Does <img src="/lectures/tex/8fac22af20becca270bc855e487906cb.svg?invert_in_darkmode&sanitize=true" align=middle width=26.643980549999988pt height=26.76175259999998pt/> exist? **No** <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> is not onto.
+
+**Question 15.4** What features to the following have in common?
+
+- <img src="/lectures/tex/d866919ea883e98798fe239ec5ecd251.svg?invert_in_darkmode&sanitize=true" align=middle width=72.14584409999999pt height=22.648391699999998pt/> defined by <img src="/lectures/tex/8a497b191123e845ce3c7321026d301a.svg?invert_in_darkmode&sanitize=true" align=middle width=75.41092184999998pt height=24.65753399999998pt/>
+- <img src="/lectures/tex/9a568e09ca9160b8bd1ecc2b82edc46a.svg?invert_in_darkmode&sanitize=true" align=middle width=184.50885254999997pt height=24.65753399999998pt/> defined by <img src="/lectures/tex/f036516724bc06670076645a8e662c0d.svg?invert_in_darkmode&sanitize=true" align=middle width=63.342435749999986pt height=27.77565449999998pt/>; and
+- <img src="/lectures/tex/1337fab63936f25c409be4fdffa18b2d.svg?invert_in_darkmode&sanitize=true" align=middle width=183.12179819999997pt height=24.65753399999998pt/> defined by <img src="/lectures/tex/21fa1aa6621453e61f787ea2f49a7716.svg?invert_in_darkmode&sanitize=true" align=middle width=78.78194774999999pt height=24.65753399999998pt/>;
+
+**They are their own inverses.**
