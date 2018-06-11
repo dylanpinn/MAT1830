@@ -75,3 +75,13 @@ of <img src="/lectures/tex/3cf4fbd05970446973fc3d9fa3fe3c41.svg?invert_in_darkmo
 legal input of <img src="/lectures/tex/3cf4fbd05970446973fc3d9fa3fe3c41.svg?invert_in_darkmode&sanitize=true" align=middle width=8.430376349999989pt height=14.15524440000002pt/>.
 
 Let <img src="/lectures/tex/29df52baee1e9208464f4b7dbd026928.svg?invert_in_darkmode&sanitize=true" align=middle width=74.69024805pt height=22.465723500000017pt/> and <img src="/lectures/tex/fbd9ac9a3e7482dd734f2acae08d89f6.svg?invert_in_darkmode&sanitize=true" align=middle width=74.3623452pt height=22.831056599999986pt/> be functions. The function <img src="/lectures/tex/2ce6f98628fccadf9124efcc316d969d.svg?invert_in_darkmode&sanitize=true" align=middle width=33.42643919999999pt height=22.831056599999986pt/> exists if and only if <img src="/lectures/tex/8950f69cac2093283b054723028106e7.svg?invert_in_darkmode&sanitize=true" align=middle width=48.13567769999999pt height=22.465723500000017pt/>. If it exists, <img src="/lectures/tex/dca03096ba2f48381170da396d1e5771.svg?invert_in_darkmode&sanitize=true" align=middle width=99.09049094999997pt height=22.831056599999986pt/> and is defined by <img src="/lectures/tex/c27d74b79890e98d1f82f77d8bdc7772.svg?invert_in_darkmode&sanitize=true" align=middle width=130.39181925pt height=24.65753399999998pt/>.
+
+**Question** Let <img src="/lectures/tex/c2308dccf241052557114444f47dcd72.svg?invert_in_darkmode&sanitize=true" align=middle width=74.70864224999998pt height=22.831056599999986pt/> and <img src="/lectures/tex/1c24f11be166117cd68eee560cbe2757.svg?invert_in_darkmode&sanitize=true" align=middle width=74.69024805pt height=22.465723500000017pt/> be the functions
+pictured below.
+
+![](images/L15-P10.png)
+
+Does <img src="/lectures/tex/95d22f4ccb6c0263a2496cf871cd7777.svg?invert_in_darkmode&sanitize=true" align=middle width=33.77274119999999pt height=22.831056599999986pt/> exist?
+
+codomain<img src="/lectures/tex/f262a67483bfe4bbd13bc0385a744ae4.svg?invert_in_darkmode&sanitize=true" align=middle width=144.61210994999996pt height=24.65753399999998pt/> and domain<img src="/lectures/tex/71831453e26c833a2866df610e2f6b64.svg?invert_in_darkmode&sanitize=true" align=middle width=143.22505395pt height=24.65753399999998pt/>.
+So <img src="/lectures/tex/95d22f4ccb6c0263a2496cf871cd7777.svg?invert_in_darkmode&sanitize=true" align=middle width=33.77274119999999pt height=22.831056599999986pt/> does exist because codomain(f) = domain(g). <img src="/lectures/tex/fbe2fde076b85c9c0441450ec61e512c.svg?invert_in_darkmode&sanitize=true" align=middle width=99.43678799999999pt height=22.831056599999986pt/>.
