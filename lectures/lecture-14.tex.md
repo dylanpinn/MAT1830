@@ -208,5 +208,5 @@ length $n$.
 
 **Hamming distance** is a function
 
-For example, $h(000,101) = 2$, $h(011,010) = 1$ and $h(10111,01000) = 5$.
+For example, $h(000, 101) = 2$, $h(011, 010) = 1$ and $h(10111, 01000) = 5$.
 
