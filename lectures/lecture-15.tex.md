@@ -173,3 +173,9 @@ and only if $f$ is one-to-one and onto.
 ![](images/L15-P17.png)
 
 Does $f^{-1}$ exist? **Yes**
+
+**Question** Let $f: A \rightarrow B$ be the function pictured below.
+
+![](images/L15-P18.png)
+
+Does $f^{-1}$ exist? **No** $f$ is not one-to-one.
