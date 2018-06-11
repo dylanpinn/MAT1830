@@ -191,3 +191,21 @@ Does <img src="/lectures/tex/8fac22af20becca270bc855e487906cb.svg?invert_in_dark
 
 **Answer** No. <img src="/lectures/tex/190083ef7a1625fbc75f243cffb9c96d.svg?invert_in_darkmode&sanitize=true" align=middle width=9.81741584999999pt height=22.831056599999986pt/> is not onto. (E.g. there is no student with ID number
 <img src="/lectures/tex/a7e646d767d6a2f59fe85eaa1c986b39.svg?invert_in_darkmode&sanitize=true" align=middle width=36.09605999999999pt height=26.76175259999998pt/>.)
+
+**Question** Let <img src="/lectures/tex/3cf4fbd05970446973fc3d9fa3fe3c41.svg?invert_in_darkmode&sanitize=true" align=middle width=8.430376349999989pt height=14.15524440000002pt/> and <img src="/lectures/tex/2ad9d098b937e46f9f58968551adac57.svg?invert_in_darkmode&sanitize=true" align=middle width=9.47111549999999pt height=22.831056599999986pt/> be the functions:
+
+- <img src="/lectures/tex/766e5a74c30f36a88c234094906b6fb1.svg?invert_in_darkmode&sanitize=true" align=middle width=103.40710709999999pt height=22.648391699999998pt/> defined by <img src="/lectures/tex/922158062adbdc9dca41af6134ab9b7c.svg?invert_in_darkmode&sanitize=true" align=middle width=81.92720579999998pt height=24.65753399999998pt/>
+- <img src="/lectures/tex/bd86286d06c58aff95307691a3f0ec03.svg?invert_in_darkmode&sanitize=true" align=middle width=70.93644689999999pt height=24.65753399999998pt/> is a circle in the plane with centre <img src="/lectures/tex/4800c21e457515c803105883c9795275.svg?invert_in_darkmode&sanitize=true" align=middle width=82.19172389999999pt height=24.65753399999998pt/> defined by <img src="/lectures/tex/1f0fa7f228a3fb21e110b4ec8e98cf50.svg?invert_in_darkmode&sanitize=true" align=middle width=35.18118614999999pt height=24.65753399999998pt/> is the area of <img src="/lectures/tex/9b325b9e31e85137d1de765f43c0f8bc.svg?invert_in_darkmode&sanitize=true" align=middle width=12.92464304999999pt height=22.465723500000017pt/>.
+
+Does <img src="/lectures/tex/38d63a2e3c8cc0fd6c8e5669ae00df78.svg?invert_in_darkmode&sanitize=true" align=middle width=25.25692619999999pt height=26.76175259999998pt/> exist? Does <img src="/lectures/tex/45b833d57bb9293d6efb88e8be2829e7.svg?invert_in_darkmode&sanitize=true" align=middle width=26.29768349999999pt height=26.76175259999998pt/> exist?
+
+- **A.** Yes, yes
+- **B.** Yes, no
+- **C.** No, yes
+- **D.** No, no
+
+**Answer** <img src="/lectures/tex/3cf4fbd05970446973fc3d9fa3fe3c41.svg?invert_in_darkmode&sanitize=true" align=middle width=8.430376349999989pt height=14.15524440000002pt/> is not one-to-one. E.g. <img src="/lectures/tex/a944e470ba0c34c3858452388fbd9a0a.svg?invert_in_darkmode&sanitize=true" align=middle width=137.40868349999997pt height=24.65753399999998pt/>. So <img src="/lectures/tex/38d63a2e3c8cc0fd6c8e5669ae00df78.svg?invert_in_darkmode&sanitize=true" align=middle width=25.25692619999999pt height=26.76175259999998pt/>
+doesn't exist.
+
+<img src="/lectures/tex/2ad9d098b937e46f9f58968551adac57.svg?invert_in_darkmode&sanitize=true" align=middle width=9.47111549999999pt height=22.831056599999986pt/> is not onto. E.g. there is no circle of area -1 centred at <img src="/lectures/tex/e660f3b58b414524ec6f827411021073.svg?invert_in_darkmode&sanitize=true" align=middle width=36.52973609999999pt height=24.65753399999998pt/>. So
+<img src="/lectures/tex/45b833d57bb9293d6efb88e8be2829e7.svg?invert_in_darkmode&sanitize=true" align=middle width=26.29768349999999pt height=26.76175259999998pt/> doesn't exist. So **D**.
