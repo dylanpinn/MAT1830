@@ -57,3 +57,13 @@ However, not every relation is a function. Remember that a function must have
 exactly one output <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> for each input <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> in its domain. In a relation, on the
 other hand, and element <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> may be related to many elements <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/>, or to none at
 all.
+
+## 16.2 Examples
+
+**Question** Give the set of ordered pairs for the relation "=" on
+<img src="/lectures/tex/7dad423fb8faaf679b9ba94be368f183.svg?invert_in_darkmode&sanitize=true" align=middle width=102.28309079999998pt height=24.65753399999998pt/> and draw an arrow diagram of it.
+
+![](images/L16-P12.png)
+
+**Question** Give the set of orders pairs for the relation <img src="/lectures/tex/0942af8a2264d9a80424b3c08dfc1bd3.svg?invert_in_darkmode&sanitize=true" align=middle width=38.35605014999999pt height=22.831056599999986pt/> on
+<img src="/lectures/tex/7dad423fb8faaf679b9ba94be368f183.svg?invert_in_darkmode&sanitize=true" align=middle width=102.28309079999998pt height=24.65753399999998pt/> and draw an arrow diagram of it.
