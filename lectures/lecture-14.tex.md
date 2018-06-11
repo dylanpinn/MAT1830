@@ -206,4 +206,4 @@ So **D**.
 **Example (Hamming distance)** Let $B_n$ be the set of all binary strings of
 length $n$.
 
-_Hamming distance_ is a function $h: $
+_Hamming distance_ is a function $B_n \times B_n$
