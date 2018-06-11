@@ -145,14 +145,13 @@ sqrt(square(x)) = $x$ and square(sqrt(x)) = $x$.
 
 In fact, this is exactly what sqrt is supposed to do - reverse the process of
 squaring. However, this works only if we restrict the domain to
-$\mathbb{R}^{\geq 0}$, On $\mathbb{R}$ we don not have sqrt(square(x)) = x
-because, for example,
-sqrt(square(-1)) = sqrt(1) = 1.
+$\mathbb{R}^{\geq 0}$, On $\mathbb{R}$ we do not have sqrt(square(x)) = x
+because, for example, sqrt(square(-1)) = sqrt(1) = 1.
 
 This problem arises whenever we seek an inverse for a function which is not
-one-to-one. The squaring function on $\mathbb{R}$ sends both 1 and -1 to 1, but
-we want a single value 1 for sqrt(1). Thus we have to restrict the squaring
-function to $\mathbb{R}^{\geq 0}$.
+one-to-one. The squaring function on $\mathbb{R}$ sends both 1 and -1 to
+1, but we want a single value 1 for sqrt(1). Thus we have to restrict the
+squaring function to $\mathbb{R}^{\geq 0}$.
 
 ## 15.5 Conditions for inversion
 
