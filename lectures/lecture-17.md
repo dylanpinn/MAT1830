@@ -88,3 +88,17 @@ and <img src="/lectures/tex/3b43e7492ec293c36a7bd884f4101aca.svg?invert_in_darkm
 Triangles <img src="/lectures/tex/bf1e7c123c5e9726ce33581a9d5cbbef.svg?invert_in_darkmode&sanitize=true" align=middle width=38.54684624999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/985555f8f781ae5ae029152861934666.svg?invert_in_darkmode&sanitize=true" align=middle width=51.56055134999999pt height=24.7161288pt/> are congruent if <img src="/lectures/tex/0a4d5a7b5ee67033e950c4e0236077ae.svg?invert_in_darkmode&sanitize=true" align=middle width=167.8353435pt height=24.7161288pt/> and <img src="/lectures/tex/d786ce8cbfedf33fdb97aace01460768.svg?invert_in_darkmode&sanitize=true" align=middle width=80.82633899999999pt height=24.7161288pt/>. E.g. The following triangles are congruent.
 
 ![](images/L17-P11.png)
+
+### 3. Similarity of triangles
+
+Triangles <img src="/lectures/tex/bf1e7c123c5e9726ce33581a9d5cbbef.svg?invert_in_darkmode&sanitize=true" align=middle width=38.54684624999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/985555f8f781ae5ae029152861934666.svg?invert_in_darkmode&sanitize=true" align=middle width=51.56055134999999pt height=24.7161288pt/> are similar if
+
+<p align="center"><img src="/lectures/tex/c20afc438ada1cdfe43e5dbf9c3850df.svg?invert_in_darkmode&sanitize=true" align=middle width=156.4905243pt height=33.62942055pt/></p>
+
+E.g. the following triangles are similar
+
+![](images/L17-P12.png)
+
+### 4. Parallelism of lines
+
+The relation <img src="/lectures/tex/e35c7b7a0d9250039479f70700d01913.svg?invert_in_darkmode&sanitize=true" align=middle width=38.05942799999999pt height=24.65753399999998pt/> (L is parallel to M) is an equivalence relation.
