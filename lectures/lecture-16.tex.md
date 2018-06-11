@@ -68,3 +68,11 @@ $\{1,2,3,4,5,6\}$ and draw an arrow diagram of it.
 
 **Question** Give the set of orders pairs for the relation $"<"$ on
 $\{1,2,3,4,5,6\}$ and draw an arrow diagram of it.
+
+![](images/L16-P14.png)
+
+**Question** Which of the following binary relations $R$ satisfy $\forall X
+\exists y (xRy)$?
+
+1. $R$ defined on $\mathbb{R}$ by $xRy$ if and only if $x \land y \equiv T$
+2. $R$ defined on $\wp(\mathbb{N})R$ by $xRy$ if and only if $x \subseteq y$
