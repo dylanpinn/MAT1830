@@ -116,3 +116,24 @@ objects are the _same_ in some respect.
 Sameness is always reflexive (a is the same as a), symmetric (if a is the same
 as b, then b is the same as a) and transitive (if a is the same as b and b is
 the same as c, then a is the same as c).
+
+**Question** Which of the following relations are equivalence relations on
+<img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/>?
+
+1. <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> defined by <img src="/lectures/tex/cd545545658252896318babb6260cb4a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65268359999999pt height=22.465723500000017pt/> if and only if <img src="/lectures/tex/8132c0c5fc9933af6c769b2c24e9169f.svg?invert_in_darkmode&sanitize=true" align=middle width=58.22672129999999pt height=24.65753399999998pt/>
+2. <img src="/lectures/tex/e257acd1ccbe7fcb654708f1a866bfe9.svg?invert_in_darkmode&sanitize=true" align=middle width=11.027402099999989pt height=22.465723500000017pt/> defined by <img src="/lectures/tex/9a8a385888c61635c20346ad0d7fa86a.svg?invert_in_darkmode&sanitize=true" align=middle width=29.071595849999987pt height=22.465723500000017pt/> if and only if <img src="/lectures/tex/812d718904aef33e0fa8fe3f4b6227f8.svg?invert_in_darkmode&sanitize=true" align=middle width=83.02114589999998pt height=26.76175259999998pt/>
+3. <img src="/lectures/tex/2f118ee06d05f3c2d98361d9c30e38ce.svg?invert_in_darkmode&sanitize=true" align=middle width=11.889314249999991pt height=22.465723500000017pt/> defined by <img src="/lectures/tex/08df7d2d9d2493a37f46437970734dde.svg?invert_in_darkmode&sanitize=true" align=middle width=30.69457214999999pt height=22.465723500000017pt/> if and only if <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> divides <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/>
+4. <img src="/lectures/tex/6bac6ec50c01592407695ef84f457232.svg?invert_in_darkmode&sanitize=true" align=middle width=13.01596064999999pt height=22.465723500000017pt/> defined by <img src="/lectures/tex/494568827dc3ab3590a4bad4cae5bbce.svg?invert_in_darkmode&sanitize=true" align=middle width=31.06015274999999pt height=22.465723500000017pt/> if and only if 5 divides <img src="/lectures/tex/ae0aa12c8f9694cd6825af6fc30cabbc.svg?invert_in_darkmode&sanitize=true" align=middle width=38.135403899999986pt height=19.1781018pt/>
+
+- **A** Just (1) and (3)
+- **B** Just (1)
+- **C** Just (1) and (4)
+- **D** Just (1), (2) and (4)
+
+**Answer**
+
+- (2) is not reflexive. E.g. <img src="/lectures/tex/348b5895b53e2f7811b76eef783ef09c.svg?invert_in_darkmode&sanitize=true" align=middle width=36.59799824999999pt height=22.831056599999986pt/> because <img src="/lectures/tex/860b637d14a27218bd45a068da578531.svg?invert_in_darkmode&sanitize=true" align=middle width=81.41536919999999pt height=26.76175259999998pt/>. So (2)
+  is not an equivalence relation.
+- (3) is not symmetric. E.g. <img src="/lectures/tex/2359e70c1efaddb5aff9c8294793ce6c.svg?invert_in_darkmode&sanitize=true" align=middle width=28.32772964999999pt height=22.465723500000017pt/> but <img src="/lectures/tex/8ce2fa14aca3b2d0b04a8cb37e859f79.svg?invert_in_darkmode&sanitize=true" align=middle width=37.45992689999999pt height=22.831056599999986pt/> (3 divides 6 but 6 doesn't
+  divide 3). So (3) is not an equivalence relation.
+- (1) and (4) are equivalence relations. So **C**.
