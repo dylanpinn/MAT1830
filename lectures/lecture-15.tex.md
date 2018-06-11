@@ -102,3 +102,24 @@ Does $g \circ f$ exist?
 codomain$(f) = \{y_1, y_2, y_3,y_4, y_5\}$ and domain$(g) = \{y_1, y_2, y_3,
 y_4\}$. So $g \circ f$ does not exist because codomain(f) $\not =$ domain(g).
 
+**Question** Let _f_, _g_ and _h_ be the functions
+
+- $f: \mathbb{R} \rightarrow \mathbb{Z}$ defined by $f(x) = \lceil x \rceil$.
+- $g: \mathbb{Z} \rightarrow \mathbb{R}$ defined by $g(x) = \frac{x}{2}$
+- $h: \mathbb{R} \rightarrow \mathbb{R}$ defined by $h(x) = x^2 + 7$
+
+Which of the following statements if **false**?
+
+- **A.** $g \circ f$ exists, $g \circ f: \mathbb{R} \rightarrow \mathbb{R}$
+- **B.** $f \circ g$ exists, $f \circ g: \mathbb{Z} \rightarrow \mathbb{Z}$
+- **C.** $g \circ h$ does not exist
+- **D.** $g \circ f \circ g$ does not exist.
+
+**Answer**
+
+- **A** is true because codomain(f) = domain(g), domain(f) = $\mathbb{R}$,
+  codomain(g) = $\mathbb{R}$
+- **B** is true because codomain(g) = domain(f), domain(g) = $\mathbb{Z}$,
+  codomain(f) = $\mathbb{Z}$
+- **C** is true because codomain(h) $\not = $ domain(g)
+- **D** is false because codomain(g) = domain$(f \circ g)$.
