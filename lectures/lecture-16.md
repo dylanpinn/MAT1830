@@ -106,3 +106,18 @@ square with the corners <img src="/lectures/tex/5e53850ff2f5ca0f27d4f2329433be1f
 **Answer**
 
 <p align="center"><img src="/lectures/tex/acc24c89eae588115eb97b07e9bdd37a.svg?invert_in_darkmode&sanitize=true" align=middle width=262.57157685pt height=16.438356pt/></p>
+
+### 3. Algebraic curves
+
+An algebraic curve consists of the points <img src="/lectures/tex/7392a8cd69b275fa1798ef94c839d2e0.svg?invert_in_darkmode&sanitize=true" align=middle width=38.135511149999985pt height=24.65753399999998pt/> satisfying an equation <img src="/lectures/tex/f5f31dfc3531d204839050016da37ed5.svg?invert_in_darkmode&sanitize=true" align=middle width=76.54291754999998pt height=24.65753399999998pt/> where <img src="/lectures/tex/2ec6e630f199f589a2402fdf3e0289d5.svg?invert_in_darkmode&sanitize=true" align=middle width=8.270567249999992pt height=14.15524440000002pt/> is a polynomial.
+
+E.g. unit circle <img src="/lectures/tex/b1e5384decefdd050656339a78591627.svg?invert_in_darkmode&sanitize=true" align=middle width=111.3315456pt height=26.76175259999998pt/>. Notice that this relation is not a
+function, because there are two pairs with the same <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/>, e.g. <img src="/lectures/tex/1e5ba49ae6981862f61b4d510dcf29af.svg?invert_in_darkmode&sanitize=true" align=middle width=36.52973609999999pt height=24.65753399999998pt/> and
+<img src="/lectures/tex/ea75b46d38ac4f1a9e9357d605df114a.svg?invert_in_darkmode&sanitize=true" align=middle width=49.31516864999999pt height=24.65753399999998pt/>.
+
+Likewise, the curve <img src="/lectures/tex/bb6c04a0e2e0bd4bbb5a20b8296140d4.svg?invert_in_darkmode&sanitize=true" align=middle width=105.20156624999998pt height=26.76175259999998pt/> is not a function.
+
+### 4. The subset relation <img src="/lectures/tex/2e0145a5b0e7374cba1158796ba774c0.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=20.908638300000003pt/>.
+
+This consists of the ordered pairs of sets <img src="/lectures/tex/0ed7b9f99b267c62dd2db0eb0241c40f.svg?invert_in_darkmode&sanitize=true" align=middle width=45.71351894999999pt height=24.65753399999998pt/> such that <img src="/lectures/tex/3c8b983d929a7dc3bcb427bbf20e86d6.svg?invert_in_darkmode&sanitize=true" align=middle width=47.539839599999986pt height=22.465723500000017pt/>.
+<img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/> must be subsets of some universal set <img src="/lectures/tex/6bac6ec50c01592407695ef84f457232.svg?invert_in_darkmode&sanitize=true" align=middle width=13.01596064999999pt height=22.465723500000017pt/>.
