@@ -156,3 +156,23 @@ ordered pairs are there? So how many possible relations?
 
 For a fixed $n$, congruence modulo $n$ is a binary relation. It consists of the
 ordered pairs of integers $(a,b)$ such that $n$ divides $a-b$.
+
+**Congruence modulo _n_**
+
+Remember $a \equiv b$ (mod n) means that _a_ and _b_ have the same remainder
+when you divide them by _n_.
+
+**Definition** We say $a \equiv b$ (mod n) if _n_ divides $a-b$.
+
+For a fixed integer $n \geq 2$, congruence modulo _n_ is a binary relation.
+
+**Question** Which integers are congruent to 1 modulo 7?
+
+Integers in the set $\{\dots, -20, -13, -6, 1, 8, 15, 22, \dots \}$. This is
+the set $\{7k + 1: k \in \mathbb{Z}\}$.
+
+**Question** Which integers are congruent to 2 modulo 5?
+
+Integers in the set $\{\dots, -13, -8, -3, 2, 7, 12, 17, \dots \}$.
+
+This is the set $\{5k+2: k \in \mathbb{Z} \}$.
