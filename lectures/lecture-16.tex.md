@@ -35,3 +35,16 @@ If $(x,y)$ is in the set then we write $xRy$ and say "x is R-related to y".
 If $(x,y)$ is not in the set then we write $x \not R y$.
 
 Order matters. It might be that $xRy$ but $y \not R x$.
+
+**Arrow diagrams**
+
+**Example** Let $R$ be the relation on $\{a,b,c,d,e,f,g,h,i\}$ given by the set
+$\{(a,a),(a,b),(b,c),(d,e),(e,d),(i,i)\}$.
+
+![](images/L16-P9.png)
+
+- Is $bRc$? **Yes**
+- Is $eRf$? **No**
+- Is $aRc$? **No**
+- Is $dRe$? **Yes**
+- Is $iRi$? **Yes&&
