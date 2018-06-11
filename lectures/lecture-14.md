@@ -174,3 +174,4 @@ So **D**.
 **Example (Hamming distance)** Let <img src="/lectures/tex/34c759c10ccac82213a2aa1a2bed361b.svg?invert_in_darkmode&sanitize=true" align=middle width=20.594674649999988pt height=22.465723500000017pt/> be the set of all binary strings of
 length <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>.
 
+_Hamming distance_ is a function
