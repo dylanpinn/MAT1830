@@ -128,3 +128,23 @@ This consists of the ordered pairs of sets <img src="/lectures/tex/0ed7b9f99b267
 Remember <img src="/lectures/tex/40bffec850facaaf3e88a118dfc4fc54.svg?invert_in_darkmode&sanitize=true" align=middle width=221.42138534999995pt height=24.65753399999998pt/>.
 
 ![](images/L16-P20.png)
+
+**Question** How many possible relations are there on a set <img src="/lectures/tex/cbfb1b2a33b28eab8a3e59464768e810.svg?invert_in_darkmode&sanitize=true" align=middle width=14.908688849999992pt height=22.465723500000017pt/> with <img src="/lectures/tex/b983eb66dd4d9c6d4ed67a6a0e10f6a8.svg?invert_in_darkmode&sanitize=true" align=middle width=55.82562149999999pt height=24.65753399999998pt/>?
+
+- **A** <img src="/lectures/tex/021273d50c6ff03efebda428e9e42d77.svg?invert_in_darkmode&sanitize=true" align=middle width=16.41942389999999pt height=26.76175259999998pt/>
+- **B** <img src="/lectures/tex/f5ac8bc1b354a334d65fc81e65f0adcc.svg?invert_in_darkmode&sanitize=true" align=middle width=33.03487934999999pt height=32.44583099999998pt/>
+- **C** <img src="/lectures/tex/f8f25e4580c418a51dc556db0d8d2b93.svg?invert_in_darkmode&sanitize=true" align=middle width=16.34523329999999pt height=21.839370299999988pt/>
+- **D** <img src="/lectures/tex/56f3577693c38f185d7e9f0173375ebd.svg?invert_in_darkmode&sanitize=true" align=middle width=33.10714439999999pt height=29.190975000000005pt/>
+
+**Hint** Think of the relation as a set of ordered pairs. How many possible
+ordered pairs are there? So how many possible relations?
+
+**Answer**
+
+- A relation on <img src="/lectures/tex/cbfb1b2a33b28eab8a3e59464768e810.svg?invert_in_darkmode&sanitize=true" align=middle width=14.908688849999992pt height=22.465723500000017pt/> can be thought of as a subset of <img src="/lectures/tex/2cfbede980e22a2122e4e9c3258b799e.svg?invert_in_darkmode&sanitize=true" align=middle width=49.90854659999999pt height=22.465723500000017pt/>.
+- Every subset of <img src="/lectures/tex/2cfbede980e22a2122e4e9c3258b799e.svg?invert_in_darkmode&sanitize=true" align=middle width=49.90854659999999pt height=22.465723500000017pt/> corresponds to a unique relation (and vice
+  versa).
+- So the number of possible relations on <img src="/lectures/tex/cbfb1b2a33b28eab8a3e59464768e810.svg?invert_in_darkmode&sanitize=true" align=middle width=14.908688849999992pt height=22.465723500000017pt/> is the same as the number of
+  subsets of <img src="/lectures/tex/2cfbede980e22a2122e4e9c3258b799e.svg?invert_in_darkmode&sanitize=true" align=middle width=49.90854659999999pt height=22.465723500000017pt/>.
+- <img src="/lectures/tex/80ee660918fc47508458750b36e5b977.svg?invert_in_darkmode&sanitize=true" align=middle width=97.3780269pt height=26.76175259999998pt/>. So the number of subsets of <img src="/lectures/tex/2cfbede980e22a2122e4e9c3258b799e.svg?invert_in_darkmode&sanitize=true" align=middle width=49.90854659999999pt height=22.465723500000017pt/> is <img src="/lectures/tex/f5ac8bc1b354a334d65fc81e65f0adcc.svg?invert_in_darkmode&sanitize=true" align=middle width=33.03487934999999pt height=32.44583099999998pt/>.
+- So **B**.
