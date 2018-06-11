@@ -47,4 +47,13 @@ Order matters. It might be that <img src="/lectures/tex/cd545545658252896318babb
 - Is <img src="/lectures/tex/ad0fb7c3cb3e73936e96693165eb8bcb.svg?invert_in_darkmode&sanitize=true" align=middle width=30.08002469999999pt height=22.831056599999986pt/>? **No**
 - Is <img src="/lectures/tex/971822f2806bf66535aec9c2f4a0d223.svg?invert_in_darkmode&sanitize=true" align=middle width=28.411429199999986pt height=22.465723500000017pt/>? **No**
 - Is <img src="/lectures/tex/0581c18d937e07ab0e316a8411087271.svg?invert_in_darkmode&sanitize=true" align=middle width=28.818571649999992pt height=22.831056599999986pt/>? **Yes**
-- Is <img src="/lectures/tex/5f57ca0200c31a8d7c7afbde528e10dc.svg?invert_in_darkmode&sanitize=true" align=middle width=23.93492309999999pt height=22.465723500000017pt/>? **Yes&&
+- Is <img src="/lectures/tex/5f57ca0200c31a8d7c7afbde528e10dc.svg?invert_in_darkmode&sanitize=true" align=middle width=23.93492309999999pt height=22.465723500000017pt/>? **Yes**
+
+## 16.1 Relations and functions
+
+Any function <img src="/lectures/tex/8dd51bd31b996f66d97db221486b70a5.svg?invert_in_darkmode&sanitize=true" align=middle width=77.19148799999999pt height=22.831056599999986pt/> can be viewed as a relation <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> on <img src="/lectures/tex/eb6fc4bcc0521cca43308ec259cd83bc.svg?invert_in_darkmode&sanitize=true" align=middle width=46.369751999999984pt height=22.465723500000017pt/>. The relation is defined by <img src="/lectures/tex/cd545545658252896318babb6260cb4a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65268359999999pt height=22.465723500000017pt/> if and only if <img src="/lectures/tex/0e241c321e18ed6141f9a47d8095bebd.svg?invert_in_darkmode&sanitize=true" align=middle width=62.56467194999998pt height=24.65753399999998pt/>.
+
+However, not every relation is a function. Remember that a function must have
+exactly one output <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/> for each input <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> in its domain. In a relation, on the
+other hand, and element <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> may be related to many elements <img src="/lectures/tex/deceeaf6940a8c7a5a02373728002b0f.svg?invert_in_darkmode&sanitize=true" align=middle width=8.649225749999989pt height=14.15524440000002pt/>, or to none at
+all.
