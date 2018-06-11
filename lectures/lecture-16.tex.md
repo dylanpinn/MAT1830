@@ -195,3 +195,9 @@ lot like equations. In particular, they have the following three properties.
 
 These properties are clear if one remembers that $a \equiv b$ (mod n) means that
 a and b have the same remainder on division by n.
+
+**Question** Let _R_ be the binary relation on $\mathbb{Z}$ defined by $xRy$ if
+and if $x \equiv y$ (mod 3). Roughly, what would an arrow diagram for _R_ look
+like?
+
+![](images/L16-P27.png)
