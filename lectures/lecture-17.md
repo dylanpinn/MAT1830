@@ -40,3 +40,15 @@ To prove <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_
 
 To prove <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> is not symmetric, show that; There are some <img src="/lectures/tex/9311deac98c2602d33194f450b01649b.svg?invert_in_darkmode&sanitize=true" align=middle width=57.77001449999998pt height=22.465723500000017pt/> such that
 <img src="/lectures/tex/cd545545658252896318babb6260cb4a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65268359999999pt height=22.465723500000017pt/> but <img src="/lectures/tex/1a32e44da613c81dafd31706353e2003.svg?invert_in_darkmode&sanitize=true" align=middle width=39.78486104999999pt height=22.831056599999986pt/>.
+
+**Question** Let <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> be the relation on <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> pictured below. Is <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> symmetric?
+
+![](images/L17-P7-1.png)
+
+No. <img src="/lectures/tex/0a6292b9c3c58d827c77ee17bb1baeea.svg?invert_in_darkmode&sanitize=true" align=middle width=29.04688874999999pt height=22.465723500000017pt/> but <img src="/lectures/tex/13408eb4b0fc0f293ee139f828963683.svg?invert_in_darkmode&sanitize=true" align=middle width=38.17908599999999pt height=22.831056599999986pt/>.
+
+**Question** Let <img src="/lectures/tex/e257acd1ccbe7fcb654708f1a866bfe9.svg?invert_in_darkmode&sanitize=true" align=middle width=11.027402099999989pt height=22.465723500000017pt/> be the relation on <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> pictured below. Is <img src="/lectures/tex/e257acd1ccbe7fcb654708f1a866bfe9.svg?invert_in_darkmode&sanitize=true" align=middle width=11.027402099999989pt height=22.465723500000017pt/> symmetric?
+
+![](images/L17-P7-2.png)
+
+Yes. For all <img src="/lectures/tex/9311deac98c2602d33194f450b01649b.svg?invert_in_darkmode&sanitize=true" align=middle width=57.77001449999998pt height=22.465723500000017pt/> if <img src="/lectures/tex/9a8a385888c61635c20346ad0d7fa86a.svg?invert_in_darkmode&sanitize=true" align=middle width=29.071595849999987pt height=22.465723500000017pt/> then <img src="/lectures/tex/2c79ba83459571761f20cd763d502b84.svg?invert_in_darkmode&sanitize=true" align=middle width=29.07157769999999pt height=22.465723500000017pt/>.
