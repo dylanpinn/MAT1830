@@ -95,3 +95,24 @@ Does <img src="/lectures/tex/95d22f4ccb6c0263a2496cf871cd7777.svg?invert_in_dark
 
 codomain<img src="/lectures/tex/88ef50850587fa26b19ae505a22967ee.svg?invert_in_darkmode&sanitize=true" align=middle width=167.35188359999998pt height=24.65753399999998pt/> and domain<img src="/lectures/tex/88564320dc02c450507d3f0da2b4ede6.svg?invert_in_darkmode&sanitize=true" align=middle width=143.22505395pt height=24.65753399999998pt/>. So <img src="/lectures/tex/95d22f4ccb6c0263a2496cf871cd7777.svg?invert_in_darkmode&sanitize=true" align=middle width=33.77274119999999pt height=22.831056599999986pt/> does not exist because codomain(f) <img src="/lectures/tex/34da809cf641dbc24baded3b37e17d7b.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=22.831056599999986pt/> domain(g).
 
+**Question** Let _f_, _g_ and _h_ be the functions
+
+- <img src="/lectures/tex/7bd639ba04bf15eaa24c843bda137990.svg?invert_in_darkmode&sanitize=true" align=middle width=71.91755504999998pt height=22.831056599999986pt/> defined by <img src="/lectures/tex/85fe9a4186a6843308dedc77e9ed97f7.svg?invert_in_darkmode&sanitize=true" align=middle width=77.92236374999999pt height=24.65753399999998pt/>.
+- <img src="/lectures/tex/e153ede977e29e2e868d3d87455bbff3.svg?invert_in_darkmode&sanitize=true" align=middle width=70.53049904999999pt height=22.648391699999998pt/> defined by <img src="/lectures/tex/c6a98072302d35d5e3004aa0fc1db034.svg?invert_in_darkmode&sanitize=true" align=middle width=61.955379749999985pt height=24.65753399999998pt/>
+- <img src="/lectures/tex/d3a052edf31d96bacddbc8ce4f32d89d.svg?invert_in_darkmode&sanitize=true" align=middle width=72.48449504999998pt height=22.831056599999986pt/> defined by <img src="/lectures/tex/0a9e1ffa2e7a09e029fd997c25949a0a.svg?invert_in_darkmode&sanitize=true" align=middle width=98.64901529999997pt height=26.76175259999998pt/>
+
+Which of the following statements if **false**?
+
+- **A.** <img src="/lectures/tex/95d22f4ccb6c0263a2496cf871cd7777.svg?invert_in_darkmode&sanitize=true" align=middle width=33.77274119999999pt height=22.831056599999986pt/> exists, <img src="/lectures/tex/ac4119ed1edd1f99ffa75faa6e721f4e.svg?invert_in_darkmode&sanitize=true" align=middle width=96.78611744999999pt height=22.831056599999986pt/>
+- **B.** <img src="/lectures/tex/29f8035de6d3defd73810dc62e37f6b1.svg?invert_in_darkmode&sanitize=true" align=middle width=33.77275604999999pt height=22.831056599999986pt/> exists, <img src="/lectures/tex/77e404f315270ad762aed5278a4ee229.svg?invert_in_darkmode&sanitize=true" align=middle width=94.95964004999998pt height=22.831056599999986pt/>
+- **C.** <img src="/lectures/tex/06ec5e32a8124273ebcfa396bf45f006.svg?invert_in_darkmode&sanitize=true" align=middle width=33.42643919999999pt height=22.831056599999986pt/> does not exist
+- **D.** <img src="/lectures/tex/8ff25f8f4fbe5ff2898b6a2e562bc59e.svg?invert_in_darkmode&sanitize=true" align=middle width=57.728081399999986pt height=22.831056599999986pt/> does not exist.
+
+**Answer**
+
+- **A** is true because codomain(f) = domain(g), domain(f) = <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>,
+  codomain(g) = <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>
+- **B** is true because codomain(g) = domain(f), domain(g) = <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/>,
+  codomain(f) = <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/>
+- **C** is true because codomain(h) <img src="/lectures/tex/c7d8187b40e520f7a72551434f713727.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=22.831056599999986pt/> domain(g)
+- **D** is false because codomain(g) = domain<img src="/lectures/tex/94f52e74478dd00a8459324f73777bfc.svg?invert_in_darkmode&sanitize=true" align=middle width=46.558170449999984pt height=24.65753399999998pt/>.
