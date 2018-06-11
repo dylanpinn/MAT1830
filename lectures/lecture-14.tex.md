@@ -201,4 +201,9 @@ codomain $\mathbb{B}$?
 For each input, we can decide if it's mapped to 0 or 1. We can do this in $2
 \times 2 \times \dots \times \2 = 2^{(2^n)}$ ways.
 
+So **D**.
+
+**Example (Hamming distance)** Let $B_n$ be the set of all binary strings of
+length $n$.
+
 For example, $h(000, 101) = 2$, $h(011, 010) = 1$ and $h(10111, 01000) = 5$.
