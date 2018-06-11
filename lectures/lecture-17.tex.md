@@ -62,3 +62,15 @@ $yRz$ then $xRz$.
 
 To prove that $RF$ is not transitive, show that; There are some $x,y,z \in A$
 such that $xRy$ and $yRz$ but $x \not R z$.
+
+**Question** Let $R$ be the relation on $A$ pictured below. Is $R$ transitive?
+
+![](images/L17-P10-1.png)
+
+Yes. For all $x,y,z \in A$, if $xRy$ and $yRz$ then $xRz$.
+
+**Question** Let $S$ be the relation on $A$ pictured below. Is $S$ transitive?
+
+![](images/L17-P10-2.png)
+
+No, because $3S6$ and $6S5$ but $3 \not S 5$.
