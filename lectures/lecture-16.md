@@ -186,8 +186,8 @@ lot like equations. In particular, they have the following three properties.
 
 1. Reflexive property: <img src="/lectures/tex/97b4b2884947bc33647e51fc8688d4f0.svg?invert_in_darkmode&sanitize=true" align=middle width=39.29593799999999pt height=15.24650820000002pt/> (mod <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/>) for any number <img src="/lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode&sanitize=true" align=middle width=8.68915409999999pt height=14.15524440000002pt/>.
 2. Symmetric property: <img src="/lectures/tex/734fa34f6bcae1e3e0d79917792eefcb.svg?invert_in_darkmode&sanitize=true" align=middle width=225.65062904999994pt height=24.65753399999998pt/> for any numbers _a_ and _b_.
-3. Transitive property: <img src="/lectures/tex/fe2451800e3e323d89f42caa9b61bb9f.svg?invert_in_darkmode&sanitize=true" align=middle width=359.50546169999996pt height=24.65753399999998pt/> for any numbers $a,b$ and
-   $c$.
+3. Transitive property: <img src="/lectures/tex/fe2451800e3e323d89f42caa9b61bb9f.svg?invert_in_darkmode&sanitize=true" align=middle width=359.50546169999996pt height=24.65753399999998pt/> for any numbers _a,b_ and
+   _c_.
 
 These properties are clear if one remembers that <img src="/lectures/tex/221a6eec2aff3385193ce94d706a1b7c.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/> (mod n) means that
 a and b have the same remainder on division by n.
