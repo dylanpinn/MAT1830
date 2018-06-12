@@ -214,5 +214,3 @@ $$
 \end{align}
 $$
 
-Thus all elements of $[a]$ belong to $[b]$. Similarly, all elements of $[b]$
-belong to $[a]$, hence $[a] = [b]$.$\qed$
