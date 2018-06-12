@@ -61,3 +61,17 @@ No. <img src="/lectures/tex/2d04e61cb98f6800037724871672eaaf.svg?invert_in_darkm
 4. Alphabetical order of words.
   Words on the English alphabet are alphabetically ordered by comparing the
   leftmost letter at which they differ.
+
+**Definition** A binary relation _R_ on a set _A_ is a _total order relation_
+if:
+
+- it is a partial order relation; and
+- for any <img src="/lectures/tex/9311deac98c2602d33194f450b01649b.svg?invert_in_darkmode&sanitize=true" align=middle width=57.77001449999998pt height=22.465723500000017pt/> we have <img src="/lectures/tex/cd545545658252896318babb6260cb4a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65268359999999pt height=22.465723500000017pt/> or <img src="/lectures/tex/53712d99bae21b47e7c2bb25e64c6f5a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65266379999999pt height=22.465723500000017pt/>.
+
+![](images/L18-P9.png)
+
+**Example** <img src="/lectures/tex/c85a67d18322c7784f40a29a9fd19c86.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=20.908638300000003pt/> on <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> is a total order relation (because for any
+<img src="/lectures/tex/5de81020d9195d45c724e07c5f78636a.svg?invert_in_darkmode&sanitize=true" align=middle width=57.313395149999984pt height=22.648391699999998pt/> we have that <img src="/lectures/tex/cdfb20e63b6a1d9e6315da9104a271e9.svg?invert_in_darkmode&sanitize=true" align=middle width=39.96184334999999pt height=20.908638300000003pt/> or <img src="/lectures/tex/ae34727a0b1c0584abd914efe4294a26.svg?invert_in_darkmode&sanitize=true" align=middle width=39.96182519999999pt height=20.908638300000003pt/>).
+
+**Example** <img src="/lectures/tex/2e0145a5b0e7374cba1158796ba774c0.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=20.908638300000003pt/> on <img src="/lectures/tex/4b7a9696f7ae0fe4556882e908fe1e20.svg?invert_in_darkmode&sanitize=true" align=middle width=78.95559209999999pt height=24.65753399999998pt/> is not a total order relation (for
+example, <img src="/lectures/tex/a3f06086efb289f29dbb02b66f700af3.svg?invert_in_darkmode&sanitize=true" align=middle width=86.7579801pt height=24.65753399999998pt/> and <img src="/lectures/tex/d461b96d777f12ca8f1c2a9343815960.svg?invert_in_darkmode&sanitize=true" align=middle width=86.7579801pt height=24.65753399999998pt/>).
