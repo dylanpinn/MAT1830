@@ -146,3 +146,20 @@ The set of divisors is $\{1,2,3,6,7,14,21,42\}$.
 
 ![](images/L18-P15.png)
 
+## 18.4 Well-ordering
+
+**Definition** A binary relation _R_ on a set _A_ is a _well-order relation_ if
+
+- it is a total order relation; and
+- every non-empty $S \subseteq A$ has a least element.
+
+We could write this second condition formally as
+
+- for every non-empty $S \subseteq A$ there is an $l \in S$ such that $lRy$ for
+  all $y \in S$.
+
+**Example** $\leq$ on $\mathbb{N}$ is a well-order relation (because every
+non-empty set of natural numbers has a least element).
+
+**Example** $\leq$ on $\mathbb{R}$ is a not well-order relation (for example,
+the set $\{x \in \mathbb{R} : x > 2\}$ has no least element).
