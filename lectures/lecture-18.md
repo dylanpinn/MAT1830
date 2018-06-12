@@ -55,3 +55,9 @@ No. <img src="/lectures/tex/2d04e61cb98f6800037724871672eaaf.svg?invert_in_darkm
   <img src="/lectures/tex/43817159ba5b94273c3eeceb0dc0c324.svg?invert_in_darkmode&sanitize=true" align=middle width=77.67683549999998pt height=24.65753399999998pt/>.
   Transitive: <img src="/lectures/tex/3c8b983d929a7dc3bcb427bbf20e86d6.svg?invert_in_darkmode&sanitize=true" align=middle width=47.539839599999986pt height=22.465723500000017pt/> and <img src="/lectures/tex/dc49ca2084cfb10a10c083e60d3030a8.svg?invert_in_darkmode&sanitize=true" align=middle width=120.87734504999999pt height=22.465723500000017pt/> for
   all <img src="/lectures/tex/7719a7890072057ed4ff861de545af9b.svg?invert_in_darkmode&sanitize=true" align=middle width=108.36970154999999pt height=24.65753399999998pt/>.
+3. Divisibility on <img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>.
+  The relation "_a_ divides _b_" on natural numbers is reflexive, antisymmetric
+  and transitive.
+4. Alphabetical order of words.
+  Words on the English alphabet are alphabetically ordered by comparing the
+  leftmost letter at which they differ.
