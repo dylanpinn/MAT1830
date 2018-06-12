@@ -78,3 +78,26 @@ $x,y \in \mathbb{R}$ we have that $x \leq y$ or $y \leq x$).
 **Example** $\subseteq$ on $\wp(\{1,2,3\})$ is not a total order relation (for
 example, $\{1\} \not \subseteq \{2,3\}$ and $\{2,3\} \not \subseteq
 \{1\}$).
+
+## 18.2 Total order relations
+
+A total order relation is a special kind of partial order relation that "puts
+everything in order".
+
+A _total order relation R_ on a set _A_ is a partial order relation that also
+has the property $aRb$ or $bRa$ for all $a,b \in A$.
+
+**Examples.**
+
+1. $\leq \text{ and } \mathbb{R}$.
+  This is a total order relation because for all real numbers _a_ and _b_ we
+  have $a \leq b$ or $b \leq a$.
+2. $\subseteq$ on $\wp(\mathbb{N})$.
+  This is not a total order because, for example, $\{1,2\} \not \subseteq
+  \{1,3\}$ and $\{1,3\} \not \subseteq \{1,2\}$.
+3. Divisibility on $\mathbb{N}$.
+  This is not a total order because, for example, 2 does not divide 3 and 3 does
+  not divide 2.
+4. Alphabetical order of words.
+  This is a total order because given any two different words, one will appear
+  before the other in alphabetical order.
