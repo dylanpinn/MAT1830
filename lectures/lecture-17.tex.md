@@ -216,3 +216,20 @@ $$
 
 Thus all elements of $[a]$ belong to $[b]$. Similarly, all elements of $[b]$
 belong to $[a]$, hence $[a] = [b]$.$\qedhere$
+
+**Claim.** _If R is an equivalence relation on a set A, each element of A
+belongs to to exactly one equivalence class._
+
+**Proof.** Suppose $a,b,c \in A$, and $c \in [a] \cap [b]$.
+
+$$
+\begin{align}
+  c \in [a] \text{ and } c \in [b] \\
+  \Rightarrow cRa \text{ and } cRb \\
+  \text{ by definition of } [a] \text{ and } [b] \\
+  \Rightarrow aRc \text{ and } cRb \text{ by symmetry} \\
+  \Rightarrow aRb \text{ by transitivity } \\
+  \Rightarrow [a] = [b] \\
+  \text{ by the previous claim.}
+\end{align}
+$$
