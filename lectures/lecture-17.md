@@ -205,3 +205,10 @@ their equivalence classes are equal._
 
 Thus all elements of <img src="/lectures/tex/e6faf1ef3b2cd6f5098b756495adef3d.svg?invert_in_darkmode&sanitize=true" align=middle width=17.82160214999999pt height=24.65753399999998pt/> belong to <img src="/lectures/tex/ca0177a5ab2f08c0b10765740bead8ce.svg?invert_in_darkmode&sanitize=true" align=middle width=16.18724414999999pt height=24.65753399999998pt/>. Similarly, all elements of <img src="/lectures/tex/ca0177a5ab2f08c0b10765740bead8ce.svg?invert_in_darkmode&sanitize=true" align=middle width=16.18724414999999pt height=24.65753399999998pt/>
 belong to <img src="/lectures/tex/e6faf1ef3b2cd6f5098b756495adef3d.svg?invert_in_darkmode&sanitize=true" align=middle width=17.82160214999999pt height=24.65753399999998pt/>, hence <img src="/lectures/tex/0e44c1112d98cd57a9fa3598e04e7892.svg?invert_in_darkmode&sanitize=true" align=middle width=55.92647774999999pt height=24.65753399999998pt/>.<img src="/lectures/tex/681ae500eddadddacc22626e45b9cd94.svg?invert_in_darkmode&sanitize=true" align=middle width=8.21920935pt height=14.15524440000002pt/>
+
+**Claim.** _If R is an equivalence relation on a set A, each element of A
+belongs to to exactly one equivalence class._
+
+**Proof.** Suppose <img src="/lectures/tex/5d22b101a8e05a8b7a3f72eff1d3e90a.svg?invert_in_darkmode&sanitize=true" align=middle width=69.88945754999999pt height=22.831056599999986pt/>, and <img src="/lectures/tex/a6a8b2f9bedb3af465caadb9a3c5fc17.svg?invert_in_darkmode&sanitize=true" align=middle width=79.47848699999999pt height=24.65753399999998pt/>.
+
+<p align="center"><img src="/lectures/tex/05405ec01618cfcc8960e4ccfaa4ed6d.svg?invert_in_darkmode&sanitize=true" align=middle width=213.5449569pt height=163.47032295pt/></p>
