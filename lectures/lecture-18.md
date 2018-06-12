@@ -158,3 +158,31 @@ non-empty set of natural numbers has a least element).
 
 **Example** <img src="/lectures/tex/c85a67d18322c7784f40a29a9fd19c86.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=20.908638300000003pt/> on <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> is a not well-order relation (for example,
 the set <img src="/lectures/tex/4c5d28b2939ac320382eded62adc06aa.svg?invert_in_darkmode&sanitize=true" align=middle width=111.02697374999998pt height=24.65753399999998pt/> has no least element).
+
+**Question** Let _R_ be the partial order relation on <img src="/lectures/tex/ce776e8922ac6742f6d9f65ee7a0260c.svg?invert_in_darkmode&sanitize=true" align=middle width=43.835549999999984pt height=22.648391699999998pt/> defined by <img src="/lectures/tex/832c187a4f3bbd99e80d92ed1b04d93e.svg?invert_in_darkmode&sanitize=true" align=middle width=130.88889659999998pt height=24.65753399999998pt/> if and only if either
+
+- <img src="/lectures/tex/c91738401671622890e7ff2236833a3d.svg?invert_in_darkmode&sanitize=true" align=middle width=64.7108385pt height=17.723762100000005pt/>; or
+- <img src="/lectures/tex/2d7df1147accb2ea250ba74bf5134666.svg?invert_in_darkmode&sanitize=true" align=middle width=64.7108385pt height=14.15524440000002pt/> and <img src="/lectures/tex/5584a2562bacc09118d1d6bde7cc40c0.svg?invert_in_darkmode&sanitize=true" align=middle width=55.57839044999998pt height=20.908638300000003pt/>.
+
+Is _R_ a total order? Is _R_ a well order?
+
+**Hint** Roughly the definition of _R_ says "order by the first coordinate and
+break ties using the second coordinate." E.g. <img src="/lectures/tex/7bacc7c5c2a2e4ac57e405b5fa49e904.svg?invert_in_darkmode&sanitize=true" align=middle width=85.66794059999998pt height=24.65753399999998pt/> because <img src="/lectures/tex/2a30a71e20603be89a903cdc2d36feb6.svg?invert_in_darkmode&sanitize=true" align=middle width=38.35605014999999pt height=21.18721440000001pt/>, and
+<img src="/lectures/tex/344aca7f11eb7fb8a20fa18cf41aa077.svg?invert_in_darkmode&sanitize=true" align=middle width=85.66794059999998pt height=24.65753399999998pt/> because <img src="/lectures/tex/b8eae14eae6b180420216a89fbdda055.svg?invert_in_darkmode&sanitize=true" align=middle width=38.35605014999999pt height=21.18721440000001pt/> and <img src="/lectures/tex/ae9cea67954b41bf1d5fea656e5524c2.svg?invert_in_darkmode&sanitize=true" align=middle width=38.35605014999999pt height=21.18721440000001pt/>.
+
+**Answer**
+
+It's a total order. To prove this, let <img src="/lectures/tex/51e2b37b8e450e4df4dd047827d39516.svg?invert_in_darkmode&sanitize=true" align=middle width=172.40094464999996pt height=24.65753399999998pt/>.
+
+We must show <img src="/lectures/tex/15df66f173c9549aade2ca38ffe260de.svg?invert_in_darkmode&sanitize=true" align=middle width=113.77684395pt height=24.65753399999998pt/> or <img src="/lectures/tex/2e33e9ad91a036dec033ce1371724e61.svg?invert_in_darkmode&sanitize=true" align=middle width=113.77684395pt height=24.65753399999998pt/>.
+
+- If <img src="/lectures/tex/33b158c545d4d00926d5c839cee1218b.svg?invert_in_darkmode&sanitize=true" align=middle width=53.22294449999998pt height=17.723762100000005pt/>, then <img src="/lectures/tex/15df66f173c9549aade2ca38ffe260de.svg?invert_in_darkmode&sanitize=true" align=middle width=113.77684395pt height=24.65753399999998pt/>.
+- If <img src="/lectures/tex/8e0262db857df2bf582eb121d70ff28f.svg?invert_in_darkmode&sanitize=true" align=middle width=53.22294449999998pt height=17.723762100000005pt/>, then <img src="/lectures/tex/2e33e9ad91a036dec033ce1371724e61.svg?invert_in_darkmode&sanitize=true" align=middle width=113.77684395pt height=24.65753399999998pt/>.
+- If <img src="/lectures/tex/c766b2df71bcf9d7d1efad54fff4dd17.svg?invert_in_darkmode&sanitize=true" align=middle width=53.22294449999998pt height=14.15524440000002pt/> and <img src="/lectures/tex/74ea10d280bc926b2d3d732e4929f7a9.svg?invert_in_darkmode&sanitize=true" align=middle width=49.954230149999994pt height=22.831056599999986pt/>, then <img src="/lectures/tex/5501828e94983c1f37d15705d23bc3fe.svg?invert_in_darkmode&sanitize=true" align=middle width=113.77684395pt height=24.65753399999998pt/>.
+- If <img src="/lectures/tex/c766b2df71bcf9d7d1efad54fff4dd17.svg?invert_in_darkmode&sanitize=true" align=middle width=53.22294449999998pt height=14.15524440000002pt/> and <img src="/lectures/tex/557e76b1e3ae759d835f5e673e802a6e.svg?invert_in_darkmode&sanitize=true" align=middle width=49.954230149999994pt height=22.831056599999986pt/>, then <img src="/lectures/tex/2c6962c1898c0e253aa53db60052bca1.svg?invert_in_darkmode&sanitize=true" align=middle width=113.77684395pt height=24.65753399999998pt/>.
+
+It's also a well order. To prove this, let _S_ be a nonempty subset of
+<img src="/lectures/tex/ad92ad37f0d196e080c1ecb48b2f6e9a.svg?invert_in_darkmode&sanitize=true" align=middle width=43.835549999999984pt height=22.648391699999998pt/>. We must show _S_ has a least element. Let <img src="/lectures/tex/007094eee0f16d09ce121fc2ba8e7107.svg?invert_in_darkmode&sanitize=true" align=middle width=15.24170009999999pt height=14.15524440000002pt/>
+be the least first coordinate amongst all the pairs in _S_. Let <img src="/lectures/tex/ea8adcd8cf746feb94319864409cdc74.svg?invert_in_darkmode&sanitize=true" align=middle width=13.60734374999999pt height=22.831056599999986pt/> be the
+least second coordinate amongst all the pairs in _S_ with first coordinate
+<img src="/lectures/tex/007094eee0f16d09ce121fc2ba8e7107.svg?invert_in_darkmode&sanitize=true" align=middle width=15.24170009999999pt height=14.15524440000002pt/>. Then <img src="/lectures/tex/ee7b4f1156151ec62e9bad294ff02710.svg?invert_in_darkmode&sanitize=true" align=middle width=50.58418694999999pt height=24.65753399999998pt/> is the least element in _S_.
