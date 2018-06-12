@@ -139,3 +139,10 @@ A partial order relation _R_ on a finite set _A_ can be represented as a Hasse
 diagram. The elements of _A_ are written on the page and connected by lines so
 that, for any $a,b \in A, aRb$ exactly when _b_ can be reached _a_ by travelling
 upward along the lines.
+
+**Question 18.2** Draw a Hasse diagram for the set of divisors of 42.
+
+The set of divisors is $\{1,2,3,6,7,14,21,42\}$.
+
+![](images/L18-P15.png)
+
