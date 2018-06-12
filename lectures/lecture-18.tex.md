@@ -163,3 +163,33 @@ non-empty set of natural numbers has a least element).
 
 **Example** $\leq$ on $\mathbb{R}$ is a not well-order relation (for example,
 the set $\{x \in \mathbb{R} : x > 2\}$ has no least element).
+
+**Question** Let _R_ be the partial order relation on $\mathbb{N} \times
+\mathbb{N}$ defined by $(m_1, n_1)R(m_2, n_2)$ if and only if either
+
+- $m_1 < m_2$; or
+- $m_1 = m_2$ and $n_1 \leq n_2$.
+
+Is _R_ a total order? Is _R_ a well order?
+
+**Hint** Roughly the definition of _R_ says "order by the first coordinate and
+break ties using the second coordinate." E.g. $(3,4)R(4,1)$ because $3<4$, and
+$(3,4)R(3,7)$ because $3=3$ and $4 \leq 7$.
+
+**Answer**
+
+It's a total order. To prove this, let $(a_1, b_1), (a_2, b_2) \in \mathbb{N}
+\times \mathbb{N}$.
+
+We must show $(a_1, b_1)R(a_2, b_2)$ or $(a_2, b_2)R(a_1, b_1)$.
+
+- If $a_1 < a_2$, then $(a_1, b_1)R(a_2, b_2)$.
+- If $a_2 < a_2$, then $(a_2, b_2)R(a_1, b_1)$.
+- If $a_1 = a_2$ and $b_1 \leq b_2$, then $(a_1,b_1)R(a_2, b_2)$.
+- If $a_1 = a_2$ and $b_1 < b_2$, then $(a_2,b_2)R(a_1, b_1)$.
+
+It's also a well order. To prove this, let _S_ be a nonempty subset of
+$\mathbb{N} \times \mathbb{N}$. We must show _S_ has a least element. Let $a_0$
+be the least first coordinate amongst all the pairs in _S_. Let $b_0$ be the
+least second coordinate amongst all the pairs in _S_ with first coordinate
+$a_0$. Then $(a_0, b_0)$ is the least element in _S_.
