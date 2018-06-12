@@ -230,3 +230,10 @@ only if <img src="/lectures/tex/221a6eec2aff3385193ce94d706a1b7c.svg?invert_in_d
 <p align="center"><img src="/lectures/tex/13e1b4e8b2dcce6ba511df735771adeb.svg?invert_in_darkmode&sanitize=true" align=middle width=280.3189455pt height=65.753424pt/></p>
 
 These partition the set <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/>.
+
+**Examples of partitions**
+
+<img src="/lectures/tex/9c7a0521d59496cb2bd5706c6f200a9f.svg?invert_in_darkmode&sanitize=true" align=middle width=151.59834855pt height=24.65753399999998pt/> is a partition of <img src="/lectures/tex/7dad423fb8faaf679b9ba94be368f183.svg?invert_in_darkmode&sanitize=true" align=middle width=102.28309079999998pt height=24.65753399999998pt/>.
+
+<img src="/lectures/tex/159c302abc0c8f0d9c90081c69048209.svg?invert_in_darkmode&sanitize=true" align=middle width=79.97689424999999pt height=24.65753399999998pt/> and <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> is even <img src="/lectures/tex/6ce293fed9d15d39029e412c955ee61a.svg?invert_in_darkmode&sanitize=true" align=middle width=87.28277744999998pt height=24.65753399999998pt/> and <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> is
+odd <img src="/lectures/tex/daa66c42a07a55cb20a4023fa18c0ebe.svg?invert_in_darkmode&sanitize=true" align=middle width=16.438418699999993pt height=24.65753399999998pt/> is a partition of <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/>.
