@@ -250,9 +250,9 @@ only if $a \equiv b$ (mod 3). The three equivalence classes of $R$ are
 
 $$
 \begin{align}
-  \{x: x \equiv = 0 (\text{ mod } 3) \} = \{3k: k \in \mathbb{Z} \} \\
-  \{x: x \equiv = 1 (\text{ mod } 3) \} = \{3k + 1: k \in \mathbb{Z} \} \\
-  \{x: x \equiv = 2 (\text{ mod } 3) \} = \{3k + 2: k \in \mathbb{Z} \}
+  \{x: x \equiv = 0 (\text{ mod } 3) \} &= \{3k: k \in \mathbb{Z} \} \\
+  \{x: x \equiv = 1 (\text{ mod } 3) \} &= \{3k + 1: k \in \mathbb{Z} \} \\
+  \{x: x \equiv = 2 (\text{ mod } 3) \} &= \{3k + 2: k \in \mathbb{Z} \}
 \end{align}
 $$
 
