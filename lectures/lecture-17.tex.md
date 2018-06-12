@@ -224,13 +224,13 @@ belongs to to exactly one equivalence class._
 
 $$
 \begin{align}
-  c \in [a] \text{ and } c \in [b] \\
-  \Rightarrow cRa \text{ and } cRb \\
-  \text{ by definition of } [a] \text{ and } [b] \\
-  \Rightarrow aRc \text{ and } cRb \text{ by symmetry} \\
-  \Rightarrow aRb \text{ by transitivity } \\
-  \Rightarrow [a] = [b] \\
-  \text{ by the previous claim.}
+  & c \in [a] \text{ and } c \in [b] \\
+  & \Rightarrow cRa \text{ and } cRb \\
+  & \text{ by definition of } [a] \text{ and } [b] \\
+  & \Rightarrow aRc \text{ and } cRb \text{ by symmetry} \\
+  & \Rightarrow aRb \text{ by transitivity } \\
+  & \Rightarrow [a] = [b] \\
+  & \text{ by the previous claim.}
 \end{align}
 $$
 
