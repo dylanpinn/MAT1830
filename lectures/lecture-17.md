@@ -241,3 +241,4 @@ odd <img src="/lectures/tex/daa66c42a07a55cb20a4023fa18c0ebe.svg?invert_in_darkm
 **Question** What are the equivalence classes of the equivalence relations (1)
 and (4)?
 
+(1) <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> defined on <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/> by <img src="/lectures/tex/cd545545658252896318babb6260cb4a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65268359999999pt height=22.465723500000017pt/> if and only if <img src="/lectures/tex/86c956b8339e24af0a5673001d972cbf.svg?invert_in_darkmode&sanitize=true" align=middle width=58.22672129999999pt height=24.65753399999998pt/>
