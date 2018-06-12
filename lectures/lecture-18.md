@@ -75,3 +75,25 @@ if:
 
 **Example** <img src="/lectures/tex/2e0145a5b0e7374cba1158796ba774c0.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=20.908638300000003pt/> on <img src="/lectures/tex/4b7a9696f7ae0fe4556882e908fe1e20.svg?invert_in_darkmode&sanitize=true" align=middle width=78.95559209999999pt height=24.65753399999998pt/> is not a total order relation (for
 example, <img src="/lectures/tex/a3f06086efb289f29dbb02b66f700af3.svg?invert_in_darkmode&sanitize=true" align=middle width=86.7579801pt height=24.65753399999998pt/> and <img src="/lectures/tex/d461b96d777f12ca8f1c2a9343815960.svg?invert_in_darkmode&sanitize=true" align=middle width=86.7579801pt height=24.65753399999998pt/>).
+
+## 18.2 Total order relations
+
+A total order relation is a special kind of partial order relation that "puts
+everything in order".
+
+A _total order relation R_ on a set _A_ is a partial order relation that also
+has the property <img src="/lectures/tex/b3b3425b4ba9f5f69882ea9d0c802c3f.svg?invert_in_darkmode&sanitize=true" align=middle width=28.35242024999999pt height=22.831056599999986pt/> or <img src="/lectures/tex/2549cc2462a00bf6823b401cd651d088.svg?invert_in_darkmode&sanitize=true" align=middle width=28.35242024999999pt height=22.831056599999986pt/> for all <img src="/lectures/tex/b62c2586b691b315f9b440ae4358ed02.svg?invert_in_darkmode&sanitize=true" align=middle width=55.46977094999998pt height=22.831056599999986pt/>.
+
+**Examples.**
+
+1. <img src="/lectures/tex/1af17265e819031033c1ab7d26c362d8.svg?invert_in_darkmode&sanitize=true" align=middle width=66.66669734999999pt height=22.831056599999986pt/>.
+  This is a total order relation because for all real numbers _a_ and _b_ we
+  have <img src="/lectures/tex/ba7b0048fb01eb2791ba2ac6d678eade.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/> or <img src="/lectures/tex/307059ed570a9ed96829de9a48229299.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/>.
+2. <img src="/lectures/tex/2e0145a5b0e7374cba1158796ba774c0.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=20.908638300000003pt/> on <img src="/lectures/tex/20c9d513a800b81d0cff408acaf23139.svg?invert_in_darkmode&sanitize=true" align=middle width=35.11995794999999pt height=24.65753399999998pt/>.
+  This is not a total order because, for example, <img src="/lectures/tex/656b2ff0ea36487397cb387d66f178e6.svg?invert_in_darkmode&sanitize=true" align=middle width=102.28307264999998pt height=24.65753399999998pt/> and <img src="/lectures/tex/2e9fd10f1fce4a3a386b069064ec56f1.svg?invert_in_darkmode&sanitize=true" align=middle width=102.28307264999998pt height=24.65753399999998pt/>.
+3. Divisibility on <img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/>.
+  This is not a total order because, for example, 2 does not divide 3 and 3 does
+  not divide 2.
+4. Alphabetical order of words.
+  This is a total order because given any two different words, one will appear
+  before the other in alphabetical order.
