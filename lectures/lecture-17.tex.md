@@ -169,3 +169,31 @@ $\mathbb{Z}$?
 
 Yes. This relation sit the same as $x \equiv y$ (mod 5) and we know that's an
 equivalence relation.
+
+**Question** What is the same about the equivalent objects for the equivalence
+relations (1) and (4)?
+
+- (1) $R$ defined on $\mathbb{Z}$ by $xRy$ if and only if $|x| = |y|$
+  - _x_ and _y_ have the same "magnitude".
+- (4) $U$ defined on $\mathbb{Z}$ by $xUy$ if and only if 5 divides $x-y$
+  - _x_ and _y_ have the same remainder when divided by 5.
+
+## 17.2 Equivalence classes
+
+Conversely, we can show that if $R$ is a reflexive, symmetric and transitive
+relation then $aRb$ says that $a$ and $b$ are the same in some respect: _they
+have the same R-equivalence class_.
+
+If $R$ is an equivalence relation we define the _R-equivalence class_ of $a$ to
+be
+
+$$[a] = \{s: sRa \}$$
+
+Thus $[a]$ consists of all the elements relate to $a$. It can also be defined as
+$\{s: aRs\}$, because $sRa$ if and only if $aRs$, by symmetry of $R$.
+
+**Examples**
+
+- The parallel equivalence class of a line $L$ consists of all lines parallel to
+  $L$.
+- The equivalence class of 1 for congruence mod 2 is the set of all odd numbers.
