@@ -18,3 +18,13 @@ intuitive.
 
 **Antisymmetry (equivalent dfn):** For all <img src="/lectures/tex/9311deac98c2602d33194f450b01649b.svg?invert_in_darkmode&sanitize=true" align=middle width=57.77001449999998pt height=22.465723500000017pt/>, if <img src="/lectures/tex/fefeb2f61cc8685177b0a576d3e3cb95.svg?invert_in_darkmode&sanitize=true" align=middle width=39.96184334999999pt height=22.831056599999986pt/> then it
 is not the case that <img src="/lectures/tex/cd545545658252896318babb6260cb4a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65268359999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/53712d99bae21b47e7c2bb25e64c6f5a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65266379999999pt height=22.465723500000017pt/>.
+
+**Antisymmetry** (For a binary relation _R_ on a set _A_)
+
+![](images/L18-P5.png)
+
+To prove _R_ is antisymmetric, show that; For all <img src="/lectures/tex/9311deac98c2602d33194f450b01649b.svg?invert_in_darkmode&sanitize=true" align=middle width=57.77001449999998pt height=22.465723500000017pt/>, if <img src="/lectures/tex/cd545545658252896318babb6260cb4a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65268359999999pt height=22.465723500000017pt/> and
+<img src="/lectures/tex/53712d99bae21b47e7c2bb25e64c6f5a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65266379999999pt height=22.465723500000017pt/> then <img src="/lectures/tex/b1185cf9f05b29c99b55c0cde01294f5.svg?invert_in_darkmode&sanitize=true" align=middle width=39.96184334999999pt height=14.15524440000002pt/>.
+
+To prove _R_ is not antisymmetric, show that; There is some <img src="/lectures/tex/9311deac98c2602d33194f450b01649b.svg?invert_in_darkmode&sanitize=true" align=middle width=57.77001449999998pt height=22.465723500000017pt/> such
+that <img src="/lectures/tex/9cbb1b17ffb8fb4bdca2437258ddf640.svg?invert_in_darkmode&sanitize=true" align=middle width=77.92039199999998pt height=22.831056599999986pt/> and <img src="/lectures/tex/53712d99bae21b47e7c2bb25e64c6f5a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65266379999999pt height=22.465723500000017pt/>.
