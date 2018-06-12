@@ -42,3 +42,18 @@ Yes. For all $x,y \in A$, if $xRy$ and $yRx$ then $x=y$.
 ![](images/L18-P7-2.png)
 
 No. $3S5$ and $5S3$ (and $3 \not = 5)$.
+
+**Examples.**
+
+1. $\leq$ on $\mathbb{R}$
+  Reflexive: $a \leq a$ for all $a \in \mathbb{R}$.
+  Antisymmetric: $a \leq b$ and $b \leq a \Rightarrow a = b$ for all, $a,b \in
+  \mathbb{R}$.
+  Transitive: $a \leq b$ and $b \leq c \Rightarrow a \leq c$ for all $a,b,c \in
+  \mathbb{R}$.
+2. $\subseteq$ on $\wp(\mathbb{N})$.
+  Reflexive: $A \subseteq A$ for all $a \in \wp(\mathbb{N})$.
+  Antisymmetric: $A \subseteq B$ and $B \subseteq A \Rightarrow A = B$ for all
+  $A,B \in \pw(\mathbb{N})$.
+  Transitive: $A \subseteq B$ and $B \subseteq C \Rightarrow A \subseteq C$ for
+  all $A,B,C \in \wp(\mathbb{N})$.
