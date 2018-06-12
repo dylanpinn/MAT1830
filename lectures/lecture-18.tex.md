@@ -57,3 +57,9 @@ No. $3S5$ and $5S3$ (and $3 \not = 5)$.
   $A,B \in \pw(\mathbb{N})$.
   Transitive: $A \subseteq B$ and $B \subseteq C \Rightarrow A \subseteq C$ for
   all $A,B,C \in \wp(\mathbb{N})$.
+3. Divisibility on $\mathbb{N}$.
+  The relation "_a_ divides _b_" on natural numbers is reflexive, antisymmetric
+  and transitive.
+4. Alphabetical order of words.
+  Words on the English alphabet are alphabetically ordered by comparing the
+  leftmost letter at which they differ.
