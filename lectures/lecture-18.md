@@ -121,3 +121,9 @@ has the property <img src="/lectures/tex/b3b3425b4ba9f5f69882ea9d0c802c3f.svg?in
 - **A** gives a correct example of why _R_ is not a total order. So **A**.
 - (The example in _A_, of course, shows that _D_ is wrong.)
 
+**Hasse Diagrams**
+
+**Example** The relation <img src="/lectures/tex/2e0145a5b0e7374cba1158796ba774c0.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=20.908638300000003pt/> on <img src="/lectures/tex/4b7a9696f7ae0fe4556882e908fe1e20.svg?invert_in_darkmode&sanitize=true" align=middle width=78.95559209999999pt height=24.65753399999998pt/> is a partial order
+relation.
+
+![](images/L18-P12.png)
