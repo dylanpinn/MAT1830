@@ -8,3 +8,13 @@ following three properties.
 1. Reflexivity. $aRa$ for all $a \in A$.
 2. Antisymmetry. $aRb$ and $bRa \Rightarrow a = b$ for all $a,b \in A$.
 3. Transitivity. $aRb$ and $bRc \Rightarrow aRc$ for all $a,b,c \in A$.
+
+For a binary relation $R$ on a set $A$.
+
+**Antisymmetry:** For all $x,y \in A$, if $yRx$ then $x=y$.
+
+This definition is useful for proofs but I think the contrapositive is more
+intuitive.
+
+**Antisymmetry (equivalent dfn):** For all $x,y \in A$, if $x \not = y$ then it
+is not the case that $xRy$ and $yRx$.
