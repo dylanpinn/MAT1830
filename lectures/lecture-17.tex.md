@@ -257,3 +257,10 @@ $$
 $$
 
 These partition the set $\mathbb{Z}$.
+
+**Examples of partitions**
+
+$\{\{1,6\}, \{2\}, \{3,4,5\}\}$ is a partition of $\{1,2,3,4,5,6\}$.
+
+$\{\{x: x \in \mathbb{Z}$ and $x$ is even $\}, \{x: x \in \mathbb{Z}$ and $x$ is
+odd $\}\}$ is a partition of $\mathbb{Z}$.
