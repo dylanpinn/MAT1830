@@ -237,3 +237,7 @@ These partition the set <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8
 
 <img src="/lectures/tex/159c302abc0c8f0d9c90081c69048209.svg?invert_in_darkmode&sanitize=true" align=middle width=79.97689424999999pt height=24.65753399999998pt/> and <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> is even <img src="/lectures/tex/6ce293fed9d15d39029e412c955ee61a.svg?invert_in_darkmode&sanitize=true" align=middle width=87.28277744999998pt height=24.65753399999998pt/> and <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> is
 odd <img src="/lectures/tex/daa66c42a07a55cb20a4023fa18c0ebe.svg?invert_in_darkmode&sanitize=true" align=middle width=16.438418699999993pt height=24.65753399999998pt/> is a partition of <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/>.
+
+**Question** What are the equivalence classes of the equivalence relations (1)
+and (4)?
+
