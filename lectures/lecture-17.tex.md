@@ -268,3 +268,4 @@ odd $\}\}$ is a partition of $\mathbb{Z}$.
 **Question** What are the equivalence classes of the equivalence relations (1)
 and (4)?
 
+(1) $R$ defined on $\mathbb{Z}$ by $xRy$ if and only if $|x|=|y|$
