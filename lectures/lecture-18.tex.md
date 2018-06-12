@@ -101,3 +101,28 @@ has the property $aRb$ or $bRa$ for all $a,b \in A$.
 4. Alphabetical order of words.
   This is a total order because given any two different words, one will appear
   before the other in alphabetical order.
+
+**Question** Let _R_ be the partial order relation on $\mathbb{N} \times
+\mathbb{N}$ defined by $(m_1, n_1)R(m_2, n_2)$ if and only if $m_1 \leq m_2$ and
+$n_1 \leq n_2$. Is _R_ a total order?
+
+- **A.** No because $(1,4) \not R (2,2)$ and $(2,2) \not R (1,4)$.
+- **B.** No because $(2,3) \not R (2,2)$ and $(2,2) R (2,3)$.
+- **C.** No because $(1,4) \not R (2,8)$ and $(2,8) \not R (1,4)$.
+- **D.** Yes because $(a_1,b_1) R (a_2,b_2)$ or $(a_2,b_2) R (a_1,b_1)$ for any
+  $(a_1, b_1), (a_2, b_2) \in \mathbb{N} \times \mathbb{N}$.
+
+**Examples**
+
+$(2,3)R(5,4)$ because $2 \leq 5$ and $3 \leq 4$
+
+$(2,3) \not R(5,2)$ because $2 \leq 5$ and $3 > 2$
+
+**Answer**
+
+- **B** is silly; to show something is not a total order we must find two things
+  that are not related in either direction.
+- **C** is wrong because $(1,4) R(2,8)$.
+- **A** gives a correct example of why _R_ is not a total order. So **A**.
+- (The example in _A_, of course, shows that _D_ is wrong.)
+
