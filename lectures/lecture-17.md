@@ -193,3 +193,15 @@ Thus <img src="/lectures/tex/e6faf1ef3b2cd6f5098b756495adef3d.svg?invert_in_dark
 - The parallel equivalence class of a line <img src="/lectures/tex/ddcb483302ed36a59286424aa5e0be17.svg?invert_in_darkmode&sanitize=true" align=middle width=11.18724254999999pt height=22.465723500000017pt/> consists of all lines parallel to
   <img src="/lectures/tex/ddcb483302ed36a59286424aa5e0be17.svg?invert_in_darkmode&sanitize=true" align=middle width=11.18724254999999pt height=22.465723500000017pt/>.
 - The equivalence class of 1 for congruence mod 2 is the set of all odd numbers.
+
+## 17.3 Equivalence class properties
+
+**Claim.** _If two elements are related by an equivalence relation R on a set A,
+their equivalence classes are equal._
+
+**Proof.** Suppose <img src="/lectures/tex/b62c2586b691b315f9b440ae4358ed02.svg?invert_in_darkmode&sanitize=true" align=middle width=55.46977094999998pt height=22.831056599999986pt/> and <img src="/lectures/tex/b3b3425b4ba9f5f69882ea9d0c802c3f.svg?invert_in_darkmode&sanitize=true" align=middle width=28.35242024999999pt height=22.831056599999986pt/>. Now
+
+<p align="center"><img src="/lectures/tex/9e0c0944ed0cde0189a7f5283efe58a9.svg?invert_in_darkmode&sanitize=true" align=middle width=256.01770259999995pt height=90.41095965pt/></p>
+
+Thus all elements of <img src="/lectures/tex/e6faf1ef3b2cd6f5098b756495adef3d.svg?invert_in_darkmode&sanitize=true" align=middle width=17.82160214999999pt height=24.65753399999998pt/> belong to <img src="/lectures/tex/ca0177a5ab2f08c0b10765740bead8ce.svg?invert_in_darkmode&sanitize=true" align=middle width=16.18724414999999pt height=24.65753399999998pt/>. Similarly, all elements of <img src="/lectures/tex/ca0177a5ab2f08c0b10765740bead8ce.svg?invert_in_darkmode&sanitize=true" align=middle width=16.18724414999999pt height=24.65753399999998pt/>
+belong to <img src="/lectures/tex/e6faf1ef3b2cd6f5098b756495adef3d.svg?invert_in_darkmode&sanitize=true" align=middle width=17.82160214999999pt height=24.65753399999998pt/>, hence <img src="/lectures/tex/0e44c1112d98cd57a9fa3598e04e7892.svg?invert_in_darkmode&sanitize=true" align=middle width=55.92647774999999pt height=24.65753399999998pt/>.<img src="/lectures/tex/8d1d56487eefe331f9e0610452881b10.svg?invert_in_darkmode&sanitize=true" align=middle width=8.21920935pt height=14.15524440000002pt/>
