@@ -141,3 +141,20 @@ The set of divisors is <img src="/lectures/tex/e0899890af11cf977fae13b9054f6c1e.
 
 ![](images/L18-P15.png)
 
+## 18.4 Well-ordering
+
+**Definition** A binary relation _R_ on a set _A_ is a _well-order relation_ if
+
+- it is a total order relation; and
+- every non-empty <img src="/lectures/tex/f84226988196caacb95dc69e34b908e2.svg?invert_in_darkmode&sanitize=true" align=middle width=45.27381209999999pt height=22.465723500000017pt/> has a least element.
+
+We could write this second condition formally as
+
+- for every non-empty <img src="/lectures/tex/f84226988196caacb95dc69e34b908e2.svg?invert_in_darkmode&sanitize=true" align=middle width=45.27381209999999pt height=22.465723500000017pt/> there is an <img src="/lectures/tex/71b1cec03aa35e1c2f633d88a650177f.svg?invert_in_darkmode&sanitize=true" align=middle width=36.346884749999994pt height=22.831056599999986pt/> such that <img src="/lectures/tex/82de8ecdb13a011b7113261d716d6e61.svg?invert_in_darkmode&sanitize=true" align=middle width=26.48603924999999pt height=22.831056599999986pt/> for
+  all <img src="/lectures/tex/41397055d802d022679d7ff39e996b08.svg?invert_in_darkmode&sanitize=true" align=middle width=39.76774559999999pt height=22.465723500000017pt/>.
+
+**Example** <img src="/lectures/tex/c85a67d18322c7784f40a29a9fd19c86.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=20.908638300000003pt/> on <img src="/lectures/tex/4fd661cfefdf4318d1aa35fb483796b2.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> is a well-order relation (because every
+non-empty set of natural numbers has a least element).
+
+**Example** <img src="/lectures/tex/c85a67d18322c7784f40a29a9fd19c86.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=20.908638300000003pt/> on <img src="/lectures/tex/f3e711926cecfed3003f9ae341f3d92b.svg?invert_in_darkmode&sanitize=true" align=middle width=11.87217899999999pt height=22.648391699999998pt/> is a not well-order relation (for example,
+the set <img src="/lectures/tex/4c5d28b2939ac320382eded62adc06aa.svg?invert_in_darkmode&sanitize=true" align=middle width=111.02697374999998pt height=24.65753399999998pt/> has no least element).
