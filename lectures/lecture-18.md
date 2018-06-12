@@ -97,3 +97,27 @@ has the property <img src="/lectures/tex/b3b3425b4ba9f5f69882ea9d0c802c3f.svg?in
 4. Alphabetical order of words.
   This is a total order because given any two different words, one will appear
   before the other in alphabetical order.
+
+**Question** Let _R_ be the partial order relation on <img src="/lectures/tex/ce776e8922ac6742f6d9f65ee7a0260c.svg?invert_in_darkmode&sanitize=true" align=middle width=43.835549999999984pt height=22.648391699999998pt/> defined by <img src="/lectures/tex/832c187a4f3bbd99e80d92ed1b04d93e.svg?invert_in_darkmode&sanitize=true" align=middle width=130.88889659999998pt height=24.65753399999998pt/> if and only if <img src="/lectures/tex/203dae99c9f8bbc1283106b2242316ac.svg?invert_in_darkmode&sanitize=true" align=middle width=64.7108385pt height=20.908638300000003pt/> and
+<img src="/lectures/tex/5584a2562bacc09118d1d6bde7cc40c0.svg?invert_in_darkmode&sanitize=true" align=middle width=55.57839044999998pt height=20.908638300000003pt/>. Is _R_ a total order?
+
+- **A.** No because <img src="/lectures/tex/7c731eac831b1fb3a22ba08d982a20da.svg?invert_in_darkmode&sanitize=true" align=middle width=94.80013784999998pt height=24.65753399999998pt/> and <img src="/lectures/tex/f6ea2757be4a8bce333642eb8e0de94f.svg?invert_in_darkmode&sanitize=true" align=middle width=94.80013784999998pt height=24.65753399999998pt/>.
+- **B.** No because <img src="/lectures/tex/bb0f3f38b9a476f7c937dd156a209511.svg?invert_in_darkmode&sanitize=true" align=middle width=94.80013784999998pt height=24.65753399999998pt/> and <img src="/lectures/tex/fe15967adb9fcfb4784efcacd728944e.svg?invert_in_darkmode&sanitize=true" align=middle width=85.66794059999998pt height=24.65753399999998pt/>.
+- **C.** No because <img src="/lectures/tex/7f16a0402b134fc0ba241f72719f8d82.svg?invert_in_darkmode&sanitize=true" align=middle width=94.80013784999998pt height=24.65753399999998pt/> and <img src="/lectures/tex/915832aafbdec321bdefdbc6bff1d295.svg?invert_in_darkmode&sanitize=true" align=middle width=94.80013784999998pt height=24.65753399999998pt/>.
+- **D.** Yes because <img src="/lectures/tex/2a74896720f309787db4c308e753abed.svg?invert_in_darkmode&sanitize=true" align=middle width=113.77684395pt height=24.65753399999998pt/> or <img src="/lectures/tex/e3899bebf24d105e0957e53a22abffe8.svg?invert_in_darkmode&sanitize=true" align=middle width=113.77684395pt height=24.65753399999998pt/> for any
+  <img src="/lectures/tex/e5c2987d6d406df116aae29f19e1cd12.svg?invert_in_darkmode&sanitize=true" align=middle width=172.40094464999996pt height=24.65753399999998pt/>.
+
+**Examples**
+
+<img src="/lectures/tex/58e81488776ea7e44c61499ada55873b.svg?invert_in_darkmode&sanitize=true" align=middle width=85.66794059999998pt height=24.65753399999998pt/> because <img src="/lectures/tex/a6e179dc0b6448a498b7af9b7618c08d.svg?invert_in_darkmode&sanitize=true" align=middle width=38.35605014999999pt height=21.18721440000001pt/> and <img src="/lectures/tex/1891f217e800522594f54d181731aa2f.svg?invert_in_darkmode&sanitize=true" align=middle width=38.35605014999999pt height=21.18721440000001pt/>
+
+<img src="/lectures/tex/68c23e6e43af698124188f2812a3bace.svg?invert_in_darkmode&sanitize=true" align=middle width=94.80013784999998pt height=24.65753399999998pt/> because <img src="/lectures/tex/a6e179dc0b6448a498b7af9b7618c08d.svg?invert_in_darkmode&sanitize=true" align=middle width=38.35605014999999pt height=21.18721440000001pt/> and <img src="/lectures/tex/b83e51643a30df7e8e04416f833e6515.svg?invert_in_darkmode&sanitize=true" align=middle width=38.35605014999999pt height=21.18721440000001pt/>
+
+**Answer**
+
+- **B** is silly; to show something is not a total order we must find two things
+  that are not related in either direction.
+- **C** is wrong because <img src="/lectures/tex/2d293a9dc449f7c20beeaeac081ed697.svg?invert_in_darkmode&sanitize=true" align=middle width=85.66794059999998pt height=24.65753399999998pt/>.
+- **A** gives a correct example of why _R_ is not a total order. So **A**.
+- (The example in _A_, of course, shows that _D_ is wrong.)
+
