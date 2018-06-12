@@ -197,3 +197,22 @@ $\{s: aRs\}$, because $sRa$ if and only if $aRs$, by symmetry of $R$.
 - The parallel equivalence class of a line $L$ consists of all lines parallel to
   $L$.
 - The equivalence class of 1 for congruence mod 2 is the set of all odd numbers.
+
+## 17.3 Equivalence class properties
+
+**Claim.** _If two elements are related by an equivalence relation R on a set A,
+their equivalence classes are equal._
+
+**Proof.** Suppose $a,b \in A$ and $aRb$. Now
+
+$$
+\begin{align}
+  s \in [a] &\Rightarrow sRa \text{ by definition of } [a] \\
+  &\Rightarrow sRb \text{ by transitivity of } R \\
+  & \text{ since } sRa \text{ and } aRb \\
+  &\Rightarrow s \in [b] \text{ by definition of } [b].
+\end{align}
+$$
+
+Thus all elements of $[a]$ belong to $[b]$. Similarly, all elements of $[b]$
+belong to $[a]$, hence $[a] = [b]$.$\qed$
