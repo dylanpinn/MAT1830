@@ -211,7 +211,7 @@ belongs to to exactly one equivalence class._
 
 **Proof.** Suppose <img src="/lectures/tex/5d22b101a8e05a8b7a3f72eff1d3e90a.svg?invert_in_darkmode&sanitize=true" align=middle width=69.88945754999999pt height=22.831056599999986pt/>, and <img src="/lectures/tex/a6a8b2f9bedb3af465caadb9a3c5fc17.svg?invert_in_darkmode&sanitize=true" align=middle width=79.47848699999999pt height=24.65753399999998pt/>.
 
-<p align="center"><img src="/lectures/tex/05405ec01618cfcc8960e4ccfaa4ed6d.svg?invert_in_darkmode&sanitize=true" align=middle width=213.5449569pt height=163.47032295pt/></p>
+<p align="center"><img src="/lectures/tex/2501cb5d2a030c1654116cdffd313574.svg?invert_in_darkmode&sanitize=true" align=middle width=218.11105469999995pt height=163.47032295pt/></p>
 
 ## 17.4 Partitions and equivalence classes
 
