@@ -233,3 +233,27 @@ $$
   \text{ by the previous claim.}
 \end{align}
 $$
+
+## 17.4 Partitions and equivalence classes
+
+A _partition_ of a set $S$ is a set of subsets of $S$ such that each element of
+$S$ is in exactly one of the subsets.
+
+Using what we showed in the last section, we have the following.
+
+If $R$ is an equivalence relation on the set $A$, then the equivalence classes
+of $R$ from a partition of $A$. Two elements of $A$ are related if and only if
+they are in the same equivalence class.
+
+**Example.** Let $R$ be the relation on $\mathbb{Z}$ defined by $aRb$ if and
+only if $a \equiv b$ (mod 3). The three equivalence classes of $R$ are
+
+$$
+\begin{align}
+  \{x: x \equiv = 0 (\text{ mod } 3) \} = \{3k: k \in \mathbb{Z} \} \\
+  \{x: x \equiv = 1 (\text{ mod } 3) \} = \{3k + 1: k \in \mathbb{Z} \} \\
+  \{x: x \equiv = 2 (\text{ mod } 3) \} = \{3k + 2: k \in \mathbb{Z} \}
+\end{align}
+$$
+
+These partition the set $\mathbb{Z}$.
