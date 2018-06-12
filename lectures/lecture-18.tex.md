@@ -126,3 +126,9 @@ $(2,3) \not R(5,2)$ because $2 \leq 5$ and $3 > 2$
 - **A** gives a correct example of why _R_ is not a total order. So **A**.
 - (The example in _A_, of course, shows that _D_ is wrong.)
 
+**Hasse Diagrams**
+
+**Example** The relation $\subseteq$ on $\wp(\{1,2,3\})$ is a partial order
+relation.
+
+![](images/L18-P12.png)
