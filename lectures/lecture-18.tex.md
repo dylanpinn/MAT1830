@@ -63,3 +63,18 @@ No. $3S5$ and $5S3$ (and $3 \not = 5)$.
 4. Alphabetical order of words.
   Words on the English alphabet are alphabetically ordered by comparing the
   leftmost letter at which they differ.
+
+**Definition** A binary relation _R_ on a set _A_ is a _total order relation_
+if:
+
+- it is a partial order relation; and
+- for any $x,y \in A$ we have $xRy$ or $yRx$.
+
+![](images/L18-P9.png)
+
+**Example** $\leq$ on $\mathbb{R}$ is a total order relation (because for any
+$x,y \in \mathbb{R}$ we have that $x \leq y$ or $y \leq x$).
+
+**Example** $\subseteq$ on $\wp(\{1,2,3\})$ is not a total order relation (for
+example, $\{1\} \not \subseteq \{2,3\}$ and $\{2,3\} \not \subseteq
+\{1\}$).
