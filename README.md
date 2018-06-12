@@ -19,6 +19,7 @@
 - [Lecture 15](/lectures/lecture-15.md)
 - [Lecture 16](/lectures/lecture-16.md)
 - [Lecture 17](/lectures/lecture-17.md)
+- [Lecture 18](/lectures/lecture-18.md)
 
 ## Assignments
 
