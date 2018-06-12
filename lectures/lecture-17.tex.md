@@ -274,4 +274,4 @@ $$\{0\}, \{1, -1\}, \{2, -2\}, \{3, -3\}, \dots$$
 
 (4) $U$ defined on $\mathbb{Z}$ by $xUy$ if and only if 5 divides $x-y$
 
-$$\{ \dots,-10,-5,0,5,10, \dots \},$$
+$$\{ \dots, -10, -5, 0, 5, 10, \dots \},$$
