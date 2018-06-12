@@ -227,6 +227,6 @@ they are in the same equivalence class.
 **Example.** Let <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> be the relation on <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/> defined by <img src="/lectures/tex/b3b3425b4ba9f5f69882ea9d0c802c3f.svg?invert_in_darkmode&sanitize=true" align=middle width=28.35242024999999pt height=22.831056599999986pt/> if and
 only if <img src="/lectures/tex/221a6eec2aff3385193ce94d706a1b7c.svg?invert_in_darkmode&sanitize=true" align=middle width=37.66158164999999pt height=22.831056599999986pt/> (mod 3). The three equivalence classes of <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> are
 
-<p align="center"><img src="/lectures/tex/951402c17f83d5100cb16ebe06470adb.svg?invert_in_darkmode&sanitize=true" align=middle width=293.1043731pt height=65.753424pt/></p>
+<p align="center"><img src="/lectures/tex/13e1b4e8b2dcce6ba511df735771adeb.svg?invert_in_darkmode&sanitize=true" align=middle width=280.3189455pt height=65.753424pt/></p>
 
 These partition the set <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/>.
