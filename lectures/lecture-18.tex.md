@@ -18,3 +18,13 @@ intuitive.
 
 **Antisymmetry (equivalent dfn):** For all $x,y \in A$, if $x \not = y$ then it
 is not the case that $xRy$ and $yRx$.
+
+**Antisymmetry** (For a binary relation _R_ on a set _A_)
+
+![](images/L18-P5.png)
+
+To prove _R_ is antisymmetric, show that; For all $x,y \in A$, if $xRy$ and
+$yRx$ then $x=y$.
+
+To prove _R_ is not antisymmetric, show that; There is some $x,y \in A$ such
+that $x \not = y, xRy$ and $yRx$.
