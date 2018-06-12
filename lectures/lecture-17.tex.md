@@ -269,3 +269,5 @@ odd $\}\}$ is a partition of $\mathbb{Z}$.
 and (4)?
 
 (1) $R$ defined on $\mathbb{Z}$ by $xRy$ if and only if $|x|=|y|$
+
+$$\{0\}, \{1, -1\}, \{2, -2\}, \{3, -3\}, \dots$$
