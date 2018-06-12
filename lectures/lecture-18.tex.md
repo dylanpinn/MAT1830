@@ -28,3 +28,17 @@ $yRx$ then $x=y$.
 
 To prove _R_ is not antisymmetric, show that; There is some $x,y \in A$ such
 that $x \not = y, xRy$ and $yRx$.
+
+**Warning** Antisymmetric does not mean "not symmetric"!
+
+**Question** Let _R_ be the relation _A_ pictured below. Is _R_ antisymmetric?
+
+![](images/L18-P7-1.png)
+
+Yes. For all $x,y \in A$, if $xRy$ and $yRx$ then $x=y$.
+
+**Question** Let _S_ be the relation _A_ pictured below. Is _S_ antisymmetric?
+
+![](images/L18-P7-2.png)
+
+No. $3S5$ and $5S3$ (and $3 \not = 5)$.
