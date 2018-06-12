@@ -127,3 +127,10 @@ has the property <img src="/lectures/tex/b3b3425b4ba9f5f69882ea9d0c802c3f.svg?in
 relation.
 
 ![](images/L18-P12.png)
+
+## 18.3 Hasse diagrams
+
+A partial order relation _R_ on a finite set _A_ can be represented as a Hasse
+diagram. The elements of _A_ are written on the page and connected by lines so
+that, for any <img src="/lectures/tex/777184b48e887e904672a8e6f1912fd0.svg?invert_in_darkmode&sanitize=true" align=middle width=91.12807439999999pt height=22.831056599999986pt/> exactly when _b_ can be reached _a_ by travelling
+upward along the lines.
