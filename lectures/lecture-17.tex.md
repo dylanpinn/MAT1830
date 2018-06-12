@@ -268,14 +268,3 @@ odd $\}\}$ is a partition of $\mathbb{Z}$.
 **Question** What are the equivalence classes of the equivalence relations (1)
 and (4)?
 
-(1) $R$ defined on $\mathbb{Z}$ by $xRy$ if and only if $|x|=|y|$
-
-$$\{0\}, \{1, -1\}, \{2, -2\}, \{3, -3\}, \dots$$
-
-(4) $U$ defined on $\mathbb{Z}$ by $xUy$ if and only if 5 divides $x−y$
-
-$$\{ \dots,-10,-5,0,5,10, \dots \},$$
-$$\{ \dots,-9,-4,1,6,11, \dots \},$$
-$$\{ \dots,-8,-3,2,7,12, \dots \},$$
-$$\{ \dots,-7,-2,3,8,13, \dots \},$$
-$$\{ \dots,-6,-1,4,9,14, \dots \}$$
