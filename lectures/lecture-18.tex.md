@@ -132,3 +132,10 @@ $(2,3) \not R(5,2)$ because $2 \leq 5$ and $3 > 2$
 relation.
 
 ![](images/L18-P12.png)
+
+## 18.3 Hasse diagrams
+
+A partial order relation _R_ on a finite set _A_ can be represented as a Hasse
+diagram. The elements of _A_ are written on the page and connected by lines so
+that, for any $a,b \in A, aRb$ exactly when _b_ can be reached _a_ by travelling
+upward along the lines.
