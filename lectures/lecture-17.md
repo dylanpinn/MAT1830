@@ -165,3 +165,31 @@ the same as c, then a is the same as c).
 
 Yes. This relation sit the same as <img src="/lectures/tex/ee7e4d9ca61da271efaf35f9cd10d96d.svg?invert_in_darkmode&sanitize=true" align=middle width=39.96184334999999pt height=15.24650820000002pt/> (mod 5) and we know that's an
 equivalence relation.
+
+**Question** What is the same about the equivalent objects for the equivalence
+relations (1) and (4)?
+
+- (1) <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> defined on <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/> by <img src="/lectures/tex/cd545545658252896318babb6260cb4a.svg?invert_in_darkmode&sanitize=true" align=middle width=30.65268359999999pt height=22.465723500000017pt/> if and only if <img src="/lectures/tex/8132c0c5fc9933af6c769b2c24e9169f.svg?invert_in_darkmode&sanitize=true" align=middle width=58.22672129999999pt height=24.65753399999998pt/>
+  - _x_ and _y_ have the same "magnitude".
+- (4) <img src="/lectures/tex/6bac6ec50c01592407695ef84f457232.svg?invert_in_darkmode&sanitize=true" align=middle width=13.01596064999999pt height=22.465723500000017pt/> defined on <img src="/lectures/tex/b9477ea14234215f4d516bad55d011b8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.95894029999999pt height=22.648391699999998pt/> by <img src="/lectures/tex/494568827dc3ab3590a4bad4cae5bbce.svg?invert_in_darkmode&sanitize=true" align=middle width=31.06015274999999pt height=22.465723500000017pt/> if and only if 5 divides <img src="/lectures/tex/ae0aa12c8f9694cd6825af6fc30cabbc.svg?invert_in_darkmode&sanitize=true" align=middle width=38.135403899999986pt height=19.1781018pt/>
+  - _x_ and _y_ have the same remainder when divided by 5.
+
+## 17.2 Equivalence classes
+
+Conversely, we can show that if <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> is a reflexive, symmetric and transitive
+relation then <img src="/lectures/tex/b3b3425b4ba9f5f69882ea9d0c802c3f.svg?invert_in_darkmode&sanitize=true" align=middle width=28.35242024999999pt height=22.831056599999986pt/> says that <img src="/lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode&sanitize=true" align=middle width=8.68915409999999pt height=14.15524440000002pt/> and <img src="/lectures/tex/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode&sanitize=true" align=middle width=7.054796099999991pt height=22.831056599999986pt/> are the same in some respect: _they
+have the same R-equivalence class_.
+
+If <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> is an equivalence relation we define the _R-equivalence class_ of <img src="/lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode&sanitize=true" align=middle width=8.68915409999999pt height=14.15524440000002pt/> to
+be
+
+<p align="center"><img src="/lectures/tex/5551bccc12fe5563cb567068c8016d29.svg?invert_in_darkmode&sanitize=true" align=middle width=106.58465565pt height=16.438356pt/></p>
+
+Thus <img src="/lectures/tex/e6faf1ef3b2cd6f5098b756495adef3d.svg?invert_in_darkmode&sanitize=true" align=middle width=17.82160214999999pt height=24.65753399999998pt/> consists of all the elements relate to <img src="/lectures/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode&sanitize=true" align=middle width=8.68915409999999pt height=14.15524440000002pt/>. It can also be defined as
+<img src="/lectures/tex/66d2f2a24b54bf4647dffb4af655b425.svg?invert_in_darkmode&sanitize=true" align=middle width=66.84542369999998pt height=24.65753399999998pt/>, because <img src="/lectures/tex/a8dcb166c7ebb516a8422908a9545ea0.svg?invert_in_darkmode&sanitize=true" align=middle width=29.00310434999999pt height=22.465723500000017pt/> if and only if <img src="/lectures/tex/d357d426fb75b59113e7093fa2e3f30a.svg?invert_in_darkmode&sanitize=true" align=middle width=29.00310434999999pt height=22.465723500000017pt/>, by symmetry of <img src="/lectures/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/>.
+
+**Examples**
+
+- The parallel equivalence class of a line <img src="/lectures/tex/ddcb483302ed36a59286424aa5e0be17.svg?invert_in_darkmode&sanitize=true" align=middle width=11.18724254999999pt height=22.465723500000017pt/> consists of all lines parallel to
+  <img src="/lectures/tex/ddcb483302ed36a59286424aa5e0be17.svg?invert_in_darkmode&sanitize=true" align=middle width=11.18724254999999pt height=22.465723500000017pt/>.
+- The equivalence class of 1 for congruence mod 2 is the set of all odd numbers.
