@@ -64,14 +64,28 @@ $$\binom{n+1-1}{r} = \frac{(n+r-1)!}{r!(n-1)!}$$
 Elodie orders a pizza from a shop that allows any 4 toppings to be chosen from a
 list of 11 options. Is this choice
 
-1. Ordered without repetition
-2. Unordered without repetition
-3. Ordered with repetition
-4. Unordered with repetition
+1. ordered without repetition
+2. unordered without repetition
+3. ordered with repetition
+4. unordered with repetition
 
 **Answer** **2** It's reasonable to assume that Elodie doesn't care about the
 order in which the toppings are put on the pizza, and that she doesn't want to
-repeat toppings. In which case, she has
+repeat toppings.
 
 $$\binom{11}{4} = \frac{11 \times 10 \times 9 \times 8}{4 \times 3 \times 2
 \times 1} = 330$$
+
+**Question**
+
+Sam orders 3 pizzas from a shop that sells 7 different pizzas. Is his choice
+
+1. ordered without repetition
+2. unordered without repetition
+3. ordered with repetition
+4. unordered with repetition
+
+**Answer** **4** The same pizza may be picked more than once, but the order
+doesn't matter.
+
+$$\binom{7+3-1}{3} = \binom{9}{3} = \frac{9 * 8 * 7}{3 * 2 * 1} = 84$$
