@@ -21,3 +21,9 @@ The number of combinations of $r$ elements from a set of $n$ elements $(0 \leq r
 \leq n)$ is
 
 $$\frac{n(n-1) \dots (n-r+1)}{r!} = \frac{n!}{r!(n-r)!} = \binom{n}{r}$$
+
+## Ordered selections with repetition
+
+The number of sequences of $r$ terms, each from some set of $n$ elements, is
+
+$$n \times n \times \dots \times n = n^r$$
