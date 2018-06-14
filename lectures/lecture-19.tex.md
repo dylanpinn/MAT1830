@@ -27,3 +27,22 @@ $$\frac{n(n-1) \dots (n-r+1)}{r!} = \frac{n!}{r!(n-r)!} = \binom{n}{r}$$
 The number of sequences of $r$ terms, each from some set of $n$ elements, is
 
 $$n \times n \times \dots \times n = n^r$$
+
+**Questions**
+
+**19.1** A bank requires a PIN that this is a string of four decimal digits. How
+many such PINs are there? How many are made of four different digits?
+
+A PIN is an ordered selection with repetition of four elements from the set
+$\{0, \dots, 9\}$. So there are $10^4 = 10000$ possible PINs.
+
+A PIN with four _different_ digits is a permutation of four elements from the
+set $\{0, \dots, 9\}$. So there are $\frac{10!}{6!} = 5040$ possible PINs with
+four different digits.
+
+**19.2** How many binary strings of length 5 are there? How many of these
+contain exactly two 1s?
+
+There are $2^5 = 32$ binary strings of length 5.
+
+There are $\binom{5}{2} = 10$ that contain exactly two 1s.
