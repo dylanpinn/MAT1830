@@ -30,3 +30,26 @@ choose zero things from the empty set. The value of $\binom{0}{0}$ is:
 
 $$(x+y)^n = \binom{n}{0}x^n y^0 + \bin{n}{1} x^{n-1} y^1 + \bin{n}{2} x^{n-2}
 y^2 + \dots + \binom{n}{n-1} x^1 y^{n-1} + \binom{n}{n} x^0 y^n$$
+
+**Questions**
+
+**20.1** Substitute $x=1$ and $y=-1$ into the statement of the binomial theorem.
+What does this tell you about the rows of Pascal's triangle?
+
+$$(1-1)^n = \binom{n}{0} - \binom{n}{1} + \binom{n}{2} - \dots + \pm
+\binom{n}{n}$$
+
+The alternating sum of the terms in each row is zero except the first row.
+
+**20.2** Find a pattern in the sums of the rows in Pascal's triangle. Prove your
+pattern holds using the binomial theorem. Also prove it holds by considering the
+powerset of a set.
+
+Substitute $x=1, y=1$ into the binomial theorem to get
+
+$$\binom{n}{0} + \binom{n}{1} + \binom{n}{2} + \dots + \binom{n}{n} = (1+1)^n
+= 2^n$$
+
+If $|X| = n$ then $|\wp(X)| = 2^n$. We count all subsets by counting those with
+0 elements, then those with 1 element, then those with 2 elements and so on, up
+to those with $n$ elements.
