@@ -59,3 +59,14 @@ using the binomial theorem is:
 
 **Answer** **4** There are terms for every power of <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> from <img src="/lectures/tex/3c58ce81e368ae900ae3b6ec3ac03351.svg?invert_in_darkmode&sanitize=true" align=middle width=15.94753544999999pt height=26.76175259999998pt/> to
 <img src="/lectures/tex/bf063ec04552dfced0fc285f3ed1e8f2.svg?invert_in_darkmode&sanitize=true" align=middle width=35.60517509999999pt height=26.76175259999998pt/>. There are 2019 numbers in <img src="/lectures/tex/982ac470071289a94d1dd3ad5fa95e80.svg?invert_in_darkmode&sanitize=true" align=middle width=125.11406654999999pt height=24.65753399999998pt/>.
+
+## Inclusion-exclusion
+
+In general, if <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/> are finite sets then we have:
+
+<p align="center"><img src="/lectures/tex/8a5e71a83673acae6196054ef8432407.svg?invert_in_darkmode&sanitize=true" align=middle width=212.0258085pt height=16.438356pt/></p>
+
+We can also set that if <img src="/lectures/tex/b9ebfc5473fcab62450e73397e4d098b.svg?invert_in_darkmode&sanitize=true" align=middle width=32.92809134999999pt height=22.465723500000017pt/> and <img src="/lectures/tex/9b325b9e31e85137d1de765f43c0f8bc.svg?invert_in_darkmode&sanitize=true" align=middle width=12.92464304999999pt height=22.465723500000017pt/> are sets then we have
+
+<p align="center"><img src="/lectures/tex/73dd6a01bc659ea9ab6d99ed99f6eab2.svg?invert_in_darkmode&sanitize=true" align=middle width=536.11144785pt height=16.438356pt/></p>
+
