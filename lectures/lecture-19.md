@@ -87,3 +87,36 @@ Sam orders 3 pizzas from a shop that sells 7 different pizzas. Is his choice
 doesn't matter.
 
 <p align="center"><img src="/lectures/tex/1d14b9ff80b232ba9a3c8124e85f71ee.svg?invert_in_darkmode&sanitize=true" align=middle width=263.30526914999996pt height=39.452455349999994pt/></p>
+
+## The pigeonhole principle
+
+If <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> items are placed in <img src="/lectures/tex/0e51a2dede42189d77627c4d742822c3.svg?invert_in_darkmode&sanitize=true" align=middle width=14.433101099999991pt height=14.15524440000002pt/> containers with <img src="/lectures/tex/d934387e8f739ff0602a0df914fe7b4a.svg?invert_in_darkmode&sanitize=true" align=middle width=46.21760714999999pt height=17.723762100000005pt/>, then at least one
+container has at least two items.
+
+**Example**
+
+If a drawer contains only blue, black and white socks and you take out four
+socks without looking at them, then you are guaranteed to have two of the same
+colour.
+
+**Questions**
+
+**19.3** In a game, each of 10 players holds a red, blue and green marbles, and
+places one marble in a bag. How many possibilities are there for for the colours
+of the marbles in the bag? If each player chooses their colour at random are all
+of these possibilities equally likely?
+
+There are <img src="/lectures/tex/052e9ca541abd49b588da10377bdf54c.svg?invert_in_darkmode&sanitize=true" align=middle width=281.542404pt height=29.419440600000005pt/> possibilities.
+
+These are _not_ equally likely. For example, the "all red" case is less likely
+than having 3 red, 3 blue and 4 green.
+
+**19.4** How many ways are there to partition a set with 10 elements into one
+class of 5 elements, one class of 3 elements and one class of 2 elements? How
+many ways are there to partition a set with 10 elements into one class of 6
+elements and two classes of 2 elements each?
+
+In the first case, there are <img src="/lectures/tex/b0dc6eb9335ae4c75e74cb3d7d3e6a38.svg?invert_in_darkmode&sanitize=true" align=middle width=187.69411649999998pt height=29.419440600000005pt/>
+ways.
+
+In the second case, there are <img src="/lectures/tex/5145fdcad0066cb8e8b7379e242063e0.svg?invert_in_darkmode&sanitize=true" align=middle width=171.95889809999997pt height=43.068412200000004pt/> ways.
