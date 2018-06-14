@@ -48,3 +48,14 @@ Substitute <img src="/lectures/tex/c0b1d0f5f29d8b5366ed5e02cd7e21ac.svg?invert_i
 If <img src="/lectures/tex/b983eb66dd4d9c6d4ed67a6a0e10f6a8.svg?invert_in_darkmode&sanitize=true" align=middle width=55.82562149999999pt height=24.65753399999998pt/> then <img src="/lectures/tex/26e3c37d8fad22cf96e666136d358211.svg?invert_in_darkmode&sanitize=true" align=middle width=85.55175749999998pt height=24.65753399999998pt/>. We count all subsets by counting those with
 0 elements, then those with 1 element, then those with 2 elements and so on, up
 to those with <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> elements.
+
+**Question** The number of terms that I would get if I expanded <img src="/lectures/tex/bbb3ccb1acd21aea9cb1cf8272b7ebe1.svg?invert_in_darkmode&sanitize=true" align=middle width=77.1310056pt height=26.76175259999998pt/>
+using the binomial theorem is:
+
+1. 2016
+2. 2017
+3. 2018
+4. 2019
+
+**Answer** **4** There are terms for every power of <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/> from <img src="/lectures/tex/3c58ce81e368ae900ae3b6ec3ac03351.svg?invert_in_darkmode&sanitize=true" align=middle width=15.94753544999999pt height=26.76175259999998pt/> to
+<img src="/lectures/tex/bf063ec04552dfced0fc285f3ed1e8f2.svg?invert_in_darkmode&sanitize=true" align=middle width=35.60517509999999pt height=26.76175259999998pt/>. There are 2019 numbers in <img src="/lectures/tex/982ac470071289a94d1dd3ad5fa95e80.svg?invert_in_darkmode&sanitize=true" align=middle width=125.11406654999999pt height=24.65753399999998pt/>.
