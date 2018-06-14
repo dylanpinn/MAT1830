@@ -63,13 +63,27 @@ The number of multisets of <img src="/lectures/tex/89f2e0d2d24bcf44db73aab8fc032
 Elodie orders a pizza from a shop that allows any 4 toppings to be chosen from a
 list of 11 options. Is this choice
 
-1. Ordered without repetition
-2. Unordered without repetition
-3. Ordered with repetition
-4. Unordered with repetition
+1. ordered without repetition
+2. unordered without repetition
+3. ordered with repetition
+4. unordered with repetition
 
 **Answer** **2** It's reasonable to assume that Elodie doesn't care about the
 order in which the toppings are put on the pizza, and that she doesn't want to
-repeat toppings. In which case, she has
+repeat toppings.
 
 <p align="center"><img src="/lectures/tex/8c81742616d35b7c161bb483f13dc6f6.svg?invert_in_darkmode&sanitize=true" align=middle width=222.66628889999998pt height=39.452455349999994pt/></p>
+
+**Question**
+
+Sam orders 3 pizzas from a shop that sells 7 different pizzas. Is his choice
+
+1. ordered without repetition
+2. unordered without repetition
+3. ordered with repetition
+4. unordered with repetition
+
+**Answer** **4** The same pizza may be picked more than once, but the order
+doesn't matter.
+
+<p align="center"><img src="/lectures/tex/1d14b9ff80b232ba9a3c8124e85f71ee.svg?invert_in_darkmode&sanitize=true" align=middle width=263.30526914999996pt height=39.452455349999994pt/></p>
