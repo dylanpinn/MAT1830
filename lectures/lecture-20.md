@@ -23,3 +23,7 @@ choose zero things from the empty set. The value of <img src="/lectures/tex/5534
 4. None of the above
 
 **Answer** **2** It is the top entry in Pascal's triangle.
+
+## Binomial Theorem
+
+<p align="center"><img src="/lectures/tex/bfbe6319bf27d2e0a42e46f69d29ae5d.svg?invert_in_darkmode&sanitize=true" align=middle width=589.59726045pt height=39.452455349999994pt/></p>
