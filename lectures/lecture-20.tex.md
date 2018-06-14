@@ -15,3 +15,13 @@ elements of $X$ that do contain $x$. So:
 
 $$\binom{n}{r} = \binom{n-1}{r-q} + \binom{n-1}{r} \text{ for } 1 \leq r \leq
 n$$
+
+**Question** The binomial coefficient $\binom{0}{0}$ is the number of ways to
+choose zero things from the empty set. The value of $\binom{0}{0}$ is:
+
+1. 0
+2. 1
+3. Undefined
+4. None of the above
+
+**Answer** **2** It is the top entry in Pascal's triangle.
