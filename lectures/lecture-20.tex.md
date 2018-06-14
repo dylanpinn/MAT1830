@@ -25,3 +25,8 @@ choose zero things from the empty set. The value of $\binom{0}{0}$ is:
 4. None of the above
 
 **Answer** **2** It is the top entry in Pascal's triangle.
+
+## Binomial Theorem
+
+$$(x+y)^n = \binom{n}{0}x^n y^0 + \bin{n}{1} x^{n-1} y^1 + \bin{n}{2} x^{n-2}
+y^2 + \dots + \binom{n}{n-1} x^1 y^{n-1} + \binom{n}{n} x^0 y^n$$
