@@ -57,3 +57,19 @@ An ordered selection of <img src="/lectures/tex/89f2e0d2d24bcf44db73aab8fc03252c
 The number of multisets of <img src="/lectures/tex/89f2e0d2d24bcf44db73aab8fc03252c.svg?invert_in_darkmode&sanitize=true" align=middle width=7.87295519999999pt height=14.15524440000002pt/> elements, each from a set of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> elements, is
 
 <p align="center"><img src="/lectures/tex/1282081078e3db64ada8efbcb06ec6aa.svg?invert_in_darkmode&sanitize=true" align=middle width=198.0719862pt height=39.452455349999994pt/></p>
+
+**Question**
+
+Elodie orders a pizza from a shop that allows any 4 toppings to be chosen from a
+list of 11 options. Is this choice
+
+1. Ordered without repetition
+2. Unordered without repetition
+3. Ordered with repetition
+4. Unordered with repetition
+
+**Answer** **2** It's reasonable to assume that Elodie doesn't care about the
+order in which the toppings are put on the pizza, and that she doesn't want to
+repeat toppings. In which case, she has
+
+<p align="center"><img src="/lectures/tex/8c81742616d35b7c161bb483f13dc6f6.svg?invert_in_darkmode&sanitize=true" align=middle width=222.66628889999998pt height=39.452455349999994pt/></p>
