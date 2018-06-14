@@ -46,3 +46,15 @@ contain exactly two 1s?
 There are $2^5 = 32$ binary strings of length 5.
 
 There are $\binom{5}{2} = 10$ that contain exactly two 1s.
+
+## Unordered selections with repetition
+
+A **multiset** is like a set, except we allow elements to appear more than once
+and we keep track of how many times they occur.
+
+An ordered selection of $r$ elements, with repetition allowed, from a set $X$ of
+$n$ elements can be thought of a multiset with $r$ elements, each in $X$.
+
+The number of multisets of $r$ elements, each from a set of $n$ elements, is
+
+$$\binom{n+1-1}{r} = \frac{(n+r-1)!}{r!(n-1)!}$$
