@@ -13,3 +13,13 @@ Let <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkm
 elements of <img src="/lectures/tex/cbfb1b2a33b28eab8a3e59464768e810.svg?invert_in_darkmode&sanitize=true" align=middle width=14.908688849999992pt height=22.465723500000017pt/> that do contain <img src="/lectures/tex/332cc365a4987aacce0ead01b8bdcc0b.svg?invert_in_darkmode&sanitize=true" align=middle width=9.39498779999999pt height=14.15524440000002pt/>. So:
 
 <p align="center"><img src="/lectures/tex/83dfe42c2448bb2e07a340228851c42f.svg?invert_in_darkmode&sanitize=true" align=middle width=301.26691815pt height=39.452455349999994pt/></p>
+
+**Question** The binomial coefficient <img src="/lectures/tex/55345afebb1bfd523bc03fa4f60ed4b1.svg?invert_in_darkmode&sanitize=true" align=middle width=21.621118199999987pt height=29.419440600000005pt/> is the number of ways to
+choose zero things from the empty set. The value of <img src="/lectures/tex/55345afebb1bfd523bc03fa4f60ed4b1.svg?invert_in_darkmode&sanitize=true" align=middle width=21.621118199999987pt height=29.419440600000005pt/> is:
+
+1. 0
+2. 1
+3. Undefined
+4. None of the above
+
+**Answer** **2** It is the top entry in Pascal's triangle.
