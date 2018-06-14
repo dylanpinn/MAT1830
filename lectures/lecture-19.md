@@ -20,3 +20,9 @@ elements.
 The number of combinations of <img src="/lectures/tex/89f2e0d2d24bcf44db73aab8fc03252c.svg?invert_in_darkmode&sanitize=true" align=middle width=7.87295519999999pt height=14.15524440000002pt/> elements from a set of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> elements <img src="/lectures/tex/4d1f4471f3505b6f640aa18a4dbed3d5.svg?invert_in_darkmode&sanitize=true" align=middle width=82.57973624999998pt height=24.65753399999998pt/> is
 
 <p align="center"><img src="/lectures/tex/e8bfddd2decc41cc4261a6ad4720646d.svg?invert_in_darkmode&sanitize=true" align=middle width=315.8564442pt height=39.452455349999994pt/></p>
+
+## Ordered selections with repetition
+
+The number of sequences of <img src="/lectures/tex/89f2e0d2d24bcf44db73aab8fc03252c.svg?invert_in_darkmode&sanitize=true" align=middle width=7.87295519999999pt height=14.15524440000002pt/> terms, each from some set of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> elements, is
+
+<p align="center"><img src="/lectures/tex/71c1a27040d5806e4bf178b0d3d41554.svg?invert_in_darkmode&sanitize=true" align=middle width=147.29414865pt height=13.1114775pt/></p>
