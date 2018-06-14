@@ -76,3 +76,23 @@ We can also set that if $A, B$ and $C$ are sets then we have
 $$|A \cup B \cup C| = |A| + |B| + |C| - |A \cap B| - |A \cup C| - |B \cup C| +
 |A \cup B \cup C|$$
 
+**Question**
+
+**20.3** Use inclusion-exclusion to work out how many numbers in the set $\{1,
+\dots, 100\}$ are divisible by 2 or 3 or 5.
+
+Let $X_2$ be the set of numbers in $\{1, \dots, 100\}$ that are divisible by 2.
+
+Let $X_3$ be the set of numbers in $\{1, \dots, 100\}$ that are divisible by 3.
+
+Let $X_5$ be the set of numbers in $\{1, \dots, 100\}$ that are divisible by 5.
+
+We want $|X_2 \cup X_3 \cup X_5|$ which is
+
+$$|X_2|+|X_3|+|X_5|-|X_2 \cap X_3| - |X_2 \cap X_5| - |X_3 \cap X_5| + |X_2 \cap
+X_3 \cap X_5|$$
+
+These are much easier sets to count. For example, $|X_2 \cap X_5|$ counts the
+numbers that are divisble by 10 (of which there are 10)
+
+So $|X_2 \cup X_3 \cup X_5| = 50 + 33 + 20 - 16 - 10 - 6 + 3 = 74$.
