@@ -53,3 +53,14 @@ $$\binom{n}{0} + \binom{n}{1} + \binom{n}{2} + \dots + \binom{n}{n} = (1+1)^n
 If $|X| = n$ then $|\wp(X)| = 2^n$. We count all subsets by counting those with
 0 elements, then those with 1 element, then those with 2 elements and so on, up
 to those with $n$ elements.
+
+**Question** The number of terms that I would get if I expanded $(x+y)^{2018}$
+using the binomial theorem is:
+
+1. 2016
+2. 2017
+3. 2018
+4. 2019
+
+**Answer** **4** There are terms for every power of $x$ from $x^0$ to
+$x^{2018}$. There are 2019 numbers in $\{0,1,2,\dots,2018\}$.
