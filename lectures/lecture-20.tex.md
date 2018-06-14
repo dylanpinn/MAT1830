@@ -93,6 +93,6 @@ $$|X_2|+|X_3|+|X_5|-|X_2 \cap X_3| - |X_2 \cap X_5| - |X_3 \cap X_5| + |X_2 \cap
 X_3 \cap X_5|$$
 
 These are much easier sets to count. For example, $|X_2 \cap X_5|$ counts the
-numbers that are divisble by 10 (of which there are 10)
+numbers that are divisible by 10 (of which there are 10)
 
 So $|X_2 \cup X_3 \cup X_5| = 50 + 33 + 20 - 16 - 10 - 6 + 3 = 74$.
