@@ -26,7 +26,7 @@ choose zero things from the empty set. The value of <img src="/lectures/tex/5534
 
 ## Binomial Theorem
 
-<p align="center"><img src="/lectures/tex/bfbe6319bf27d2e0a42e46f69d29ae5d.svg?invert_in_darkmode&sanitize=true" align=middle width=589.59726045pt height=39.452455349999994pt/></p>
+<p align="center"><img src="/lectures/tex/85b86511c68bf8844dd1b1fc8878bf23.svg?invert_in_darkmode&sanitize=true" align=middle width=605.5790763pt height=39.452455349999994pt/></p>
 
 **Questions**
 
