@@ -64,3 +64,15 @@ using the binomial theorem is:
 
 **Answer** **4** There are terms for every power of $x$ from $x^0$ to
 $x^{2018}$. There are 2019 numbers in $\{0,1,2,\dots,2018\}$.
+
+## Inclusion-exclusion
+
+In general, if $A$ and $B$ are finite sets then we have:
+
+$$|A \cup B| = |A| + |B| - |A \cap B|$$
+
+We can also set that if $A, B$ and $C$ are sets then we have
+
+$$|A \cup B \cup C| = |A| + |B| + |C| - |A \cap B| - |A \cup C| - |B \cup C| +
+|A \cup B \cup C|$$
+
