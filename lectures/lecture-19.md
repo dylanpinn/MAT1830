@@ -26,3 +26,22 @@ The number of combinations of <img src="/lectures/tex/89f2e0d2d24bcf44db73aab8fc
 The number of sequences of <img src="/lectures/tex/89f2e0d2d24bcf44db73aab8fc03252c.svg?invert_in_darkmode&sanitize=true" align=middle width=7.87295519999999pt height=14.15524440000002pt/> terms, each from some set of <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> elements, is
 
 <p align="center"><img src="/lectures/tex/71c1a27040d5806e4bf178b0d3d41554.svg?invert_in_darkmode&sanitize=true" align=middle width=147.29414865pt height=13.1114775pt/></p>
+
+**Questions**
+
+**19.1** A bank requires a PIN that this is a string of four decimal digits. How
+many such PINs are there? How many are made of four different digits?
+
+A PIN is an ordered selection with repetition of four elements from the set
+<img src="/lectures/tex/6090d842ab3a28d61c4d311fa3c575d7.svg?invert_in_darkmode&sanitize=true" align=middle width=69.40625339999998pt height=24.65753399999998pt/>. So there are <img src="/lectures/tex/2a15b76747e110fd0af39e7335c40457.svg?invert_in_darkmode&sanitize=true" align=middle width=86.82655574999998pt height=26.76175259999998pt/> possible PINs.
+
+A PIN with four _different_ digits is a permutation of four elements from the
+set <img src="/lectures/tex/6090d842ab3a28d61c4d311fa3c575d7.svg?invert_in_darkmode&sanitize=true" align=middle width=69.40625339999998pt height=24.65753399999998pt/>. So there are <img src="/lectures/tex/606c628a97353f8ce07aae8524894d7f.svg?invert_in_darkmode&sanitize=true" align=middle width=73.59362999999999pt height=28.92634470000001pt/> possible PINs with
+four different digits.
+
+**19.2** How many binary strings of length 5 are there? How many of these
+contain exactly two 1s?
+
+There are <img src="/lectures/tex/95de08ccc1e1b5f3ce14ed748478354c.svg?invert_in_darkmode&sanitize=true" align=middle width=53.94971834999998pt height=26.76175259999998pt/> binary strings of length 5.
+
+There are <img src="/lectures/tex/689ed70c96a7d7e9c6d639d2253e4fb8.svg?invert_in_darkmode&sanitize=true" align=middle width=59.97716834999999pt height=29.419440600000005pt/> that contain exactly two 1s.
