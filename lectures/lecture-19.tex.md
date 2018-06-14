@@ -89,3 +89,38 @@ Sam orders 3 pizzas from a shop that sells 7 different pizzas. Is his choice
 doesn't matter.
 
 $$\binom{7+3-1}{3} = \binom{9}{3} = \frac{9 * 8 * 7}{3 * 2 * 1} = 84$$
+
+## The pigeonhole principle
+
+If $n$ items are placed in $m$ containers with $n > m$, then at least one
+container has at least two items.
+
+**Example**
+
+If a drawer contains only blue, black and white socks and you take out four
+socks without looking at them, then you are guaranteed to have two of the same
+colour.
+
+**Questions**
+
+**19.3** In a game, each of 10 players holds a red, blue and green marbles, and
+places one marble in a bag. How many possibilities are there for for the colours
+of the marbles in the bag? If each player chooses their colour at random are all
+of these possibilities equally likely?
+
+There are $\binom{n+r-1}{r} = \binom{3+10-1}{10} = \binom{12}{10} =
+\frac{12!}{10!2!} = 66$ possibilities.
+
+These are _not_ equally likely. For example, the "all red" case is less likely
+than having 3 red, 3 blue and 4 green.
+
+**19.4** How many ways are there to partition a set with 10 elements into one
+class of 5 elements, one class of 3 elements and one class of 2 elements? How
+many ways are there to partition a set with 10 elements into one class of 6
+elements and two classes of 2 elements each?
+
+In the first case, there are $\binom{10}{5} \binom{5}{3} = 252 \times 10 = 2520$
+ways.
+
+In the second case, there are $\binom{10}{6} \frac{\binom{4}{2}}{2} = 210 \times
+3 = 630$ ways.
