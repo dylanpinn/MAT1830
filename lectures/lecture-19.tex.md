@@ -58,3 +58,20 @@ $n$ elements can be thought of a multiset with $r$ elements, each in $X$.
 The number of multisets of $r$ elements, each from a set of $n$ elements, is
 
 $$\binom{n+1-1}{r} = \frac{(n+r-1)!}{r!(n-1)!}$$
+
+**Question**
+
+Elodie orders a pizza from a shop that allows any 4 toppings to be chosen from a
+list of 11 options. Is this choice
+
+1. Ordered without repetition
+2. Unordered without repetition
+3. Ordered with repetition
+4. Unordered with repetition
+
+**Answer** **2** It's reasonable to assume that Elodie doesn't care about the
+order in which the toppings are put on the pizza, and that she doesn't want to
+repeat toppings. In which case, she has
+
+$$\binom{11}{4} = \frac{11 \times 10 \times 9 \times 8}{4 \times 3 \times 2
+\times 1} = 330$$
