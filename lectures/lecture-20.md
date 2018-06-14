@@ -27,3 +27,24 @@ choose zero things from the empty set. The value of <img src="/lectures/tex/5534
 ## Binomial Theorem
 
 <p align="center"><img src="/lectures/tex/bfbe6319bf27d2e0a42e46f69d29ae5d.svg?invert_in_darkmode&sanitize=true" align=middle width=589.59726045pt height=39.452455349999994pt/></p>
+
+**Questions**
+
+**20.1** Substitute <img src="/lectures/tex/f41f51aeb9528548f1409a3a0ec61640.svg?invert_in_darkmode&sanitize=true" align=middle width=39.53182859999999pt height=21.18721440000001pt/> and <img src="/lectures/tex/1bff0e95fdc5dc5190c88c0a706c22ac.svg?invert_in_darkmode&sanitize=true" align=middle width=51.571479299999986pt height=21.18721440000001pt/> into the statement of the binomial theorem.
+What does this tell you about the rows of Pascal's triangle?
+
+<p align="center"><img src="/lectures/tex/596f81897bdb3bff69864934259a1ddc.svg?invert_in_darkmode&sanitize=true" align=middle width=328.78040415pt height=39.452455349999994pt/></p>
+
+The alternating sum of the terms in each row is zero except the first row.
+
+**20.2** Find a pattern in the sums of the rows in Pascal's triangle. Prove your
+pattern holds using the binomial theorem. Also prove it holds by considering the
+powerset of a set.
+
+Substitute <img src="/lectures/tex/c0b1d0f5f29d8b5366ed5e02cd7e21ac.svg?invert_in_darkmode&sanitize=true" align=middle width=85.62375689999999pt height=21.18721440000001pt/> into the binomial theorem to get
+
+<p align="center"><img src="/lectures/tex/e4c364ca347182f51adb8122b43ccbfd.svg?invert_in_darkmode&sanitize=true" align=middle width=354.2578347pt height=39.452455349999994pt/></p>
+
+If <img src="/lectures/tex/b983eb66dd4d9c6d4ed67a6a0e10f6a8.svg?invert_in_darkmode&sanitize=true" align=middle width=55.82562149999999pt height=24.65753399999998pt/> then <img src="/lectures/tex/26e3c37d8fad22cf96e666136d358211.svg?invert_in_darkmode&sanitize=true" align=middle width=85.55175749999998pt height=24.65753399999998pt/>. We count all subsets by counting those with
+0 elements, then those with 1 element, then those with 2 elements and so on, up
+to those with <img src="/lectures/tex/55a049b8f161ae7cfeb0197d75aff967.svg?invert_in_darkmode&sanitize=true" align=middle width=9.86687624999999pt height=14.15524440000002pt/> elements.
