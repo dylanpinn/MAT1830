@@ -70,3 +70,21 @@ We can also set that if <img src="/lectures/tex/b9ebfc5473fcab62450e73397e4d098b
 
 <p align="center"><img src="/lectures/tex/73dd6a01bc659ea9ab6d99ed99f6eab2.svg?invert_in_darkmode&sanitize=true" align=middle width=536.11144785pt height=16.438356pt/></p>
 
+**Question**
+
+**20.3** Use inclusion-exclusion to work out how many numbers in the set <img src="/lectures/tex/a453c9b2acdd093c0f7e1db7584b4a7e.svg?invert_in_darkmode&sanitize=true" align=middle width=85.84467209999998pt height=24.65753399999998pt/> are divisible by 2 or 3 or 5.
+
+Let <img src="/lectures/tex/f6fac43e354f1b2ca85658091df26df1.svg?invert_in_darkmode&sanitize=true" align=middle width=20.17129784999999pt height=22.465723500000017pt/> be the set of numbers in <img src="/lectures/tex/606c2bbcb7b3a60bf2da1295368a3f72.svg?invert_in_darkmode&sanitize=true" align=middle width=85.84467209999998pt height=24.65753399999998pt/> that are divisible by 2.
+
+Let <img src="/lectures/tex/1baf02c4f56309cbe1b8eb8152c8a0c3.svg?invert_in_darkmode&sanitize=true" align=middle width=20.17129784999999pt height=22.465723500000017pt/> be the set of numbers in <img src="/lectures/tex/606c2bbcb7b3a60bf2da1295368a3f72.svg?invert_in_darkmode&sanitize=true" align=middle width=85.84467209999998pt height=24.65753399999998pt/> that are divisible by 3.
+
+Let <img src="/lectures/tex/0a1a10f401bdabe662baedc9639fffc7.svg?invert_in_darkmode&sanitize=true" align=middle width=20.17129784999999pt height=22.465723500000017pt/> be the set of numbers in <img src="/lectures/tex/606c2bbcb7b3a60bf2da1295368a3f72.svg?invert_in_darkmode&sanitize=true" align=middle width=85.84467209999998pt height=24.65753399999998pt/> that are divisible by 5.
+
+We want <img src="/lectures/tex/31507cb836ce5fb488426f804e414067.svg?invert_in_darkmode&sanitize=true" align=middle width=108.64147799999998pt height=24.65753399999998pt/> which is
+
+<p align="center"><img src="/lectures/tex/2b690371dd77b95000772351f44a8a1d.svg?invert_in_darkmode&sanitize=true" align=middle width=527.7163105499999pt height=16.438356pt/></p>
+
+These are much easier sets to count. For example, <img src="/lectures/tex/4615e6129c350835418469f33718ec5d.svg?invert_in_darkmode&sanitize=true" align=middle width=69.38356919999998pt height=24.65753399999998pt/> counts the
+numbers that are divisible by 10 (of which there are 10)
+
+So <img src="/lectures/tex/fb13a002e31b208fa5807c8b132bc588.svg?invert_in_darkmode&sanitize=true" align=middle width=388.09281884999996pt height=24.65753399999998pt/>.
