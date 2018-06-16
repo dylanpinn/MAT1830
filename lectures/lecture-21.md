@@ -78,3 +78,11 @@ We always take the sample space as our universal set, so <img src="/lectures/tex
 **ANS: E** In general <img src="/lectures/tex/3b71f17c7a65a2decc536b81dad249fe.svg?invert_in_darkmode&sanitize=true" align=middle width=74.29794074999998pt height=24.65753399999998pt/> depends on the events _A_ and _B_, but the
 only thing you can be sure of is that it is no more than the probability of
 either of the individual events.
+
+## Independent events
+We say that two events are _independent_ when the occurrence or non-occurrence
+of one event does not affect the likelihood of the other occurring.
+
+Two events _A_ and _B_ are _independent_ if
+
+<p align="center"><img src="/lectures/tex/852b42745a108df4fc2dec378be9a47e.svg?invert_in_darkmode&sanitize=true" align=middle width=185.3995143pt height=16.438356pt/></p>
