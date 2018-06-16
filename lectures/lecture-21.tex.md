@@ -102,3 +102,28 @@ $$A \cap B = \{111, 110\} \Rightarrow \Pr(A \cap B) = \frac{1}{4}$$
 $$A \cap C = \{110, 101\} \Rightarrow \Pr(A \cap B) = \frac{1}{4}$$
 
 So $\Pr(A \cap B) = \Pr(A)\Pr(B)$ but $\Pr(A \cap C) \not = \Pr(A)\Pr(C)$.
+
+**Questions**
+
+An integer is chosen uniformly at random from the set $\{1,2, \dots, 30\}$. Let
+_A_ be the event that the integer is at most 20. Let _B_ be the event that the
+integer is divisible by 6. Let _C_ be the event that the integer's last digit is
+a 5.
+
+**21.1** Write _A_, _B_ and _C_ as sets, and find their probabilities.
+
+- $A = \{1,2,\dots, 19,20\}$. $\Pr(A) = \frac{2}{3}$.
+- $B = \{6,12,18,24,30\}$. $\Pr(B) = \frac{1}{6}$.
+- $C = \{5,15,25\}$. $\Pr(C) = \frac{1}{10}$.
+
+**21.2** Find the probabilities of $A \cup B$, $A \cup C$, and $B \cup C$. Which
+pairs of _A_, _B_, _C_ are mutually exclusive?
+
+$\Pr(A \cup B) = \frac{11}{15}, \Pr(A \cup C) = \frac{7}{10}, \Pr(B \cup C) =
+\frac{4}{15}$. The only pair which are mutually exclusive is _B_ and _C_.
+
+**21.3** Find the probabilities of $A \cap B$, $A \cap C$, and $B \cap C$. Which
+pairs of $A$, $B$, $C$ are independent?
+
+$\Pr(A \cap B) = \frac{1}{10}, \Pr(A \cap C) = \frac{1}{15}, \Pr(B \cap C) = 0$.
+The only pair which are independent is A and C.
