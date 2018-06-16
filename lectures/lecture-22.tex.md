@@ -144,12 +144,9 @@ We are assuming that the conditional probability of testing positive given
 you're a vampire is 0.99. But what is the conditional probability of being a
 vampire given that you tested positive?
 
-$$
-\begin{align}
-\Pr(V|P) &= \frac{\Pr(P|V)\Pr(V)}{\Pr(P|V)\Pr(V) +\Pr(P|\bar{V})\Pr(\bar{V})} \\
-&= \frac{100}{24000000} \times 0.99 \div \frac{100}{24000000} \times 0.99 + (1-
-\frac{100}{24000000}) \times 0.01 \\
-&= \frac{99}{99 + 239999} \\
-&\approx 0.0004
-\eng{align}
-$$
+$$ \Pr(V|P) = \frac{\Pr(P|V)\Pr(V)}{\Pr(P|V)\Pr(V)
++\Pr(P|\bar{V})\Pr(\bar{V})}$$
+$$= \frac{100}{24000000} \times 0.99 \div \frac{100}{24000000} \times 0.99 + (1-
+\frac{100}{24000000}) \times 0.01$$
+$$= \frac{99}{99 + 239999}$$
+$$\approx 0.0004$$
