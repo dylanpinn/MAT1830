@@ -27,7 +27,7 @@ first bit is a 1 and the rest of the string contains one 1. There are
 <img src="/lectures/tex/bb13ebf60d342c9e474fdde6c7b7e422.svg?invert_in_darkmode&sanitize=true" align=middle width=21.621118199999987pt height=29.419440600000005pt/> such strings and so <img src="/lectures/tex/a4ab93c2ac3d07b6a7744ad664cb66f0.svg?invert_in_darkmode&sanitize=true" align=middle width=116.56729589999999pt height=43.068412200000004pt/>.
 Also, there are <img src="/lectures/tex/cce20003de73186579b665e0a0cdce0f.svg?invert_in_darkmode&sanitize=true" align=middle width=21.621118199999987pt height=29.419440600000005pt/> strings containing two 1s and so <img src="/lectures/tex/d55866b63b168d385532761ccb0f5f94.svg?invert_in_darkmode&sanitize=true" align=middle width=85.97379944999999pt height=43.068412200000004pt/>. Thus,
 
-<p align="center"><img src="/lectures/tex/939af30e0be5c81bda5857bd2e496f51.svg?invert_in_darkmode&sanitize=true" align=middle width=240.35357775pt height=45.528984599999994pt/></p>.
+<p align="center"><img src="/lectures/tex/939af30e0be5c81bda5857bd2e496f51.svg?invert_in_darkmode&sanitize=true" align=middle width=240.35357775pt height=45.528984599999994pt/></p>
 
 **Exercise** A normal die is rolled. Let _A_ be the event that the result is an
 odd number. Let _B_ be the event that the result is a square number.
@@ -43,3 +43,25 @@ So
 <p align="center"><img src="/lectures/tex/85a4e1706b50c55f8ba00bef2691feb6.svg?invert_in_darkmode&sanitize=true" align=middle width=229.2301968pt height=43.715357399999995pt/></p>
 
 <p align="center"><img src="/lectures/tex/6edf12e0b00d973677d169ad6c0555a7.svg?invert_in_darkmode&sanitize=true" align=middle width=229.2301968pt height=43.715357399999995pt/></p>
+
+## Independence again
+
+Our definition of conditional probability gives us another way of defining
+independence. We can say that events _A_ and _B_ are independent if <img src="/lectures/tex/3698ec15338daacbb6b8469c4bacb07b.svg?invert_in_darkmode&sanitize=true" align=middle width=125.25693674999998pt height=24.65753399999998pt/>.
+
+**Exercise**
+
+The previous example considered the events _A_ (odd number) and _B_ (square
+number) and we calculated that <img src="/lectures/tex/305470adb8ae7a49e1f58a418dfcab14.svg?invert_in_darkmode&sanitize=true" align=middle width=91.04224139999998pt height=27.77565449999998pt/> and <img src="/lectures/tex/0d3b21282e83b5d3cabe39e81520095a.svg?invert_in_darkmode&sanitize=true" align=middle width=91.04224139999998pt height=27.77565449999998pt/>.
+
+- **A:** Event _A_ is independent of Event _B_, and vice versa.
+- **B:** The events _A_ and _B_ are NOT independent because a die roll of 1 is
+  included in both.
+- **C:** The event _A_ is independent of _B_ but the event _B_ is NOT
+  independent of _A_.
+- **D:** The event _B_ is independent of _A_ but the event _A_ is NOT
+  independent of _B_.
+
+**ANS: A** because <img src="/lectures/tex/fdbac099ba07864a1c429f613f55adcb.svg?invert_in_darkmode&sanitize=true" align=middle width=157.67230379999998pt height=27.77565449999998pt/> and <img src="/lectures/tex/a29cf123fae3e1f828571cb483d1047d.svg?invert_in_darkmode&sanitize=true" align=middle width=158.63690864999998pt height=27.77565449999998pt/>. (Either of these is enough to show that these events are independent.
+Note that C and D are red herrings; the situations they describe are impossible
+regardless of what A and B are.)
