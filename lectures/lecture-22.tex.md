@@ -101,3 +101,24 @@ $$\Pr((2,3)) = \Pr((3,2)) = \frac{1}{4} \times \frac{1}{8} = \frac{1}{32}$$
 So, because $(1,4), (4,1), (2,3)$ and $(3,2)$ are mutually exclusive, the
 probability of the total being 5 is $\frac{1}{16} + \frac{1}{16} + \frac{1}{32}
 + \frac{1}{32} = \frac{3}{16}$.
+
+**Questions**
+
+**22.1** An integer is selected uniformly at random from the set $\{1,2,\dots,
+15\}$. What is the probability that it is divisible by 5, given that it is odd?
+
+Let $A = \{5,10,15\}$ be the event that the chosen number is divisible by 5. Let
+$B = \{1,3,5,7,9,11,13,15\}$ be the event that the chosen number is odd.
+
+$$\Pr(A|B) = \frac{\Pr(A \cap B)}{\Pr(B)} = \frac{2}{15}\div \frac{8}{15} =
+\frac{1}{4}$$
+
+**22.2** A standard die is rolled twice. What is the probability that the first
+roll is a 1, given that the sum of the rolls is 6?
+
+- Let _A_ be the event that the first roll is 1.
+- Let _B_ be the event that the sum of the rolls is 6 (which happens as $5+1,
+  4+2, 3+3, 2+4, 1+5$).
+
+$$\Pr(A|B) = \frac{\Pr(A \cap B)}{\Pr(B)} = \frac{1}{36} \div \frac{5}{36} =
+\frac{1}{5}$$
