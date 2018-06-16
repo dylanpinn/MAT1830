@@ -86,3 +86,18 @@ sample space is $S \times S$ and our probability function will be given by
 $\Pr((s_1, s_2)) = \Pr(s_1)\Pr(s_2)$. For three independent repeated trials the
 sample space is $S \times S \times S$ and the probability function $\Pr((s_1,
 s_2, s_3)) = \Pr(s_1)\Pr(s_2)\Pr(s_3)$, and so on.
+
+**Example** The spinner from the previous example is spun twice. What is the
+probability that the results add to 5?
+
+![](images/L22-P10.png)
+
+A total of 5 can be obtained as $(1,4), (4,1), (2,3), (3,2)$. Because the spins
+are independent:
+
+$$\Pr((1,4)) = \Pr((4,1)) = \frac{1}{2} \times \frac{1}{8} = \frac{1}{16}$$
+$$\Pr((2,3)) = \Pr((3,2)) = \frac{1}{4} \times \frac{1}{8} = \frac{1}{32}$$
+
+So, because $(1,4), (4,1), (2,3)$ and $(3,2)$ are mutually exclusive, the
+probability of the total being 5 is $\frac{1}{16} + \frac{1}{16} + \frac{1}{32}
++ \frac{1}{32} = \frac{3}{16}$.
