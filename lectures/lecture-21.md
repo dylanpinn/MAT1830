@@ -102,3 +102,27 @@ and <img src="/lectures/tex/cbf67d64a02e3597be2b12954fc34f72.svg?invert_in_darkm
 <p align="center"><img src="/lectures/tex/3b3c5fdf3cd809747cdff154bbb684dd.svg?invert_in_darkmode&sanitize=true" align=middle width=270.4733031pt height=32.990165999999995pt/></p>
 
 So <img src="/lectures/tex/67bdfcb9ff2d468183db604179645a91.svg?invert_in_darkmode&sanitize=true" align=middle width=185.39951429999996pt height=24.65753399999998pt/> but <img src="/lectures/tex/d9a0611dc7268248572bc0d4e0211baa.svg?invert_in_darkmode&sanitize=true" align=middle width=184.66198079999998pt height=24.65753399999998pt/>.
+
+**Questions**
+
+An integer is chosen uniformly at random from the set <img src="/lectures/tex/7340fdfa704e4d287f978037def5f0d7.svg?invert_in_darkmode&sanitize=true" align=middle width=93.1505553pt height=24.65753399999998pt/>. Let
+_A_ be the event that the integer is at most 20. Let _B_ be the event that the
+integer is divisible by 6. Let _C_ be the event that the integer's last digit is
+a 5.
+
+**21.1** Write _A_, _B_ and _C_ as sets, and find their probabilities.
+
+- <img src="/lectures/tex/bccf39bcbab3cd86ee182b03c51b59e5.svg?invert_in_darkmode&sanitize=true" align=middle width=151.141287pt height=24.65753399999998pt/>. <img src="/lectures/tex/1ed3a15ec1fc9f2710b744379f8b2a27.svg?invert_in_darkmode&sanitize=true" align=middle width=73.18261334999998pt height=27.77565449999998pt/>.
+- <img src="/lectures/tex/cbaab7d2f84e5c12f4aaab8bd79f4b38.svg?invert_in_darkmode&sanitize=true" align=middle width=154.84587029999997pt height=24.65753399999998pt/>. <img src="/lectures/tex/5a00d31ff9a258d3be10458af112adb3.svg?invert_in_darkmode&sanitize=true" align=middle width=74.14721984999998pt height=27.77565449999998pt/>.
+- <img src="/lectures/tex/01aca8627de5cd59c8300b8b714bfc5b.svg?invert_in_darkmode&sanitize=true" align=middle width=106.98849975pt height=24.65753399999998pt/>. <img src="/lectures/tex/3bfd94d0329987105d44c2878a668837.svg?invert_in_darkmode&sanitize=true" align=middle width=80.33099909999999pt height=27.77565449999998pt/>.
+
+**21.2** Find the probabilities of <img src="/lectures/tex/d125f2409905fcd5b28b7846e0c5d41f.svg?invert_in_darkmode&sanitize=true" align=middle width=43.88690624999999pt height=22.465723500000017pt/>, <img src="/lectures/tex/978f3ca9fdbef1f9be3be8998957b97c.svg?invert_in_darkmode&sanitize=true" align=middle width=43.518141149999984pt height=22.465723500000017pt/>, and <img src="/lectures/tex/534d600a2eccce5f4f2546c54d35350a.svg?invert_in_darkmode&sanitize=true" align=middle width=44.482745999999985pt height=22.465723500000017pt/>. Which
+pairs of _A_, _B_, _C_ are mutually exclusive?
+
+<img src="/lectures/tex/975a47ab1dbb2702cb883bb555b18071.svg?invert_in_darkmode&sanitize=true" align=middle width=352.66380434999996pt height=27.77565449999998pt/>. The only pair which are mutually exclusive is _B_ and _C_.
+
+**21.3** Find the probabilities of <img src="/lectures/tex/b0c1a78bbd8d865698d311abad4d5d92.svg?invert_in_darkmode&sanitize=true" align=middle width=43.88690624999999pt height=22.465723500000017pt/>, <img src="/lectures/tex/1d75cab5b9bb7059a01816f390d6e779.svg?invert_in_darkmode&sanitize=true" align=middle width=43.518141149999984pt height=22.465723500000017pt/>, and <img src="/lectures/tex/c460185233a7cde14b5d33dd0e342095.svg?invert_in_darkmode&sanitize=true" align=middle width=44.482745999999985pt height=22.465723500000017pt/>. Which
+pairs of <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/>, <img src="/lectures/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/>, <img src="/lectures/tex/9b325b9e31e85137d1de765f43c0f8bc.svg?invert_in_darkmode&sanitize=true" align=middle width=12.92464304999999pt height=22.465723500000017pt/> are independent?
+
+<img src="/lectures/tex/c52170b1a7f90a061b013d5e3cc00f1c.svg?invert_in_darkmode&sanitize=true" align=middle width=345.80532194999995pt height=27.77565449999998pt/>.
+The only pair which are independent is A and C.
