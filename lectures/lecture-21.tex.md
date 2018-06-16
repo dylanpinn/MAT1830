@@ -86,3 +86,19 @@ of one event does not affect the likelihood of the other occurring.
 Two events _A_ and _B_ are _independent_ if
 
 $$\Pr(A \cap B) = \Pr(A)\Pr(B)$$
+
+**Example** A binary string of length 3 is generated uniformly at random. The
+event _A_ that the first bit is a 1 is independent from the event _B_ that the
+second bit is a 1. But _A_ is _not_ independent of the event _C_ that the string
+contains exactly two 1s.
+
+Formally, the sample space is $S = \{111, 110, 101, 100, 011, 010, 001, 000\}$
+and $\Pr(s) = \frac{1}{8}$ for any $s \in S$. So,
+
+$$A = \{111, 110, 101, 100\} \Rightarrow \Pr(A) \frac{1}{2}$$
+$$B = \{111, 110, 011, 010\} \Rightarrow \Pr(B) \frac{1}{2}$$
+$$C = \{110, 101, 011\} \Rightarrow \Pr(C) \frac{3}{8}$$
+$$A \cap B = \{111, 110\} \Rightarrow \Pr(A \cap B) \frac{1}{4}$$
+$$A \cap C = \{110, 101\} \Rightarrow \Pr(A \cap B) \frac{1}{4)}$$
+
+So $\Pr(A \cap B) = \Pr(A)\Pr(B)$ but $\Pr(A \cap C) \not = \Pr(A)\Pr(C)$.
