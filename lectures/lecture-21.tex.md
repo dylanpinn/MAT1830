@@ -17,3 +17,18 @@ Probability gives us a way to model random processes mathematically. These
 processes could be anything from the rolling of dice, to radioactive decay of
 atoms, to the performance of a stock market index. The mathematical environment
 we work in when dealing with probabilities is called a probability space.
+
+## Probability spaces
+
+A _probability space_ consists of:
+
+- a set $S$ called a _sample space_ which contains all the possible _outcomes_
+  of the random process; and
+- a _probability_ function $\Pr: S \rightarrow [0,1]$ such that the sum of the
+  probabilities of the outcomes in $S$ is 1.
+
+Each time the process occurs it should produce exactly one outcome (never zero
+or more than one). The probability of an outcome is a measure of the likeliness
+that it will occur. It is given as a real number between 0 and 1 inclusive,
+where 0 indicates that the outcome cannot occur and 1 indicates that the outcome
+must occur.
