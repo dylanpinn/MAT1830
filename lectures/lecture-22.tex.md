@@ -25,4 +25,9 @@ string contains two 1s. What is $\Pr(A|B)$?
 
 There are $2^6$ strings in our sample space. Now $A \cap B$ occurs when the
 first bit is a 1 and the rest of the string contains one 1. There are
-$\binom{5}{1}$ such strings and so $\Pr(A \cap B) = \binom{5}{1}\/ 2^6$.
+$\binom{5}{1}$ such strings and so $\Pr(A \cap B) = \frac{\binom{5}{1}}{2^6}$.
+Also, there are $\binom{6}{2}$ strings containing two 1s and so $\Pr(B) =
+\frac{\binom{6}{2}}{2^6}$. Thus,
+
+$$\Pr(A|B) = \frac{\Pr(A \cap B)}{\Pr(B)} = \frac{\binom{5}{1}}{\binom{6}{2}} =
+\frac{1}{3}$$.
