@@ -86,3 +86,19 @@ of one event does not affect the likelihood of the other occurring.
 Two events _A_ and _B_ are _independent_ if
 
 <p align="center"><img src="/lectures/tex/852b42745a108df4fc2dec378be9a47e.svg?invert_in_darkmode&sanitize=true" align=middle width=185.3995143pt height=16.438356pt/></p>
+
+**Example** A binary string of length 3 is generated uniformly at random. The
+event _A_ that the first bit is a 1 is independent from the event _B_ that the
+second bit is a 1. But _A_ is _not_ independent of the event _C_ that the string
+contains exactly two 1s.
+
+Formally, the sample space is <img src="/lectures/tex/0000e783732a19a196904aaaafb6200e.svg?invert_in_darkmode&sanitize=true" align=middle width=297.7856408999999pt height=24.65753399999998pt/>
+and <img src="/lectures/tex/cbf67d64a02e3597be2b12954fc34f72.svg?invert_in_darkmode&sanitize=true" align=middle width=68.55929519999998pt height=27.77565449999998pt/> for any <img src="/lectures/tex/2d8cca33f0ee74986943da285a93a659.svg?invert_in_darkmode&sanitize=true" align=middle width=38.82401819999999pt height=22.465723500000017pt/>. So,
+
+<p align="center"><img src="/lectures/tex/f0b72656dd4477da8a9d8001abaf73b6.svg?invert_in_darkmode&sanitize=true" align=middle width=249.73525665pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/87dd06b1cbe048e59093ae32f678dfb2.svg?invert_in_darkmode&sanitize=true" align=middle width=251.664468pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/fc8502b5b118f76aff98f646934a99ee.svg?invert_in_darkmode&sanitize=true" align=middle width=218.96342325pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/8d267e27d807df190abf590b0a3e9225.svg?invert_in_darkmode&sanitize=true" align=middle width=248.92443839999999pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/b107dd928ec9bbb0fc8098d9b8140c7a.svg?invert_in_darkmode&sanitize=true" align=middle width=254.94838874999996pt height=37.099754999999995pt/></p>
+
+So <img src="/lectures/tex/67bdfcb9ff2d468183db604179645a91.svg?invert_in_darkmode&sanitize=true" align=middle width=185.39951429999996pt height=24.65753399999998pt/> but <img src="/lectures/tex/d9a0611dc7268248572bc0d4e0211baa.svg?invert_in_darkmode&sanitize=true" align=middle width=184.66198079999998pt height=24.65753399999998pt/>.
