@@ -43,3 +43,15 @@ given as follows.
 A sample space like this one where every outcome has an equal probability is
 sometimes called a _uniform sample space_. Outcomes from a uniform sample space
 are said to have been take _uniformly at random._
+
+## Events
+
+An _event_ is a subset of the sample space.
+
+**Example** In the die rolling example with <img src="/lectures/tex/dced7542a67b354865f3110e1e97f3e1.svg?invert_in_darkmode&sanitize=true" align=middle width=135.22810454999998pt height=24.65753399999998pt/>, we could
+define the event of rolling at least a 3. Formally, this would be the set
+<img src="/lectures/tex/f4dc57cef2859c4e72a0bf2213936fbd.svg?invert_in_darkmode&sanitize=true" align=middle width=71.23290569999999pt height=24.65753399999998pt/>. We could also define the event of rolling an odd number as the
+set <img src="/lectures/tex/6b1e058bcb7bf32e190f9d1c31ecee00.svg?invert_in_darkmode&sanitize=true" align=middle width=55.70781314999999pt height=24.65753399999998pt/>.
+
+The probability of an event <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> is the sum of the probabilities of the outcomes
+in <img src="/lectures/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/>.
