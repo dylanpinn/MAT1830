@@ -130,6 +130,22 @@ you're a vampire is 0.99. But what is the conditional probability of being a
 vampire given that you tested positive?
 
 <p align="center"><img src="/lectures/tex/5ba7b32b310497d4e428cba38b573f38.svg?invert_in_darkmode&sanitize=true" align=middle width=319.9350429pt height=39.23922585pt/></p>
-<p align="center"><img src="/lectures/tex/439436f349faea3099d6a6b0dc6e3a8a.svg?invert_in_darkmode&sanitize=true" align=middle width=455.67134085pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/b646e5d4000fb722958b30b0688bacb3.svg?invert_in_darkmode&sanitize=true" align=middle width=481.2422076pt height=32.990165999999995pt/></p>
 <p align="center"><img src="/lectures/tex/6b926036ccf5e1c9a8b1e9a6ae892af6.svg?invert_in_darkmode&sanitize=true" align=middle width=105.1689969pt height=34.3600389pt/></p>
 <p align="center"><img src="/lectures/tex/e303162dae9d0a0fa55bc9ed7126d3a3.svg?invert_in_darkmode&sanitize=true" align=middle width=63.0138036pt height=10.5936072pt/></p>
+
+**Example** A binary string is created so that the first bit is a 0 with
+probability <img src="/lectures/tex/4866e384d04d2b473e19a2850b073f50.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/> and then each subsequent bit is the same as the
+preceding one with probability <img src="/lectures/tex/17702db6bda8a40c70c5e90b82b411b6.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/>. What is the probability that the
+first bit is 0, given that the second bit is 0?
+
+Let _F_ be the event that the first bit is 0 and let _S_ be the event that the
+second bit is 0. So <img src="/lectures/tex/c55cbcc3a27b28d18cc4fd755f42179d.svg?invert_in_darkmode&sanitize=true" align=middle width=51.79010759999999pt height=27.77565449999998pt/>. If _F_ occurs then the second bit will
+be 0 with probability <img src="/lectures/tex/17702db6bda8a40c70c5e90b82b411b6.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/> and so <img src="/lectures/tex/744f9e96afda9cc9493a5971a07ca2d6.svg?invert_in_darkmode&sanitize=true" align=middle width=89.30134454999998pt height=27.77565449999998pt/>. If _F_ does
+not occur then the second bit will be 0 with a probability <img src="/lectures/tex/56ea6e9aad5379d31310f1b27831a265.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/> and so
+<img src="/lectures/tex/e20bd5437b7e215bc243d8ca2de307fd.svg?invert_in_darkmode&sanitize=true" align=middle width=82.90860929999998pt height=27.77565449999998pt/>. So, by Bayes' theorem,
+
+<p align="center"><img src="/lectures/tex/7b5c45696d26fa7a632690e61becc279.svg?invert_in_darkmode&sanitize=true" align=middle width=312.5663343pt height=39.23922585pt/></p>
+<p align="center"><img src="/lectures/tex/733f4cca04f7835ad4a581bb95ea8780.svg?invert_in_darkmode&sanitize=true" align=middle width=216.36474584999996pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/92a239f24ac843a702be9a7099249f5a.svg?invert_in_darkmode&sanitize=true" align=middle width=68.0181381pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/9d036529ab7c4a29ca4e4a2486d0ec1f.svg?invert_in_darkmode&sanitize=true" align=middle width=27.543339449999998pt height=32.990165999999995pt/></p>
