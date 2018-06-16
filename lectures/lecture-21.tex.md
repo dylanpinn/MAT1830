@@ -73,7 +73,7 @@ We always take the sample space as our universal set, so $\bar{A}$ means $S-A$.
 - **B** $= \Pr(A) \times \Pr(B)$
 - **C** $= \Pr(A) - \Pr(B)$
 - **D** $= \Pr(A) \div \Pr(B)$
-- **E** $\eq \min(\Pr(A), \Pr(B))$
+- **E** $\leq \min(\Pr(A), \Pr(B))$
 
 **ANS: E** In general $\Pr(A \cap B)$ depends on the events _A_ and _B_, but the
 only thing you can be sure of is that it is no more than the probability of
