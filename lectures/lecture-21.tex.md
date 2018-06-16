@@ -32,3 +32,14 @@ or more than one). The probability of an outcome is a measure of the likeliness
 that it will occur. It is given as a real number between 0 and 1 inclusive,
 where 0 indicates that the outcome cannot occur and 1 indicates that the outcome
 must occur.
+
+
+**Example** Rolling a fair six-sided die could be modelled by a probability
+space with sample space $S = \{1,2,3,4,5,6\}$ and probability function $\Pr$
+given as follows.
+
+![](images/L21-P6.png)
+
+A sample space like this one where every outcome has an equal probability is
+sometimes called a _uniform sample space_. Outcomes from a uniform sample space
+are said to have been take _uniformly at random._
