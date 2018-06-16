@@ -1,4 +1,4 @@
-# Lecture 12: Probability and Independence
+# Lecture 21: Probability and Independence
 
 Why should you care?
 
@@ -55,3 +55,14 @@ set $\{1,3,5\}$.
 
 The probability of an event $A$ is the sum of the probabilities of the outcomes
 in $A$.
+
+## Operations on events
+
+Because events are defined as sets we can perform set operations on them. If $A$
+and $B$ are events for a sample space $S$, then
+
+- $A \cup B$ is the event "A or B"
+- $A \cap B$ is the event "A and B"
+- $\bar{A}$ is the event "not A"
+
+We always take the sample space as our universal set, so $\bar{A}$ means $S-A$.
