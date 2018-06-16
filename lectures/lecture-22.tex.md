@@ -133,3 +133,23 @@ _B_ given _A_, and of _B_ given $\bar{A}$.
 
 $$\Pr(A|B) = \frac{\Pr(B|A)\Pr(A)}{\Pr(B|A)\Pr(A) +
 \Pr(B|\bar{A})\Pr(\bar{A})}$$
+
+**Example** The Australian government decides to crack down vampires. They
+develop a test for vampirism that is right 99% of the time and decide to screen
+everyone in the country. Suppose there are 100 vampires in the population of 24
+million. We would guess that the test would come up positive for 99 of the 100
+vampires, but also for 239 999 humans.
+
+We are assuming that the conditional probability of testing positive given
+you're a vampire is 0.99. But what is the conditional probability of being a
+vampire given that you tested positive?
+
+$$
+\begin{align}
+\Pr(A|B) &= \frac{\Pr(B|A)\Pr(A)}{\Pr(B|A)\Pr(A) +\Pr(B|\bar{A})\Pr(\bar{A})} \\
+&= \frac{100}{24000000} \times 0.99 \div \frac{100}{24000000} \times 0.99 + (1-
+\frac{100}{24000000}) \times 0.01 \\
+&= \frac{99}{99 + 239999} \\
+&\approx 0.0004
+\eng{align}
+$$
