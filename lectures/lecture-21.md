@@ -72,7 +72,7 @@ We always take the sample space as our universal set, so <img src="/lectures/tex
 - **A** <img src="/lectures/tex/59dd54b8428391a4142f8b33f6381e55.svg?invert_in_darkmode&sanitize=true" align=middle width=123.8870061pt height=24.65753399999998pt/>
 - **B** <img src="/lectures/tex/bcfabe6e1e7795be9ba6d5ee8b986499.svg?invert_in_darkmode&sanitize=true" align=middle width=123.8870061pt height=24.65753399999998pt/>
 - **C** <img src="/lectures/tex/e6057fc1eff7a46024cd9658518c5564.svg?invert_in_darkmode&sanitize=true" align=middle width=123.8870061pt height=24.65753399999998pt/>
-- **D** <img src="/lectures/tex/64bb99292ef022a01f06b0876fe768cc.svg?invert_in_darkmode&sanitize=true" align=middle width=106.53547409999999pt height=24.65753399999998pt/>
+- **D** <img src="/lectures/tex/7aeafcce84b68a275c38618e4d705de0.svg?invert_in_darkmode&sanitize=true" align=middle width=106.53547409999999pt height=24.65753399999998pt/>
 - **E** <img src="/lectures/tex/719859b6b879d10ad289d2280a8207dc.svg?invert_in_darkmode&sanitize=true" align=middle width=133.93294365pt height=24.65753399999998pt/>
 
 **ANS: E** In general <img src="/lectures/tex/3b71f17c7a65a2decc536b81dad249fe.svg?invert_in_darkmode&sanitize=true" align=middle width=74.29794074999998pt height=24.65753399999998pt/> depends on the events _A_ and _B_, but the
