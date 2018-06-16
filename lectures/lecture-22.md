@@ -91,3 +91,20 @@ are independent:
 
 So, because <img src="/lectures/tex/ebff16cb47cfd3ef691b89f732149219.svg?invert_in_darkmode&sanitize=true" align=middle width=124.20097304999997pt height=24.65753399999998pt/> and <img src="/lectures/tex/c2b3cecb67a773c47721114a4b95184e.svg?invert_in_darkmode&sanitize=true" align=middle width=36.52973609999999pt height=24.65753399999998pt/> are mutually exclusive, the
 probability of the total being 5 is <img src="/lectures/tex/0294f8d2c9aae9a3b51a4f1b759945f7.svg?invert_in_darkmode&sanitize=true" align=middle width=163.49741594999998pt height=27.77565449999998pt/>.
+
+**Questions**
+
+**22.1** An integer is selected uniformly at random from the set <img src="/lectures/tex/c5638b1f94bb0102dab18e7282cebf4d.svg?invert_in_darkmode&sanitize=true" align=middle width=93.1505553pt height=24.65753399999998pt/>. What is the probability that it is divisible by 5, given that it is odd?
+
+Let <img src="/lectures/tex/c32b6d0783d88878c8e874693b55144d.svg?invert_in_darkmode&sanitize=true" align=middle width=106.39266165pt height=24.65753399999998pt/> be the event that the chosen number is divisible by 5. Let
+<img src="/lectures/tex/1d20e8014a8958eb2e98b19bc6211be8.svg?invert_in_darkmode&sanitize=true" align=middle width=193.20193859999998pt height=24.65753399999998pt/> be the event that the chosen number is odd.
+
+<p align="center"><img src="/lectures/tex/c0205a74462bbcb2f136922b4f0278ed.svg?invert_in_darkmode&sanitize=true" align=middle width=275.64565875pt height=38.83491479999999pt/></p>
+
+**22.2** A standard die is rolled twice. What is the probability that the first
+roll is a 1, given that the sum of the rolls is 6?
+
+- Let _A_ be the event that the first roll is 1.
+- Let _B_ be the event that the sum of the rolls is 6 (which happens as <img src="/lectures/tex/ad1a89bba2abd17952a5d06506920294.svg?invert_in_darkmode&sanitize=true" align=middle width=211.87158299999996pt height=21.18721440000001pt/>).
+
+<p align="center"><img src="/lectures/tex/e036a10d7e7adb8877984a09ededf139.svg?invert_in_darkmode&sanitize=true" align=middle width=275.64565875pt height=38.83491479999999pt/></p>
