@@ -122,3 +122,14 @@ roll is a 1, given that the sum of the rolls is 6?
 
 $$\Pr(A|B) = \frac{\Pr(A \cap B)}{\Pr(B)} = \frac{1}{36} \div \frac{5}{36} =
 \frac{1}{5}$$
+
+## Bayes' theorem
+
+Bayes' theorem gives a way of calculating the conditional probability of an
+event _A_ given an event _B_ when we already know the probabilities of _A_, of
+_B_ given _A_, and of _B_ given $\bar{A}$.
+
+**Bayes' theorem.** For events _A_ and _B_,
+
+$$\Pr(A|B) = \frac{\Pr(B|A)\Pr(A)}{\Pr(B|A)\Pr(A) +
+\Pr(B|\bar{A})\Pr(\bar{A})}$$
