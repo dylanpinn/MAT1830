@@ -30,7 +30,7 @@ Also, there are $\binom{6}{2}$ strings containing two 1s and so $\Pr(B) =
 \frac{\binom{6}{2}}{2^6}$. Thus,
 
 $$\Pr(A|B) = \frac{\Pr(A \cap B)}{\Pr(B)} = \frac{\binom{5}{1}}{\binom{6}{2}} =
-\frac{1}{3}$$.
+\frac{1}{3}$$
 
 **Exercise** A normal die is rolled. Let _A_ be the event that the result is an
 odd number. Let _B_ be the event that the result is a square number.
@@ -48,3 +48,28 @@ $$\Pr(A|B) = \frac{\Pr(A \cap B)}{\Pr(B)} = \frac{\frac{1}{6}}{\frac{1}{3}} =
 
 $$\Pr(B|A) = \frac{\Pr(A \cap B)}{\Pr(B)} = \frac{\frac{1}{6}}{\frac{1}{2}} =
 \frac{1}{3}$$
+
+## Independence again
+
+Our definition of conditional probability gives us another way of defining
+independence. We can say that events _A_ and _B_ are independent if $\Pr(A) =
+\Pr(A|B)$.
+
+**Exercise**
+
+The previous example considered the events _A_ (odd number) and _B_ (square
+number) and we calculated that $\Pr(A|B) = \frac{1}{2}$ and $\Pr(B|A) =
+\frac{1}{3}$.
+
+- **A:** Event _A_ is independent of Event _B_, and vice versa.
+- **B:** The events _A_ and _B_ are NOT independent because a die roll of 1 is
+  included in both.
+- **C:** The event _A_ is independent of _B_ but the event _B_ is NOT
+  independent of _A_.
+- **D:** The event _B_ is independent of _A_ but the event _A_ is NOT
+  independent of _B_.
+
+**ANS: A** because $\Pr(A|B) = \frac{1}{2} = \Pr(A)$ and $\Pr(B|A) = \frac{1}{3}
+= \Pr(B)$. (Either of these is enough to show that these events are independent.
+Note that C and D are red herrings; the situations they describe are impossible
+regardless of what A and B are.)
