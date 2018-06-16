@@ -78,3 +78,11 @@ We always take the sample space as our universal set, so $\bar{A}$ means $S-A$.
 **ANS: E** In general $\Pr(A \cap B)$ depends on the events _A_ and _B_, but the
 only thing you can be sure of is that it is no more than the probability of
 either of the individual events.
+
+## Independent events
+We say that two events are _independent_ when the occurrence or non-occurrence
+of one event does not affect the likelihood of the other occurring.
+
+Two events _A_ and _B_ are _independent_ if
+
+$$\Pr(A \cap B) = \Pr(A)\Pr(B)$$
