@@ -118,3 +118,18 @@ _B_ given _A_, and of _B_ given <img src="/lectures/tex/b0faed3cbd132eca34ea20e3
 **Bayes' theorem.** For events _A_ and _B_,
 
 <p align="center"><img src="/lectures/tex/06ed8a6d73ed6ad54dd1a9bf2d812904.svg?invert_in_darkmode&sanitize=true" align=middle width=316.73880314999997pt height=39.23922585pt/></p>
+
+**Example** The Australian government decides to crack down vampires. They
+develop a test for vampirism that is right 99% of the time and decide to screen
+everyone in the country. Suppose there are 100 vampires in the population of 24
+million. We would guess that the test would come up positive for 99 of the 100
+vampires, but also for 239 999 humans.
+
+We are assuming that the conditional probability of testing positive given
+you're a vampire is 0.99. But what is the conditional probability of being a
+vampire given that you tested positive?
+
+<p align="center"><img src="/lectures/tex/5ba7b32b310497d4e428cba38b573f38.svg?invert_in_darkmode&sanitize=true" align=middle width=319.9350429pt height=39.23922585pt/></p>
+<p align="center"><img src="/lectures/tex/439436f349faea3099d6a6b0dc6e3a8a.svg?invert_in_darkmode&sanitize=true" align=middle width=455.67134085pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/6b926036ccf5e1c9a8b1e9a6ae892af6.svg?invert_in_darkmode&sanitize=true" align=middle width=105.1689969pt height=34.3600389pt/></p>
+<p align="center"><img src="/lectures/tex/e303162dae9d0a0fa55bc9ed7126d3a3.svg?invert_in_darkmode&sanitize=true" align=middle width=63.0138036pt height=10.5936072pt/></p>
