@@ -108,3 +108,13 @@ roll is a 1, given that the sum of the rolls is 6?
 - Let _B_ be the event that the sum of the rolls is 6 (which happens as <img src="/lectures/tex/ad1a89bba2abd17952a5d06506920294.svg?invert_in_darkmode&sanitize=true" align=middle width=211.87158299999996pt height=21.18721440000001pt/>).
 
 <p align="center"><img src="/lectures/tex/e036a10d7e7adb8877984a09ededf139.svg?invert_in_darkmode&sanitize=true" align=middle width=275.64565875pt height=38.83491479999999pt/></p>
+
+## Bayes' theorem
+
+Bayes' theorem gives a way of calculating the conditional probability of an
+event _A_ given an event _B_ when we already know the probabilities of _A_, of
+_B_ given _A_, and of _B_ given <img src="/lectures/tex/b0faed3cbd132eca34ea20e3d1bd99c3.svg?invert_in_darkmode&sanitize=true" align=middle width=12.55717814999999pt height=26.97711060000001pt/>.
+
+**Bayes' theorem.** For events _A_ and _B_,
+
+<p align="center"><img src="/lectures/tex/06ed8a6d73ed6ad54dd1a9bf2d812904.svg?invert_in_darkmode&sanitize=true" align=middle width=316.73880314999997pt height=39.23922585pt/></p>
