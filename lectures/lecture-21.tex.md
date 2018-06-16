@@ -43,3 +43,15 @@ given as follows.
 A sample space like this one where every outcome has an equal probability is
 sometimes called a _uniform sample space_. Outcomes from a uniform sample space
 are said to have been take _uniformly at random._
+
+## Events
+
+An _event_ is a subset of the sample space.
+
+**Example** In the die rolling example with $S = \{1,2,3,4,5,6\}$, we could
+define the event of rolling at least a 3. Formally, this would be the set
+$\{3,4,5,6\}$. We could also define the event of rolling an odd number as the
+set $\{1,3,5\}$.
+
+The probability of an event $A$ is the sum of the probabilities of the outcomes
+in $A$.
