@@ -66,3 +66,15 @@ and $B$ are events for a sample space $S$, then
 - $\bar{A}$ is the event "not A"
 
 We always take the sample space as our universal set, so $\bar{A}$ means $S-A$.
+
+**Exercise** If $A$ and $B$ are any two events then $\Pr (A \cap B)$
+
+- **A** $= \Pr(A) + \Pr(B)$
+- **B** $= \Pr(A) \times \Pr(B)$
+- **C** $= \Pr(A) - \Pr(B)$
+- **D** $= \Pr(A) \divides \Pr(B)$
+- **E** $\eq \min(\Pr(A), \Pr(B))$
+
+**ANS: E** In general $\Pr(A \cap B)$ depends on the events _A_ and _B_, but the
+only thing you can be sure of is that it is no more than the probability of
+either of the individual events.
