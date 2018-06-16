@@ -73,3 +73,16 @@ number) and we calculated that $\Pr(A|B) = \frac{1}{2}$ and $\Pr(B|A) =
 = \Pr(B)$. (Either of these is enough to show that these events are independent.
 Note that C and D are red herrings; the situations they describe are impossible
 regardless of what A and B are.)
+
+## Independent repeated trials
+
+Generally if we perform exactly the same action multiple times, the results for
+each trial will be independent of the others. For example, if we roll a die
+twice, then the result of the first roll will be independent of the result of
+the second.
+
+For two independent repeated trials, each form a sample space _S_, our overall
+sample space is $S \times S$ and our probability function will be given by
+$\Pr((s_1, s_2)) = \Pr(s_1)\Pr(s_2)$. For three independent repeated trials the
+sample space is $S \times S \times S$ and the probability function $\Pr((s_1,
+s_2, s_3)) = \Pr(s_1)\Pr(s_2)\Pr(s_3)$, and so on.
