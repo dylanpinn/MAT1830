@@ -146,7 +146,10 @@ vampire given that you tested positive?
 
 $$ \Pr(V|P) = \frac{\Pr(P|V)\Pr(V)}{\Pr(P|V)\Pr(V)
 +\Pr(P|\bar{V})\Pr(\bar{V})}$$
-$$= \frac{100}{24000000} \times 0.99 \div \frac{100}{24000000} \times 0.99 + (1-
-\frac{100}{24000000}) \times 0.01$$
+$$= (\frac{100}{24000000} \times 0.99) \div (\frac{100}{24000000} \times 0.99 + (1-
+\frac{100}{24000000}) \times 0.01)$$
 $$= \frac{99}{99 + 239999}$$
 $$\approx 0.0004$$
+
+**Example** A binary string is created so that the first bit is a 0 with
+probability $\frac{1}{3}$
