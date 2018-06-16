@@ -95,10 +95,10 @@ contains exactly two 1s.
 Formally, the sample space is <img src="/lectures/tex/0000e783732a19a196904aaaafb6200e.svg?invert_in_darkmode&sanitize=true" align=middle width=297.7856408999999pt height=24.65753399999998pt/>
 and <img src="/lectures/tex/cbf67d64a02e3597be2b12954fc34f72.svg?invert_in_darkmode&sanitize=true" align=middle width=68.55929519999998pt height=27.77565449999998pt/> for any <img src="/lectures/tex/2d8cca33f0ee74986943da285a93a659.svg?invert_in_darkmode&sanitize=true" align=middle width=38.82401819999999pt height=22.465723500000017pt/>. So,
 
-<p align="center"><img src="/lectures/tex/f0b72656dd4477da8a9d8001abaf73b6.svg?invert_in_darkmode&sanitize=true" align=middle width=249.73525665pt height=32.990165999999995pt/></p>
-<p align="center"><img src="/lectures/tex/87dd06b1cbe048e59093ae32f678dfb2.svg?invert_in_darkmode&sanitize=true" align=middle width=251.664468pt height=32.990165999999995pt/></p>
-<p align="center"><img src="/lectures/tex/fc8502b5b118f76aff98f646934a99ee.svg?invert_in_darkmode&sanitize=true" align=middle width=218.96342325pt height=32.990165999999995pt/></p>
-<p align="center"><img src="/lectures/tex/8d267e27d807df190abf590b0a3e9225.svg?invert_in_darkmode&sanitize=true" align=middle width=248.92443839999999pt height=32.990165999999995pt/></p>
-<p align="center"><img src="/lectures/tex/b107dd928ec9bbb0fc8098d9b8140c7a.svg?invert_in_darkmode&sanitize=true" align=middle width=254.94838874999996pt height=37.099754999999995pt/></p>
+<p align="center"><img src="/lectures/tex/1a9a8a8fc00b44c17125fb9132787c99.svg?invert_in_darkmode&sanitize=true" align=middle width=271.6528881pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/79f49b4f89ab0660f27599b6c54c2da8.svg?invert_in_darkmode&sanitize=true" align=middle width=273.5820978pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/107796081fdc231bad6f6d6113ca20a2.svg?invert_in_darkmode&sanitize=true" align=middle width=240.8810547pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/0f7487c7f9eef22331f3acd36c78dd38.svg?invert_in_darkmode&sanitize=true" align=middle width=270.84206819999997pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/3b3c5fdf3cd809747cdff154bbb684dd.svg?invert_in_darkmode&sanitize=true" align=middle width=270.4733031pt height=32.990165999999995pt/></p>
 
 So <img src="/lectures/tex/67bdfcb9ff2d468183db604179645a91.svg?invert_in_darkmode&sanitize=true" align=middle width=185.39951429999996pt height=24.65753399999998pt/> but <img src="/lectures/tex/d9a0611dc7268248572bc0d4e0211baa.svg?invert_in_darkmode&sanitize=true" align=middle width=184.66198079999998pt height=24.65753399999998pt/>.
