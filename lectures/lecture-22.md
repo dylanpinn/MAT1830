@@ -149,3 +149,17 @@ not occur then the second bit will be 0 with a probability <img src="/lectures/t
 <p align="center"><img src="/lectures/tex/733f4cca04f7835ad4a581bb95ea8780.svg?invert_in_darkmode&sanitize=true" align=middle width=216.36474584999996pt height=32.990165999999995pt/></p>
 <p align="center"><img src="/lectures/tex/92a239f24ac843a702be9a7099249f5a.svg?invert_in_darkmode&sanitize=true" align=middle width=68.0181381pt height=32.990165999999995pt/></p>
 <p align="center"><img src="/lectures/tex/9d036529ab7c4a29ca4e4a2486d0ec1f.svg?invert_in_darkmode&sanitize=true" align=middle width=27.543339449999998pt height=32.990165999999995pt/></p>
+
+**Questions**
+
+**22.3** A bag contains three black marbles and two white marbles and they are
+randomly selected and removed, one at a time until the bag in empty. Use Bayes'
+theorem to calculate the probability that the first marble selected is black,
+given that the second marble selected is black.
+
+- Let _A_ be the event that the first marble is black.
+- Let _B_ be the event that the second marble is black.
+
+<p align="center"><img src="/lectures/tex/06ed8a6d73ed6ad54dd1a9bf2d812904.svg?invert_in_darkmode&sanitize=true" align=middle width=316.73880314999997pt height=39.23922585pt/></p>
+<p align="center"><img src="/lectures/tex/ebd9af361458310ea047ac561ba6c30a.svg?invert_in_darkmode&sanitize=true" align=middle width=216.36474584999996pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/eccc1cf9a9ee61919a0de240ef7af20f.svg?invert_in_darkmode&sanitize=true" align=middle width=27.543339449999998pt height=32.990165999999995pt/></p>
