@@ -65,3 +65,15 @@ number) and we calculated that <img src="/lectures/tex/305470adb8ae7a49e1f58a418
 **ANS: A** because <img src="/lectures/tex/fdbac099ba07864a1c429f613f55adcb.svg?invert_in_darkmode&sanitize=true" align=middle width=157.67230379999998pt height=27.77565449999998pt/> and <img src="/lectures/tex/a29cf123fae3e1f828571cb483d1047d.svg?invert_in_darkmode&sanitize=true" align=middle width=158.63690864999998pt height=27.77565449999998pt/>. (Either of these is enough to show that these events are independent.
 Note that C and D are red herrings; the situations they describe are impossible
 regardless of what A and B are.)
+
+## Independent repeated trials
+
+Generally if we perform exactly the same action multiple times, the results for
+each trial will be independent of the others. For example, if we roll a die
+twice, then the result of the first roll will be independent of the result of
+the second.
+
+For two independent repeated trials, each form a sample space _S_, our overall
+sample space is <img src="/lectures/tex/e0b21bbf35b24a4af54eea3d1cdbd61f.svg?invert_in_darkmode&sanitize=true" align=middle width=42.145974749999986pt height=22.465723500000017pt/> and our probability function will be given by
+<img src="/lectures/tex/f0144e8869015a814b7d18535f6dc656.svg?invert_in_darkmode&sanitize=true" align=middle width=196.30148505pt height=24.65753399999998pt/>. For three independent repeated trials the
+sample space is <img src="/lectures/tex/251c3ff6cc925da9ef3969252419f752.svg?invert_in_darkmode&sanitize=true" align=middle width=73.26454904999999pt height=22.465723500000017pt/> and the probability function <img src="/lectures/tex/d77799584eb9a41ef773c1651bae18c9.svg?invert_in_darkmode&sanitize=true" align=middle width=266.9179457999999pt height=24.65753399999998pt/>, and so on.
