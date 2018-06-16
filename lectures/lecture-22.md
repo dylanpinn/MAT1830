@@ -77,3 +77,17 @@ For two independent repeated trials, each form a sample space _S_, our overall
 sample space is <img src="/lectures/tex/e0b21bbf35b24a4af54eea3d1cdbd61f.svg?invert_in_darkmode&sanitize=true" align=middle width=42.145974749999986pt height=22.465723500000017pt/> and our probability function will be given by
 <img src="/lectures/tex/f0144e8869015a814b7d18535f6dc656.svg?invert_in_darkmode&sanitize=true" align=middle width=196.30148505pt height=24.65753399999998pt/>. For three independent repeated trials the
 sample space is <img src="/lectures/tex/251c3ff6cc925da9ef3969252419f752.svg?invert_in_darkmode&sanitize=true" align=middle width=73.26454904999999pt height=22.465723500000017pt/> and the probability function <img src="/lectures/tex/d77799584eb9a41ef773c1651bae18c9.svg?invert_in_darkmode&sanitize=true" align=middle width=266.9179457999999pt height=24.65753399999998pt/>, and so on.
+
+**Example** The spinner from the previous example is spun twice. What is the
+probability that the results add to 5?
+
+![](images/L22-P10.png)
+
+A total of 5 can be obtained as <img src="/lectures/tex/095fd82910e4596f519accd5a543590c.svg?invert_in_darkmode&sanitize=true" align=middle width=168.03659069999998pt height=24.65753399999998pt/>. Because the spins
+are independent:
+
+<p align="center"><img src="/lectures/tex/111f4a655509fda34b3a4c9ea810202f.svg?invert_in_darkmode&sanitize=true" align=middle width=262.46544885pt height=32.990165999999995pt/></p>
+<p align="center"><img src="/lectures/tex/240ce693b0e076b2980f3d9b02bf7d1d.svg?invert_in_darkmode&sanitize=true" align=middle width=262.46544885pt height=32.990165999999995pt/></p>
+
+So, because <img src="/lectures/tex/ebff16cb47cfd3ef691b89f732149219.svg?invert_in_darkmode&sanitize=true" align=middle width=124.20097304999997pt height=24.65753399999998pt/> and <img src="/lectures/tex/c2b3cecb67a773c47721114a4b95184e.svg?invert_in_darkmode&sanitize=true" align=middle width=36.52973609999999pt height=24.65753399999998pt/> are mutually exclusive, the
+probability of the total being 5 is <img src="/lectures/tex/0294f8d2c9aae9a3b51a4f1b759945f7.svg?invert_in_darkmode&sanitize=true" align=middle width=163.49741594999998pt height=27.77565449999998pt/>.
