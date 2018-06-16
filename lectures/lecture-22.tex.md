@@ -168,3 +168,19 @@ $$= (\frac{1}{3} \times \frac{3}{4}) \div (\frac{1}{3} \times \frac{3}{4} +
 \frac{2}{3} \times \frac{1}{4})$$
 $$= \frac{1}{4} \div \frac{5}{12}$$
 $$= \frac{3}{5}$$
+
+**Questions**
+
+**22.3** A bag contains three black marbles and two white marbles and they are
+randomly selected and removed, one at a time until the bag in empty. Use Bayes'
+theorem to calculate the probability that the first marble selected is black,
+given that the second marble selected is black.
+
+- Let _A_ be the event that the first marble is black.
+- Let _B_ be the event that the second marble is black.
+
+$$\Pr(A|B) = \frac{\Pr(B|A)\Pr(A)}{\Pr(B|A)\Pr(A) +
+\Pr(B|\bar{A})\Pr(\bar{A})}$$
+$$= (\frac{1}{2} \times \frac{3}{5}) \div (\frac{1}{2} \times \frac{3}{5} +
+\frac{3}{4} \times \frac{2}{5})$$
+$$= \frac{1}{2}$$
