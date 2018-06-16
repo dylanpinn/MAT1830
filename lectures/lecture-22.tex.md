@@ -152,4 +152,19 @@ $$= \frac{99}{99 + 239999}$$
 $$\approx 0.0004$$
 
 **Example** A binary string is created so that the first bit is a 0 with
-probability $\frac{1}{3}$
+probability $\frac{1}{3}$ and then each subsequent bit is the same as the
+preceding one with probability $\frac{3}{4}$. What is the probability that the
+first bit is 0, given that the second bit is 0?
+
+Let _F_ be the event that the first bit is 0 and let _S_ be the event that the
+second bit is 0. So $\Pr(F) \frac{1}{3}$. If _F_ occurs then the second bit will
+be 0 with probability $\frac{3}{4}$ and so $\Pr(S|F) = \frac{3}{4}$. If _F_ does
+not occur then the second bit will be 0 with a probability $\frac{1}{4}$ and so
+$\Pr(S|\bar{F} = \frac{1}{4}$. So, by Bayes' theorem,
+
+$$ \Pr(F|S) = \frac{\Pr(S|F)\Pr(F)}{\Pr(S|F)\Pr(F)
++\Pr(S|\bar{F})\Pr(\bar{F})}$$
+$$= (\frac{1}{3} \times \frac{3}{4}) \div (\frac{1}{3} \times \frac{3}{4} +
+\frac{2}{3} \times \frac{1}{4})$$
+$$= \frac{1}{4} \div \frac{5}{12}$$
+$$= \frac{3}{5}$$
