@@ -31,3 +31,20 @@ Also, there are $\binom{6}{2}$ strings containing two 1s and so $\Pr(B) =
 
 $$\Pr(A|B) = \frac{\Pr(A \cap B)}{\Pr(B)} = \frac{\binom{5}{1}}{\binom{6}{2}} =
 \frac{1}{3}$$.
+
+**Exercise** A normal die is rolled. Let _A_ be the event that the result is an
+odd number. Let _B_ be the event that the result is a square number.
+
+- **A:** $\Pr(A|B) = \frac{1}{2}$ and $\Pr(B|A) = \frac{1}{4}$
+- **B:** $\Pr(A|B) = \frac{1}{2}$ and $\Pr(B|A) = \frac{1}{3}$
+- **C:** $\Pr(A|B) = \frac{1}{6}$ and $\Pr(B|A) = \frac{1}{6}$
+- **D:** $\Pr(A|B) = \frac{2}{3}$ and $\Pr(B|A) = \frac{1}{4}$
+
+**ANS: B:** Since $A \cap B = \{1\}$ we see that $\Pr(A \cap B)= \frac{1}{6}$.
+So
+
+$$\Pr(A|B) = \frac{\Pr(A \cap B)}{\Pr(B)} = \frac{\frac{1}{6}}{\frac{1}{3}} =
+\frac{1}{2}$$
+
+$$\Pr(B|A) = \frac{\Pr(A \cap B)}{\Pr(B)} = \frac{\frac{1}{6}}{\frac{1}{2}} =
+\frac{1}{3}$$
