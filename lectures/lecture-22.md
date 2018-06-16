@@ -28,3 +28,18 @@ first bit is a 1 and the rest of the string contains one 1. There are
 Also, there are <img src="/lectures/tex/cce20003de73186579b665e0a0cdce0f.svg?invert_in_darkmode&sanitize=true" align=middle width=21.621118199999987pt height=29.419440600000005pt/> strings containing two 1s and so <img src="/lectures/tex/d55866b63b168d385532761ccb0f5f94.svg?invert_in_darkmode&sanitize=true" align=middle width=85.97379944999999pt height=43.068412200000004pt/>. Thus,
 
 <p align="center"><img src="/lectures/tex/939af30e0be5c81bda5857bd2e496f51.svg?invert_in_darkmode&sanitize=true" align=middle width=240.35357775pt height=45.528984599999994pt/></p>.
+
+**Exercise** A normal die is rolled. Let _A_ be the event that the result is an
+odd number. Let _B_ be the event that the result is a square number.
+
+- **A:** <img src="/lectures/tex/305470adb8ae7a49e1f58a418dfcab14.svg?invert_in_darkmode&sanitize=true" align=middle width=91.04224139999998pt height=27.77565449999998pt/> and <img src="/lectures/tex/ee337f7160622a3b2a96bdaaaa9d5f6d.svg?invert_in_darkmode&sanitize=true" align=middle width=91.04224139999998pt height=27.77565449999998pt/>
+- **B:** <img src="/lectures/tex/305470adb8ae7a49e1f58a418dfcab14.svg?invert_in_darkmode&sanitize=true" align=middle width=91.04224139999998pt height=27.77565449999998pt/> and <img src="/lectures/tex/da76a6832f25f6f26a36a40734d3a2d2.svg?invert_in_darkmode&sanitize=true" align=middle width=91.04224139999998pt height=27.77565449999998pt/>
+- **C:** <img src="/lectures/tex/5443b7403614410d29d8cf88d066e473.svg?invert_in_darkmode&sanitize=true" align=middle width=91.04224139999998pt height=27.77565449999998pt/> and <img src="/lectures/tex/6e6c73f707c99eeac6fe5d344c296bc7.svg?invert_in_darkmode&sanitize=true" align=middle width=91.04224139999998pt height=27.77565449999998pt/>
+- **D:** <img src="/lectures/tex/32405c6978e4b4a9750a08bd29701121.svg?invert_in_darkmode&sanitize=true" align=middle width=91.04224139999998pt height=27.77565449999998pt/> and <img src="/lectures/tex/ee337f7160622a3b2a96bdaaaa9d5f6d.svg?invert_in_darkmode&sanitize=true" align=middle width=91.04224139999998pt height=27.77565449999998pt/>
+
+**ANS: B:** Since <img src="/lectures/tex/c74f8d51bd5e63b0732f4d8b00a59cff.svg?invert_in_darkmode&sanitize=true" align=middle width=90.46215914999999pt height=24.65753399999998pt/> we see that <img src="/lectures/tex/714d73b92779626634bdaeede1500980.svg?invert_in_darkmode&sanitize=true" align=middle width=104.74071629999999pt height=27.77565449999998pt/>.
+So
+
+<p align="center"><img src="/lectures/tex/85a4e1706b50c55f8ba00bef2691feb6.svg?invert_in_darkmode&sanitize=true" align=middle width=229.2301968pt height=43.715357399999995pt/></p>
+
+<p align="center"><img src="/lectures/tex/6edf12e0b00d973677d169ad6c0555a7.svg?invert_in_darkmode&sanitize=true" align=middle width=229.2301968pt height=43.715357399999995pt/></p>
