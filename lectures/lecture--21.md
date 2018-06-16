@@ -12,3 +12,8 @@ Why should you care?
   And of traffic modelling on them.
 - Probability also helps in machine learning, reliability modelling, simulation
   algorithms, data mining, speech recognition, etc.
+
+Probability gives us a way to model random processes mathematically. These
+processes could be anything from the rolling of dice, to radioactive decay of
+atoms, to the performance of a stock market index. The mathematical environment
+we work in when dealing with probabilities is called a probability space.
